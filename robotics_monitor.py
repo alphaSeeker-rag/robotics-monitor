@@ -99,10 +99,10 @@ HTML_TEMPLATE = """\
 
   /* ===== Masthead ===== */
   header {{ background: var(--paper); border-bottom: 3px double var(--ink);
-            padding: 28px 32px 18px; position: relative; overflow: hidden; }}
+            padding: 38px 32px 18px; position: relative; overflow: hidden; }}
   /* 3D humanoid mascots flanking the title (mirrored pair) */
-  header::before, header::after {{ content: ""; position: absolute; bottom: 6px;
-            width: 152px; height: 228px; pointer-events: none;
+  header::before, header::after {{ content: ""; position: absolute; bottom: 8px;
+            width: 118px; height: 176px; pointer-events: none;
             background: url("humanoid-3d.svg") no-repeat bottom center / contain;
             filter: drop-shadow(0 6px 10px rgba(0,0,0,.12)); }}
   header::before {{ left: 3.5%; transform: scaleX(-1); }}
