@@ -1,5 +1,25 @@
 [
   {
+    "title": "Software becoming the biggest bottleneck to physical AI innovation, finds QNX research",
+    "link": "https://www.therobotreport.com/software-becoming-biggest-bottleneck-physical-ai-innovation-finds-qnx/",
+    "published": "Fri, 29 May 2026 15:00:31 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-05-29 16:03:22",
+    "ai_summary": {
+      "title_ja": "ロボティクス・フィジカルAIイノベーションの最大のボトルネックはソフトウェア、QNX調査が明らかに",
+      "summary": "QNXの調査により、ロボットが制約のない環境に進出するにつれて、ソフトウェアとセキュリティの優先度が急速に高まっていることが判明した。物理AIの技術革新において、ハードウェアの進展よりもソフトウェア開発が開発の重要な制約要因となっている。",
+      "insights": [
+        "ソフトウェア開発がフィジカルAI産業の主要なボトルネックとなっており、ハードウェア性能の向上がソフトウェア対応の遅れにより十分に活かされていない",
+        "ロボットの実環境運用化に伴い、セキュリティとロバストネスの要件が技術的優先度を大きく上昇させている",
+        "OS/ミドルウェア層（QNXなどRTOS）の重要性が高まり、エッジでのAI推論実行とセキュア通信の実装が競争力の差別化要因に"
+      ]
+    }
+  },
+  {
     "title": "Xynova Raises Hundreds of Millions in Series A for Dexterous Robot Hand Flex2",
     "link": "https://pandaily.com/xynova-series-a-dexterous-robot-hand-flex2-may2026",
     "published": "Fri, 29 May 2026 08:36:18 GMT",
