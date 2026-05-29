@@ -89,22 +89,30 @@ HTML_TEMPLATE = """\
   * {{ box-sizing: border-box; margin: 0; padding: 0; }}
   body {{ font-family: var(--serif); background: var(--bg); color: var(--ink);
           line-height: 1.6; -webkit-font-smoothing: antialiased; position: relative; }}
-  /* faint humanoid watermark fixed behind everything */
-  body::before {{ content: ""; position: fixed; top: 50%; right: -60px;
-          transform: translateY(-50%); width: 520px; height: 728px;
-          background: url("humanoid-bg.svg") no-repeat center / contain;
-          opacity: 0.05; pointer-events: none; z-index: 0; }}
+  /* circuit-trace vertical rails on both margins (fixed) */
+  body::before, body::after {{ content: ""; position: fixed; top: 0; bottom: 0;
+          width: 90px; background: url("circuit-rail.svg") repeat-y top center;
+          background-size: 90px auto; opacity: 0.16; pointer-events: none; z-index: 0; }}
+  body::before {{ left: 0; }}
+  body::after {{ right: 0; transform: scaleX(-1); }}
   header, .filters, main, footer {{ position: relative; z-index: 1; }}
 
   /* ===== Masthead ===== */
   header {{ background: var(--paper); border-bottom: 3px double var(--ink);
             padding: 28px 32px 18px; position: relative; overflow: hidden; }}
-  /* blueprint humanoid behind the title */
-  header::after {{ content: ""; position: absolute; top: -40px; right: 6%;
-            width: 230px; height: 322px;
-            background: url("humanoid-bg.svg") no-repeat center / contain;
-            opacity: 0.10; pointer-events: none; }}
+  /* 3D humanoid mascots flanking the title (mirrored pair) */
+  header::before, header::after {{ content: ""; position: absolute; bottom: 6px;
+            width: 152px; height: 228px; pointer-events: none;
+            background: url("humanoid-3d.svg") no-repeat bottom center / contain;
+            filter: drop-shadow(0 6px 10px rgba(0,0,0,.12)); }}
+  header::before {{ left: 3.5%; transform: scaleX(-1); }}
+  header::after {{ right: 3.5%; }}
   .masthead {{ max-width: 1040px; margin: 0 auto; text-align: center; position: relative; z-index: 2; }}
+
+  @media (max-width: 860px) {{
+    header::before, header::after {{ display: none; }}
+    body::before, body::after {{ display: none; }}
+  }}
   .eyebrow {{ font-family: var(--sans); font-size: 0.66rem; font-weight: 700;
               letter-spacing: .42em; text-transform: uppercase; color: var(--accent);
               margin-bottom: 10px; }}

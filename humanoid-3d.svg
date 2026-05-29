@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 360" fill="none">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#e9e4d8"/>
+      <stop offset="1" stop-color="#c9c2b2"/>
+    </linearGradient>
+    <linearGradient id="bodyDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e4ded2"/>
+      <stop offset="1" stop-color="#b3ab99"/>
+    </linearGradient>
+    <radialGradient id="visor" cx="0.35" cy="0.3" r="0.9">
+      <stop offset="0" stop-color="#4a5670"/>
+      <stop offset="0.5" stop-color="#222a3d"/>
+      <stop offset="1" stop-color="#10131d"/>
+    </radialGradient>
+    <radialGradient id="eye" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffe9c7"/>
+      <stop offset="0.4" stop-color="#e8893a"/>
+      <stop offset="1" stop-color="#9b2226"/>
+    </radialGradient>
+    <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d8d2c4"/>
+      <stop offset="0.5" stop-color="#fbfaf6"/>
+      <stop offset="1" stop-color="#b3ab99"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ground shadow -->
+  <ellipse cx="120" cy="344" rx="74" ry="12" fill="url(#shadow)"/>
+
+  <!-- legs -->
+  <rect x="88" y="252" width="26" height="74" rx="13" fill="url(#metal)"/>
+  <rect x="126" y="252" width="26" height="74" rx="13" fill="url(#metal)"/>
+  <ellipse cx="101" cy="330" rx="20" ry="11" fill="url(#bodyDark)"/>
+  <ellipse cx="139" cy="330" rx="20" ry="11" fill="url(#bodyDark)"/>
+
+  <!-- arms -->
+  <rect x="40" y="150" width="24" height="86" rx="12" fill="url(#metal)"/>
+  <rect x="176" y="150" width="24" height="86" rx="12" fill="url(#metal)"/>
+  <circle cx="52" cy="240" r="14" fill="url(#body)"/>
+  <circle cx="188" cy="240" r="14" fill="url(#body)"/>
+
+  <!-- torso -->
+  <rect x="62" y="146" width="116" height="118" rx="34" fill="url(#body)"/>
+  <rect x="62" y="146" width="116" height="118" rx="34" fill="none" stroke="#b3ab99" stroke-width="1.5"/>
+  <!-- chest core -->
+  <circle cx="120" cy="200" r="26" fill="url(#bodyDark)"/>
+  <circle cx="120" cy="200" r="16" fill="#10131d"/>
+  <circle cx="120" cy="200" r="9" fill="url(#eye)"/>
+  <circle cx="116" cy="196" r="3" fill="#fff" opacity="0.8"/>
+  <!-- shoulders -->
+  <circle cx="62" cy="158" r="20" fill="url(#bodyDark)"/>
+  <circle cx="178" cy="158" r="20" fill="url(#bodyDark)"/>
+
+  <!-- neck -->
+  <rect x="104" y="118" width="32" height="34" rx="10" fill="url(#bodyDark)"/>
+
+  <!-- head -->
+  <rect x="74" y="40" width="92" height="92" rx="34" fill="url(#body)"/>
+  <rect x="74" y="40" width="92" height="92" rx="34" fill="none" stroke="#b3ab99" stroke-width="1.5"/>
+  <!-- visor -->
+  <rect x="86" y="60" width="68" height="48" rx="22" fill="url(#visor)"/>
+  <!-- eyes -->
+  <circle cx="106" cy="84" r="9" fill="url(#eye)"/>
+  <circle cx="134" cy="84" r="9" fill="url(#eye)"/>
+  <circle cx="103" cy="81" r="2.5" fill="#fff" opacity="0.85"/>
+  <circle cx="131" cy="81" r="2.5" fill="#fff" opacity="0.85"/>
+  <!-- visor highlight -->
+  <path d="M92 70 q14 -8 30 -6" stroke="#7d8aa8" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <!-- antenna -->
+  <line x1="120" y1="40" x2="120" y2="22" stroke="#b3ab99" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="120" cy="18" r="6" fill="url(#eye)"/>
+  <!-- ear pods -->
+  <circle cx="74" cy="86" r="8" fill="url(#bodyDark)"/>
+  <circle cx="166" cy="86" r="8" fill="url(#bodyDark)"/>
+</svg>
