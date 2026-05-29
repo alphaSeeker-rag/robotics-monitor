@@ -1,5 +1,48 @@
 [
   {
+    "title": "NIST proposes a baseline performance benchmark for humanoid robots",
+    "link": "https://www.therobotreport.com/nist-proposes-a-baseline-performance-benchmark-for-humanoid-robots/",
+    "published": "Fri, 29 May 2026 14:24:18 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-05-29 22:27:11",
+    "ai_summary": {
+      "title_ja": "NISTがヒューマノイドロボットの基本性能ベンチマークを提案",
+      "summary": "NISTはヒューマノイドロボットの開発者と評価者を支援するため、標準化された性能ベンチマークとテスト手順を提案しました。この取り組みは、業界全体での一貫性のある評価基準の確立を目指しています。",
+      "insights": [
+        "ヒューマノイドロボット業界の急速な成長に伴い、開発者間での性能比較の透明性と信頼性が求められている",
+        "標準化されたベンチマークの導入により、顧客企業の導入判断が容易になり、市場の成熟化が加速する可能性",
+        "政府機関による公式なベンチマーク制定は、規制フレームワーク構築への第一歩となり、業界信頼度向上に寄与"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Extreme Omnidirectional Robot",
+    "link": "https://spectrum.ieee.org/video-friday-rabona-soccer",
+    "published": "Fri, 29 May 2026 17:00:01 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "autonomous robot",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-05-29 22:27:14",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：極限の全方向ロボット",
+      "summary": "IEEE Spectrumが厳選したロボティクス関連の動画週間レポートで、足の数や動作能力の最適化をテーマにしている。多脚ロボットから高度な運動能力を持つロボット（ラボーナ動作など）まで、ロボットの身体設計と機能の多様性を紹介している。ロボットが日常生活に統合される中で、設計・倫理・安全性に関する重要な課題が浮上している。",
+      "insights": [
+        "ロボット設計における脚数の最適化は一概には決められず、用途に応じた多様なアプローチ（多脚型）が並存する傾向",
+        "ボストン・ダイナミクスなどの先進企業による高度な運動能力（スポーツ動作の習得）の実現は、ロボットの実用化範囲の急速な拡大を示唆",
+        "ロボットの日常生活への統合進展に伴い、安全性・倫理・人間との共存設計が次の重要な研究課題として認識されている"
+      ]
+    }
+  },
+  {
     "title": "Software becoming the biggest bottleneck to physical AI innovation, finds QNX research",
     "link": "https://www.therobotreport.com/software-becoming-biggest-bottleneck-physical-ai-innovation-finds-qnx/",
     "published": "Fri, 29 May 2026 15:00:31 +0000",
