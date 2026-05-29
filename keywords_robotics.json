@@ -1,0 +1,71 @@
+{
+  "_comment": "フィジカルAI・ロボティクス監視キーワード (2026 Edition) - RSS substring matching 最適化版",
+
+  "_category_1_foundation_model": [
+    "VLA", "Vision-Language-Action", "Sim-to-Real", "sim2real",
+    "Data Flywheel", "データフライホイール",
+    "Deterministic Latency", "確定的レイテンシ",
+    "Compositional Generalization", "構成的汎化",
+    "Flow Matching", "フローマッチング",
+    "World Model", "世界モデル",
+    "Decentralized Orchestration", "分散型オーケストレーション"
+  ],
+
+  "_category_2_hardware": [
+    "Energy-Action Density",
+    "Weight-Power-Compute",
+    "Domain Specific Architecture", "領域特化型アーキテクチャ",
+    "Thermal Design Power", "サーマルスロットリング",
+    "Torque Density", "トルク密度",
+    "Co-Packaged Optics", "光インターコネクト",
+    "Backside Power Delivery", "裏面電源供給",
+    "UCIe", "Chiplet", "チップレット",
+    "Solid-State Battery", "全固体電池", "半固体電池"
+  ],
+
+  "_category_3_economics": [
+    "Teleoperation", "遠隔操作",
+    "Imitation Learning", "模倣学習",
+    "Bill of Materials", "BOMコスト",
+    "Liability Boundaries", "賠償責任境界",
+    "Vertical Integration", "垂直統合",
+    "チョークポイント"
+  ],
+
+  "_category_4_general": [
+    "ロボティクス", "robotics",
+    "ヒューマノイド", "humanoid",
+    "フィジカルAI", "Physical AI",
+    "embodied AI", "身体性AI",
+    "自律ロボット", "autonomous robot",
+    "マニピュレーション", "manipulation",
+    "アクチュエータ", "actuator"
+  ],
+
+  "keywords": [
+    "VLA", "Vision-Language-Action", "Sim-to-Real", "sim2real",
+    "Data Flywheel", "データフライホイール",
+    "Deterministic Latency", "確定的レイテンシ",
+    "Compositional Generalization", "構成的汎化",
+    "Flow Matching", "フローマッチング",
+    "World Model", "世界モデル",
+    "Decentralized Orchestration", "分散型オーケストレーション",
+    "Energy-Action Density", "Weight-Power-Compute",
+    "Domain Specific Architecture", "領域特化型アーキテクチャ",
+    "Thermal Design Power", "サーマルスロットリング",
+    "Torque Density", "トルク密度",
+    "Co-Packaged Optics", "光インターコネクト",
+    "Backside Power Delivery", "裏面電源供給",
+    "UCIe", "Chiplet", "チップレット",
+    "Solid-State Battery", "全固体電池", "半固体電池",
+    "Teleoperation", "遠隔操作",
+    "Imitation Learning", "模倣学習",
+    "Bill of Materials", "BOMコスト",
+    "Liability Boundaries", "賠償責任境界",
+    "Vertical Integration", "垂直統合", "チョークポイント",
+    "ロボティクス", "robotics", "ヒューマノイド", "humanoid",
+    "フィジカルAI", "Physical AI", "embodied AI", "身体性AI",
+    "自律ロボット", "autonomous robot",
+    "マニピュレーション", "manipulation", "アクチュエータ", "actuator"
+  ]
+}
