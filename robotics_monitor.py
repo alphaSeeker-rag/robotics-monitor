@@ -32,35 +32,42 @@ CONFIG_FILE = Path("config.json")
 REPORT_FILE = Path("report.html")
 LOG_FILE = Path("articles.json")
 
-# フィードURL -> 表示名・国ラベル
+# フィードURL -> 表示名・国/種別ラベル
 SOURCE_LABELS = {
-    "therobotreport.com": ("The Robot Report", "🇺🇸"),
-    "spectrum.ieee.org": ("IEEE Spectrum", "🇺🇸"),
-    "techcrunch.com": ("TechCrunch", "🇺🇸"),
-    "blogs.nvidia.com": ("NVIDIA Blog", "🇺🇸"),
-    "deepmind.google": ("Google DeepMind", "🇺🇸"),
-    "technologyreview.com": ("MIT Tech Review", "🇺🇸"),
-    "venturebeat.com": ("VentureBeat", "🇺🇸"),
-    "sciencedaily.com": ("ScienceDaily", "🇺🇸"),
-    "aiplus": ("ITmedia AI+", "🇯🇵"),
-    "monoist": ("MONOist", "🇯🇵"),
-    "news_bursts": ("ITmedia NEWS", "🇯🇵"),
-    "pc.watch.impress": ("PC Watch", "🇯🇵"),
-    "gigazine.net": ("GIGAZINE", "🇯🇵"),
-    "zdnet": ("ZDNet", "🇯🇵"),
-    "irobotnews.com": ("The Robot Times (韓)", "🇰🇷"),
-    "zdkorea": ("ZDNet Korea", "🇰🇷"),
-    "pandaily.com": ("Pandaily", "🇨🇳"),
-    "technode.com": ("TechNode", "🇨🇳"),
-    "36kr.com": ("36Kr", "🇨🇳"),
-    "cs.RO": ("arXiv cs.RO", "📄"),
-    "cs.AI": ("arXiv cs.AI", "📄"),
-    "huggingface.co": ("Hugging Face", "🤖"),
-    "research.google": ("Google Research", "🔬"),
-    "developer.nvidia.com": ("NVIDIA Developer", "🔬"),
-    "microsoft.com": ("Microsoft Research", "🔬"),
-    "bair.berkeley.edu": ("Berkeley AI (BAIR)", "🔬"),
+    "therobotreport.com": ("The Robot Report", "US"),
+    "spectrum.ieee.org": ("IEEE Spectrum", "US"),
+    "techcrunch.com": ("TechCrunch", "US"),
+    "blogs.nvidia.com": ("NVIDIA Blog", "US"),
+    "deepmind.google": ("Google DeepMind", "US"),
+    "technologyreview.com": ("MIT Tech Review", "US"),
+    "venturebeat.com": ("VentureBeat", "US"),
+    "sciencedaily.com": ("ScienceDaily", "US"),
+    "aiplus": ("ITmedia AI+", "JP"),
+    "monoist": ("MONOist", "JP"),
+    "news_bursts": ("ITmedia NEWS", "JP"),
+    "pc.watch.impress": ("PC Watch", "JP"),
+    "gigazine.net": ("GIGAZINE", "JP"),
+    "zdnet": ("ZDNet", "JP"),
+    "irobotnews.com": ("The Robot Times (韓)", "KR"),
+    "zdkorea": ("ZDNet Korea", "KR"),
+    "pandaily.com": ("Pandaily", "CN"),
+    "technode.com": ("TechNode", "CN"),
+    "36kr.com": ("36Kr", "CN"),
+    "cs.RO": ("arXiv cs.RO", "arXiv"),
+    "cs.AI": ("arXiv cs.AI", "arXiv"),
+    "huggingface.co": ("Hugging Face", "Lab"),
+    "research.google": ("Google Research", "Lab"),
+    "developer.nvidia.com": ("NVIDIA Developer", "Lab"),
+    "microsoft.com": ("Microsoft Research", "Lab"),
+    "bair.berkeley.edu": ("Berkeley AI (BAIR)", "Lab"),
 }
+
+# 旧データ(絵文字旗)→ 新コードの変換表
+FLAG_MIGRATE = {"🇺🇸": "US", "🇯🇵": "JP", "🇰🇷": "KR", "🇨🇳": "CN",
+                "📄": "arXiv", "🤖": "Lab", "🔬": "Lab", "🌐": "Web"}
+# 国/種別コード -> 表示色クラス
+FLAG_CLASS = {"US": "fl-us", "JP": "fl-jp", "KR": "fl-kr", "CN": "fl-cn",
+              "arXiv": "fl-arxiv", "Lab": "fl-lab", "Web": "fl-web"}
 
 HTML_TEMPLATE = """\
 <!DOCTYPE html>
@@ -110,8 +117,13 @@ HTML_TEMPLATE = """\
   .masthead {{ max-width: 1040px; margin: 0 auto; text-align: center; position: relative; z-index: 2; }}
 
   @media (max-width: 860px) {{
-    header::before, header::after {{ display: none; }}
+    /* hide side robot + left rail, but keep one small robot centered on top */
+    header {{ padding-top: 150px; }}
+    header::before {{ display: none; }}
+    header::after {{ width: 96px; height: 134px; left: 50%; right: auto;
+            top: 14px; bottom: auto; transform: translateX(-50%); }}
     body::before, body::after {{ display: none; }}
+    .masthead-rule::before, .masthead-rule::after {{ width: 40px; }}
   }}
   .eyebrow {{ font-family: var(--sans); font-size: 0.66rem; font-weight: 700;
               letter-spacing: .42em; text-transform: uppercase; color: var(--accent);
@@ -126,6 +138,9 @@ HTML_TEMPLATE = """\
                     letter-spacing: .18em; text-transform: uppercase; color: var(--ink-soft); }}
   .masthead-rule::before, .masthead-rule::after {{ content: ""; height: 1px; width: 70px;
                     background: var(--line); }}
+  .dateline {{ margin-top: 10px; font-family: var(--sans); font-size: 0.66rem; font-weight: 700;
+               letter-spacing: .16em; text-transform: uppercase; color: var(--accent); }}
+  .dateline .dot {{ color: var(--line); margin: 0 8px; }}
 
   /* ===== Filters ===== */
   .filters {{ position: sticky; top: 0; z-index: 10; background: rgba(244,241,234,.94);
@@ -162,6 +177,15 @@ HTML_TEMPLATE = """\
   .card-title a:hover {{ color: var(--accent); background-size: 100% 1.5px; }}
   .card-meta {{ display: flex; gap: 12px; margin-top: 12px; flex-wrap: wrap; align-items: center;
                 font-family: var(--sans); }}
+  .flag {{ display: inline-block; font-size: 0.6rem; font-weight: 700; letter-spacing: .06em;
+           padding: 2px 7px; border-radius: 3px; color: #fff; text-transform: uppercase; }}
+  .fl-us {{ background: #2a4d8f; }}
+  .fl-jp {{ background: #9b2226; }}
+  .fl-kr {{ background: #2e7d63; }}
+  .fl-cn {{ background: #c2410c; }}
+  .fl-arxiv {{ background: #6b21a8; }}
+  .fl-lab {{ background: #4a443c; }}
+  .fl-web {{ background: #9b948a; }}
   .source {{ font-size: 0.72rem; color: var(--ink); font-weight: 700; letter-spacing: .04em; }}
   .date {{ font-size: 0.7rem; color: #9b948a; letter-spacing: .03em; }}
   .kw {{ display: inline-block; padding: 2px 8px; border: 1px solid var(--accent);
@@ -206,6 +230,7 @@ HTML_TEMPLATE = """\
       <span class="jp">フィジカルAI・ロボティクス監視レポート</span>
     </h1>
     <div class="masthead-rule">日米中韓メディア · 企業ブログ · arXiv</div>
+    <div class="dateline">{total} Articles<span class="dot">●</span>Updated {updated}</div>
   </div>
 </header>
 <div class="filters">
@@ -287,7 +312,7 @@ def source_label(url: str, feed_title: str) -> tuple:
     for key, (name, flag) in SOURCE_LABELS.items():
         if key in url:
             return name, flag
-    return (feed_title or url)[:30], "🌐"
+    return (feed_title or url)[:30], "Web"
 
 
 def needs_translation(text: str) -> bool:
@@ -380,12 +405,15 @@ def build_report(articles: list, keywords: list) -> None:
                     )
                 else:
                     ai_block = ""
-                flag = a.get("flag", "🌐")
+                flag = a.get("flag", "Web")
+                flag = FLAG_MIGRATE.get(flag, flag)
+                flag_cls = FLAG_CLASS.get(flag, "fl-web")
                 sections.append(
                     f'<div class="card" data-kw="{escape(kws_data)}">'
                     f'<div class="card-title"><a href="{escape(a["link"])}" target="_blank">{escape(a["title"])}</a></div>'
                     f'<div class="card-meta">{kws_html}'
-                    f'<span class="source">{flag} {escape(a["source"])}</span>'
+                    f'<span class="flag {flag_cls}">{escape(flag)}</span>'
+                    f'<span class="source">{escape(a["source"])}</span>'
                     f'<span class="date">{escape(a.get("published",""))}</span>'
                     f'</div>{ai_block}</div>'
                 )
