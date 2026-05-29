@@ -1,5 +1,66 @@
 [
   {
+    "title": "Xynova Raises Hundreds of Millions in Series A for Dexterous Robot Hand Flex2",
+    "link": "https://pandaily.com/xynova-series-a-dexterous-robot-hand-flex2-may2026",
+    "published": "Fri, 29 May 2026 08:36:18 GMT",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "Pandaily",
+    "flag": "🇨🇳",
+    "detected_at": "2026-05-29 09:14:41",
+    "ai_summary": {
+      "title_ja": "Xynova、器用なロボットハンド「Flex2」のシリーズA調達で数億元を獲得",
+      "summary": "中国のフルスタック巧緻操作技術企業Xynovaが、数億元規模のシリーズA資金調達ラウンドを完了しました。同社は高度な多指ロボットハンド技術の開発・商用化に注力しており、産業用ロボティクス分野での競争力強化を目指しています。",
+      "insights": [
+        "中国企業による巧緻操作ロボット技術への大型投資が加速しており、米国・日本と並ぶハードウェア開発競争が激化している",
+        "Flex2などの多指ロボットハンドは製造・物流・医療など多岐の産業応用が可能で、今後の汎用ロボティクス市場の要となる技術",
+        "フルスタック開発体制による垂直統合モデルが資金調達の評価軸となり、AIソフトウェア×ハードウェアの統合企業への投資トレンドを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "X-Square Robot Unveils WALL-WM, the World's First Event-Level Prediction Embodied AI World Model",
+    "link": "https://pandaily.com/x-square-robot-wall-wm-event-level-world-model-may2026",
+    "published": "Fri, 29 May 2026 08:35:20 GMT",
+    "keywords": [
+      "World Model",
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "🇨🇳",
+    "detected_at": "2026-05-29 09:14:45",
+    "ai_summary": {
+      "title_ja": "X-Square Robotが世界初のイベントレベル予測型具体化AI世界モデル「WALL-WM」を発表",
+      "summary": "X-Square Robotは、フレーム単位の予測からセマンティックイベント理解へシフトする世界初のイベントレベル予測型具体化AI世界モデル「WALL-WM」をリリースした。本モデルはロボットがピクセル配列を暗記するのではなく、タスク目標を把握することを可能にする。これは従来の視覚予測手法から高次意味理解への転換を示す重要な技術進展である。",
+      "insights": [
+        "フレーム単位予測からイベントレベル予測へのパラダムシフトにより、ロボットの汎用性と一般化能力が大幅に向上する可能性",
+        "セマンティック理解に基づくアプローチにより、ロボットがタスク指向的に行動し、より複雑な目的達成が可能になる点が産業応用の鍵",
+        "世界モデルの進化はエンボディド（物理的）AIの実現に向けた重要なステップであり、実世界環境での自律性向上に寄与する"
+      ]
+    }
+  },
+  {
+    "title": "Zero Zero Robotics Launches Hover AQUA, the World's First Fully Waterproof Flying Camera",
+    "link": "https://pandaily.com/zero-zero-robotics-hover-aqua-waterproof-flying-camera-may2026",
+    "published": "Fri, 29 May 2026 08:35:13 GMT",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Pandaily",
+    "flag": "🇨🇳",
+    "detected_at": "2026-05-29 09:14:49",
+    "ai_summary": {
+      "title_ja": "Zero Zero Robotics、世界初の完全防水飛行カメラ「Hover AQUA」を発表",
+      "summary": "Zero Zero Roboticsが、水上スポーツ向けの世界初の完全防水飛行カメラ「Hover AQUA」を発表しました。本製品はIP67の防塵・防水性能、水面からの直接離着陸が可能なポジティブ浮力設計、250g未満での4K/100fps動画撮影を特徴としています。水中ドローン市場における新しいカテゴリーを開拓する製品です。",
+      "insights": [
+        "規制回避とユースケース拡大：250g未満の軽量設計により、多くの国で無人航空機規制の対象外となり、市場化の障壁を低減",
+        "水上スポーツ向けニッチ市場の創出：IP67防水とポジティブ浮力により、サーフィン・ウェイクボード・ダイビング等の既存ドローン非対応用途への新規需要開拓",
+        "ハードウェア統合技術の進化：防水性能と軽量性の両立、浮力設計の実装により、フィジカルAIの物理制約克服が加速"
+      ]
+    }
+  },
+  {
     "title": "Your guide to the last day of the 2026 Robotics Summit & Expo",
     "link": "https://www.therobotreport.com/your-guide-to-the-last-day-of-the-2026-robotics-summit-expo/",
     "published": "Thu, 28 May 2026 12:00:35 +0000",
