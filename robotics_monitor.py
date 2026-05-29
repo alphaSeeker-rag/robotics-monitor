@@ -67,67 +67,153 @@ HTML_TEMPLATE = """\
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="refresh" content="120">
-<title>フィジカルAI・ロボティクス監視レポート</title>
+<title>PHYSICAL AI REVIEW — フィジカルAI・ロボティクス監視レポート</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500;600;700;900&family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
+  :root {{
+    --bg: #f4f1ea;
+    --paper: #fbfaf6;
+    --ink: #1a1714;
+    --ink-soft: #4a443c;
+    --line: #d8d2c4;
+    --accent: #9b2226;
+    --accent-soft: #b8693d;
+    --serif: "Noto Serif JP", "Playfair Display", Georgia, serif;
+    --display: "Playfair Display", "Noto Serif JP", Georgia, serif;
+    --sans: "Noto Sans JP", -apple-system, "Segoe UI", sans-serif;
+  }}
   * {{ box-sizing: border-box; margin: 0; padding: 0; }}
-  body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
-          background: #0f1117; color: #e8eaed; }}
-  header {{ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #fff;
-            padding: 22px 32px; border-bottom: 2px solid #2a4d8f; }}
-  header h1 {{ font-size: 1.35rem; font-weight: 700; letter-spacing: .02em; }}
-  header .meta {{ font-size: 0.8rem; color: #8ab; margin-top: 4px; }}
-  .filters {{ background: #161922; border-bottom: 1px solid #262b38;
-              padding: 12px 32px; display: flex; gap: 7px; flex-wrap: wrap; align-items: center; }}
-  .filters span {{ font-size: 0.8rem; color: #8a90a0; margin-right: 4px; }}
-  .btn {{ padding: 5px 13px; border-radius: 20px; border: 1px solid #333a4a;
-          background: #1c2030; color: #cdd2dc; cursor: pointer; font-size: 0.8rem; transition: all .15s; }}
-  .btn:hover, .btn.active {{ background: #2a4d8f; color: #fff; border-color: #3a6ad0; }}
-  main {{ max-width: 980px; margin: 24px auto; padding: 0 16px; }}
-  .card {{ background: #161922; border: 1px solid #232838; border-radius: 12px; padding: 18px 22px;
-           margin-bottom: 12px; transition: border-color .15s; }}
-  .card:hover {{ border-color: #2a4d8f; }}
-  .card-title a {{ text-decoration: none; color: #e8eaed; font-size: 1.02rem;
-                   font-weight: 600; line-height: 1.55; }}
-  .card-title a:hover {{ color: #6da8ff; }}
-  .card-meta {{ display: flex; gap: 10px; margin-top: 9px; flex-wrap: wrap; align-items: center; }}
-  .source {{ font-size: 0.76rem; color: #7a90b8; font-weight: 600; }}
-  .date {{ font-size: 0.74rem; color: #5a6070; }}
-  .kw {{ display: inline-block; padding: 2px 9px; border-radius: 11px;
-         font-size: 0.7rem; font-weight: 600; background: #1e2c50; color: #7fa8ff; }}
-  .ai-box {{ margin-top: 14px; background: #131a26; border-left: 3px solid #3a6ad0;
-             border-radius: 0 8px 8px 0; padding: 12px 16px; }}
-  .ai-label {{ font-size: 0.68rem; font-weight: 700; color: #5b9bff;
-               text-transform: uppercase; letter-spacing: .08em; margin-bottom: 7px; }}
-  .ai-title-ja {{ font-size: 0.96rem; font-weight: 600; color: #dfe8ff; margin-bottom: 8px; line-height: 1.5; }}
-  .ai-summary {{ font-size: 0.85rem; color: #b8c0d0; line-height: 1.7; margin-bottom: 8px; }}
-  .ai-insights {{ padding-left: 18px; margin-top: 4px; }}
-  .ai-insights li {{ font-size: 0.83rem; color: #aab4c8; line-height: 1.6; margin-bottom: 3px; }}
-  .empty {{ text-align: center; color: #5a6070; padding: 60px 0; font-size: 1rem; }}
-  .section-label {{ font-size: 0.76rem; font-weight: 700; color: #6a7390;
-                    text-transform: uppercase; letter-spacing: .06em;
-                    margin: 26px 0 10px; padding-bottom: 6px; border-bottom: 1px solid #232838; }}
+  body {{ font-family: var(--serif); background: var(--bg); color: var(--ink);
+          line-height: 1.6; -webkit-font-smoothing: antialiased; }}
+
+  /* ===== Masthead ===== */
+  header {{ background: var(--paper); border-bottom: 3px double var(--ink);
+            padding: 28px 32px 18px; }}
+  .masthead {{ max-width: 1040px; margin: 0 auto; text-align: center; }}
+  .eyebrow {{ font-family: var(--sans); font-size: 0.66rem; font-weight: 700;
+              letter-spacing: .42em; text-transform: uppercase; color: var(--accent);
+              margin-bottom: 10px; }}
+  header h1 {{ font-family: var(--display); font-weight: 900; font-size: 2.7rem;
+               line-height: 1.05; letter-spacing: -.01em; margin-bottom: 6px; }}
+  header h1 .jp {{ display: block; font-family: var(--serif); font-size: 1.05rem;
+                   font-weight: 600; letter-spacing: .14em; color: var(--ink-soft);
+                   margin-top: 10px; }}
+  .masthead-rule {{ display: flex; align-items: center; justify-content: center; gap: 14px;
+                    margin-top: 14px; font-family: var(--sans); font-size: 0.7rem;
+                    letter-spacing: .18em; text-transform: uppercase; color: var(--ink-soft); }}
+  .masthead-rule::before, .masthead-rule::after {{ content: ""; height: 1px; width: 70px;
+                    background: var(--line); }}
+
+  /* ===== Filters ===== */
+  .filters {{ position: sticky; top: 0; z-index: 10; background: rgba(244,241,234,.94);
+              backdrop-filter: blur(6px); border-bottom: 1px solid var(--line);
+              padding: 12px 32px; display: flex; gap: 7px; flex-wrap: wrap;
+              align-items: center; justify-content: center; }}
+  .filters span {{ font-family: var(--sans); font-size: 0.72rem; font-weight: 700;
+                   letter-spacing: .1em; text-transform: uppercase; color: var(--accent);
+                   margin-right: 6px; }}
+  .btn {{ font-family: var(--sans); padding: 4px 13px; border-radius: 2px;
+          border: 1px solid var(--line); background: transparent; color: var(--ink-soft);
+          cursor: pointer; font-size: 0.74rem; font-weight: 500; transition: all .15s; }}
+  .btn:hover {{ border-color: var(--ink); color: var(--ink); }}
+  .btn.active {{ background: var(--ink); color: var(--paper); border-color: var(--ink); }}
+
+  /* ===== Layout ===== */
+  main {{ max-width: 800px; margin: 40px auto 80px; padding: 0 28px; }}
+
+  .section-label {{ font-family: var(--display); font-weight: 700; font-size: 1.5rem;
+                    color: var(--ink); margin: 44px 0 6px; padding-bottom: 10px;
+                    border-bottom: 2px solid var(--ink); display: flex;
+                    align-items: baseline; justify-content: space-between; }}
+  .section-label::after {{ font-family: var(--sans); font-size: 0.68rem; font-weight: 700;
+                    letter-spacing: .12em; color: var(--accent); }}
+
+  /* ===== Article ===== */
+  .card {{ padding: 26px 0; border-bottom: 1px solid var(--line); }}
+  .card:last-child {{ border-bottom: none; }}
+  .card-title a {{ text-decoration: none; color: var(--ink); font-family: var(--serif);
+                   font-size: 1.32rem; font-weight: 700; line-height: 1.4;
+                   transition: color .15s; display: inline; background-image: linear-gradient(var(--accent), var(--accent));
+                   background-size: 0% 1.5px; background-repeat: no-repeat;
+                   background-position: 0 100%; transition: background-size .25s, color .15s; }}
+  .card-title a:hover {{ color: var(--accent); background-size: 100% 1.5px; }}
+  .card-meta {{ display: flex; gap: 12px; margin-top: 12px; flex-wrap: wrap; align-items: center;
+                font-family: var(--sans); }}
+  .source {{ font-size: 0.72rem; color: var(--ink); font-weight: 700; letter-spacing: .04em; }}
+  .date {{ font-size: 0.7rem; color: #9b948a; letter-spacing: .03em; }}
+  .kw {{ display: inline-block; padding: 2px 8px; border: 1px solid var(--accent);
+         border-radius: 2px; font-size: 0.64rem; font-weight: 700; letter-spacing: .03em;
+         color: var(--accent); text-transform: uppercase; }}
+
+  /* ===== AI summary (editorial sidebar) ===== */
+  .ai-box {{ margin-top: 18px; background: var(--paper); border: 1px solid var(--line);
+             border-left: 4px solid var(--accent); padding: 18px 22px; position: relative; }}
+  .ai-label {{ font-family: var(--sans); font-size: 0.62rem; font-weight: 700; color: var(--accent);
+               text-transform: uppercase; letter-spacing: .18em; margin-bottom: 10px; }}
+  .ai-title-ja {{ font-family: var(--serif); font-size: 1.12rem; font-weight: 700;
+                  color: var(--ink); margin-bottom: 10px; line-height: 1.45; }}
+  .ai-summary {{ font-family: var(--serif); font-size: 0.92rem; color: var(--ink-soft);
+                 line-height: 1.85; margin-bottom: 12px; }}
+  .ai-insights {{ list-style: none; padding-left: 0; margin-top: 4px;
+                  border-top: 1px solid var(--line); padding-top: 12px; }}
+  .ai-insights li {{ font-family: var(--sans); font-size: 0.84rem; color: var(--ink);
+                     line-height: 1.65; margin-bottom: 8px; padding-left: 22px; position: relative; }}
+  .ai-insights li::before {{ content: "→"; position: absolute; left: 0; top: 0;
+                     color: var(--accent); font-weight: 700; }}
+
+  .empty {{ text-align: center; color: var(--ink-soft); padding: 80px 0;
+            font-family: var(--serif); font-size: 1.1rem; }}
+
+  footer {{ text-align: center; padding: 40px 20px; border-top: 3px double var(--ink);
+            font-family: var(--sans); font-size: 0.68rem; letter-spacing: .14em;
+            text-transform: uppercase; color: var(--ink-soft); }}
+
+  @media (max-width: 640px) {{
+    header h1 {{ font-size: 1.8rem; }}
+    .card-title a {{ font-size: 1.15rem; }}
+    main {{ padding: 0 18px; }}
+  }}
 </style>
 </head>
 <body>
 <header>
-  <h1>🤖 フィジカルAI・ロボティクス監視レポート</h1>
-  <div class="meta">更新: {updated} ／ 全 {total} 件 ／ 日米中韓メディア + 企業ブログ + arXiv ／ 2分ごとに自動更新</div>
+  <div class="masthead">
+    <div class="eyebrow">Daily Intelligence Briefing</div>
+    <h1>Physical AI Review
+      <span class="jp">フィジカルAI・ロボティクス監視レポート</span>
+    </h1>
+    <div class="masthead-rule">日米中韓メディア · 企業ブログ · arXiv</div>
+  </div>
 </header>
 <div class="filters">
-  <span>絞り込み:</span>
+  <span>絞り込み</span>
   <button class="btn active" onclick="filter(this,'')">すべて</button>
   {kw_buttons}
 </div>
 <main id="main">
 {cards}
 </main>
+<footer>
+  更新 {updated} ／ 全 {total} 件 ／ 2分ごとに自動更新
+</footer>
 <script>
   function filter(btn, kw) {{
     document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     document.querySelectorAll('.card').forEach(c => {{
       c.style.display = (!kw || c.dataset.kw.includes(kw)) ? '' : 'none';
+    }});
+    document.querySelectorAll('.section-label').forEach(s => {{
+      let n = s.nextElementSibling, vis = 0;
+      while (n && n.classList.contains('card')) {{
+        if (n.style.display !== 'none') vis++;
+        n = n.nextElementSibling;
+      }}
+      s.style.display = vis ? '' : 'none';
     }});
   }}
 </script>
