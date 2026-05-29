@@ -65,9 +65,10 @@ SOURCE_LABELS = {
 # 旧データ(絵文字旗)→ 新コードの変換表
 FLAG_MIGRATE = {"🇺🇸": "US", "🇯🇵": "JP", "🇰🇷": "KR", "🇨🇳": "CN",
                 "📄": "arXiv", "🤖": "Lab", "🔬": "Lab", "🌐": "Web"}
-# 国/種別コード -> 表示色クラス
-FLAG_CLASS = {"US": "fl-us", "JP": "fl-jp", "KR": "fl-kr", "CN": "fl-cn",
-              "arXiv": "fl-arxiv", "Lab": "fl-lab", "Web": "fl-web"}
+# 国/種別コード -> 表示色クラス(国旗が無い arXiv/Lab/Web 用)
+FLAG_CLASS = {"arXiv": "fl-arxiv", "Lab": "fl-lab", "Web": "fl-web"}
+# 国コード -> flag-icons の ISO コード(国旗マーク表示)
+COUNTRY_ISO = {"US": "us", "JP": "jp", "KR": "kr", "CN": "cn"}
 
 HTML_TEMPLATE = """\
 <!DOCTYPE html>
@@ -80,6 +81,7 @@ HTML_TEMPLATE = """\
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500;600;700;900&family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
 <style>
   :root {{
     --bg: #f4f1ea;
@@ -177,15 +179,14 @@ HTML_TEMPLATE = """\
   .card-title a:hover {{ color: var(--accent); background-size: 100% 1.5px; }}
   .card-meta {{ display: flex; gap: 12px; margin-top: 12px; flex-wrap: wrap; align-items: center;
                 font-family: var(--sans); }}
-  .flag {{ display: inline-block; font-size: 0.6rem; font-weight: 700; letter-spacing: .06em;
-           padding: 2px 7px; border-radius: 3px; color: #fff; text-transform: uppercase; }}
-  .fl-us {{ background: #2a4d8f; }}
-  .fl-jp {{ background: #9b2226; }}
-  .fl-kr {{ background: #2e7d63; }}
-  .fl-cn {{ background: #c2410c; }}
+  .flag {{ display: inline-block; font-size: 0.68rem; font-weight: 700; letter-spacing: .06em;
+           padding: 3px 9px; border-radius: 3px; color: #fff; text-transform: uppercase; }}
   .fl-arxiv {{ background: #6b21a8; }}
   .fl-lab {{ background: #4a443c; }}
   .fl-web {{ background: #9b948a; }}
+  /* national flag icons */
+  .flagicon {{ font-size: 1.35rem; border-radius: 2px; vertical-align: middle;
+               box-shadow: 0 0 0 1px rgba(0,0,0,.18); }}
   .source {{ font-size: 0.72rem; color: var(--ink); font-weight: 700; letter-spacing: .04em; }}
   .date {{ font-size: 0.7rem; color: #9b948a; letter-spacing: .03em; }}
   .kw {{ display: inline-block; padding: 2px 8px; border: 1px solid var(--accent);
@@ -407,12 +408,17 @@ def build_report(articles: list, keywords: list) -> None:
                     ai_block = ""
                 flag = a.get("flag", "Web")
                 flag = FLAG_MIGRATE.get(flag, flag)
-                flag_cls = FLAG_CLASS.get(flag, "fl-web")
+                iso = COUNTRY_ISO.get(flag)
+                if iso:
+                    flag_html = f'<span class="fi fi-{iso} flagicon" title="{escape(flag)}"></span>'
+                else:
+                    flag_cls = FLAG_CLASS.get(flag, "fl-web")
+                    flag_html = f'<span class="flag {flag_cls}">{escape(flag)}</span>'
                 sections.append(
                     f'<div class="card" data-kw="{escape(kws_data)}">'
                     f'<div class="card-title"><a href="{escape(a["link"])}" target="_blank">{escape(a["title"])}</a></div>'
                     f'<div class="card-meta">{kws_html}'
-                    f'<span class="flag {flag_cls}">{escape(flag)}</span>'
+                    f'{flag_html}'
                     f'<span class="source">{escape(a["source"])}</span>'
                     f'<span class="date">{escape(a.get("published",""))}</span>'
                     f'</div>{ai_block}</div>'
