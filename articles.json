@@ -1,5 +1,46 @@
 [
   {
+    "title": "MISUMI Group invests $1B in Americas, global AI and digital manufacturing",
+    "link": "https://www.therobotreport.com/misumi-group-invests-1b-americas-global-ai-digital-manufacturing/",
+    "published": "Sat, 30 May 2026 13:21:36 +0000",
+    "keywords": [
+      "Bill of Materials"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-05-30 13:58:14",
+    "ai_summary": {
+      "title_ja": "MISUMIグループがアメリカ大陸、グローバルAI、デジタル製造に10億ドルを投資",
+      "summary": "MISUMIグループは10億ドル規模の投資を発表し、精密部品とFictivのデジタル製造プラットフォームを統合することで、資材構成表全体をカバーするソリューションを提供する。この戦略はアメリカ大陸でのプレゼンス強化とグローバルなAI・デジタル製造能力の拡張を目指している。",
+      "insights": [
+        "精密部品サプライチェーンとデジタル製造プラットフォームの垂直統合により、設計から製造までの一貫したエコシステムを構築",
+        "AIとデジタル製造技術への大規模投資により、オンデマンド製造と短納期化を実現する産業構造の転換",
+        "アメリカ大陸への集中投資戦略は、ローカル製造回帰（リショアリング）トレンドに対応したマーケット戦略の位置付け"
+      ]
+    }
+  },
+  {
+    "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+    "link": "https://36kr.com/p/3831135917107075?f=rss",
+    "published": "2026-05-30 09:53:46  +0800",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "36Kr",
+    "flag": "CN",
+    "detected_at": "2026-05-30 13:58:34",
+    "ai_summary": {
+      "title_ja": "富士康にサービス提供、半年で2000万元超の売上を達成したロボット解決方案企業が天使ラウンド融資を完了",
+      "summary": "深圳の乗物機器人は、産業用具身知能技術に特化したロボット企業で、台湾の和椿科技から戦略投資を受けて天使ラウンド融資を完了した。2025年設立ながら既に10以上の工業現場プロジェクトを展開し、富士康などの大手製造企業にサービスを提供している。Vision-Language-Action産業用大モデル開発により、複数のロボット本体に対応する汎用具身知能システムの構築を目指している。",
+      "insights": [
+        "非標準的な工業現場向けカスタマイズソリューション市場は急速に成長しており、ロボット本体メーカーとアルゴリズム企業の協業モデルが優位性を持つ",
+        "Vision-Language-Actionモデルを用いた産業用具身知能は、複数ロボット本体への汎化能力（一脳多形）を実現することで、導入コストと開発サイクルを大幅に削減する次世代技術",
+        "遠隔操作による効率的な多模態データ収集システムの開発が、具身知能モデル学習の最大ボトルネック（データ収集コスト）を解決する鍵となっている"
+      ]
+    }
+  },
+  {
     "title": "NIST proposes a baseline performance benchmark for humanoid robots",
     "link": "https://www.therobotreport.com/nist-proposes-a-baseline-performance-benchmark-for-humanoid-robots/",
     "published": "Fri, 29 May 2026 14:24:18 +0000",
