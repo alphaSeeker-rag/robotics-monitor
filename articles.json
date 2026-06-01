@@ -1,5 +1,66 @@
 [
   {
+    "title": "NVIDIA releases new and updated tools for physical AI developers",
+    "link": "https://www.therobotreport.com/nvidia-releases-new-updated-tools-physical-ai-gtc-taipei-computex/",
+    "published": "Mon, 01 Jun 2026 21:27:16 +0000",
+    "keywords": [
+      "humanoid",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-01 22:59:42",
+    "ai_summary": {
+      "title_ja": "NVIDIAがフィジカルAI開発者向けの新しいツール・更新ツールをリリース",
+      "summary": "NVIDIAはフィジカルAI エージェント向けのオープンソーススキルおよびツール、並びにIsaac GR00Tヒューマノイド参照ロボットをリリースしました。これらのツールは開発者がロボティクス・フィジカルAI分野でのアプリケーション開発を加速させることを目的としています。",
+      "insights": [
+        "オープンソース化により、フィジカルAI開発エコシステムの民主化と開発スピードの加速が期待される",
+        "Isaac GR00Tのような参照実装の提供は、ヒューマノイドロボット開発の標準化と産業化を促進する可能性がある",
+        "NVIDIAのプラットフォーム戦略により、ハードウェア・ソフトウェア統合型のロボティクスソリューション市場での競争優位性が強化される"
+      ]
+    }
+  },
+  {
+    "title": "ANSCER Robotics closes Series A round for industrial material handling",
+    "link": "https://www.therobotreport.com/anscer-robotics-closes-series-a-round-industrial-material-handling/",
+    "published": "Mon, 01 Jun 2026 19:55:18 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-01 22:59:45",
+    "ai_summary": {
+      "title_ja": "ANSCER Robotics、産業用マテリアルハンドリング向けシリーズAラウンドを完了",
+      "summary": "ANSCER Roboticsが540万ドルの資金調達を完了し、ハイブリッド型産業自動化ロボットの北米およびグローバルでのスケーリングを目指す。同社は産業用マテリアルハンドリング分野での自動化ソリューション提供に注力している。",
+      "insights": [
+        "ハイブリッド型ロボットのニーズ拡大：従来型と協働型の両機能を備えたロボットへの市場需要が高まっている",
+        "マテリアルハンドリングの自動化：製造業における物流・搬送業務の自動化が投資対象として注目されている",
+        "北米を中心とした地理的展開：North Americaを主要市場とした事業展開戦略により、成熟市場でのニーズ獲得を目指している"
+      ]
+    }
+  },
+  {
+    "title": "Top 10 robotics stories of May 2026",
+    "link": "https://www.therobotreport.com/top-10-robotics-stories-of-may-2026/",
+    "published": "Mon, 01 Jun 2026 18:04:55 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-01 22:59:49",
+    "ai_summary": {
+      "title_ja": "2026年5月のロボティクス業界トップ10ニュース",
+      "summary": "2026年5月はロボティクス関連のニュースが豊富な月となりました。ボストンで開催されたロボティクスサミット&エキスポがその月の最大のイベントとなっています。このイベントを中心に、業界の主要なニュースがまとめられています。",
+      "insights": [
+        "ロボティクス産業は成熟段階に入り、大型イベント開催により業界全体の動向集約が活発化している",
+        "ボストンなど米国東部がロボティクス技術とビジネスの重要なハブとして機能している",
+        "2026年時点でロボティクス関連のニュースソースが充実し、産業の注目度が高まっている"
+      ]
+    }
+  },
+  {
     "title": "Learn about advances in robotic case and each picking",
     "link": "https://www.therobotreport.com/learn-about-advances-robotic-case-each-picking-webinar/",
     "published": "Mon, 01 Jun 2026 15:24:45 +0000",
