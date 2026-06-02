@@ -1,5 +1,58 @@
 [
   {
+    "title": "2026 Robotics Summit & Expo Recap",
+    "link": "https://www.therobotreport.com/2026-robotics-summit-expo-recap/",
+    "published": "Tue, 02 Jun 2026 19:15:57 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-02 23:00:20",
+    "ai_summary": {
+      "title_ja": "2026年ロボティクス・サミット&エキスポ レポート",
+      "summary": "The Robot Reportの編集チームが、ボストンで開催された最近のロボティクス・サミット&エキスポについてのポッドキャスト特集を配信。業界の最新動向やイノベーションについての詳細な解説を提供している。",
+      "insights": [
+        "主要なロボティクス企業やスタートアップが一堂に集まる業界の重要なカンファレンスイベント",
+        "業界専門媒体による現地レポートで、ロボティクス技術の最新トレンドを包括的に発信",
+        "ポッドキャスト形式での情報発信により、業界プロフェッショナルへのアクセシビリティ向上"
+      ]
+    }
+  },
+  {
+    "title": "FORT Robotics acquires Mapless AI to expand teleop capabilities",
+    "link": "https://www.therobotreport.com/fort-robotics-acquires-mapless-ai-to-expand-teleop-capabilities/",
+    "published": "Tue, 02 Jun 2026 17:46:58 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-02 23:00:23",
+    "ai_summary": {
+      "title_ja": "FORT Roboticsが遠隔操作技術を拡張するためMapless AIを買収",
+      "summary": "FORT RoboticsはMapless AIを買収し、遠隔操作（teleop）機能の強化を図っている。従来FORTは産業環境での技術開発に注力していたが、Mapless AIの買収により非構造化環境での操作能力が拡張される。この買収は、ロボットの適用可能な環境範囲を大幅に広げることを意図している。",
+      "insights": [
+        "産業用ロボットの遠隔操作技術が、構造化環境から非構造化環境への対応へ進化している",
+        "ロボティクス企業のM&Aを通じた技術補完戦略が加速している傾向を示唆",
+        "Mapless AIのような視覚・マッピング技術を持つAI企業への需要が高まっている"
+      ]
+    }
+  },
+  {
+    "title": "動きを先読みして触覚で状況を判断　新たなロボット基盤モデル「RLDX-1」とは",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/03/news049.html",
+    "published": "Wed, 03 Jun 2026 07:30:00 +0900",
+    "keywords": [
+      "VLA",
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-06-02 23:00:30",
+    "ai_summary": null
+  },
+  {
     "title": "最大16Aの高負荷対応、安全システム構築を簡素化するIO-Lin出力モジュール",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2606/02/news046.html",
     "published": "Tue, 02 Jun 2026 13:00:00 +0900",
