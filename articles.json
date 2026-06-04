@@ -1,5 +1,25 @@
 [
   {
+    "title": "Can surgical robots fly? SS Innovations discusses challenges, solutions",
+    "link": "https://www.therobotreport.com/can-surgical-robots-fly-ss-innovations-discusses-challenges-solutions/",
+    "published": "Thu, 04 Jun 2026 20:21:33 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-04 22:18:32",
+    "ai_summary": {
+      "title_ja": "手術用ロボットは飛行できるのか？SS Innovationsが課題と解決策を議論",
+      "summary": "ロボティクス開発企業SS Innovationsは、紛争地帯などの緊急医療が必要な地域への展開を視野に入れ、手術用ロボットの移動性と運用性の向上に取り組んでいます。飛行可能な手術用ロボットの実現に向けて、物流面での課題と技術的なソリューションについて検討を進めています。",
+      "insights": [
+        "医療用ロボットの活用範囲が従来の病院環境から紛争地帯などの極限状況へ拡大し、ロボティクス産業の社会的責任が問われている",
+        "手術用ロボットの移動性（飛行化・モジュール化）は、へき地医療やDMATなどの緊急医療体制の強化に貢献する可能性がある",
+        "運用インフラの制約がある地域での医療提供を実現するため、ロボットシステムの小型化・軽量化・自律性向上が次世代の開発課題として位置づけられている"
+      ]
+    }
+  },
+  {
     "title": "베트남 '빈로보틱스', 휴머노이드 로봇 플랫폼 'VR-H3' 선보여",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=46722",
     "published": "2026-06-04 17:38:29",
