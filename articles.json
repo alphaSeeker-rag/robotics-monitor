@@ -1,5 +1,68 @@
 [
   {
+    "title": "Why deterministic real-time systems are more critical than ever in robotics",
+    "link": "https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/",
+    "published": "Fri, 05 Jun 2026 18:49:11 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-05 22:12:55",
+    "ai_summary": {
+      "title_ja": "ロボティクスにおいて決定論的リアルタイムシステムがこれまで以上に重要な理由",
+      "summary": "Winston Leungは、QNXのロボティクスとAIにおける役割について、安全性、イノベーション、業界トレンドに焦点を当てて論じています。決定論的リアルタイムシステムはロボット制御の予測可能性と信頼性を確保する上で不可欠です。",
+      "insights": [
+        "決定論的リアルタイムシステムは、ロボットの安全性と動作の予測可能性を保証し、産業用途での信頼性向上に直結する",
+        "QNXのようなリアルタイムOSは、AI処理とセンサーデータの同期的な統合を実現し、ロボットの自律性向上を支援する",
+        "ロボティクス業界における安全規制の厳格化により、決定論的システムアーキテクチャの採用が競争力確保の必須要件となっている"
+      ]
+    }
+  },
+  {
+    "title": "GENISOM AI debuts deployable robotics platforms at ICRA 2026",
+    "link": "https://www.therobotreport.com/genisom-ai-debuts-deployable-robotics-platforms-icra-2026/",
+    "published": "Fri, 05 Jun 2026 15:30:40 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-05 22:12:58",
+    "ai_summary": {
+      "title_ja": "GENISOM AIがICAA 2026で展開可能なロボティクスプラットフォームを発表",
+      "summary": "GENISOM AIは国際会議ICRA 2026で、コンセプト段階ではない実用的なロボティクスプラットフォームを発表した。同社は国際的には新興企業と認識されているが、すでに実装・展開可能な製品を保有している。この発表は、ロボティクス業界における新規プレイヤーの成熟度と実装レディネスの重要性を示唆している。",
+      "insights": [
+        "GENISOM AIは概念実証段階を超えて、実際に展開可能なロボティクスプラットフォームを有する成熟した企業として位置付けられている",
+        "国際的な主流認識と実際の技術成熟度のギャップが存在し、新興ロボティクス企業の市場浸透にはより多くの国際的プレゼンスが必要",
+        "ICRA 2026での発表は、エンタープライズ向けロボティクスソリューションの実用化・商用化が加速している証拠"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
+    "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
+    "published": "Fri, 05 Jun 2026 15:30:01 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "Physical AI",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-06-05 22:13:03",
+    "ai_summary": {
+      "title_ja": "ビデオ金曜日: 階段を転ばずに走り降りるロボットを見よう",
+      "summary": "IEEE Spectrumが厳選したロボティクス関連動画の週間集約。階段を走り降りる人型ロボットの動的バランス制御や転倒回避機能が紹介されている。Deep RoboticsとDARoS Labによる異なるアプローチの動画が掲載され、MPC(モデル予測制御)ベースのバランスコントローラーの実用性が示唆されている。",
+      "insights": [
+        "MPC(モデル予測制御)ベースのバランスコントローラーが複雑な不整地環境での動的安定性を実現し、実用的な人型ロボット開発に向けた重要な技術進展である",
+        "GENE01のように複数の下半身オプションと物理AIを組み合わせた拡張性設計により、汎用的なロボットプラットフォームの量産化が進展している",
+        "階段下降などの高難度動作の動画公開は、ロボティクス企業の信頼醸成と技術ベンチマーキングの手段として機能しており、業界全体の競争と革新を加速させている"
+      ]
+    }
+  },
+  {
     "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
     "link": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
     "published": "Fri, 05 Jun 2026 05:38:37 +0000",
