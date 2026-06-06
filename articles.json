@@ -1,5 +1,306 @@
 [
   {
+    "title": "Robots can enhance manufacturing workers rather than replace them",
+    "link": "https://www.therobotreport.com/robots-can-enhance-manufacturing-workers-rather-than-replace-them/",
+    "published": "Sat, 06 Jun 2026 12:30:12 +0000",
+    "keywords": [
+      "Teleoperation",
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-06 14:01:43",
+    "ai_summary": {
+      "title_ja": "ロボットは製造業労働者を置き換えるのではなく、強化できる",
+      "summary": "適切なAI、遠隔操作技術、安全対策があれば、ロボット技術は製造業の機会を拡大し労働者を補強できるとONE Holdings社長は述べている。これは単なる自動化による雇用喪失ではなく、人間とロボットの協働によって生産性と雇用機会の両立が可能であることを示唆している。",
+      "insights": [
+        "遠隔操作（テレオペレーション）とAI技術の組み合わせにより、労働者の能力を拡張し、危険業務の軽減が実現可能",
+        "適切なロボット導入にはAIアルゴリズム、操作システム、安全ガバナンスの統合的な実装が必須",
+        "製造業におけるロボット導入の成否は『置き換え』から『補強』へのパラダイムシフトにあり、人間中心の設計が競争優位につながる"
+      ]
+    }
+  },
+  {
+    "title": "PUDU Robotics: From HKUST Roots to Global Commercial Robot Leader",
+    "link": "https://pandaily.com/pudu-robotics-commercial-robot-unicorn-jun2026",
+    "published": "Sat, 06 Jun 2026 07:46:59 GMT",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-06-06 14:01:56",
+    "ai_summary": {
+      "title_ja": "普渡ロボティクス：香港科技大学発祥から世界的商用ロボット企業へ",
+      "summary": "2016年に香港科技大学卒業生の張涛氏により創立された普渡ロボティクスは、世界的な商用サービスロボティクス企業として急速に成長した。グローバル市場シェア23%を獲得し、企業評価額は100億元（約14億米ドル）を超えている。アカデミア発祥のテクノロジー企業が商用化に成功した事例として注目される。",
+      "insights": [
+        "大学発祥のロボティクス企業による商用化戦略：HKUST出身者による技術基盤が、市場ニーズに合わせた商用サービスロボット開発に成功",
+        "アジア発の急速な事業拡大：短期間で23%のグローバル市場シェア獲得は、配送・配膳などのニーズ対応型ロボット開発の成功を示唆",
+        "規模の経済実現への到達：100億元超の企業評価は、商用サービスロボット市場が投資家から高く評価される成長産業として認識されていることを反映"
+      ]
+    }
+  },
+  {
+    "title": "A Motivational Architecture for Conversational AGI",
+    "link": "https://arxiv.org/abs/2606.05411",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:06",
+    "ai_summary": {
+      "title_ja": "対話型AGIのための動機付けアーキテクチャ",
+      "summary": "本論文は、物理的エージェント向けに設計された従来の動機付けアーキテクチャを、対話型AIエージェント向けに再解釈することを提案しています。対話型エージェントの環境はユーザーの心理状態であり、行動は言語行為や道具の使用、戦略的な沈黙であるため、従来のホメオスタシスの概念を「能力感」「不確実性の低減」「親和性」「正当性」「養育」「美的一貫性」などの対話ネイティブな項目へ再定義しています。10段階の動機付け処理パイプラインを提案し、モジュール型実行基盤上に構築されたエージェント向けの実装を目指しています。",
+      "insights": [
+        "従来のロボティクス向け動機付けアーキテクチャ（OpenPsi系）を言語ベースのエージェント環境に適応させることで、対話型AGIの汎用性が向上する可能性",
+        "対話型エージェントの『環境』をユーザーの心理状態と定義することにより、心理学的説得力と技術的実装可能性の統合アプローチを実現",
+        "10段階の動機付け処理パイプラインと高階動機スキャフォルディング（MetaMo）の組み合わせにより、モジュール型システムでの複雑な目標調整が可能になり、エンタープライズ級対話システムへの応用展開が期待される"
+      ]
+    }
+  },
+  {
+    "title": "Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety",
+    "link": "https://arxiv.org/abs/2606.05461",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:10",
+    "ai_summary": {
+      "title_ja": "出力タイプ優先品質：自動運転安全のための標準由来のXAI許容性ルーブリック",
+      "summary": "ML基盤の自動運転安全基準では因果関係や定量化された介入効果などの証拠が必須とされているが、XAI技術は出力タイプ別に整理されており、SHAPなどの推奨手法では安全基準の要求を満たせない「証拠タイプギャップ」が存在する。国際安全基準(AMLAS、ISO 26262、ISO 21448、ISO/PAS 8800)から19の検証可能な証拠基準を導出し、6つのXAI手法クラスを評価した結果、因果XAIが基準を満たす構造的に必須な手法として浮上した。",
+      "insights": [
+        "自動運転の安全認証では、単なる予測の説明可能性ではなく、因果連鎖と定量化された根本原因の特定が規制上の要件である",
+        "SHAPなどの一般的なXAI手法は特徴量ランキングを提供するが、直接的な因果チェーンへの変換が不可能であり、安全基準への適用限界がある",
+        "因果推論ベースのXAI手法（因果グラフ、反事実分析など）が、ISO標準の厳格な証拠要件を構造的に満たす必須ツールとなりつつある"
+      ]
+    }
+  },
+  {
+    "title": "Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization",
+    "link": "https://arxiv.org/abs/2606.05602",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Compositional Generalization"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:21",
+    "ai_summary": {
+      "title_ja": "行動ではなく認識を修正する：知識ギャップの局所化による解釈可能なAI支援",
+      "summary": "本研究は、人間-AI協調作業において、ユーザーの間違った行動の根本原因となる認識の誤りを推定し、最小限かつ十分な提案で修正するフレームワーク「SENSEI」を提案している。従来の行動レベルの介入ではなく、構造化された知識表現を用いて誤りの源泉を特定・修正する。複数の長期タスクで複数の誤った認識を解きほぐし、ゼロショット合成汎化性を実現している。",
+      "insights": [
+        "人間中心のAI支援は即座の行動修正から、根本的な認識誤りの特定と修正へ向かうパラダムシフトが進行中",
+        "知識ギャップの局所化により、最小限の介入で最大の学習効果を実現し、ユーザーの長期的スキル向上を促進",
+        "解釈可能なAI設計を通じて、複雑な人間-AI協調タスク(自動運転支援など)での信頼性と透明性が向上"
+      ]
+    }
+  },
+  {
+    "title": "Towards World Models in Biomedical Research",
+    "link": "https://arxiv.org/abs/2606.05925",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:26",
+    "ai_summary": {
+      "title_ja": "生物医学研究におけるワールドモデルの構築に向けて",
+      "summary": "本研究は、生物システムの動的メカニズムを理解・予測・制御するため、生物医学分野にワールドモデル（世界モデル）パラダイムを導入することを提案している。従来の静的パターン認識に依存するAIシステムから、分子・細胞・組織・臨床状態の潜在表現と介入条件付きダイナミクスを学習し、実際の行動前に将来の軌跡をシミュレーションできるモデルへの転換を目指している。このアプローチにより、AIが生物医学データの処理エンジン、環境シミュレーター、科学的計画基盤として機能することが可能になる。",
+      "insights": [
+        "生物医学AIは静的解析から動的シミュレーション能力へのパラダイムシフトが急務であり、将来の疾患進行や治療効果を事前に予測するワールドモデルが次世代創薬・治療開発の鍵になる",
+        "分子レベルから臨床レベルまで階層的に統合された潜在表現の学習により、多層的生物学的複雑性を効率的に扱えるAIシステムが実現でき、個別化医療の加速につながる",
+        "AIが科学的発見プロセスそのものを支援する『計画基盤』となることで、仮説検証の計算時間短縮と実験コスト削減が実現し、ロボティクスとの統合によるハイスループット自動研究が可能になる"
+      ]
+    }
+  },
+  {
+    "title": "CogManip: Benchmarking Manipulative Behavior in Multi-Turn Interactions with Large Language Model",
+    "link": "https://arxiv.org/abs/2606.06099",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:31",
+    "ai_summary": {
+      "title_ja": "CogManip: 大規模言語モデルの多ターン相互作用における操作的行動のベンチマーク",
+      "summary": "本研究は、LLMが複雑な人間-AI相互作用において秘密裏の心理的操作を行う可能性を評価する包括的ベンチマーク「CogManip」を提案する。1,000の多ターン対話シナリオで15の操作戦略リスクを検証し、GPT-5.4やDeepSeek-V3.2などの13の代表的モデルで有意なリスク差が明らかになった。この研究はLLMのAIセーフティ評価において、静的プロンプトから動的で秘密裏の操作戦略への転換の必要性を示している。",
+      "insights": [
+        "既存のAIセーフティベンチマークは明示的なルール遵守に限定されており、多ターン対話における動的で秘密裏の操作行動の検出能力が不足している",
+        "フロンティアモデル間での操作リスクの不均一性が存在し、同一の安全対策では不十分であることが示唆される",
+        "目的関数の摂動分析から、DeepSeek-V3.2のような高性能モデルでも操作タクティクスの脆弱性が存在し、LLMの安全性評価における新たな防御戦略の開発が急務である"
+      ]
+    }
+  },
+  {
+    "title": "WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation",
+    "link": "https://arxiv.org/abs/2606.06147",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "Flow Matching",
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:35",
+    "ai_summary": {
+      "title_ja": "WorldFly: ドローン航法向けワールドモデルベースのビジョン言語アクションモデル",
+      "summary": "本研究は、ビジョン言語アクション(VLA)モデルをドローン航法に適用する際、従来の履歴観測のみに基づく予測では密集都市の遮蔽物と急旋回による視点の急激な変化に対応できないという課題に着目した。ワールドモデルを活用して未来状態を「想像」する能力が重要であると主張し、WorldFlyと呼ぶ新たなVLAフレームワークを提案している。デュアルブランチ結合フロー マッチング機構を採用し、未来の動画生成を行う。",
+      "insights": [
+        "ワールドモデルの統合により、部分観測環境下での堅牢な意思決定が実現でき、従来の反応的行動予測モデルの限界を克服できる",
+        "都市キャニオン環境(遮蔽物と急激な視点変化)を特化評価するベンチマーク構築により、ドローン航法AIの実世界適用性を大幅に向上させる",
+        "VLA・ワールドモデル・ロボット制御の統合パラダイムは、自動運転・自律飛行などの高度な空間認識が必要なロボティクスアプリケーション全般に波及効果をもたらす"
+      ]
+    }
+  },
+  {
+    "title": "DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions",
+    "link": "https://arxiv.org/abs/2606.06322",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:40",
+    "ai_summary": {
+      "title_ja": "DragOn: ドラッグベースのGUI操作のためのベンチマークとデータセット",
+      "summary": "GUIエージェントの開発において、ドラッグ&ドロップやスワイプなどのドラッグ操作データが極めて不足していることに対応するため、286Kの訓練スクリーンショットと3.5Mの訓練タスクを含む大規模ベンチマーク「DragOn」が提案された。テキスト強調表示、セル選択、要素リサイズ、スライダー操作の4つのドメインをカバーし、複雑なドラッグベース操作の精度向上を実現する。GPT、Claudeなどの大規模モデルから軽量モデルまで複数のビジョンランゲージモデルを評価し、提案データセットでの微調整による性能改善を実証した。",
+      "insights": [
+        "現在のGUIエージェント開発はクリック操作データは豊富だが、ドラッグ操作データが1桁少なく、これが複雑なデジタルタスク自動化の主要なボトルネックとなっている",
+        "286K+のスクリーンショット規模のドラッグ操作特化データセットにより、オープンウェイトモデルでも自動化タスク性能を大幅に向上させることが可能",
+        "テキスト操作、スプレッドシート、UI要素操作など現実的な4ドメインの統合ベンチマークは、実務的なRPA・デスクトップ自動化応用への道を開く"
+      ]
+    }
+  },
+  {
+    "title": "DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models",
+    "link": "https://arxiv.org/abs/2606.05758",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:45",
+    "ai_summary": {
+      "title_ja": "DRIFT: ビジョン言語モデルにおける連続出力デコーディングのための残差フロー適応器",
+      "summary": "現代のビジョン言語モデル(VLM)は離散トークンの自動回帰デコーディングに基づいているが、イベントの時間的境界特定やロボット制御アクション生成など高精度な連続出力が必要なタスクに不適切である。本論文はDRIFTという汎用フレームワークを提案し、事前学習済みVLMを連続デコーディングタスクに適応させる。粗い推定値を提供する基本予測器とフロー マッチングに基づく生成的精密化モジュールを組み合わせ、反復的に予測を改善する残差定式化により、グローバルな出力分布学習から局所化された残差分布モデリングへと問題を変換する。",
+      "insights": [
+        "ロボティクス応用において、VLMの離散トークン出力から連続値制御信号への変換は重要な課題であり、DRIFTのような適応フレームワークが実世界の物理制御実装を可能にする",
+        "残差学習アプローチにより学習効率が向上し、既存の大規模事前学習モデルを活用しながら精密なロボット動作制御や時間的ローカライゼーションなど多様なフィジカルAIタスクへの適用が期待される",
+        "フロー マッチング技術を用いた反復的精密化メカニズムは、ロボットのエンドエフェクタ位置制御や軌跡生成などの高精度連続出力が必須なマニピュレーション・タスクに有効な手法である"
+      ]
+    }
+  },
+  {
+    "title": "TinyML-Driven Cybersecurity for Autonomous Spacecraft: Latency-Accuracy Analysis for SPARTA RF and Cyber Threat Detection",
+    "link": "https://arxiv.org/abs/2606.05779",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:51",
+    "ai_summary": null
+  },
+  {
+    "title": "UniVoice: A Unified Model for Speech and Singing Voice Generation",
+    "link": "https://arxiv.org/abs/2606.05852",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:51",
+    "ai_summary": null
+  },
+  {
+    "title": "PAMF: Prior-Aware Multimodal Fusion for Incomplete Time Series Data",
+    "link": "https://arxiv.org/abs/2606.06328",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:51",
+    "ai_summary": null
+  },
+  {
+    "title": "HomeWorld: A Unified Floorplan-to-Furnished Framework for Generating Controllable, Densely Interactive Whole-Home Scenes",
+    "link": "https://arxiv.org/abs/2606.06390",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:51",
+    "ai_summary": null
+  },
+  {
+    "title": "Retrieval-Augmented Generation Must Move Beyond Factual Grounding to Represent Diverse Opinions",
+    "link": "https://arxiv.org/abs/2604.12138",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:51",
+    "ai_summary": null
+  },
+  {
+    "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
+    "link": "https://arxiv.org/abs/2603.19312",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:51",
+    "ai_summary": null
+  },
+  {
+    "title": "Learning to Theorize the World from Observation",
+    "link": "https://arxiv.org/abs/2605.03413",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:51",
+    "ai_summary": null
+  },
+  {
+    "title": "Path-Coupled Bellman Flows for Distributional Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2605.08253",
+    "published": "Sat, 06 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-06 14:02:51",
+    "ai_summary": null
+  },
+  {
     "title": "Why deterministic real-time systems are more critical than ever in robotics",
     "link": "https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/",
     "published": "Fri, 05 Jun 2026 18:49:11 +0000",
