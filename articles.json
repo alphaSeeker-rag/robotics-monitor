@@ -1,5 +1,37 @@
 [
   {
+    "title": "パトレイバー大好きマンガ家が新作「EZY」を見たら、フィジカルAIな近未来にノスタルジーを感じた件",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/07/news016.html",
+    "published": "Sun, 07 Jun 2026 07:14:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia NEWS",
+    "flag": "JP",
+    "detected_at": "2026-06-07 14:12:07",
+    "ai_summary": null
+  },
+  {
+    "title": "“혹한·폭염에도 거뜬…변전소의 궂은 일은 휴머노이드에 맡겨라”",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=46751",
+    "published": "2026-06-07 20:02:53",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-06-07 14:12:12",
+    "ai_summary": {
+      "title_ja": "極寒・猛暑にも対応…変電所の過酷業務はヒューマノイドロボットに任せよ",
+      "summary": "中国のディープロボティクスが開発したヒューマノイドロボット『DR02』が、極端な気象条件下での変電所業務テストに成功した。IP66等級の防水・防塵機能を備えたこのロボットは、マイナス20℃の雪氷環境から55℃の猛暑環境まで安定稼働し、消火器運搬や精密制御作業といった複雑な産業業務を実行可能である。",
+      "insights": [
+        "過酷環境対応の工業用ヒューマノイドが実用段階へ進展：防水防塵や極限温度耐性が実装され、危険・不快な環境での人間労働の代替が現実化している",
+        "デュアルタスク実行能力の確立：消火器運搬などの力仕事と変電所の精密制御作業の両立により、汎用性の高い産業用ロボットとしての地位が確立されつつある",
+        "東アジアのロボティクス産業競争激化：中国企業による実用的なヒューマノイド開発が進行中であり、日本のロボット産業にとって競争環境の変化を意味する"
+      ]
+    }
+  },
+  {
     "title": "Robots can enhance manufacturing workers rather than replace them",
     "link": "https://www.therobotreport.com/robots-can-enhance-manufacturing-workers-rather-than-replace-them/",
     "published": "Sat, 06 Jun 2026 12:30:12 +0000",
