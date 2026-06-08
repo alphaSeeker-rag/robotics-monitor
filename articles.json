@@ -1,5 +1,421 @@
 [
   {
+    "title": "Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation",
+    "link": "https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/",
+    "published": "Mon, 08 Jun 2026 14:16:34 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI",
+      "embodied AI",
+      "manipulation"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-08 16:11:45",
+    "ai_summary": {
+      "title_ja": "Daimon RoboticsとGalbotが触覚知覚と器用な操作のベンチマーク用「RobOmni」を共同発表",
+      "summary": "Daimon RoboticsとGalbotは、触覚知覚と器用な操作能力を評価するための新しいベンチマークプラットフォーム「RobOmni」を共同開発・発表した。このプロジェクトは、ロボティクスにおけるPhysical AIが、従来のビジョン中心の知覚から物理的な相互作用の知覚へシフトしていることを示している。",
+      "insights": [
+        "Embodied AIの進化：視覚中心から触覚を含むマルチモーダル知覚へのパラダイムシフトが加速している",
+        "ベンチマーク標準化の重要性：触覚フィードバックと器用な操作の評価指標が、Physical AIの実用化に必須となっている",
+        "業界協力の拡大：複数企業によるベンチマーク開発は、ロボティクス産業全体の技術的成熟度を高める標準化動向を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+    "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+    "published": "Mon, 08 Jun 2026 03:00:50 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-06-08 16:11:49",
+    "ai_summary": {
+      "title_ja": "NVIDIAとLGグループがPhysical AI、モビリティ、AI インフラを推進するAIファクトリーを構築",
+      "summary": "NVIDIAとLGグループが、ロボティクス、自動運転、データセンター技術、GPUクラウドサービスなど複数事業領域を対象としたAIファクトリーを共同構築する。このAIファクトリーはLGグループのAI駆動型ビジネスを加速するため、学習、シミュレーション、検証、デプロイメント向けの高速コンピューティングインフラを提供する。",
+      "insights": [
+        "Physical AIの実現にはGPUベースの高度なコンピューティングインフラが必須で、NVIDIAとLGの連携はロボティクスと自動運転技術の商用化を大幅に加速する可能性がある",
+        "大手エレクトロニクスメーカーが自社AI開発のために専用のAIファクトリーを構築する動きが広がり、垂直統合型のAI開発が産業標準化していく傾向を示唆している",
+        "ロボティクス、自動運転、データセンターなど複数の物理系AI領域を統合的に開発・展開することで、相互にシナジーを生み出し、LGグループの次世代事業の競争力強化につながる"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+    "link": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+    "published": "Sun, 07 Jun 2026 23:00:36 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-06-08 16:11:54",
+    "ai_summary": {
+      "title_ja": "NVIDIAとDoosanグループが物理AIおよびAIファクトリインフラストラクチャの推進で協業",
+      "summary": "NVIDIAとDoosanグループは、ロボティクス、産業オートメーション、電力生成、先進電子材料にわたる物理AIの機会を拡大するための協業を展開する。この協業はNVIDIAのフルスタック加速コンピューティングプラットフォームとDoosanグループの産業オートメーション技術を組み合わせることで、次世代工場インフラの構築を実現する。",
+      "insights": [
+        "物理AIの実用化が産業用ロボットと製造インフラに統合される段階へ移行し、Doosan傘下の複数事業領域での展開が加速される",
+        "NVIDIA GPUコンピューティングと産業機械メーカーの深度な協業により、エッジAIと自動化の実装障壁が低下し、中堅製造業への普及が促進される可能性",
+        "AIファクトリインフラ構想が具体的なパートナーシップで推進されており、スマートファクトリー市場における技術規格形成と競争優位の確保が進行中"
+      ]
+    }
+  },
+  {
+    "title": "日立とIntelがフィジカルAI加速に向けて戦略的協業を発表",
+    "link": "https://gigazine.net/news/20260608-hitachi-intel/",
+    "published": "Mon, 08 Jun 2026 11:05:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-06-08 16:12:02",
+    "ai_summary": null
+  },
+  {
+    "title": "유니트리 휴머노이드 로봇, 세계 최고봉 에베레스트 등정에 도전한다",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=46771",
+    "published": "2026-06-08 11:09:29",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-06-08 16:12:05",
+    "ai_summary": {
+      "title_ja": "ユニトリー휴머노イド로봇、エベレスト登頂に挑戦 - 극限環境での自律性を検証",
+      "summary": "ユニトリー・ロボティクスのG1휴머노イドロボットが、エベレスト登頂に向けた準備として、エクアドル最高峰チンボラソ山(標高約6,200m)の登頂に成功した。このプロジェクト・ペンバ遠征隊による取り組みは、極限環境におけるロボットの自律性と機動性を検証することを目的としている。世界で最も過酷な環境でのロボット性能試験を実施している。",
+      "insights": [
+        "実世界の極限環境(高山)でのロボット自律走行能力の実証が進展し、フィジカルAIの実用化段階へ移行している",
+        "ユニトリーG1などの人型ロボットが単なる屋内デモから、実際の環境課題解決へシフトしており、ロボティクス企業の技術信頼性確立戦略として機能している",
+        "高所での酸素不足、低温、不規則な地形など複合的な悪条件での機械学習・適応制御の進化が、次世代AIロボットの商用化を加速させる可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "인아그룹, 19일 ‘인아 로보틱스 랩 데이’ 개최…도입장벽 낮추기 나서",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=46770",
+    "published": "2026-06-08 10:22:16",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-06-08 16:12:09",
+    "ai_summary": {
+      "title_ja": "インアグループ、6月19日に「インア ロボティクス ラボ デー」開催…ロボット導入の障壁低下を推進",
+      "summary": "インアグループは6月19日にソウルオフィスのロボットラボでロボット導入イベントを開催し、顧客が感じるロボット導入の障壁を低下させることを目指す。インアオリエンタルモーター、インアテックアンドコーポ、インアMCTが共同主催し、小型ロボット「KOVR」、半導体ウェーハ搬送ロボット「JEL」、ドゥサンロボティクスの協働ロボットを展示する。このイベントは産業用ロボットの自動化導入を支援するための企業向け展示会である。",
+      "insights": [
+        "韓国のロボティクス企業が導入障壁の低下に注力しており、顧客教育とハンズオン体験が市場拡大の鍵となっている",
+        "小型ロボット、半導体搬送ロボット、協働ロボットなど多様な用途別ロボット展示により、幅広い産業への適用可能性を示唆している",
+        "複数の関連企業による共同開催方式により、エコシステム構築とワンストップソリューション提供の戦略が進行中である"
+      ]
+    }
+  },
+  {
+    "title": "CSC Financial: Construction Machinery Exceeds Expectations in May, Unitree IPO Clears Review, Boosting Humanoid Robot Sector",
+    "link": "https://pandaily.com/csc-financial-unitree-ipo-construction-machinery-jun2026",
+    "published": "Mon, 08 Jun 2026 01:48:36 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-06-08 16:12:16",
+    "ai_summary": {
+      "title_ja": "CSC Financial：5月の建設機械が予想超過、ユニトリーのIPO審査クリア、ヒューマノイドロボット産業を牽引",
+      "summary": "CSC Financialが5大産業セクターに関する包括的調査報告書を発表し、ユニトリーのIPO達成によるヒューマノイドロボット産業の加速と、5月の建設機械販売の予想超過が主要テーマとなっている。ヒューマノイドロボット分野における産業資本の流入が加速し、市場期待が急速に高まっている。建設機械と先端ロボティクスの好調が、重機・自動化産業全体の成長トレンドを示唆している。",
+      "insights": [
+        "ユニトリーのIPO承認により、ヒューマノイドロボット分野への機関投資家による資本流入が加速し、商用化への道が開かれた",
+        "5月の建設機械の販売好調は、インフラ需要の堅調性とロボット化による生産効率向上の期待を反映している",
+        "ヒューマノイドロボットと建設機械の同時好調は、産業オートメーション・フィジカルAI分野における総合的な市場拡大を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "AEGIS: A Backup Reflex for Physical AI",
+    "link": "https://arxiv.org/abs/2606.06660",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Physical AI",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:25",
+    "ai_summary": {
+      "title_ja": "AEGIS: 物理AIのためのバックアップ反射機構",
+      "summary": "長期的なロボット操作タスクにおいて、一度の失敗が連鎖的に状態を悪化させる問題に対し、AEGISという選択的エスカレーション方法を提案している。弱いポリシーの活性化パターンを軽量なプローブで監視し、高リスクステップを事前検出して強いポリシーに制御を切り替える仕組みである。LIBERO-Spatialテストで弱いポリシー単独では失敗する軌跡の10.1%を回復し、従来手法を上回る成果を実証している。",
+      "insights": [
+        "予測的な失敗検知により、事後対応ではなく事前防止的なロボット制御が可能になり、ロボティクスの信頼性・安全性向上に直結する",
+        "軽量プローブによる選択的ポリシースイッチングは計算コスト効率が高く、複数ポリシー並列運用の現実的実装パスを提示している",
+        "長期タスク実行時の状態空間からの逃脱不可能性（basin問題）という根本課題への統計的・学習ベースのアプローチが、物理AIシステムの堅牢性設計の新しい標準となる可能性を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective",
+    "link": "https://arxiv.org/abs/2606.07017",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:30",
+    "ai_summary": {
+      "title_ja": "ファンデーションモデルエージェントのシミュレーション・実世界ギャップ：統一されたMDP視点",
+      "summary": "ファンデーションモデルエージェントが実世界で展開される際に生じるシミュレーション・実世界ギャップの問題を、マルコフ決定過程（MDP）の4要素（観測、行動、遷移、報酬）を用いて形式化した研究。ロボティクスの古典的な問題解決フレームワークをファンデーションモデル領域に応用し、ドメインランダミゼーションなどの確立された手法の導入を提唱している。",
+      "insights": [
+        "ファンデーションモデルコミュニティが独立した課題として扱っているロボティクスエージェントの堅牢性問題は、実はロボティクス分野で数十年にわたり解決されてきた古典的なシム・トゥ・リアルギャップの問題であり、学際的知見の活用が重要",
+        "観測層（多言語ツール呼び出しなど）から報酬設計まで、MDPの4要素すべてがファンデーションモデルエージェントの実装ギャップの源となり得る包括的なフレームワークが必要",
+        "ドメインランダミゼーションなど古典制御理論で検証済みの手法をファンデーションモデルエージェントに適用することで、実世界デプロイメントの信頼性と汎化性能を向上させられる可能性が高い"
+      ]
+    }
+  },
+  {
+    "title": "Zero-Shot Embedding Drift Detection: A Lightweight Defense Against Prompt Injections in LLMs",
+    "link": "https://arxiv.org/abs/2601.12359",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:36",
+    "ai_summary": {
+      "title_ja": "ゼロショット埋め込みドリフト検出：LLMのプロンプトインジェクション攻撃に対する軽量防御",
+      "summary": "本論文は、LLMアプリケーションへのプロンプトインジェクション攻撃を検出するZEDD（Zero-Shot Embedding Drift Detection）フレームワークを提案している。このフレームワークは、埋め込み空間における意味的シフトを定量化することで、直接的および間接的なプロンプトインジェクション試行を特定する。モデルの内部アクセスを必要とせず、軽量で汎用的な防御メカニズムを実現できる。",
+      "insights": [
+        "モデル内部にアクセスせずに動作する外部検証フレームワークにより、既存のLLMに対する汎用的で低コストな防御が可能になる",
+        "埋め込み空間のドリフト検出という手法は、直接入力だけでなくメールやユーザー生成コンテンツなどの間接チャネルからの攻撃にも対応できる",
+        "モデル固有のパッチに依存しない汎化可能な検出メカニズムにより、LLM安全性のスケーラブルな防御戦略が実現可能となる"
+      ]
+    }
+  },
+  {
+    "title": "A Geometric Gaussian Mixture Representation of Plane Curves",
+    "link": "https://arxiv.org/abs/2606.06505",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:39",
+    "ai_summary": {
+      "title_ja": "平面曲線のガウス混合表現の幾何学的アプローチ",
+      "summary": "本研究は、平面曲線の確率的多角形表現を提案しており、曲線上の頂点を選択して線分で結びながら、各線分に法線方向の不確実性パラメータを付与している。各セグメントは接線方向に均一分布し法線方向にガウス分布する確率変数として定義され、一次・二次中心モーメントの整合により、セグメント中点を平均とするガウス成分を誘導する。",
+      "insights": [
+        "決定論的な1次元曲線表現を確率的フレームワークで拡張することで、不確実性を伴う幾何学的な表現が可能になり、ロボティクスのパス計画やセンサ融合に応用できる",
+        "ガウス混合モデルによる表現は、複数の幾何学的プリミティブを統計的に扱えるため、3次元認識や曲線マッチング問題への展開が期待できる",
+        "ユーザー定義の不確実性パラメータにより、曲線の離散化精度と確率的な柔軟性のトレードオフを制御でき、リアルロボットの動作計画に実装可能な手法である"
+      ]
+    }
+  },
+  {
+    "title": "Direct 3D-Aware Object Insertion via Decomposed Visual Proxies",
+    "link": "https://arxiv.org/abs/2606.06601",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?",
+    "link": "https://arxiv.org/abs/2606.06627",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation",
+    "link": "https://arxiv.org/abs/2606.06761",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation",
+    "link": "https://arxiv.org/abs/2606.06836",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation",
+    "link": "https://arxiv.org/abs/2606.07036",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "An Abstract Architecture for Explainable Autonomy in Hazardous Environments",
+    "link": "https://arxiv.org/abs/2606.07211",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "When Large Language Models Fail in Healthcare: Evaluating Sensitivity to Prompt Variations",
+    "link": "https://arxiv.org/abs/2606.07237",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Agentic Physical AI toward a Domain-Specific Foundation Model for Energy Systems: A Case Study on Nuclear Reactor Control",
+    "link": "https://arxiv.org/abs/2512.23292",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "MatterDoor: Sampling Zero-shot Spatio-semantic Priors using Generative Models",
+    "link": "https://arxiv.org/abs/2510.11014",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Endogenous Resistance to Activation Steering in Language Models",
+    "link": "https://arxiv.org/abs/2602.06941",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Chameleon: Control-Indexed Prospective Memory for Visuomotor Manipulation",
+    "link": "https://arxiv.org/abs/2603.24576",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "ViVa: A Video-Generative Value Model for Robot Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2604.08168",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "MidSteer: Optimal Affine Framework for Steering Generative Models",
+    "link": "https://arxiv.org/abs/2605.05220",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2605.24011",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Autoregression-Free Neural Operators for Time-Dependent PDEs",
+    "link": "https://arxiv.org/abs/2605.25413",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Reinforcement Learning from Rich Feedback with Distributional DAgger",
+    "link": "https://arxiv.org/abs/2606.05152",
+    "published": "Mon, 08 Jun 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-06-08 16:12:44",
+    "ai_summary": null
+  },
+  {
     "title": "パトレイバー大好きマンガ家が新作「EZY」を見たら、フィジカルAIな近未来にノスタルジーを感じた件",
     "link": "https://www.itmedia.co.jp/news/articles/2606/07/news016.html",
     "published": "Sun, 07 Jun 2026 07:14:00 +0900",
