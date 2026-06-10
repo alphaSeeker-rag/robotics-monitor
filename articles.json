@@ -1,5 +1,39 @@
 [
   {
+    "title": "NEURA Robotics to raise up to $1.4B in Series C funding for physical AI",
+    "link": "https://www.therobotreport.com/neura-robotics-raise-up-1-4b-in-series-c-funding-physical-ai/",
+    "published": "Wed, 10 Jun 2026 16:06:09 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-10 22:50:01",
+    "ai_summary": {
+      "title_ja": "NEURA RoboticsがフィジカルAIで最大14億ドルのシリーズC資金調達を実施",
+      "summary": "NEURA RoboticsはシリーズC資金調達で最大14億ドルの調達を計画している。同社はロボット学習プラットフォームの拡大とヒューマノイドを含むロボットシステムのグローバル生産拡大を目指している。この資金調達はフィジカルAI分野における企業の成長と市場拡大の加速を示唆している。",
+      "insights": [
+        "フィジカルAI分野への大規模資金流入が加速しており、ヒューマノイドロボット開発が産業化段階に進展していることを示唆",
+        "ロボット学習プラットフォームの構築と製造基盤の拡大が企業の重要な戦略であり、AI×ロボティクスの実装化が進行中",
+        "14億ドルの大規模調達は、フィジカルAI企業が投資家から高い評価を受けていることを示し、市場成熟度の上昇を反映している"
+      ]
+    }
+  },
+  {
+    "title": "日立のCIセクターは売上高全てをフィジカルAI事業へ、独自エッジAI半導体で強化",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/11/news060.html",
+    "published": "Thu, 11 Jun 2026 06:15:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-06-10 22:50:09",
+    "ai_summary": null
+  },
+  {
     "title": "Robotics will not have a clean Llama moment",
     "link": "https://www.therobotreport.com/robotics-will-not-have-a-clean-llama-moment/",
     "published": "Wed, 10 Jun 2026 13:13:14 +0000",
