@@ -1,5 +1,37 @@
 [
   {
+    "title": "Hello Robot is recognized by World Economic Forum as a tech pioneer",
+    "link": "https://www.therobotreport.com/hello-robot-is-recognized-by-world-economic-forum-as-a-tech-pioneer/",
+    "published": "Thu, 11 Jun 2026 21:24:03 +0000",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-11 22:48:56",
+    "ai_summary": {
+      "title_ja": "ハロー・ロボットが世界経済フォーラムから技術パイオニアとして認定される",
+      "summary": "ハロー・ロボットは、モバイルマニピュレーション（移動型ロボットアーム）システム「Stretch」により、世界経済フォーラムから技術パイオニアとして認定されました。同システムは高齢者と身体障害者の生活支援を実現する技術として評価されています。これは医療・介護分野におけるロボティクスの社会的インパクトが国際的に認識されたことを示しています。",
+      "insights": [
+        "高齢化社会における介護ロボット需要が高まる中、実用的なモバイルマニピュレーション技術が市場的・社会的価値を獲得している",
+        "世界経済フォーラムの認定により、フィジカルAIが単なる技術革新ではなく『社会課題解決型イノベーション』として位置づけられている",
+        "障害者支援・バリアフリー分野での自動化ロボットは、エシカルAIとしての重要性が強調され、企業の社会的責任と収益性の両立が可能であることを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "「日本がいないと成り立たない」世界へ、フィジカルAIが導く独自の交渉力",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/12/news049.html",
+    "published": "Fri, 12 Jun 2026 06:45:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-06-11 22:49:03",
+    "ai_summary": null
+  },
+  {
     "title": "Inside XRZero-G0, a new 2,000-hour open dataset for robotics research",
     "link": "https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/",
     "published": "Thu, 11 Jun 2026 12:30:14 +0000",
