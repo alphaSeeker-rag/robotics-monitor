@@ -1,5 +1,91 @@
 [
   {
+    "title": "MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards",
+    "link": "https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/",
+    "published": "Fri, 12 Jun 2026 21:46:47 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-12 22:21:57",
+    "ai_summary": {
+      "title_ja": "MassRobotics、2026年ロボティクスメダルおよびライジングスター賞の受賞者を発表",
+      "summary": "MassRoboticsは2026年のロボティクスメダルとライジングスター賞の受賞者としてAllison OkamuraとAyoung Kimを発表した。これらの賞は、ロボティクス分野における女性の貢献と成就を表彰するものである。",
+      "insights": [
+        "ロボティクス産業における女性研究者・リーダーの活躍と認知が高まっており、多様性推進が業界課題として機能している",
+        "アカデミアと産業界が連携して人材表彰を行うことで、次世代のロボティクス人材育成と女性進出促進を図っている",
+        "MassRoboticsのような業界団体による表彰制度は、ロボティクス分野の人材パイプラインと業界のインクルージョン強化に寄与している"
+      ]
+    }
+  },
+  {
+    "title": "Robotics Summit panel explores the state of humanoid robot design",
+    "link": "https://www.therobotreport.com/robotics-summit-panel-explores-state-humanoid-robot-design/",
+    "published": "Fri, 12 Jun 2026 20:40:37 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-12 22:22:01",
+    "ai_summary": {
+      "title_ja": "ロボティクス・サミットパネルがヒューマノイドロボット設計の現状を探索",
+      "summary": "ロボティクス・サミット&エキスポでは、ヒューマノイドロボティクスの現状と今後の展開について専門家が議論した。特に注目されるのは、将来的に$20,000（約300万円）の価格帯を実現する可能性についての検討である。",
+      "insights": [
+        "ヒューマノイドロボットの商用化には価格低減が重要な課題であり、$20,000程度の価格帯が市場展開の大きなマイルストーンとなる",
+        "業界専門家がヒューマノイドロボット設計の現在地と技術課題について具体的に検討・言及している",
+        "ロボティクス産業は設計、製造コスト削減、実用性のバランスを取ることで、本格的な市場普及段階への移行を目指している"
+      ]
+    }
+  },
+  {
+    "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
+    "link": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
+    "published": "Fri, 12 Jun 2026 18:00:01 +0000",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-06-12 22:22:08",
+    "ai_summary": {
+      "title_ja": "受賞研究者がロボットに「推測」を学ばせる",
+      "summary": "台湾出身のコンピュータ科学者Yen-Ling Kuo氏は、子ども時代にファラデーの話とLogoプログラミングを通じて自然と計算機の力に惹かれた。彼女はコンピュータの独立した問題解決能力に気づき、現在バージニア大学の助教授としてロボティクス分野で活動している。IEEE会員である彼女は、実世界の問題解決にコンピュータを活用することに注力している。",
+      "insights": [
+        "ロボットに確率的推論・不確実性下での意思決定能力を教える研究が進行中で、これはロボットの実環境適応性向上に寄与する",
+        "STEM教育（特にハンズオン学習）が次世代ロボティクス研究者の育成に重要な役割を果たしている",
+        "基礎的なプログラミング概念から始まる段階的な学習が、複雑なAI・ロボティクス問題への取り組みに繋がっている"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors",
+    "link": "https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation",
+    "published": "Fri, 12 Jun 2026 17:00:02 +0000",
+    "keywords": [
+      "Teleoperation",
+      "robotics",
+      "humanoid",
+      "manipulation",
+      "actuator"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-06-12 22:22:12",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：ロボットの動作発見が異なる行動を明らかに",
+      "summary": "IEEE Spectrumが毎週配信するロボティクスビデオコレクション「ビデオフライデー」では、MotionDiscoというフレームワークを紹介しており、このフレームワークはテレオペレーションや人間の動作模倣に依存せず、接触を伴う長期間の人型ロボット移動操作動作をゼロから自動発見する。発見された行動の中には通常では見られない創意的な動作も含まれている。また、運動教室の実施がロボットの全身動作範囲をストレステストする有効な方法となっていることが示されている。",
+      "insights": [
+        "自動動作発見技術（MotionDisco）により、人間演示やテレオペレーション不要で複雑なロボット動作を学習可能な時代が到来",
+        "接触力学を伴う長期間の操作タスク自動化は、ロボティクスの現実応用において大きなブレークスルーとなり得る",
+        "ロボットの全身協調動作開発において、ワークアウトクラスなどの実践的なストレステストが有効な検証手法として機能"
+      ]
+    }
+  },
+  {
     "title": "「人型ロボ世界シェア1位」中国Unitreeに聞く“普及戦略”　日本市場をどう開拓？",
     "link": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
     "published": "Fri, 12 Jun 2026 12:00:00 +0900",
