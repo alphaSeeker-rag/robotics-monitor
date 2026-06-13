@@ -1,5 +1,66 @@
 [
   {
+    "title": "Windows for robots: Edge AI expands usability",
+    "link": "https://www.therobotreport.com/computers-software-windows-utility-robots/",
+    "published": "Sat, 13 Jun 2026 12:30:52 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-13 14:19:07",
+    "ai_summary": {
+      "title_ja": "ロボット向けWindows：エッジAIが利用可能性を拡大",
+      "summary": "Windowsがコンピュータを一般向けに民主化したように、エッジAIはロボティクス分野で同様のアクセシビリティ革命をもたらしている。従来、ロボット開発はエンジニアや計算機科学者に限定されていたが、エッジAI技術により、より広範な利用者がロボット開発に参入できるようになりつつある。",
+      "insights": [
+        "エッジAIがロボット開発の民主化を進展させ、専門知識を持たない人材でも参入可能な環境を創出している",
+        "Windows時代のコンピュータ産業と同様に、ロボティクス産業もプラットフォーム標準化によるアクセシビリティ向上の段階に入っている",
+        "ロボット開発の技術的障壁低下により、市場参入者の多様化と産業のエコシステム拡大が期待される"
+      ]
+    }
+  },
+  {
+    "title": "Visual Language Models Train Robots to Read Human Emotions",
+    "link": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
+    "published": "Sat, 13 Jun 2026 13:00:01 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-06-13 14:19:11",
+    "ai_summary": {
+      "title_ja": "視覚言語モデルがロボットに人間の感情を読み取る能力を訓練する",
+      "summary": "研究者らは視覚言語モデルを用いて、顔表情と相互作用の文脈要因の両方を考慮することで、協働ロボットに人間の感情を読み取る能力を訓練した。40人のボランティアとの実験を通じて、ロボットの感情認識能力と行動調整がヒューマン・ロボット・コラボレーションにおける人間のロボット認知に与える影響を評価した。研究結果は、ロボットの感情能力には人間との相互作用において限界があることを示唆している。",
+      "insights": [
+        "マルチモーダル感情認識：顔表情だけでなく相互作用の文脈を統合することで、ロボットの感情理解精度が向上し、HRI(ヒューマン・ロボット・インタラクション)の質が向上する",
+        "感情能力の限界性：ロボットの感情読み取り能力と行動調整のみでは人間の信頼構築に不十分であり、他の要因（物理的能力、コミュニケーション方式など）の重要性を示唆",
+        "協働ロボット開発への実装課題：産業用ロボットの実用化に向けて、感情認識AIと実際の行動制御の統合が重要な研究課題として浮上"
+      ]
+    }
+  },
+  {
+    "title": "마음AI, 천안시 도시안전망 구축 사업 참여",
+    "link": "https://zdnet.co.kr/view/?no=20260613153105",
+    "published": "Sat, 13 Jun 2026 15:31:05 +0900",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-06-13 14:19:23",
+    "ai_summary": {
+      "title_ja": "マインドAI、天安市都市安全網構築事業に参加",
+      "summary": "フィジカルAI専門企業のマインドAIが天安市と共同で、国産AI半導体（NPU）ベースのオンデバイスAI技術を活用した都市安全網の実証・拡散事業に参加する。四足歩行ロボット『JindoBot』シリーズの公共安全モデル『HAECHI-02』を用いて、河川沿い、公園、散歩道などの安全管理が困難な地域でロボットパトロール・対応システムを構築し、ドローン的アプローチによる主動的な災害対応と市民安全サービスの提供を実現する。",
+      "insights": [
+        "オンデバイスAI推論により、ネットワーク依存性を排除し、低遅延・高信頼性の自律ロボット運用が可能になる",
+        "VLA（Vision-Language-Action）技術により、ロボットが環境認識から意思決定・実行までを統合的に行える汎用性の高い公共安全プラットフォームの実現",
+        "都市安全分野での実装を起点として、施設管理・産業現場・物流・国防など多領域への波及展開が期待される商用化パスの確立"
+      ]
+    }
+  },
+  {
     "title": "MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards",
     "link": "https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/",
     "published": "Fri, 12 Jun 2026 21:46:47 +0000",
