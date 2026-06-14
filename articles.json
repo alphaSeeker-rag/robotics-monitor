@@ -1,5 +1,25 @@
 [
   {
+    "title": "Modernizing the global economy with industrial robotics is needed but not inevitable",
+    "link": "https://www.therobotreport.com/modernizing-global-economy-industrial-robotics-needed-not-inevitable/",
+    "published": "Sun, 14 Jun 2026 14:30:31 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-14 22:06:06",
+    "ai_summary": {
+      "title_ja": "産業用ロボティクスによるグローバル経済の近代化は必要だが必然ではない",
+      "summary": "サービスロボティクスの採用は増加しているが、産業オートメーションはより大きな需要と課題に直面している。産業用ロボットによる経済近代化は必要とされながらも、実現は必然ではなく、採用には技術的・経済的障壁が存在する。",
+      "insights": [
+        "サービスロボティクスと産業用ロボティクスは異なる成長軌跡を描いており、産業用ロボットの普及には多くの障壁が存在する",
+        "産業オートメーションの導入は経済競争力向上に必須だが、政策・投資・インフラの整備が不十分な地域が多い",
+        "グローバルな産業ロボット普及は技術的需要と実装可能性のギャップにより、地域・業種ごとに不均等な進展が予想される"
+      ]
+    }
+  },
+  {
     "title": "8월 베이징 개최 세계 휴머노이드 체육대회, 50개 종목 겨룬다",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=46884",
     "published": "2026-06-14 20:11:49",
