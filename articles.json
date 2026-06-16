@@ -1,5 +1,38 @@
 [
   {
+    "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups",
+    "link": "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/",
+    "published": "Tue, 16 Jun 2026 19:22:47 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-16 22:51:37",
+    "ai_summary": {
+      "title_ja": "Pegasus Tech Venturesが物理AIスタートアップ向けに6,000万ドル規模のファンドを立ち上げ",
+      "summary": "Pegasus Tech VenturesとCYBERDYNEが共同で、ロボティクス、物理AI、ヘルスケア、自動化、インテリジェントシステムなどの分野で革新を進めるスタートアップに投資する6,000万ドル規模のファンドを立ち上げた。このファンドは物理的な世界で動作するAI技術の商用化を加速させることを目的としている。日本の産業用ロボット大手であるCYBERDYNEの参画により、アジア太平洋地域での投資機会も拡大される。",
+      "insights": [
+        "物理AI分野への大型ファンド設立は、ロボティクスと実世界AI応用の商用化が加速する時期を示唆している",
+        "CYBERDYNEのような産業大手との共同投資は、スタートアップが既存のロボティクス知見や流通チャネルへのアクセスを得られる利点がある",
+        "ヘルスケア・自動化・インテリジェントシステムへの広範な投資方針は、物理AIが単なる産業ロボット領域を超えた多様な実装機会を持つことを反映している"
+      ]
+    }
+  },
+  {
+    "title": "生成AI×自動運転で注目のTesla・Waymo・NVIDIA　各社が目指す「フィジカルAI」は何が違うのか",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news007.html",
+    "published": "Wed, 17 Jun 2026 05:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-06-16 22:51:44",
+    "ai_summary": null
+  },
+  {
     "title": "Kawasaki Robotics to debut RL030N physical AI platform at Automate",
     "link": "https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/",
     "published": "Tue, 16 Jun 2026 13:59:25 +0000",
