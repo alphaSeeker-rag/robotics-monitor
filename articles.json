@@ -1,5 +1,25 @@
 [
   {
+    "title": "Evaluating humanoids for surface finishing applications",
+    "link": "https://www.therobotreport.com/evaluating-humanoids-for-surface-finishing-applications/",
+    "published": "Wed, 17 Jun 2026 16:02:57 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-17 22:44:03",
+    "ai_summary": {
+      "title_ja": "表面仕上げアプリケーションにおけるヒューマノイドロボットの評価",
+      "summary": "製造業の多くのアプリケーションはサイクルタイムの削減とスループットの向上を目指している。汎用産業用ロボットは人間の制約を超越した性能を持つため、魅力的な選択肢となることが多い。本記事は、表面仕上げ作業においてヒューマノイドロボットの導入価値を評価する内容である。",
+      "insights": [
+        "ヒューマノイドロボットは人間の作業制約（疲労、安全リスク）を排除し、製造効率を大幅に向上させる潜在力を持つ",
+        "表面仕上げのような複雑で精密な作業は、ヒューマノイドの器用性と適応性が求められる領域であり、汎用ロボットの有用性を示す重要なユースケース",
+        "製造業のオートメーション戦略において、汎用ロボットの導入による生産性向上とコスト削減のトレードオフ評価が経営判断の鍵となる"
+      ]
+    }
+  },
+  {
     "title": "Autonomique deploys semi-humanoid robots and AI at Canadian Tier 1",
     "link": "https://www.therobotreport.com/autonomique-deploys-semi-humanoid-robots-canadian-tier-1/",
     "published": "Wed, 17 Jun 2026 14:00:34 +0000",
