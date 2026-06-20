@@ -1,5 +1,45 @@
 [
   {
+    "title": "China Makes Progress in High-Energy All-Solid-State Battery Key Materials Research",
+    "link": "https://pandaily.com/china-solid-state-battery-key-materials-research",
+    "published": "Sat, 20 Jun 2026 08:42:56 GMT",
+    "keywords": [
+      "Solid-State Battery"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-06-20 14:23:06",
+    "ai_summary": {
+      "title_ja": "中国が高エネルギー全固体電池の主要材料研究で進展を達成",
+      "summary": "中国科学院大連化学物理研究所(DICP)の研究者らが、有機-無機複合固体電解質を開発し、NCA全固体電池で350サイクル後に84.2%の容量維持率を達成した。この成果は、全固体電池の実用化に向けた重要な材料技術の進展を示している。",
+      "insights": [
+        "有機-無機複合材料アプローチにより、従来の単一材料の課題(脆性、イオン伝導性など)を補完し、全固体電池の耐久性向上を実現",
+        "350サイクルでの84.2%容量維持は商用レベルの要求に接近しており、中国のエネルギー密度競争力強化を示唆",
+        "固体電解質材料の国産化進展により、EV・エネルギー貯蔵市場での中国企業の差別化優位性構築へ向かう"
+      ]
+    }
+  },
+  {
+    "title": "Humanoid Robot Climbs 6,000-Meter Peak for the First Time, Next Stop: Everest",
+    "link": "https://pandaily.com/humanoid-robot-climbs-6000-meter-peak-everest",
+    "published": "Sat, 20 Jun 2026 08:42:39 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-06-20 14:23:09",
+    "ai_summary": {
+      "title_ja": "ヒューマノイドロボット、6,000メートルの峰頂初登頂―エベレストへの次なる挑戦",
+      "summary": "改良型のUnitree G1ヒューマノイドロボット「Pemba」がエクアドルのチンボラソ火山（標高6,310メートル）の頂上に到達し、脚型ロボットの極限環境での動作能力を実証した。本成果は環境モニタリングなど様々な応用用途の可能性を示唆するものである。次のターゲットはエベレストとされている。",
+      "insights": [
+        "脚型ロボットの耐環境性向上により、高高度・悪条件下での自律運用が現実化し、人間が到達困難な領域での調査・点検業務の無人化が加速する可能性",
+        "ロボティクス技術の実フィールド検証による急速な進化―商用プラットフォーム（Unitree G1）の改良により極限環境対応が可能になり、産業応用の射程が拡大",
+        "環境モニタリング、災害対応、極地探査など新興市場向けロボット開発の競争激化が予想され、アジア発ロボット企業のグローバル優位性が確立される可能性"
+      ]
+    }
+  },
+  {
     "title": "U.S. robotics industry saw double-digit growth in 2025, says IFR",
     "link": "https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/",
     "published": "Fri, 19 Jun 2026 12:45:52 +0000",
