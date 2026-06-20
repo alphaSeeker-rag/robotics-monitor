@@ -1,5 +1,25 @@
 [
   {
+    "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics",
+    "link": "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/",
+    "published": "Sat, 20 Jun 2026 14:00:30 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-20 22:03:30",
+    "ai_summary": {
+      "title_ja": "防衛製造業の準備態勢は自動仕上げに左右される、GrayMatter Roboticsが指摘",
+      "summary": "米海軍の産業基盤レビューでは174,000人の新規労働者の必要性が指摘された。GrayMatter Roboticsはロボティクスがこの人員不足を補填できると主張している。同社は自動仕上げ技術が防衛製造業の準備態勢強化の鍵となると述べている。",
+      "insights": [
+        "防衛産業における深刻な労働力不足（174,000人）への対策として、自動化・ロボティクスが戦略的に重要な役割を果たす可能性がある",
+        "自動仕上げ技術は複雑な防衛機器製造の品質・生産性向上に不可欠であり、人員不足補完の有効手段として位置付けられている",
+        "防衛産業のサプライチェーン安定化には、労働集約的なプロセスの自動化による製造能力の高度化が急務となっている"
+      ]
+    }
+  },
+  {
     "title": "China Makes Progress in High-Energy All-Solid-State Battery Key Materials Research",
     "link": "https://pandaily.com/china-solid-state-battery-key-materials-research",
     "published": "Sat, 20 Jun 2026 08:42:56 GMT",
