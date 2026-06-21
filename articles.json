@@ -1,5 +1,49 @@
 [
   {
+    "title": "エッジAIと無線リモコンを融合、DMG MORI Digitalが建機操作支援システム",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news021.html",
+    "published": "Mon, 22 Jun 2026 06:30:00 +0900",
+    "keywords": [
+      "遠隔操作"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-06-21 22:10:47",
+    "ai_summary": null
+  },
+  {
+    "title": "インテル「シリーズ3」はフィジカルAIでも力を発揮、“ヤマネコ”の実力は？",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news051.html",
+    "published": "Mon, 22 Jun 2026 06:15:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-06-21 22:10:47",
+    "ai_summary": null
+  },
+  {
+    "title": "금주의 로봇 캘린더(2026. 6. 22 ~ 6. 28)",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47013",
+    "published": "2026-06-22 01:04:21",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-06-21 22:10:51",
+    "ai_summary": {
+      "title_ja": "今週のロボットカレンダー(2026年6月22日～28日)",
+      "summary": "2026年6月24日(水)にソウル用山区のピースアンドパークコンベンションで「ROAS Global Robotics Forum 2026」が開催される。株式会社ロアスが主催する本フォーラムは9時から17時まで終日開催される予定。グローバルなロボティクス業界の専門家や企業が参集し、最新技術動向と市場展望について議論される。",
+      "insights": [
+        "韓国を中心としたアジア地域でロボティクス産業の国際的なハブ構築が進行中",
+        "大規模フォーラム開催により、ロボティクス・フィジカルAI分野の企業間ネットワーキングが活発化",
+        "ソウル中心部での開催場所選定から、ロボティクス産業への官民一体による注目度の上昇を示唆"
+      ]
+    }
+  },
+  {
     "title": "美 빌트 로보틱스-유펜, 건설용 피지컬 AI 안전모델 개발 착수",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=47003",
     "published": "2026-06-21 20:04:41",
