@@ -1,5 +1,106 @@
 [
   {
+    "title": "美 빌트 로보틱스-유펜, 건설용 피지컬 AI 안전모델 개발 착수",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47003",
+    "published": "2026-06-21 20:04:41",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-06-21 14:27:35",
+    "ai_summary": {
+      "title_ja": "米Built Robotics とペンシルベニア大学、建設用フィジカルAI安全モデル開発に着手",
+      "summary": "米国のBuilt Roboticsがペンシルベニア大学の安全自律システム研究所（xLAB）と共同で、建設現場向けのフィジカルAI安全モデル開発を開始した。Built Roboticsは保有する膨大な建設ロボットデータセットと専用設計の移動ロボットを活用し、建設現場をフィジカルAI実験場に転換する。これにより、ロボットと人間が作業現場で安全に共存するための方法論の確立を目指している。",
+      "insights": [
+        "建設業界におけるHRI（Human-Robot Interaction）の安全基準確立が急務となっており、アカデミア×産業界の協働モデルが加速している",
+        "大規模データセットと実運用ロボットの組み合わせによる実践的なAI安全検証が、建設現場という非構造環境での信頼構築に不可欠",
+        "フィジカルAI安全モデルの開発は、建設ロボット市場の商用化拡大および現場労働者との共存シナリオの実現化における主要な競争要因となる可能性が高い"
+      ]
+    }
+  },
+  {
+    "title": "[AI 고속도로] 같은 GPU, 다른 결과…AI 인프라도 산업별 맞춤형 설계",
+    "link": "https://zdnet.co.kr/view/?no=20260621080538",
+    "published": "Sun, 21 Jun 2026 15:00:01 +0900",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-06-21 14:27:39",
+    "ai_summary": {
+      "title_ja": "【AI高速道路】同じGPUでも異なる結果…AI インフラも産業別カスタム設計へ",
+      "summary": "AI インフラ市場の競争軸がGPU確保から産業別ワークロード最適化へシフトしている。ロボティクス・自律走行・バイオ・AI エージェントなど応用分野の多様化に伴い、同じGPUでもデータ特性と運用方式によって必要なインフラ構造が異なる。物理AIはLLMと異なり、シミュレーション環境でのデータ生成から実装まで一体的なインフラ設計が求められる。",
+      "insights": [
+        "フィジカルAI（ロボット・自律走行）はLLMと異なり物理データとシミュレーション環境が必須であり、GPU確保だけでなく『誰が・どこで・どのように使うか』によるカスタマイズ設計が必要になる",
+        "VLA(視覚・言語・行動)モデルの学習から実装まで、ストレージ・ネットワーク・データ供給構造を統合的に設計しないと学習効率が低下する",
+        "AI インフラ需要は一律化せず、産業ごとに学習・検証・配備方式が異なり、GPU規模・使用期間・バッチ環境も個別対応が必須となる"
+      ]
+    }
+  },
+  {
+    "title": "[안광섭 AI 진테제] 소버린AI는...'모델'보다 '공급망'을 봐야",
+    "link": "https://zdnet.co.kr/view/?no=20260621133122",
+    "published": "Sun, 21 Jun 2026 13:31:22 +0900",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-06-21 14:27:43",
+    "ai_summary": {
+      "title_ja": "【安光燮 AI 進テセ】ソブリンAIは『モデル』より『サプライチェーン』を見るべき",
+      "summary": "日本政府が2040年までに370兆円を17戦略分野に投資する計画において、フィジカルAI（ロボット自律制御技術）に100兆円配分し、基盤インフラ全体への投資を重視している。ソブリンAIは独自モデル開発ではなく、モデルの学習・運用・検証・保護を可能にするサプライチェーン全体の確保が本質である。フロンティアAIが戦略資産化する中で、政府や企業が直面する課題は『最高のモデルを作れるか』ではなく『モデルを自律的に運用できるか』という存続可能性にある。",
+      "insights": [
+        "ソブリンAIの本質は独自モデル開発ではなく、半導体同様の戦略資産化したAIの安定供給と運用自主性の確保にある",
+        "フィジカルAI（ロボティクス・自動化技術）が日本の大型投資の焦点となっており、デジタルAIよりも産業応用・現物資産への転換重視が戦略的である",
+        "モデル学習コストと人才・データの寡占化により全国家が同一のモデル開発を目指すことは不可能であり、自国のAI環境の自律性・耐性構築がソブリンAIの真の目的"
+      ]
+    }
+  },
+  {
+    "title": "Unitree Robotics: Cost Dominance Meets AI Challenge in Humanoid Robot Race",
+    "link": "https://pandaily.com/unitree-cost-dominance-ai-challenge-jun2026",
+    "published": "Sun, 21 Jun 2026 08:01:02 GMT",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-06-21 14:27:51",
+    "ai_summary": {
+      "title_ja": "ユニトリー・ロボティクス：ヒューマノイドロボット競争における原価優位性とAI課題の衝突",
+      "summary": "ユニトリーは積極的なコスト削減エンジニアリングにより黒字化を達成しましたが、競争激化に伴いAI能力の重大な課題に直面しています。原価競争力は強みである一方、ヒューマノイドロボットの実用化に不可欠な自律的意思決定能力や高度な動作制御のAI開発が急務となっています。",
+      "insights": [
+        "コスト優位性だけでは長期競争力の源泉にならない：ハードウェア原価削減で市場参入を実現したが、AI・ソフトウェア領域の遅れがスケーラビリティと実用性を制限する可能性",
+        "ヒューマノイドロボット市場は『AI-hardware融合競争』へシフト：Tesla Bot、Boston Dynamics等との競争では、低コスト生産能力よりも知能化レベルが市場評価の主軸になる傾向",
+        "ユニトリーの戦略的課題：既存のロボットOSやニューラルネットワーク統合に於いて、テスラやトヨタなどのAI企業とのギャップを埋める必要があり、M&A・技術パートナーシップが急速な競争力向上のカギとなる可能性"
+      ]
+    }
+  },
+  {
+    "title": "Billions Pour Into Embodied AI But Factory Deployment Remains Elusive",
+    "link": "https://pandaily.com/billions-embodied-ai-factory-deployment-elusive",
+    "published": "Sun, 21 Jun 2026 02:48:39 GMT",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-06-21 14:27:56",
+    "ai_summary": {
+      "title_ja": "具現化AI（エンボディドAI）に数十億ドルが投入されるも、工場での実装は依然として困難",
+      "summary": "2026年上半期に中国のエンボディドAI産業に460億元の巨額投資が流入した。しかし、データ不足と技術的未成熟により、実世界での導入は大幅に遅れている。資金と実装のギャップが、産業化の主要な課題として浮上している。",
+      "insights": [
+        "投資と実装のギャップ：莫大な資本流入にもかかわらず、製造現場での実運用導入率が低く、技術的課題の解決には時間がかかることが示唆される",
+        "データスカーシティの制約：ロボティクスAIの学習に必要な大規模な現場データセットが不足しており、モデルの実装前検証と信頼性確保が困難である",
+        "技術成熟度の問題：認識・制御・適応能力など複数の技術要素の統合が未成熟であり、量産・自動化工場への本格展開にはさらなる研究開発期間が必要"
+      ]
+    }
+  },
+  {
     "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics",
     "link": "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/",
     "published": "Sat, 20 Jun 2026 14:00:30 +0000",
