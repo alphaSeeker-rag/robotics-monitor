@@ -1,5 +1,160 @@
 [
   {
+    "title": "NVIDIA releases Halos, a full-stack safety system for robotics",
+    "link": "https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/",
+    "published": "Mon, 22 Jun 2026 15:01:24 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-22 17:09:31",
+    "ai_summary": {
+      "title_ja": "NVIDIAがロボティクス向けフルスタック安全システム「Halos」をリリース",
+      "summary": "NVIDIAは、ロボットシステム向けの包括的な安全システム「Halos」を発表しました。このシステムはAIコンピューティング、システムソフトウェア、センサーデータ、安全アプリケーション、検査機能を統合します。Halosは産業用ロボットの安全性と信頼性を大幅に向上させることを目的としています。",
+      "insights": [
+        "NVIDIAが単一のAIチップ提供者から、ロボティクスの完全なシステムレベルソリューション提供者へと事業拡大していることを示す戦略的シフト",
+        "AIコンピューティングとセンサーデータの統合により、リアルタイムの安全監視と予測的メンテナンスが可能になり、産業用ロボットの運用コストとダウンタイムを削減",
+        "フルスタックアプローチにより、ロボットメーカーの開発期間短縮と市場投入までの時間短縮が実現し、業界全体のロボット化加速を促進"
+      ]
+    }
+  },
+  {
+    "title": "Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation",
+    "link": "https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/",
+    "published": "Mon, 22 Jun 2026 12:59:51 +0000",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-22 17:09:34",
+    "ai_summary": {
+      "title_ja": "Cobotの協働ロボット「Proxie Gen 2」が自動タスク機能とモバイル操作機能を追加",
+      "summary": "Cobot社のProxie Gen 2ロボットは、人間の介入なしに材料の移動準備状況を判断し、目的地を特定し、タスクを自動生成する能力を備えている。同社CEOのブラッド・ポーター氏は、この自動タスキング機能がロボットの自律性を大幅に向上させることを強調している。モバイル操作機能により、複数の場所での柔軟な物資搬送が可能になった。",
+      "insights": [
+        "自動判断機能により、人的介入を削減し操作効率を向上させる次世代協働ロボットの実現が進展している",
+        "モバイル操作とAIベースの自動タスク生成の統合により、製造業・物流業の自動化レベルが飛躍的に向上する可能性",
+        "ロボットが環境認識と意思決定を独立して行う能力が強化されることで、複雑な現場作業への適用範囲が拡大している"
+      ]
+    }
+  },
+  {
+    "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+    "link": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+    "published": "Mon, 22 Jun 2026 13:00:13 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-06-22 17:09:39",
+    "ai_summary": {
+      "title_ja": "Eco Wave Power、NVIDIA AIインフラストラクチャとデジタルツインで波力を電力に変換",
+      "summary": "AI時代の成長は計算能力だけでなく、エネルギー供給によって決定される。加速化するAI、ロボティクス、自律システムの普及に伴い、世界の電力需要は前例のない速度で増加している。Eco Wave Powerはこの課題に対応するため、NVIDIA AIインフラとデジタルツイン技術を活用して、波力エネルギーを電力に効率的に変換することを実現している。",
+      "insights": [
+        "フィジカルAIと自律システムの拡大は電力インフラの再設計を必須とし、再生可能エネルギーとAI技術の統合が重要な競争要因となる",
+        "デジタルツイン技術により波力発電システムの最適化と予測保全が可能になり、エネルギー変換効率の大幅な向上が実現する",
+        "エッジコンピューティングとロボティクスの需要増加に伴い、分散型・再生可能エネルギーシステムへの投資が急速に加速する見通し"
+      ]
+    }
+  },
+  {
+    "title": "PFNとトヨタの研究組織がフィジカルAIの推論処理高速化に関する共同研究を開始",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news033.html",
+    "published": "Mon, 22 Jun 2026 14:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-06-22 17:09:45",
+    "ai_summary": null
+  },
+  {
+    "title": "ABB 로보틱스, ‘오토메이트 2026’서 새 산업용 피지컬 AI 제공",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47034",
+    "published": "2026-06-22 16:32:02",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-06-22 17:09:49",
+    "ai_summary": {
+      "title_ja": "ABB ロボティクス、『オートメート2026』で新しい産業用フィジカルAIを提供",
+      "summary": "ABBロボティクスはシカゴで開催される『オートメート2026』（6月22～25日）で、初めての『フィジカルAIツールチェーン』を含む新しい産業用フィジカルAIを発表する。同社の技術は、データ生成、学習・検証、デプロイメント、最適化に至るソフトウェアスタックを提供し、ロボット向けAIモデルで産業用レベルの精度を実現するという。",
+      "insights": [
+        "フィジカルAIツールチェーンの統合的なソフトウェアスタック提供により、ロボティクス企業のAI導入障壁が低下し、産業用途での実装が加速する可能性が高い",
+        "産業用レベルの精度確保を強調することで、製造業における信頼性と安全性の懸念に対応し、大規模導入への道を開く戦略が窺える",
+        "データ生成から最適化までの全ライフサイクル管理をワンストップで提供する統合プラットフォームは、ロボティクス業界における新たなビジネスモデル（SaaS型など）の確立につながる可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "베어로보틱스, 휴머노이드 로봇 스타트업 키니시 인수",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47032",
+    "published": "2026-06-22 16:21:39",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-06-22 17:09:54",
+    "ai_summary": {
+      "title_ja": "ベアロボティクス、ヒューマノイドロボットスタートアップ キニシを買収",
+      "summary": "LG電子の商用ロボット子会社ベアロボティクスが、英国ブリストル拠点のヒューマノイドロボットスタートアップ キニシ・ロボティクスの買収契約を締結した。グローバルロボット産業が単なる自動化から、自律認識・判断する「フィジカルAI」時代へ急速に再編される中、ベアロボティクスは技術内製化により市場内の主導権確保に乗り出している。",
+      "insights": [
+        "フィジカルAI時代への産業パラダイムシフト：ロボット産業が従来の単純自動化から、自律的に認識・判断できるAI搭載型ロボットへの急速な転換が進行中",
+        "大手企業による技術統合戦略：LG傘下のベアロボティクスが海外スタートアップ買収により、ヒューマノイド技術を内製化し競争優位性を確保する動き",
+        "市場規模拡大と競争激化：ベアロボティクスが既に全世界で16,000台超のロボット配置実績を持つ中、買収により技術革新と市場支配力強化を同時実現"
+      ]
+    }
+  },
+  {
+    "title": "LG 자회사 베어로보틱스, 英 휴머노이드 스타트업 키니시 로보틱스 인수",
+    "link": "https://zdnet.co.kr/view/?no=20260622171257",
+    "published": "Mon, 22 Jun 2026 17:47:10 +0900",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-06-22 17:09:59",
+    "ai_summary": {
+      "title_ja": "LG傘下のベアロボティクス、英国のヒューマノイドスタートアップ「キニシ ロボティクス」を買収",
+      "summary": "LG電子の商用ロボット子会社ベアロボティクスが、英国のヒューマノイドロボット企業キニシ ロボティクスを買収し、物体の把持・配置・分類・運搬に特化した操作AI技術とKR1プラットフォームを獲得した。この買収により、ベアロボティクスは移動・配送機能に加えて実際の作業を執行するロボットへと進化し、既存顧客基盤での事業拡大を計画している。独自のクラウドベース群集制御技術と組み合わせることで、複数ロボットが協調して動作する次世代ロボットシステムの構築が可能になる。",
+      "insights": [
+        "マニピュレーション技術の統合戦略：ベアロボティクスは自動移動ロボット(AMR)の領域から、実際の物体操作が可能なヒューマノイド系統への事業拡張を加速させており、ロボティクス市場の統合化が進行中",
+        "AI・ファウンデーションモデルの重要性：VLA(Vision-Language-Action)モデルとロボット基盤モデル(RFM)の獲得は、言語命令から複雑な作業を実行できるAGIロボットへの道を示す重要な技術スタック",
+        "群集制御技術による競争優位性：クラウドベースのエージェンティック群集制御により、複数ロボットが柔軟に協調動作することで、固定パスを必要としない実装環境での適用可能性が大幅に向上"
+      ]
+    }
+  },
+  {
+    "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
+    "link": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
+    "published": "2026-06-22T13:00:00Z",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "Physical AI"
+    ],
+    "source": "NVIDIA Developer",
+    "flag": "Lab",
+    "detected_at": "2026-06-22 17:10:14",
+    "ai_summary": {
+      "title_ja": "NVIDIAロボティクス向けHalos：フィジカルAI向けフルスタック機能安全システム",
+      "summary": "フィジカルAI（工場、倉庫、病院、家庭で人間と共働する自律ロボット）の実装が予想より急速に進んでいる。NVIDIAのHalosは、ロボット運用の安全性を確保するための包括的な機能安全システムを提供するフルスタック・ソリューションである。従来の安全システムとAI技術の統合により、物理的環境での自律運用の信頼性と規制遵守が実現される。",
+      "insights": [
+        "フィジカルAIの産業展開加速に伴い、機能安全（Functional Safety）がロボティクス産業の必須インフラとしての地位を確立している",
+        "エンドツーエンドのフルスタック設計により、センサー層から意思決定層まで一貫した安全保障が可能になり、システムの信頼性が向上している",
+        "NVIDIA等の大手テック企業による安全システムの標準化推進が、ロボット産業の規制適合と商用化の障壁を低減させている"
+      ]
+    }
+  },
+  {
     "title": "エッジAIと無線リモコンを融合、DMG MORI Digitalが建機操作支援システム",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2606/22/news021.html",
     "published": "Mon, 22 Jun 2026 06:30:00 +0900",
