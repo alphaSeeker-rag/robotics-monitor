@@ -1,5 +1,27 @@
 [
   {
+    "title": "Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities",
+    "link": "https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/",
+    "published": "Mon, 22 Jun 2026 19:13:14 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-22 22:44:35",
+    "ai_summary": {
+      "title_ja": "Bear Robotics、Kinisi Roboticsを買収してフィジカルAI能力を強化",
+      "summary": "Bear RoboticsがKinisi Roboticsを買収し、同社のKR1ヒューマノイドロボット、ブリストル拠点のエンジニアリングチーム、およびフィジカルAI技術を統合する。この買収により、Bear Roboticsは物理的なロボット操作とAI統合の能力を大幅に強化できる。",
+      "insights": [
+        "ロボティクス企業による垂直統合の加速：有力ロボット企業が優秀なエンジニアリング拠点とハードウェアIP(ヒューマノイドロボット)の獲得を通じて、開発スピード向上と技術ギャップ縮小を実現",
+        "フィジカルAI領域での競争激化：ロボットの自律判断・環境適応能力(フィジカルAI)が市場競争の重要な差別化要因となり、M&Aを通じた技術補強が業界トレンド化",
+        "英国ロボティクス拠点の重要性：ブリストルなど欧州エンジニアリングハブが米国企業にも獲得対象として注目され、地政学的なロボット産業覇権争いが深化"
+      ]
+    }
+  },
+  {
     "title": "NVIDIA releases Halos, a full-stack safety system for robotics",
     "link": "https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/",
     "published": "Mon, 22 Jun 2026 15:01:24 +0000",
