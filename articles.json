@@ -1,5 +1,221 @@
 [
   {
+    "title": "Why physical AI 2.0 needs a reality check",
+    "link": "https://www.therobotreport.com/why-physical-ai-2-0-needs-reality-check/",
+    "published": "Tue, 23 Jun 2026 12:31:23 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-23 15:18:46",
+    "ai_summary": {
+      "title_ja": "なぜフィジカルAI 2.0は現実性の検証が必要か",
+      "summary": "フィジカルAIの発展において、ビジョンと言語処理は重要な要素である。しかし、ロボットが実世界と相互作用するためには、物理的状態の復元（Physical State Recovery）技術がさらに重要な要素となる。現在のフィジカルAI 2.0は、この現実的な課題に対して検証が必要な段階にある。",
+      "insights": [
+        "ビジョンと言語モデルだけでなく、環境の物理的状態を認識・復元する能力がロボットの実用化の鍵となる",
+        "フィジカルAI 2.0の開発には、理論的な進歩だけでなく、現実世界での実装可能性を検証するリアリティチェックが不可欠である",
+        "ロボットが実環境で信頼性高く動作するには、複雑な物理的相互作用を正確にモデル化・予測する技術の成熟が急務である"
+      ]
+    }
+  },
+  {
+    "title": "FORT and NVIDIA launch AI-driven Outside-In Safety blueprint",
+    "link": "https://www.therobotreport.com/fort-and-nvidia-launch-ai-driven-outside-in-safety-blueprint/",
+    "published": "Mon, 22 Jun 2026 22:38:31 +0000",
+    "keywords": [
+      "robotics",
+      "autonomous robot"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-23 15:18:52",
+    "ai_summary": {
+      "title_ja": "FORTとNVIDIAがAI駆動型「Outside-In Safety」ブループリントを共同発表",
+      "summary": "FORT RoboticsとNVIDIAは、外部センサーを活用したAI駆動型の「Outside-In Safety」安全フレームワークを発表した。このソリューションは自律ロボットの生産性向上と労働者の安全性確保を同時に実現することを目指している。外部センサーによる環境認識により、ロボットと人間が共存する作業環境での安全リスクを低減する。",
+      "insights": [
+        "外部センサーを活用した「Outside-In」アプローチにより、ロボット自体のセンサーに依存しない包括的な安全監視が可能になる",
+        "AI技術とロボティクスの融合により、ヒューマン・ロボット・コラボレーション(HRC)環境での実装が加速する可能性がある",
+        "NVIDIAのGPU・AI基盤とFORTの安全技術の組み合わせは、自律システムの商用化・スケーラビリティの重要なターニングポイントとなる"
+      ]
+    }
+  },
+  {
+    "title": "フィジカルAIとロボット工学向けの包括的安全システム「NVIDIA Halos for Robotics」発表",
+    "link": "https://gigazine.net/news/20260623-nvidia-halos-for-robotics/",
+    "published": "Tue, 23 Jun 2026 18:10:00 +0900",
+    "keywords": [
+      "robotics",
+      "フィジカルAI"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-06-23 15:19:05",
+    "ai_summary": null
+  },
+  {
+    "title": "엔비디아, 로봇용 안전 플랫폼 ‘헤일로스 포 로보틱스’ 공개",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47054",
+    "published": "2026-06-23 15:53:40",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-06-23 15:19:08",
+    "ai_summary": {
+      "title_ja": "エヌビディア、ロボット向け安全プラットフォーム「Halos for Robotics」を発表",
+      "summary": "エヌビディアは、ヒューマノイドロボットと自動運転システムなどの「フィジカルAI」の安全性を確保するための統合安全プラットフォーム「NVIDIA Halos for Robotics」を発表した。本プラットフォームはAIモデル、チップ、ソフトウェア、センサー、開発ツール、検証サービスなどロボットシステム全体にわたる安全要素を統合管理できる。これにより人間と協働するヒューマノイドロボットの商用化加速を目指している。",
+      "insights": [
+        "フルスタック安全プラットフォームにより、ロボット開発の信頼性・安全性が向上し、規制認可や市場導入の障壁を低減できる",
+        "エヌビディアがハード・ソフト・サービスの統合で産業標準を確立することで、ロボティクス産業の急速な成長に対応する体制を整備",
+        "人間協働ロボットの安全確保が商用化の重要要件となる中、エヌビディアが検証・認証のエコシステム構築で主導権を確保"
+      ]
+    }
+  },
+  {
+    "title": "한컴라이프케어, 佛 방산·로봇 기업과 잇단 MOU",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47055",
+    "published": "2026-06-23 15:50:15",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-06-23 15:19:12",
+    "ai_summary": {
+      "title_ja": "ハンコムライフケア、フランスの防衛・ロボット企業と相次ぐMOU締結",
+      "summary": "ハンコムグループ傘下の防衛・安全装備専門企業ハンコムライフケアが、フランス・パリで開催された世界最大規模の地上・航空防衛・安保展示会「ユーロサトリ2026」において、CBRN防護専門企業ウブリおよび無人地上ロボット（UGV）専門企業シャークロボティクスと相次いで戦略的業務協約を締結した。同社は今後の防衛産業市場における新たな成長動力確保を目指す。",
+      "insights": [
+        "CBRN防護とUGV技術の融合は、化学・生物・放射線・核兵器の脅威対応における自動化・遠隔操作能力を強化し、次世代防衛システムの重要な要素となる",
+        "韓国企業のフランスとのパートナーシップ拡大は、NATO圏内での防衛技術アクセスと欧州市場進出を意図しており、グローバル防衛産業の地政学的再編を示唆する",
+        "無人システムとNBC対応技術の統合により、人員リスク軽減と作戦効率化を実現する統合ソリューションの市場需要が高まっている"
+      ]
+    }
+  },
+  {
+    "title": "GSMA MWC26 상하이, 글로벌 모바일 커뮤니티 집결 예정… 모바일, 2030년까지 중국 경제에 2조 달러 이상 기여할 것으로 예측",
+    "link": "https://zdnet.co.kr/view/?no=20260623201003",
+    "published": "Tue, 23 Jun 2026 20:10:03 +0900",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-06-23 15:19:17",
+    "ai_summary": {
+      "title_ja": "GSMA MWC26上海開催、グローバルモバイルコミュニティが集結へ…モバイルは2030年までに中国経済に2兆ドル以上をもたらすと予測",
+      "summary": "2026年6月24日に上海で開催されるMWC26では、グローバル連結性の未来を形成する革新が展示される予定である。中国は現在世界の5G接続の40%以上を占めており、モバイル技術は2025年に1兆5000億ドルの経済価値を創出した。ヒューマノイドロボット、AI技術、フォーミュラEなどの没入型体験を通じて、モバイルテクノロジーが生産性、AI基盤サービス、持続可能な経済成長の基盤として機能していることが実証される。",
+      "insights": [
+        "中国が世界の5G接続の40%以上を支配しており、次世代通信インフラの圧倒的な優位性を確立している",
+        "モバイル技術がIoT、ロボティクス、AI統合の重要な基盤として位置づけられており、ヒューマノイドロボットなどの物理AIの展開が加速している",
+        "モバイルエコノミーが単なる通信産業から生産性向上と持続可能な経済成長の戦略的プラットフォームへ進化し、2030年までに2兆ドル規模の経済インパクトが予想される"
+      ]
+    }
+  },
+  {
+    "title": "'52주 최저가' 한컴라이프케어, 佛 방산 동맹으로 반등 노린다",
+    "link": "https://zdnet.co.kr/view/?no=20260623163732",
+    "published": "Tue, 23 Jun 2026 16:37:51 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-06-23 15:19:22",
+    "ai_summary": {
+      "title_ja": "52週間最安値まで下落したハンコムライフケア、フランス防衛産業連携で反転を目指す",
+      "summary": "韓国のハンコムライフケアが、年初来40%以上の株価下落から脱却するため、フランスのCBRN防護専門企業ウブリと無人地上ロボット企業シャークロボティクスとの戦略的提携を発表した。CBRN防護装備と無人地上体系(UGV)など将来防衛分野への事業拡大を通じて、弱気の投資心理を回復させることが期待されている。",
+      "insights": [
+        "CBRN防護とUGV技術の統合：フランスの防衛ロボット企業との連携により、化学・生物・放射能・核脅威対応の個人防護装備と自律型無人地上ロボットを組み合わせた包括的な防衛ソリューションの開発が進む",
+        "国内防衛市場のグローバル化：ハンコムライフケアが国内市場主導、ウブリが技術供与という役割分担モデルにより、韓国の防衛産業がフランスなど先進国の防衛技術へのアクセスを強化",
+        "市場心理と実績の乖離：新規事業への期待よりも即座の業績改善の可視化に投資家が敏感に反応する現状を示しており、防衛・ロボティクス企業の成長には技術提携だけでなく短期的な納品実績の改善が重要"
+      ]
+    }
+  },
+  {
+    "title": "China's Robotics Industry Sees Multiple Breakthroughs Across Humanoid Robots and Physical AI",
+    "link": "https://pandaily.com/china-robotics-breakthroughs-jun2026",
+    "published": "Tue, 23 Jun 2026 08:15:09 GMT",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "Physical AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-06-23 15:19:29",
+    "ai_summary": {
+      "title_ja": "中国のロボティクス産業がヒューマノイドロボットとフィジカルAI全般で複数の技術革新を達成",
+      "summary": "中国のロボティクス産業がヒューマノイドロボットおよびフィジカルAI分野において複数の重要な技術的ブレークスルーを実現している。これらの進展は、中国が世界的なロボティクス競争において主要なプレーヤーとしての地位を確立していることを示唆している。",
+      "insights": [
+        "中国がヒューマノイドロボット開発における実用化段階に進入し、産業応用への道を拓いている",
+        "フィジカルAIと実世界センサー統合技術が急速に進化し、ロボットの自律性と適応能力が向上している",
+        "国内産業界全体での技術革新の加速は、グローバルロボティクス市場における競争力の強化と地政学的な技術覇権争いの激化を意味する"
+      ]
+    }
+  },
+  {
+    "title": "China's Synthetic Diamond Finds Its Biggest Opportunity Yet: Cooling AI Chips",
+    "link": "https://pandaily.com/chinese-synthetic-diamond-ai-chip-cooling-20260622",
+    "published": "Tue, 23 Jun 2026 02:17:08 GMT",
+    "keywords": [
+      "Thermal Design Power"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-06-23 15:19:33",
+    "ai_summary": {
+      "title_ja": "中国の合成ダイヤモンドが最大の機会を獲得：AIチップの冷却",
+      "summary": "AIチップの熱設計電力が1,000Wを超える中、合成ダイヤモンドが究極の放熱ソリューションとして浮上している。世界の合成ダイヤモンドの95%を生産する中国は、この重要な供給者としての地位を確立する可能性が高い。",
+      "insights": [
+        "AIチップの高集積化に伴う急速な熱問題の深刻化により、従来の銅やアルミニウムに代わる合成ダイヤモンドの需要が急増している",
+        "中国がサプライチェーンの支配的地位を確保することで、AI産業の重要なボトルネック資源を握り、地政学的影響力を強化する可能性がある",
+        "合成ダイヤモンドの放熱性能向上は、チップ性能の最適化と省電力化を可能にし、データセンター運営コストの削減に直結する"
+      ]
+    }
+  },
+  {
+    "title": "Star Dynasty Raises Over RMB 4 Billion, Tsinghua Professor's Humanoid Robots Head to SF Express Logistics",
+    "link": "https://pandaily.com/star-dynasty-humanoid-robot-sf-express-20260622",
+    "published": "Tue, 23 Jun 2026 02:16:34 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-06-23 15:19:36",
+    "ai_summary": {
+      "title_ja": "スター・ダイナスティが40億元以上を調達、清華大学教授のヒューマノイドロボットがSF Express物流へ展開",
+      "summary": "清華大学傘下のヒューマノイドロボット企業スター・ダイナスティが40億元を超える資金調達に成功した。同社のヒューマノイドロボットは中国全域のSF Express物流センターに配備されている。中国の物流産業におけるロボット自動化の加速と、学術機関発スタートアップの商用化進展を示唆している。",
+      "insights": [
+        "中国の物流・配送業界におけるヒューマノイドロボット導入が実現段階へ移行し、大規模な実運用が開始された",
+        "大型物流企業との提携により、ロボット企業の資金調達環境が好転し、スケールアップ投資が加速している",
+        "学術機関（清華大学）発のロボット企業が40億元規模の大型ラウンド調達を実現でき、技術から産業化への橋渡しが機能している"
+      ]
+    }
+  },
+  {
+    "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
+    "link": "https://36kr.com/p/3865630193030145?f=rss",
+    "published": "2026-06-23 18:43:59  +0800",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "36Kr",
+    "flag": "CN",
+    "detected_at": "2026-06-23 15:19:46",
+    "ai_summary": {
+      "title_ja": "ラウンドテーブル論談：コンセンサスより一歩先へ AI創投の真実 | 2026WAVES",
+      "summary": "本記事は、AIへの投資判断において「共識形成を待つのではなく、その前段階で行動する」ことの重要性を論じている。蓝驰创投の朱天宇がOriginFlow創業者・秦深涛への投資を30分で決定した事例を通じて、確実な判断に基づく早期投資の戦略を解説している。AIは一時的なトレンドではなく、構造的な変化であり、真の機会はコンセンサス形成前に生まれることが強調されている。",
+      "insights": [
+        "早期段階での投資判断は、信念に基づいた『最不確定な時点での真金投資』が成功の鍵となり、デューデリジェンスプロセスよりも創業者の本質的理解が優先される",
+        "具身知能（embodied AI）と非侵襲性神経インターフェース技術は、AIの次の産業化フロンティアであり、物理世界との相互作用インフラが重要な投資対象になりつつある",
+        "AIは『風口（トレンド）』ではなく『地平線（構造的変化）』として認識すべきであり、コンセンサス形成時には既に主要なポジショニングが決定されているという市場機構の現実"
+      ]
+    }
+  },
+  {
     "title": "Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities",
     "link": "https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/",
     "published": "Mon, 22 Jun 2026 19:13:14 +0000",
