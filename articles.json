@@ -1,5 +1,47 @@
 [
   {
+    "title": "General Intuition raises $320M to use video game data to train robots",
+    "link": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
+    "published": "Fri, 26 Jun 2026 18:38:36 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-26 22:09:07",
+    "ai_summary": {
+      "title_ja": "General Intuition、ビデオゲームデータを使用したロボット学習に3億2000万ドルを調達",
+      "summary": "General Intuitionは、アクションラベルが埋め込まれたビデオゲームクリップを使用してロボティクスのAI学習を高速化している。同社は3億2000万ドルの資金調達に成功し、ゲームデータを活用した革新的な学習手法の実用化を進めている。",
+      "insights": [
+        "ビデオゲームデータの活用により、従来の高コストなロボット学習データセット収集の課題を解決できる可能性",
+        "アクションラベル付きゲーム映像は、ロボットの視覚・運動スキル学習において大規模で多様な教師データとして機能",
+        "ゲーム産業とロボティクス産業の融合により、AI学習の効率化と商用化スピードの大幅な加速が期待される"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Give Robots a Hand",
+    "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
+    "published": "Fri, 26 Jun 2026 16:30:01 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-06-26 22:09:12",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：ロボットに手を与える",
+      "summary": "IEEE Spectrumが厳選したロボティクス関連の動画を紹介する週間コラム。ロボットハンドの新展開、MIT CSAILの安全性向上技術「SoftMimic」、人間らしい動作を実現するヒューマノイドロボットなど、最新のロボティクス技術がハイライトされている。2026年の主要なロボティクスイベント（IROS、Actuate等）の開催予定も掲載。",
+      "insights": [
+        "ロボットハンド技術の進化が実用化段階に進み、視覚的デモンストレーションが重視されている",
+        "安全性技術（SoftMimic）がロボットの家庭内導入の課題解決に向けて開発されている",
+        "DARPAなどの公的資金による挑戦プログラムが、ロボティクス産業の技術発展を加速させている",
+        "ロボティクス分野では実用的な動作能力（物体操作、人間協調作業等）が商用化の重要な判断基準になりつつある"
+      ]
+    }
+  },
+  {
     "title": "“세계 로봇 석학들 KAIST로”…네이처 첫 자율 로보틱스 컨퍼런스 연다",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=47107",
     "published": "2026-06-26 09:53:26",
