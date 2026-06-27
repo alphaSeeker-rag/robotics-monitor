@@ -1,5 +1,25 @@
 [
   {
+    "title": "GSMA MWC26 상하이, AI 경제와 6G 혁신으로 전 세계 참석자들의 호응 속에 폐막",
+    "link": "https://zdnet.co.kr/view/?no=20260628011003",
+    "published": "Sun, 28 Jun 2026 01:10:03 +0900",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-06-27 22:00:24",
+    "ai_summary": {
+      "title_ja": "GSMA MWC26上海、AI経済と6G革新で世界的な参加者から高い評価を得て閉幕",
+      "summary": "MWC26上海は143カ国・地域から37,300名が参加し、AI経済と6G革新を中心とした3日間のカンファレンスと展示会を開催した。海外参加者は前年比33%増加し、5Gおよび5G-AdvancedがAIスタックの基盤層として、製造業・医療・低高度経済など多様な産業分野での革新を支えていることが確認された。",
+      "insights": [
+        "5G/5G-AdvancedはAIインフラの基盤層として機能し、容量・レイテンシ・信頼性の面でAI活用ユースケースの急速な展開を支える",
+        "ロボティクス・衛星ネットワーク・低軌道経済(LEO)など、接続性を軸とした次世代技術が産業全体を再編している",
+        "アジア・特に中国市場での国際的なエコシステム形成が加速しており、グローバルな技術協力が実装段階に移行している"
+      ]
+    }
+  },
+  {
     "title": "We know how to build smarter robots. Now, we need to learn smarter ways to test them",
     "link": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
     "published": "Sat, 27 Jun 2026 13:00:47 +0000",
