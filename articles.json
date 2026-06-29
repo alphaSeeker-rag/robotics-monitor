@@ -1,5 +1,62 @@
 [
   {
+    "title": "BMW Group deploys Figure 03 humanoid after tests with previous version",
+    "link": "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/",
+    "published": "Mon, 29 Jun 2026 17:45:53 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-29 22:06:58",
+    "ai_summary": {
+      "title_ja": "BMW グループが前世代モデルのテスト後、Figure 03ヒューマノイドを導入",
+      "summary": "BMWグループはFigure 02ロボットをサウスカロライナ州で11ヶ月間の試験運用後、後継機のFigure 03ヒューマノイドロボットを導入した。Figure 02は本試験期間中にBMW X3の生産30,000台以上をサポートし、実用性を実証した。この展開は自動車製造業における人型ロボット技術の本格的な産業応用が進展していることを示唆している。",
+      "insights": [
+        "実運用での信頼性実証：Figure 02が11ヶ月間で30,000台以上の生産支援を達成し、ヒューマノイドロボットの耐久性と産業適用可能性が確認された",
+        "段階的な技術進化戦略：前世代モデルの実績を基に次世代（Figure 03）へ段階的に展開することで、リスク低減と最適化を実現する産業標準の形成",
+        "自動車製造への急速な浸透：高精密作業が求められる自動車生産にヒューマノイドロボットが導入される事例が増加し、スキル労働者の補完ツールから基幹生産設備への転換が加速"
+      ]
+    }
+  },
+  {
+    "title": "ルネサスが2035年の売上高3倍増も視野に、AIで3段階の成長を目指す",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/30/news081.html",
+    "published": "Tue, 30 Jun 2026 06:45:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-06-29 22:07:06",
+    "ai_summary": null
+  },
+  {
+    "title": "日本の「完璧主義」から脱却し中国ヒューマノイドにどう立ち向かうか",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/30/news059.html",
+    "published": "Tue, 30 Jun 2026 06:30:00 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-06-29 22:07:06",
+    "ai_summary": null
+  },
+  {
+    "title": "現場に近づくフィジカルAIとヒューマノイド、ロボットテクノロジージャパン2026",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2606/30/news015.html",
+    "published": "Tue, 30 Jun 2026 06:00:00 +0900",
+    "keywords": [
+      "ヒューマノイド",
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-06-29 22:07:06",
+    "ai_summary": null
+  },
+  {
     "title": "MBody AI expands service robotics operations to eleven states and Canada",
     "link": "https://www.therobotreport.com/mbody-ai-expands-service-robotics-operations-eleven-states-canada/",
     "published": "Mon, 29 Jun 2026 15:41:42 +0000",
