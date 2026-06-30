@@ -1,5 +1,45 @@
 [
   {
+    "title": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
+    "link": "https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/",
+    "published": "Tue, 30 Jun 2026 19:49:05 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-06-30 22:13:35",
+    "ai_summary": {
+      "title_ja": "X Square Roboticsが連続4ラウンドの資金調達で評価額28億ドルに到達",
+      "summary": "X Square Roboticsは、基盤モデル、ロボティクスハードウェア、データパイプラインシステム、実世界展開を統合したシステムを開発している。同社は連続した4ラウンドの資金調達により、評価額を28億ドルまで引き上げた。この成長は、AIと物理的ロボティクスの統合における市場の強い需要を示唆している。",
+      "insights": [
+        "基盤モデル（Foundation Models）とロボティクスハードウェアの統合が、次世代ロボティクスの競争優位性の鍵となっている",
+        "データパイプラインシステムと実世界展開能力を備えた企業への投資が活発化しており、理論から実装への移行段階に産業が進展している",
+        "連続的な資金調達ラウンドの成功は、フィジカルAI領域における投資家の信頼度の上昇と、市場規模拡大への期待を反映している"
+      ]
+    }
+  },
+  {
+    "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+    "link": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+    "published": "Tue, 30 Jun 2026 15:00:49 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-06-30 22:13:39",
+    "ai_summary": {
+      "title_ja": "ジャイビール・シンがロボットと開発者の高速化を支援する方法",
+      "summary": "ロボティクスソフトウェアエンジニアのジャイビール・シンは、ロボットの派手な性能ではなく、内部基板やカメラビジョンシステム、デモフロアから実用的な運用への移行に必要なエンジニアリングといったインフラストラクチャに焦点を当てている。彼が率いるチームは、開発者がロボットを通じて見ることができるソフトウェアプラットフォームの構築に注力している。このアプローチは、ロボット産業の実用化と開発効率の向上を促進している。",
+      "insights": [
+        "ロボット産業の発展には、視覚的なデモンストレーションより、基盤となるソフトウェアインフラとハードウェア統合が重要である",
+        "開発者向けツール（カメラビジョン、ボード制御など）の整備が、ロボットの実用化速度を決定する要因となっている",
+        "デモ環境から実運用への移行には、堅牢なエンジニアリングアーキテクチャとプラットフォーム化されたソフトウェアが不可欠である"
+      ]
+    }
+  },
+  {
     "title": "Soft, robotic cells from morph embed physical AI into hardware",
     "link": "https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/",
     "published": "Tue, 30 Jun 2026 12:30:35 +0000",
