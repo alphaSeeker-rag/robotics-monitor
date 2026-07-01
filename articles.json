@@ -1,5 +1,144 @@
 [
   {
+    "title": "In Robotics, Ruggedization Is No Longer Optional",
+    "link": "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/",
+    "published": "Wed, 01 Jul 2026 18:44:05 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-01 22:15:27",
+    "ai_summary": {
+      "title_ja": "ロボティクスにおいて堅牢化はもはや選択肢ではない",
+      "summary": "自律型ロボットが制御された環境を超えて実世界での運用へ移行するにつれ、堅牢性（ラギッド設計）は信頼性のある運用を実現するための前提条件となっている。従来のロボットは限定的な環境での使用を想定していたが、産業用途やフィールドロボティクスの拡大に伴い、過酷な環境への耐性が必須要件化している。",
+      "insights": [
+        "自律型ロボットの実用化には、過酷環境対応（耐候性、耐塵性、衝撃耐性など）の組み込みが事業化の必須条件となり、設計段階からの堅牢化が競争力を決定する",
+        "制御された実験室環境から現場での運用へのシフトにより、ロボット製造企業は従来の機械工学的耐久性と電子部品の信頼性管理の統合的アプローチが求められる",
+        "建設、農業、物流など産業応用フェーズでは、堅牢性の欠如が導入阻害要因となるため、設計品質の向上と厳格なテスト基準の確立が市場成熟度を左右する"
+      ]
+    }
+  },
+  {
+    "title": "Top 10 robotics developments of June 2026",
+    "link": "https://www.therobotreport.com/top-10-robotic-stories-june-2026/",
+    "published": "Wed, 01 Jul 2026 16:10:57 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-01 22:15:33",
+    "ai_summary": {
+      "title_ja": "2026年6月のロボティクス開発トップ10",
+      "summary": "2026年6月は人型ロボット産業の大きな転換点となり、複数の企業が上場、新規展開、生産マイルストーン達成など重要な事業展開を発表した。人型ロボット関連のニュースが業界全体の主要なヘッドラインを占めており、商業化と量産化へ向けた急速な進展が見られている。",
+      "insights": [
+        "人型ロボット企業の上場ラッシュが到来し、産業の成熟段階と市場の認識が変わりつつある",
+        "実際の現場展開と生産能力の拡大が、技術開発から事業化フェーズへの移行を示唆している",
+        "人型ロボット分野への資本・投資の集中が加速し、競争激化と業界再編の可能性が高まっている"
+      ]
+    }
+  },
+  {
+    "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+    "link": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+    "published": "Wed, 01 Jul 2026 16:48:58 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "TechCrunch",
+    "flag": "US",
+    "detected_at": "2026-07-01 22:15:37",
+    "ai_summary": {
+      "title_ja": "自動運転車の話題が再燃、Humble Roboticsが貨物輸送に参入",
+      "summary": "自動運転車産業が2016年のハイプサイクルの再来を見せており、Travis Kalanickが新たにロボティクス企業を立ち上げている。タレント争奪戦と資本流入が前回と同様の熱気を帯びており、以前のサイクルを経験した人材が業界に戻ってきている。",
+      "insights": [
+        "自動運転産業が周期的なハイプサイクルを繰り返しており、2016年と同様のパターンで再び投資・人材流入が加速している",
+        "Uber元CEOなど経験豊富な起業家が貨物・物流領域での自動運転化を新たなビジネス機会と見出している",
+        "前回のサイクル経験者の業界復帰が、より現実的で持続可能な自動運転技術の実装につながる可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Humble Robotics’ CEO says the tech finally caught up to the vision for autonomous vehicles",
+    "link": "https://techcrunch.com/podcast/humble-robotics-ceo-says-the-tech-finally-caught-up-to-the-vision-for-autonomous-vehicles/",
+    "published": "Wed, 01 Jul 2026 16:34:48 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "TechCrunch",
+    "flag": "US",
+    "detected_at": "2026-07-01 22:15:41",
+    "ai_summary": {
+      "title_ja": "Humble RoboticsのCEOが語る：自動運転車のビジョンに技術がようやく追いついた",
+      "summary": "自動運転車業界が2016年のハイプサイクルの再現を見せており、Travis Kalanickがロボティクス企業を立ち上げるなど、人材獲得と資本流入が加速している。業界の成熟に伴い、前回のサイクルを経験した人材が重要な役割を果たしている。",
+      "insights": [
+        "自動運転車業界は第二次資本流入局面に入り、2016年の過度な期待と異なり、技術的基礎が整備されている段階",
+        "Travis Kalanickなどの起業家の再参入と人材の再集約が、業界の信頼性向上と実装段階への移行を示唆",
+        "前回のサイクルで淘汰を経験した業界関係者が次世代企業に参加することで、より現実的かつ実行可能なロボティクス開発が期待される"
+      ]
+    }
+  },
+  {
+    "title": "ファナックとフィジカルAI、現場主義の開発思想",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/02/news043.html",
+    "published": "Thu, 02 Jul 2026 06:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-07-01 22:15:48",
+    "ai_summary": null
+  },
+  {
+    "title": "유비테크, 세계 최초 풀사이즈 양산형 울트라 바이오닉 휴머노이드 로봇 UWORLD U1 출시",
+    "link": "https://zdnet.co.kr/view/?no=20260702001014",
+    "published": "Thu, 02 Jul 2026 00:10:14 +0900",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-07-01 22:15:52",
+    "ai_summary": {
+      "title_ja": "ユービテック、世界初の量産型フルサイズ超バイオニック人型ロボット「UWORLD U1」を発表",
+      "summary": "中国のユービテックは2026年6月30日、深圳で「UWORLD U1シリーズ」を公式発表した。U1 Lite半身版、U1 Pro、U1 Ultraの3モデルで、価格は119,800元からで、発表時点で13,361台を超える受注を記録している。同社は人型ロボットを危険作業の自動化から日常生活への拡張、人間とロボットの深度な協働へと進化させる3段階のビジョンを示している。",
+      "insights": [
+        "大規模受注実績：発表初日で13,000台超の受注は、商用人型ロボットの市場需要が急速に拡大していることを示唆しており、産業用途での採用が本格化している",
+        "段階的事業展開戦略：危険業務→日常生活支援→高度な人ロボット協働という3段階アプローチは、技術成熟度に応じた現実的な市場開拓戦略であり、20年ロードマップで長期的競争優位を構築中",
+        "プラットフォーム企業への進化：ユービテックがハードウェア製造から『AI搭載ロボティクス＋インテリジェント・インフラ』プラットフォームへの転換を宣言しており、エコシステム構築による競争力強化を目指している"
+      ]
+    }
+  },
+  {
+    "title": "2026 BAIR Graduate Showcase",
+    "link": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
+    "published": "Wed, 01 Jul 2026 02:00:00 -0700",
+    "keywords": [
+      "World Model",
+      "Imitation Learning",
+      "robotics",
+      "humanoid",
+      "autonomous robot",
+      "manipulation"
+    ],
+    "source": "Berkeley AI (BAIR)",
+    "flag": "Lab",
+    "detected_at": "2026-07-01 22:16:10",
+    "ai_summary": {
+      "title_ja": "2026年BAIR大学院修了生展示会",
+      "summary": "バークレー人工知能研究（BAIR）ラボの2026年博士課程修了生たちが、ロボティクス、大規模言語モデル、コンピュータビジョン、生成モデル、AI安全性など幅広い分野で革新的な研究を推進した。修了生たちは影響力のある論文を発表し、実世界への応用システムを構築し、学界・産業界・スタートアップなど多様なキャリアパスに進む。BAIRコミュニティの成長と人材育成における卓越した成果を示している。",
+      "insights": [
+        "ロボティクスと具現化されたAI（embodied AI）が研究の重要な柱として確立され、実世界への応用が急速に進展している",
+        "大規模言語モデルと推論能力の研究が学界から産業界へのキャリアパイプラインを形成し、AIの実用化を加速させている",
+        "AI安全性と人間-AI相互作用の研究が重視されており、責任あるAI開発への学術的基盤が構築されている"
+      ]
+    }
+  },
+  {
     "title": "シャッター遠隔管理の基盤にIIJの産業向けIoTソリューションを採用",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2607/01/news054.html",
     "published": "Wed, 01 Jul 2026 14:00:00 +0900",
