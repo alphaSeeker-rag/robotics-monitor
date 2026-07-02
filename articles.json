@@ -1,5 +1,26 @@
 [
   {
+    "title": "Automate 2026 show recap",
+    "link": "https://www.therobotreport.com/automate-2026-show-recap/",
+    "published": "Thu, 02 Jul 2026 16:35:58 +0000",
+    "keywords": [
+      "humanoid",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-02 22:03:57",
+    "ai_summary": {
+      "title_ja": "Automate 2026 ショーレポート総括",
+      "summary": "ロボティクス業界の主要メディア編集者らがAutomate 2026を分析し、フィジカルAI、ヒューマノイドロボット、ソフトウェア統合における重要なトレンドを報告した。本レポートはロボット業界の現在の技術動向と市場の方向性を整理した内容となっている。",
+      "insights": [
+        "フィジカルAI（Physical AI）がロボティクス業界の中核トレンドとして確立され、実世界環境での自律的な動作能力が重視されている",
+        "ヒューマノイドロボットの実用化が進展しており、産業応用と商業化の段階へ移行している可能性がある",
+        "複数のロボットやシステムを統合管理するソフトウェアオーケストレーション技術が、実装上の重要課題として認識されている"
+      ]
+    }
+  },
+  {
     "title": "Luxonis closes Series A round to scale physical AI perception layer",
     "link": "https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/",
     "published": "Thu, 02 Jul 2026 12:00:32 +0000",
