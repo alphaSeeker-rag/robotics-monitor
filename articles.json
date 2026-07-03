@@ -1,5 +1,29 @@
 [
   {
+    "title": "Video Friday: An Earthbound Mars Rover for the Moon",
+    "link": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover",
+    "published": "Fri, 03 Jul 2026 15:00:01 +0000",
+    "keywords": [
+      "Teleoperation",
+      "robotics",
+      "humanoid",
+      "embodied AI",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-07-03 22:02:29",
+    "ai_summary": {
+      "title_ja": "ビデオ・フライデー：月面用の地球産火星ローバー",
+      "summary": "NASAは月の南極にプローバーを配置する宇宙探査計画を検討しており、火星探査ローバーCuriosityの試験型ローバーをベースに、PROMISE（極域観測・地図作成・現地探査用ローバー）という核動力ローバーの開発を構想している。Perseveranceローバーのテストベッドローバーの技術要素も活用される可能性があり、既存の火星探査技術を月面探査に応用するアプローチが進められている。",
+      "insights": [
+        "火星で実証済みのローバー技術を月面探査に転用することで、開発コストと技術リスクを削減できる",
+        "核動力ローバーにより月の極域での長期間の自律探査が可能になり、資源探査や基地建設の支援が実現化する",
+        "複数の惑星間での技術プラットフォーム化により、宇宙探査の効率化とスケーラビリティが向上する"
+      ]
+    }
+  },
+  {
     "title": "フィジカルAIに“二刀流”で対応するアドバンテック、日本に第3の製造拠点を構築",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2607/03/news065.html",
     "published": "Fri, 03 Jul 2026 07:00:00 +0900",
