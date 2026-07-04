@@ -1,5 +1,37 @@
 [
   {
+    "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
+    "published": "Sat, 04 Jul 2026 07:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-07-04 13:51:45",
+    "ai_summary": null
+  },
+  {
+    "title": "74 Yuan for 3 Hours: Embodied AI Robots Begin Entering Chinese Homes for Household Chores",
+    "link": "https://pandaily.com/embodied-ai-robots-household-chores-74-yuan-china-jul2026",
+    "published": "Sat, 04 Jul 2026 02:18:45 GMT",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-04 13:51:50",
+    "ai_summary": {
+      "title_ja": "74元で3時間：実装型AIロボットが中国家庭への普及を開始、家事代行サービスで提供",
+      "summary": "中国の実装型AIロボットが家事代行サービスとして月額74元（約3時間分）で家庭向けにレンタルされ始めた。これにより、数十億ドル規模の実装型AI投資の実際の価値について業界内で議論が生じている。商用化段階への移行が加速している一方、投資対効果の検証が課題となっている。",
+      "insights": [
+        "実装型AI技術が研究開発段階から実用的な家庭向けサービスへの転換点を迎えており、採算性と市場適合性の検証が重要局面",
+        "低価格設定による普及拡大戦略で、消費者の受容性データと使用実績を大規模に収集し、製品改善と市場規模の実測が可能になる",
+        "ロボット技術の商用化において、大型投資の妥当性が実際の市場価値と乖離している可能性があり、今後の資金配分戦略に影響を与える可能性が高い"
+      ]
+    }
+  },
+  {
     "title": "Video Friday: An Earthbound Mars Rover for the Moon",
     "link": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover",
     "published": "Fri, 03 Jul 2026 15:00:01 +0000",
