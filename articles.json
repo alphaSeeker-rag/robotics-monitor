@@ -1,5 +1,69 @@
 [
   {
+    "title": "Kraken Robotics acquires Covelya Group for $615M",
+    "link": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
+    "published": "Mon, 06 Jul 2026 21:00:54 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-06 22:10:52",
+    "ai_summary": {
+      "title_ja": "クレイケン・ロボティクス、コヴェリア・グループを6億1,500万ドルで買収",
+      "summary": "クレイケン・ロボティクスがコヴェリア・グループを6億1,500万ドルで買収し、海中技術分野での製品ポートフォリオを拡大する。本買収により、クレイケンのアドレッサブルマーケット(総合市場規模)が海中技術領域で大幅に拡大される見通し。この戦略的M&Aは、海中ロボティクス市場における競争力強化を狙ったものと考えられる。",
+      "insights": [
+        "海中技術市場における大型M&Aが活発化しており、海洋産業デジタル化への大規模投資トレンドを示唆している",
+        "ロボティクス企業の外部成長戦略として、補完的技術・製品ポートフォリオの取得が重要な経営課題となっている",
+        "6億ドル超規模の買収は、海中ロボティクスの商業的価値向上と市場成熟を反映している"
+      ]
+    }
+  },
+  {
+    "title": "Boston Dynamics brings its legged robots to the FIFA World Cup",
+    "link": "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/",
+    "published": "Mon, 06 Jul 2026 20:45:48 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-06 22:10:57",
+    "ai_summary": {
+      "title_ja": "ボストン・ダイナミクスが脚式ロボットをFIFAワールドカップに投入",
+      "summary": "ボストン・ダイナミクスと現代自動車は、2026年FIFAワールドカップに向けてAtlas人型ロボットにフットワーク技術を習得させている。Spotロボットは会場のパトロール業務を担当する予定である。このプロジェクトは、大規模国際イベントにおけるロボティクス技術の実装と商用化の実例となる。",
+      "insights": [
+        "大規模スポーツイベントがロボティクス技術の実証実験フィールドとして機能し、実運用環境でのロボット性能検証が可能になる",
+        "Hyundai（現代自動車）とBoston Dynamicsの提携により、エンタープライズロボティクスと自動車メーカーの協業モデルが確立されつつある",
+        "脚式ロボットの動作制御技術（フットワーク習得）が進化しており、人間のような複雑な動きを要求される環境での適用が現実化している"
+      ]
+    }
+  },
+  {
+    "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
+    "link": "https://spectrum.ieee.org/humanoid-robots-japan",
+    "published": "Sat, 04 Jul 2026 11:00:01 +0000",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-07-06 22:11:02",
+    "ai_summary": {
+      "title_ja": "日本がヒューマノイドロボットを先駆けたが、今、中国に追いつけるか？",
+      "summary": "日本は20年前からヒューマノイドロボット開発をリードしており、石黒浩教授の分身ロボット「Geminoid HI-6」は大規模言語モデルを搭載して高度な会話能力を獲得している。しかし、東京のHumanoids Summitではわずか40体のロボット展示にとどまり、中国システムが急速に追い上げている状況が浮き彫りになった。",
+      "insights": [
+        "日本の先行優位性の喪失リスク：パイオニアであった日本が展示ロボット数で中国に差をつけられている可能性があり、市場化・産業化のスピードで劣後している兆候",
+        "LLM統合による機能高度化：Geminoid HI-6のように既存の人型ロボットにLLMを統合することで、会話能力・知的相互作用が飛躍的に向上し、新しいユースケースが生まれている",
+        "ヒューマノイドロボット産業の転機：東アジア地域の競争激化により、技術力だけでなく製造規模・コスト競争力・エコシステム構築速度が産業覇権を決する重要要因になりつつある"
+      ]
+    }
+  },
+  {
     "title": "数μmの傷を手で触って判別できる触覚増幅デバイス、デジタル化も視野に",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2607/06/news049.html",
     "published": "Mon, 06 Jul 2026 09:30:00 +0900",
