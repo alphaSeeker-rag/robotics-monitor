@@ -1,5 +1,89 @@
 [
   {
+    "title": "ABB Robotics includes vSLAM navigation in F712 autonomous forklift",
+    "link": "https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/",
+    "published": "Tue, 07 Jul 2026 20:24:24 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-07 22:08:51",
+    "ai_summary": {
+      "title_ja": "ABBロボティクス、F712自動運搬車にvSLAM ナビゲーションを搭載",
+      "summary": "ABBロボティクスは、Flexley Stacy F712自動運搬車にビジョンベースのナビゲーション技術を導入した。本機種はvSLAM技術を活用して自律走行を実現し、他のロボットとの協働が可能である。安全基準への準拠も確保されている。",
+      "insights": [
+        "vSLAM（Visual SLAM）技術の採用により、LiDARに依存しない低コストの自動運搬車ソリューションが実現可能になり、物流・製造現場での導入促進が期待される",
+        "複数ロボットの協働対応は、柔軟なマルチエージェント環境での自動化ソリューションを提供し、スマートファクトリーの構築を加速させる",
+        "安全基準準拠の実装は、産業用自動運搬車の規制要件をクリアし、企業への信頼性を強化する重要な競争差別化要因となる"
+      ]
+    }
+  },
+  {
+    "title": "DMG森精機が挑む工作機械のフィジカルAI、産総研と機械加工の基盤モデル構築促進",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/08/news026.html",
+    "published": "Wed, 08 Jul 2026 06:15:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-07-07 22:08:58",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMCが語るAIの波及効果、1兆5,000億ドルの半導体が150兆ドルのGDPへ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2123205.html",
+    "published": "",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "PC Watch",
+    "flag": "JP",
+    "detected_at": "2026-07-07 22:08:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+    "link": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
+    "published": "2026-07-07T17:05:42Z",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "NVIDIA Developer",
+    "flag": "Lab",
+    "detected_at": "2026-07-07 22:09:08",
+    "ai_summary": {
+      "title_ja": "NVIDIA Isaac GR00Tでヒューマノイドロボットのポリシーをエンドツーエンドで開発",
+      "summary": "ヒューマノイドロボット開発がハードウェア立ち上げからタスク固有のスキル開発へシフトする中、NVIDIAのIsaac GR00Tプラットフォームは再現可能な開発ワークフローを提供している。このツールにより、開発チームは効率的にロボット制御ポリシーを構築・展開できるようになった。",
+      "insights": [
+        "ヒューマノイドロボット開発は初期段階から実用化段階への転換期にあり、スケーラブルな開発フレームワークが競争力の鍵になっている",
+        "エンドツーエンドのAIベース制御ポリシー開発により、シミュレーションから実機への転移学習が加速する",
+        "NVIDIA Isaac GR00Tのような統合プラットフォームは、複数チーム間での開発の標準化と再現性確保を実現し、ロボティクス産業の成熟を促進する"
+      ]
+    }
+  },
+  {
+    "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
+    "link": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
+    "published": "Tue, 07 Jul 2026 02:00:00 -0700",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "Berkeley AI (BAIR)",
+    "flag": "Lab",
+    "detected_at": "2026-07-07 22:09:13",
+    "ai_summary": {
+      "title_ja": "インテリジェンスは無料になった、次は何か？ エージェント向けのデータシステム",
+      "summary": "AI推論コストは劇的に低下しており、GPT-4レベルの能力は2023年初めの約30ドル/100万トークンから現在は1ドル以下、一部は0.1ドル以下まで低下している。年間50倍の中央値を含む9〜900倍の価格下落が観測されており、ほぼ無料のインテリジェンス時代が近づいている。知識労働の大部分に十分なレベルの知能が既に利用可能であり、今後の焦点はインテリジェンスそのものではなくデータシステムの構築に移行する。",
+      "insights": [
+        "AI推論コストの急速な低下により、インテリジェンス自体がコモディティ化しつつあり、今後の競争優位は知能ではなくデータシステムの質に依存する",
+        "エージェント技術の実用化段階では、データの「収集（for）」「管理（of）」「活用（by）」の3層構造を最適化することが重要な課題となる",
+        "ほぼ無料のAI能力が普遍的に利用可能になることで、企業価値の源泉が計算リソースからデータ資産と統合的なAIシステム設計へシフトする"
+      ]
+    }
+  },
+  {
     "title": "Tesollo initiates IPO process while developing humanoid hands",
     "link": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/",
     "published": "Tue, 07 Jul 2026 13:17:40 +0000",
