@@ -1,5 +1,2057 @@
 [
   {
+    "title": "Tesollo initiates IPO process while developing humanoid hands",
+    "link": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/",
+    "published": "Tue, 07 Jul 2026 13:17:40 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-07 14:55:11",
+    "ai_summary": {
+      "title_ja": "テソロが人型ロボットハンド開発中にIPO準備を開始",
+      "summary": "韓国のロボティックハンド専門企業テソロが新規公開株式(IPO)の準備を公式に開始した。同社は人型ロボットの手の開発を進めながら資本市場への上場を目指している。この動きは、ロボティクス産業における重要な資金調達戦略を示唆している。",
+      "insights": [
+        "ロボティクス・フィジカルAI企業の資本市場への関心が高まっており、IPO準備は産業成熟度の指標となる可能性がある",
+        "人型ロボットハンドは産業用途・サービスロボット分野での需要が急速に拡大しており、競争力のある技術保有企業への投資関心が集中している",
+        "韓国のロボティクス企業がIPOを通じて国際競争力を強化する動きは、アジアのロボティクス産業における地政学的な技術覇権争いの一部である"
+      ]
+    }
+  },
+  {
+    "title": "HIVE brings in $15M to build physical AI for industrial machines",
+    "link": "https://www.therobotreport.com/hive-brings-in-15m-to-build-physical-ai-for-industrial-machines/",
+    "published": "Tue, 07 Jul 2026 06:55:51 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-07 14:55:14",
+    "ai_summary": {
+      "title_ja": "HIVEが産業用機械向けフィジカルAI構築に1500万ドル調達",
+      "summary": "HIVEは産業用機械向けのフィジカルAI技術開発に1500万ドルの資金を調達した。同社の技術はスカンジナビア地域の複数サイトにおいて、異なる機械間で自律的に展開・運用されている。",
+      "insights": [
+        "フィジカルAIは産業用機械の自動化ソリューションとして実装段階に移行し、実環境での複数機械対応が可能になりつつある",
+        "北欧地域での早期導入展開により、気候条件が厳しい環境での堅牢性とスケーラビリティの実証が進行中",
+        "機械間の相互運用性を実現するフィジカルAIプラットフォームへの投資加速により、産業ロボティクス市場の競争が激化する可能性"
+      ]
+    }
+  },
+  {
+    "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+    "link": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+    "published": "Tue, 07 Jul 2026 06:00:26 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-07-07 14:55:18",
+    "ai_summary": {
+      "title_ja": "NVIDIAとHugging Faceがオープンロボティクスコミュニティ向けにLeRobotに新しいモデルとフレームワークをもたらす",
+      "summary": "NVIDIAとHugging Faceは、大規模データセット、ロボット基盤モデル、シミュレーション、計算リソース、検証ツールなどの高コスト化した断片的リソースにより阻まれてきたロボティクス分野のオープンソースAI開発に新たな機会をもたらす。オープンソースAIがモデル、データ、ツールの共有を通じて開発者のイノベーション加速を実現しているように、両社はロボティクスでも同様の加速化を目指している。",
+      "insights": [
+        "フィジカルAI開発における主要課題は単なる技術ではなく、高コストで断片化されたリソース（基盤モデル、データセット、シミュレーション環境）へのアクセスであり、オープンソース化による民主化が業界成熟度を大きく向上させる可能性がある",
+        "大手テック企業によるオープンソースロボティクスプラットフォーム（LeRobot）の支援強化は、ロボティクス業界のMoATからプラットフォーム化への転換を示唆しており、今後の競争軸が独占的リソースから標準化フレームワークへシフトしている",
+        "Hugging Face等のAIモデルハブとロボティクス開発の統合は、物理世界におけるAIの実装障壁を低減し、スタートアップや研究機関によるイノベーションの加速度的増加をもたらす構造的変化である"
+      ]
+    }
+  },
+  {
+    "title": "コードレスで家中どこでも使え連続70時間運転＆スマホで遠隔操作＆静音で夜でも気にならない「SwitchBot スマートサーキュレーター2 Pro」を使ってみた",
+    "link": "https://gigazine.net/news/20260707-switchbot-smart-circulator-2-pro/",
+    "published": "Tue, 07 Jul 2026 09:00:00 +0900",
+    "keywords": [
+      "遠隔操作"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-07-07 14:55:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Embodied AI's Spatial Vision Achilles' Heel Finally Solved: CMG Lab's IROS 2026 Breakthrough",
+    "link": "https://pandaily.com/cmg-lionrock-lab-hybrid-data-collection-vla-spatial-generalization-iros2026-jul2026",
+    "published": "Tue, 07 Jul 2026 08:35:10 GMT",
+    "keywords": [
+      "VLA",
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-07 14:55:30",
+    "ai_summary": {
+      "title_ja": "具現化AI空間視覚の弱点ついに解決：CMGラボのIROS 2026ブレークスルー",
+      "summary": "中国招商集団のLionRock AIラボが、Vision Language Action（VLA）モデルの近道学習問題を特定し、ハイブリッド動的データ収集手法により解決した。この成果がIROS 2026で採択された。物理的AIエージェントの空間認識能力が大幅に向上する可能性がある。",
+      "insights": [
+        "VLA（視覚言語行動）モデルの短絡学習（shortcut learning）は具現化AIの根本的課題であり、その解決は産業用ロボットの実環境適応性を飛躍的に高める",
+        "ハイブリッド動的データ収集アプローチは、シミュレーション環境と現実世界データの統合を効率化し、AIモデルの堅牢性と汎化能力を向上させる新しいパラダイムを提示",
+        "中国大手企業による先端ロボティクス研究成果が国際一流学会で採択されることで、アジア太平洋地域の具現化AI開発において競争力の地政学的シフトが進行中"
+      ]
+    }
+  },
+  {
+    "title": "Simplexity Robotics: 11-Month-Old Embodied AI Startup Ships 100 Robots to Production Lines",
+    "link": "https://pandaily.com/simplexity-robotics-embodied-ai-100-robots-production-lines-jul2026",
+    "published": "Tue, 07 Jul 2026 06:14:41 GMT",
+    "keywords": [
+      "robotics",
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-07 14:55:34",
+    "ai_summary": {
+      "title_ja": "Simplexity Robotics：11ヶ月の若きエンボディドAIスタートアップが100台のロボットを生産ラインに出荷",
+      "summary": "設立から11ヶ月という短期間で、エンボディドAI企業Simplexity Roboticsが汎用ロボット「i7 Pro」の100台を初回ロットとして生産ラインへ納入した。このロボットは複数の産業シナリオに対応可能な設計となっており、早期の商用化を実現している。スタートアップながら実装段階へ進む動きは、エンボディドAI技術の実用化が急速に進展していることを示唆している。",
+      "insights": [
+        "エンボディドAI技術が研究段階から商用生産段階へ急速に移行しており、スタートアップでも短期間での事業化が可能になった",
+        "汎用ロボット（i7 Pro）の開発・展開により、複数産業での導入需要に対応する汎用性重視のアプローチが採用されている",
+        "製造業の自動化・無人化ニーズの高まりに応じて、エンボディドAI企業への投資と商用化が加速している可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "不做fast follow的人，都想创造一个新的世界丨36氪离线聚会第三期",
+    "link": "https://36kr.com/p/3885415199076352?f=rss",
+    "published": "2026-07-07 18:11:27  +0800",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "36Kr",
+    "flag": "CN",
+    "detected_at": "2026-07-07 14:55:44",
+    "ai_summary": {
+      "title_ja": "Fast Followerではなく新しい世界を創造する者たち｜36氪オフラインミートアップ第3期",
+      "summary": "中国のテック産業では「Fast Follow」（シリコンバレーの後追い）という成熟した戦略が主流だが、前方に参照がない時代に直面している。蔚来資本とのパートナーシップで開催されたイベントでは、AR眼鏡、グリーン水素、電動車などの異なる分野の起業家・投資家が集結し、不確実性の中で自らの「微光」を発し、共に未知の領域を照らすという創業の本質について議論した。",
+      "insights": [
+        "パラダイムシフト：既存の模倣戦略（Fast Follow）から独立したビジョン構想へのシフトが、次世代スタートアップの必然的課題となっている",
+        "エコシステム形成：個別の創業者ではなく、分散した「萤火虫（微光）」が集合し相互に照らし合うことで、初めて新しい産業領域が照らされるという創業生態の構造化",
+        "多領域の機会：AR/VR、グリーンエネルギー（水素・リチウム電池・核融合）など、従来のVC投資対象外とされた産業でも大型投資機会が創出されている"
+      ]
+    }
+  },
+  {
+    "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation",
+    "link": "https://arxiv.org/abs/2607.02642",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "Teleoperation",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:55:50",
+    "ai_summary": {
+      "title_ja": "GigaWorld-1: ロボット政策評価のためのワールドモデル構築へのロードマップ",
+      "summary": "本研究は、ロボティクス基盤モデルの評価における重大なボトルネックを解決するため、政策評価用のワールドモデルの信頼性を系統的に研究する。実ロボットテレオペレーションデータとポリシーロールアウトから構築されたWMBenchベンチマークを導入し、複数のモデルファミリー、アクション符号化、ロールアウト地平線、評価指標を統制的に比較可能にする。7つのビデオワールドモデルと4つのアクション表現スキームを分析し、ロボット政策の効率的なシミュレーション評価パイプラインの構築を目指す。",
+      "insights": [
+        "ロボット政策評価におけるシミュレータサロゲートの必要性：実世界ロールアウトの高コストと時間制約を解決するため、ワールドモデルによる代替評価が重要な戦略として認識されている",
+        "評価メトリクスの多次元性：単一の指標では不十分であり、モデルファミリー、アクション符号化、ロールアウト地平線の相互作用を考慮した複合的評価フレームワークが必須",
+        "ベンチマーク標準化による産業加速：WMBenchなどの統一ベンチマークにより、ワールドモデルの信頼性評価が可能化し、ロボティクス基盤モデルの産業展開が加速する"
+      ]
+    }
+  },
+  {
+    "title": "EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots",
+    "link": "https://arxiv.org/abs/2607.02646",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:55:55",
+    "ai_summary": {
+      "title_ja": "EVA-Client: 実ロボットの具体化ポリシーのための統合データ収集・推論・デプロイメントフレームワーク",
+      "summary": "EVA-Clientは、訓練済み操作ポリシーを実ロボットにデプロイするためのオープンソースフレームワークであり、ポリシーサーバーと物理ハードウェア間に位置している。モジュール化されたアーキテクチャにより、ロボットバックエンド、推論戦略、ミドルウェアを独立して追加可能であり、デバッグ・データ収集・評価の各ワークフローを統一的に実行できる。評価実行時に自動的にトレーニング対応形式でデータを収集し、詳細なログと比較ビューアを生成する。",
+      "insights": [
+        "モジュラー・アーキテクチャ採用により、複数のロボット種やAI推論手法の組み合わせが容易になり、ロボティクス開発の汎用プラットフォーム化が進む",
+        "データ収集と評価を統合したワークフローにより、実ロボット実験からの効率的なデータループ構築が可能になり、ポリシー改善の高速化に貢献",
+        "検査可能な実行とサイド・バイ・サイド比較機能により、ロボット動作の透明性と再現性が向上し、実ロボット開発における信頼性向上と問題診断が容易化"
+      ]
+    }
+  },
+  {
+    "title": "MorphQuad: Morphable Quadrotor for Superhuman Maneuverability, Manipulation, and Resiliency",
+    "link": "https://arxiv.org/abs/2607.02764",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:55:59",
+    "ai_summary": {
+      "title_ja": "MorphQuad：超人的機動性、操作性、耐久性を実現する変形型クワッドロータ",
+      "summary": "本研究は、インフラ保守や接触検査、緊急対応に適した飛行ロボット「MorphQuad」を提案する。このドローンは、任意の向きでの飛行（機動性）、任意の方向へのセンサーやツールの操作（操作性）、風や地面効果などの外乱への耐性（耐久性）を同時に実現する設計を特徴とする。実現には全方向推力ベクトリング、任意向きでのグローバル安定性、コンパクトで標準化された設計が必要である。",
+      "insights": [
+        "全方向推力ベクトリング技術により、従来のドローンでは困難だった復雑な接触作業（バルブ操作、工具操作）を飛行体が直接実行可能になり、産業用途での作業効率が大幅に向上する可能性がある",
+        "任意の姿勢で安定した運動・力制御を実現することで、風や地面効果などの予測不能な外乱環境での信頼性が向上し、危険環境下での検査・保守作業の安全性が向上する",
+        "飛行ロボットが『飛ぶ人間の手』として機能することで、人間が接近困難な高所・狭隘箇所でのインフラメンテナンスの自動化が実現し、建設・エネルギー・通信産業での作業コスト削減が期待される"
+      ]
+    }
+  },
+  {
+    "title": "TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training",
+    "link": "https://arxiv.org/abs/2607.02840",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:04",
+    "ai_summary": {
+      "title_ja": "TACO：スケーラブルなVLA後処理訓練の自己補正器としての触覚ワールドモデル",
+      "summary": "本研究は、ロボット操作タスクにおいて接触が重要な役割を果たす場面で、視覚言語行動（VLA）モデルの性能を向上させるフレームワークTACOを提案している。触覚情報を組み込んだワールドモデルを用いることで、視覚のみでは検出困難な微細な接触摂動による失敗を検出・補正し、スケーラブルな後処理訓練を実現する。これにより、人間による介入コストを削減しながら接触豊富な操作タスクへの汎化性能を向上させる。",
+      "insights": [
+        "触覚情報の統合：視覚のみのワールドモデルでは視覚的に妥当でも接触物理的に矛盾した軌跡が生成される問題に、触覚センサ情報を組み込むことで解決し、より堅牢な推定が可能になる",
+        "スケーラビリティの課題解決：従来の人間による教示が必要な補正学習をワールドモデルの合成ロールアウトで代替することで、監督スケーリングのコスト削減と効率化を実現",
+        "接触豊富タスクへの特化：マニピュレーション領域で接触が決定的な役割を担うタスク（把持、挿入など）に特化した学習フレームワークであり、実ロボット運用での実用性が高い"
+      ]
+    }
+  },
+  {
+    "title": "CLEAR: Closed-Loop Reinforcement Learning at Scale for End-to-End Autonomous Driving",
+    "link": "https://arxiv.org/abs/2607.02841",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Differential Amplifier-Inspired AmpAttention for Multi-View Robotic Manipulation",
+    "link": "https://arxiv.org/abs/2607.02845",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "DREAMSTEER: Latent World Models Can Steer VLA Policies During Deployment Without Any Finetuning",
+    "link": "https://arxiv.org/abs/2607.02865",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Exp2VLA: Enabling Vision-Language-Action for Drone Navigation from Expert Demonstrations",
+    "link": "https://arxiv.org/abs/2607.03146",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "Teleoperation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Beyond Point-Attached Semantics: Object-Centric Semantic Fields for Generalizable Manipulation",
+    "link": "https://arxiv.org/abs/2607.03163",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "AnchorVLA: Bridging Discrete Decisions and Continuous Trajectories for Vision-Language-Action Planning",
+    "link": "https://arxiv.org/abs/2607.03182",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Layout-independent actuation allocator for fin-actuated marine robots",
+    "link": "https://arxiv.org/abs/2607.03204",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "U-Joint CAAMS: Experimental Evaluation of a Universal-Joint Continuum Manipulator for Aerial Manipulation",
+    "link": "https://arxiv.org/abs/2607.03321",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Feeling the Unexpected: ResTacVLA for Contact-Rich Manipulation via Residual Tactile Representation",
+    "link": "https://arxiv.org/abs/2607.03387",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control",
+    "link": "https://arxiv.org/abs/2607.03449",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "ADP: Adversarial Dynamics Priors for Physically Grounded Humanoid Locomotion",
+    "link": "https://arxiv.org/abs/2607.03454",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Current as Touch: Proprioceptive Contact Feedback for Compliant Dexterous Manipulation",
+    "link": "https://arxiv.org/abs/2607.03529",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation",
+      "manipulation",
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Cross-Embodiment Robot Manipulation via a Unified Hand Action Space",
+    "link": "https://arxiv.org/abs/2607.03570",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "ROBOCYCLE: Autonomous Dual-Arm Robotic Manipulation and Coordination for Recycling Applications",
+    "link": "https://arxiv.org/abs/2607.03616",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts",
+    "link": "https://arxiv.org/abs/2607.03693",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "OmniTacTune: Policy-Agnostic Real-World RL for Tactile Residual Adaptation of Visual Policies",
+    "link": "https://arxiv.org/abs/2607.03723",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models",
+    "link": "https://arxiv.org/abs/2607.03751",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Occluding the Solution Space: Planner-Agnostic Adversarial Attacks on Tolerance-Aware Manipulation",
+    "link": "https://arxiv.org/abs/2607.03758",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling",
+    "link": "https://arxiv.org/abs/2607.03828",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "High-Fidelity One-Step Generative Visuomotor Policy via Recursive Correction, Frequency Consistency, and Contrastive Flow Matching",
+    "link": "https://arxiv.org/abs/2607.03865",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "WSA$_1$: a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control",
+    "link": "https://arxiv.org/abs/2607.03941",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "embodied AI",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Worldscape-MoE: A Unified Mixture-of-Experts World Model for Scalable Heterogeneous Action Control",
+    "link": "https://arxiv.org/abs/2607.03964",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Semantic-Guided Progressive Object Removal with Gaussian Splatting",
+    "link": "https://arxiv.org/abs/2607.04144",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "!Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics",
+    "link": "https://arxiv.org/abs/2607.04146",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "ACE: Agentic Control for Embodied Manipulation via Zero-shot Workflow Reasoning",
+    "link": "https://arxiv.org/abs/2607.04162",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control",
+    "link": "https://arxiv.org/abs/2607.04171",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "Flow Matching",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects",
+    "link": "https://arxiv.org/abs/2607.04234",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "FLOAT Drone for Physical Interaction: Lateral Airflow Reduction, Wrench Modeling, and Adaptive Control",
+    "link": "https://arxiv.org/abs/2607.04260",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "HALO-WA: Hybrid-Attention Latent-Guided Online Reinforcement Learning for World-Action Models",
+    "link": "https://arxiv.org/abs/2607.04265",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "A Perception-Manipulation Robotics System for Food Cutting",
+    "link": "https://arxiv.org/abs/2607.04367",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI",
+    "link": "https://arxiv.org/abs/2607.04426",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+    "link": "https://arxiv.org/abs/2607.04434",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models",
+    "link": "https://arxiv.org/abs/2607.04546",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning",
+    "link": "https://arxiv.org/abs/2607.04591",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "SEAM: Smooth Execution of Action-Chunked Motion for Vision-Language-Action Policies",
+    "link": "https://arxiv.org/abs/2607.04609",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "RoboVista: Evaluating Vision Language Models for Diverse Robot Applications",
+    "link": "https://arxiv.org/abs/2607.04610",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing",
+    "link": "https://arxiv.org/abs/2607.04616",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "KAM-WM: Kinematic Affordance Maps from Latent World Models for Robot Manipulation",
+    "link": "https://arxiv.org/abs/2607.04652",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching",
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning",
+    "link": "https://arxiv.org/abs/2607.04681",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Geometry-Aware Motion Latents for Learning Robust Manipulation Policies",
+    "link": "https://arxiv.org/abs/2607.04714",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Aerial Manipulation: Contact, Medium Coupling, and the Geometry of Readiness",
+    "link": "https://arxiv.org/abs/2607.04719",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2607.04816",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Athena-WBC: Capability-Aligned Policy Experts for Long-Tail Humanoid Whole-Body Control",
+    "link": "https://arxiv.org/abs/2607.04837",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis",
+    "link": "https://arxiv.org/abs/2607.04880",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Vision-Language-Action",
+      "Teleoperation",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation",
+    "link": "https://arxiv.org/abs/2607.04927",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation",
+    "link": "https://arxiv.org/abs/2607.04940",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "manipulation",
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization",
+    "link": "https://arxiv.org/abs/2607.04988",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Compositional Generalization",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
+    "link": "https://arxiv.org/abs/2607.05377",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
+    "link": "https://arxiv.org/abs/2607.05390",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Learning 3D Affordances for Blade Insertion in Cluttered Stowing",
+    "link": "https://arxiv.org/abs/2607.02549",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "DynaWM: A Base-VLA-Guided World Foundation Model for Moving-Object Manipulation",
+    "link": "https://arxiv.org/abs/2607.02604",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "E-TraMamba: A New Paradigm for Efficient Long-Term 3D Feature Tracking with Event Cameras",
+    "link": "https://arxiv.org/abs/2607.02866",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "LOTUSim: Multi-Domain Simulator for Marine Robotics",
+    "link": "https://arxiv.org/abs/2607.03072",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Anticipatory Reinforcement Learning for Trajectory Tracking",
+    "link": "https://arxiv.org/abs/2607.03132",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Fast 3D Foundation Model Initialized Gaussian Splatting",
+    "link": "https://arxiv.org/abs/2607.03209",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "iVISION-2DCD: A Long-Term Change Detection Dataset for Large-Scale Outdoor Construction Monitoring",
+    "link": "https://arxiv.org/abs/2607.03553",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "CRISP: A Spatiotemporal Camera-Radar Backbone for Driving via Forecasting-Based World-Model Pretraining",
+    "link": "https://arxiv.org/abs/2607.04541",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control",
+    "link": "https://arxiv.org/abs/2607.04978",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching",
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Green for Go, Red for No: Visual Grounding via Semantic Segmentation for VLA Navigation Policies",
+    "link": "https://arxiv.org/abs/2607.05122",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+    "link": "https://arxiv.org/abs/2607.05391",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+    "link": "https://arxiv.org/abs/2607.05396",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "TiROD: Tiny Robotics Dataset and Benchmark for Continual Object Detection",
+    "link": "https://arxiv.org/abs/2409.16215",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models",
+    "link": "https://arxiv.org/abs/2409.16663",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "MOSAIC: Skill-Centric Manipulation Planning with Physics Simulation",
+    "link": "https://arxiv.org/abs/2504.16738",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Rational Inverse Reasoning: Few-Shot Imitation by Inferring Intent through Planning",
+    "link": "https://arxiv.org/abs/2508.08983",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn Dialogue",
+    "link": "https://arxiv.org/abs/2509.15061",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Verifier-free Test-Time Sampling for Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2510.05681",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation",
+    "link": "https://arxiv.org/abs/2510.08807",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain",
+    "link": "https://arxiv.org/abs/2510.17801",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "3D Cal: An Open-Source Software Library for Depth Reconstruction on Vision-Based Tactile Sensors",
+    "link": "https://arxiv.org/abs/2511.03078",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "SMF-VO: Direct Ego-Motion Estimation via Sparse Motion Fields",
+    "link": "https://arxiv.org/abs/2511.09072",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "MIND-V: Hierarchical World Model for Long-Horizon Robotic Manipulation with RL-based Physical Alignment",
+    "link": "https://arxiv.org/abs/2512.06628",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis",
+    "link": "https://arxiv.org/abs/2512.11797",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "World Model",
+      "Teleoperation",
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Towards Spatial Trace with Reasoning in Vision-Language Models for Robotics",
+    "link": "https://arxiv.org/abs/2512.13660",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "MOSAIC: Modular Scalable Autonomy for Intelligent Coordination of Heterogeneous Robotic Teams",
+    "link": "https://arxiv.org/abs/2601.23038",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "CoLA-Flow Policy: Temporally Coherent Imitation Learning via Continuous Latent Action Flow Matching for Robotic Manipulation",
+    "link": "https://arxiv.org/abs/2601.23087",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching",
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies",
+    "link": "https://arxiv.org/abs/2602.06575",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Glance-Say: Multimodal Human-Robot Collaboration and Intent Recognition via Sticky Glance",
+    "link": "https://arxiv.org/abs/2603.06121",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "CN-CBF: Composite Neural Control Barrier Function for Robot Navigation in Dynamic Environments",
+    "link": "https://arxiv.org/abs/2603.06921",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Language-Guided Grasping under Partial Observation for Mobile Manipulation in Field Inspection and Maintenance",
+    "link": "https://arxiv.org/abs/2603.07866",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "CABTO: Context-Aware Behavior Tree Grounding for Robot Manipulation",
+    "link": "https://arxiv.org/abs/2603.16809",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "StageCraft: Execution Aware Mitigation of Distractor and Obstruction Failures in VLA Models",
+    "link": "https://arxiv.org/abs/2603.20659",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline RL in Pixel Space",
+    "link": "https://arxiv.org/abs/2603.26720",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "A Co-Design Framework for High-Performance Jumping of a Five-Bar Monoped with Actuator Optimization",
+    "link": "https://arxiv.org/abs/2604.06025",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors",
+    "link": "https://arxiv.org/abs/2604.21241",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "$M^2$-VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills",
+    "link": "https://arxiv.org/abs/2604.24182",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation",
+    "link": "https://arxiv.org/abs/2605.07306",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics",
+      "embodied AI",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Nano-U: Efficient Terrain Segmentation for Tiny Robot Navigation",
+    "link": "https://arxiv.org/abs/2605.10210",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Toward Interaction Dynamics: A Predictive Framework for Safe Physical Human Robot Interaction",
+    "link": "https://arxiv.org/abs/2606.08281",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "CG-MuTra: Continuously-Gated Multi-Terrain Adaptive Recovery for Unified Humanoid Fall Recovery and Locomotion",
+    "link": "https://arxiv.org/abs/2606.08922",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Interaction Dynamics for Dexterous Manipulation",
+    "link": "https://arxiv.org/abs/2606.14606",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation",
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "BiliVLA: Scene-Aware Vision-Language-Action Model with Reinforcement Learning for Autonomous Biliary Endoscopic Navigation",
+    "link": "https://arxiv.org/abs/2606.23531",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Beyond Monotonic Progress: Retry-Supervised Value Learning for Robot Imitation",
+    "link": "https://arxiv.org/abs/2606.24633",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "In-Context World Modeling for Robotic Control",
+    "link": "https://arxiv.org/abs/2606.26025",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
+    "link": "https://arxiv.org/abs/2606.28276",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "CubifyGS: Object-Centric 3D Gaussian Splatting for Lifelong Dynamic Scene Maintenance",
+    "link": "https://arxiv.org/abs/2606.28720",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model",
+    "link": "https://arxiv.org/abs/2606.29936",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Automating the Design of Embodied Agent Architectures",
+    "link": "https://arxiv.org/abs/2606.30111",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force",
+    "link": "https://arxiv.org/abs/2606.30988",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "ChronoFlow-Policy: Unifying Past-Current-Future Interaction Flow in Visuomotor Policy Learning",
+    "link": "https://arxiv.org/abs/2606.31493",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "From World Models to World Action Models: A Concise Tutorial for Robotics",
+    "link": "https://arxiv.org/abs/2607.00836",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "AutoSpeed: Annotation-Free Stage-Adaptive Motion Speed Learning for Robot Manipulation",
+    "link": "https://arxiv.org/abs/2607.01051",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies",
+    "link": "https://arxiv.org/abs/2607.02092",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+    "link": "https://arxiv.org/abs/2607.02501",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "embodied AI"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Insect-inspired Visual Point-goal Navigation",
+    "link": "https://arxiv.org/abs/2601.16806",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Scalable Dexterous Robot Learning with AR-based Remote Human-Robot Interactions",
+    "link": "https://arxiv.org/abs/2602.07341",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "WAM4D: Fast 4D World Action Model via Spatial Register Tokens",
+    "link": "https://arxiv.org/abs/2606.14048",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model",
+    "link": "https://arxiv.org/abs/2607.00678",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:09",
+    "ai_summary": null
+  },
+  {
+    "title": "iFLYTEK-Embodied-Omni Technical Report",
+    "link": "https://arxiv.org/abs/2607.02542",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Object-Centric Environment Modeling for Agentic Tasks",
+    "link": "https://arxiv.org/abs/2607.02846",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems",
+    "link": "https://arxiv.org/abs/2607.03283",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM Use for Programming",
+    "link": "https://arxiv.org/abs/2607.03303",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "A Clustering-Based Framework for Identifying Suspicious Trading Patterns in Capital Market",
+    "link": "https://arxiv.org/abs/2607.04184",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models",
+    "link": "https://arxiv.org/abs/2607.04517",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "ClassicLogic: A Knowledge-Driven Benchmark of Classic Puzzle Games for Evaluating Compositional Generalization",
+    "link": "https://arxiv.org/abs/2607.05185",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Compositional Generalization"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "MoP-JEPA: Hard-Assigned Predictor Mixtures for Stochastic JEPA World Models",
+    "link": "https://arxiv.org/abs/2607.05238",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints",
+    "link": "https://arxiv.org/abs/2607.05363",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "K9-Bench: Evaluating Multimodal LLMs on Canine-Centric Videos",
+    "link": "https://arxiv.org/abs/2607.02680",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Vision Token Manipulation Attacks on Cloud-Edge Inference of Large Vision-Language Models",
+    "link": "https://arxiv.org/abs/2607.02819",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Reading Between the Dots: Decoding Hidden Computation across Filler Tokens",
+    "link": "https://arxiv.org/abs/2607.03502",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics",
+    "link": "https://arxiv.org/abs/2607.04112",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Operator-on-F complements value-equivalence: a planning-time diagnostic for latent world models",
+    "link": "https://arxiv.org/abs/2607.04464",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Retroactive Chain-of-Thought (RetroCoT): Forensic Reconstruction Prompts as a Safety Diagnostic Across Model Generations",
+    "link": "https://arxiv.org/abs/2607.04645",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Multiplayer Interactive World Models with Representation Autoencoders",
+    "link": "https://arxiv.org/abs/2607.05352",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "To Use AI as Dice of Possibilities with Timing Computation",
+    "link": "https://arxiv.org/abs/2605.01134",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Kairos: A Regret-Aware Native World-Action Model Stack for Physical AI",
+    "link": "https://arxiv.org/abs/2606.16533",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "Physical AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Understanding Rollout Error in Graph World Models",
+    "link": "https://arxiv.org/abs/2606.27780",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Agent vs. Parametric World Models: Hybrid Planning for Reliable Language Agents",
+    "link": "https://arxiv.org/abs/2606.27806",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing",
+    "link": "https://arxiv.org/abs/2606.30555",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "World-Model Collapse as a Phase Transition",
+    "link": "https://arxiv.org/abs/2606.31399",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Ask the World Before Acting: Environment Probing for Calibrated Agent World Models",
+    "link": "https://arxiv.org/abs/2606.31422",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts",
+    "link": "https://arxiv.org/abs/2607.01767",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models",
+    "link": "https://arxiv.org/abs/2508.08521",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "UNDREAM: Bridging Differentiable Rendering and Photorealistic Simulation for End-to-end Adversarial Attacks",
+    "link": "https://arxiv.org/abs/2510.16923",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Score-Regularized Joint Sampling with Importance Weights for Flow Matching",
+    "link": "https://arxiv.org/abs/2511.17812",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources",
+    "link": "https://arxiv.org/abs/2601.22054",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Endogenous Resistance to Activation Steering in Language Models",
+    "link": "https://arxiv.org/abs/2602.06941",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI",
+    "link": "https://arxiv.org/abs/2602.14401",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Efficient Flow Matching for Sparse-View CT Reconstruction",
+    "link": "https://arxiv.org/abs/2603.00205",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Towards Generalizable Deepfake Image Detection with Vision Transformers",
+    "link": "https://arxiv.org/abs/2604.17376",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories",
+    "link": "https://arxiv.org/abs/2605.10840",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Emergent Semantic Representations in World Models through Physical Interaction without Linguistic Supervision",
+    "link": "https://arxiv.org/abs/2605.28865",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models",
+    "link": "https://arxiv.org/abs/2606.31672",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Predicting Closed-Loop Performance of Latent World Models: Offline Checkpoint Selection for MPC and Model-Based RL Under Non-Markovian Rewards in LunarLander",
+    "link": "https://arxiv.org/abs/2607.01736",
+    "published": "Tue, 07 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-07 14:56:10",
+    "ai_summary": null
+  },
+  {
     "title": "Kraken Robotics acquires Covelya Group for $615M",
     "link": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
     "published": "Mon, 06 Jul 2026 21:00:54 +0000",
