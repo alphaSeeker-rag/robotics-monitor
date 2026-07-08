@@ -1,5 +1,37 @@
 [
   {
+    "title": "ENCY Software and Stäubli Robotics partner to simplify robot programming",
+    "link": "https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/",
+    "published": "Wed, 08 Jul 2026 15:02:53 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-08 22:02:01",
+    "ai_summary": {
+      "title_ja": "ENCY Software と Stäubli Robotics がロボットプログラミング簡素化で提携",
+      "summary": "ENCY Software と Stäubli Robotics が世界的なパートナーシップ契約を締結し、ロボットプログラミングをより直感的で高速、アクセスしやすくすることを目指す。本提携により、ロボット開発・導入の障壁低減と普及加速が期待される。",
+      "insights": [
+        "ロボットプログラミングの複雑性が産業導入の主要な課題であり、ソフトウェア企業とハードウェア企業の連携による解決が進行中",
+        "直感的UI/UXの実装により、ロボティクス技術の民主化と非技術者による操作性向上が実現可能",
+        "Stäübli のような大手ロボティクスメーカーとの戦略的提携は、スタートアップソリューションの市場浸透と業界標準化への道を開く"
+      ]
+    }
+  },
+  {
+    "title": "フィジカルAI搭載ロボットがモノポリーを実演、1台のPCにモーション制御も統合",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/09/news066.html",
+    "published": "Thu, 09 Jul 2026 06:15:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-07-08 22:02:07",
+    "ai_summary": null
+  },
+  {
     "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
     "link": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
     "published": "Tue, 07 Jul 2026 19:02:42 +0000",
