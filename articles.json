@@ -1,5 +1,45 @@
 [
   {
+    "title": "ForSight Robotics’ road to performing a fully robotic cataract surgery",
+    "link": "https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/",
+    "published": "Thu, 09 Jul 2026 21:14:06 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-09 22:19:04",
+    "ai_summary": {
+      "title_ja": "ForSight Roboticsの完全ロボット白内障手術実現への道のり",
+      "summary": "ForSight RoboticsのJASPERプラットフォームは、白内障手術において外科医をアシストするロボティクスシステムである。本システムは高度な自動化を提供しながらも、最終的な手術の主導権と意思決定は外科医の手に委ねる設計となっている。これは医療ロボットにおけるヒューマン・イン・ザ・ループアプローチの実例を示している。",
+      "insights": [
+        "医療ロボティクスの市場で完全自動化ではなく『外科医支援型』の設計が採用される傾向にあり、規制・倫理・臨床信頼の観点から重要な戦略である",
+        "白内障手術は高い精密性が求められる眼科手術であり、ロボティクス導入による手術精度向上と合併症低減の大きな市場機会がある",
+        "ForSight Roboticsのアプローチは、AIロボット時代における外科医とロボットの役割分担モデルの先例となり、他の外科領域への応用可能性が高い"
+      ]
+    }
+  },
+  {
+    "title": "Calling all robotics startups: apply to RoboBusiness Startup Alley",
+    "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-to-robobusiness-startup-alley/",
+    "published": "Thu, 09 Jul 2026 17:53:38 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-09 22:19:09",
+    "ai_summary": {
+      "title_ja": "ロボティクススタートアップ募集：RoboBusiness Startup Alleyへの出展申込",
+      "summary": "RoboBusinessは、フルシステム、コンポーネント、またはソフトウェアシステムを開発するロボティクススタートアップを募集している。Startup Alleyでの出展を通じて、開発成果の発表・展示の機会を提供する。",
+      "insights": [
+        "ロボティクス産業において、スタートアップの成果発表・ネットワーキングの場が業界イベント化している",
+        "フルシステムから個別コンポーネント、ソフトウェアまで幅広い開発段階のスタートアップを対象としており、ロボティクス産業のエコシステムが多層化している",
+        "RoboBusiness等の主要イベントは投資家・顧客へのマーケティング機会であり、スタートアップの事業化加速の重要なチャネルとなっている"
+      ]
+    }
+  },
+  {
     "title": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery",
     "link": "https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/",
     "published": "Thu, 09 Jul 2026 12:30:47 +0000",
