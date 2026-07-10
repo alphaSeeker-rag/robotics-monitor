@@ -1,5 +1,740 @@
 [
   {
+    "title": "원더풀플랫폼, 스탠포드대 로보틱스센터와 손잡고 美 시장 공략 가속",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47360",
+    "published": "2026-07-10 11:16:25",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-07-10 14:45:44",
+    "ai_summary": {
+      "title_ja": "ワンダフルプラットフォーム、スタンフォード大学ロボティクスセンターと提携し米国市場進出を加速",
+      "summary": "国内のAIシニアケア専門企業ワンダフルプラットフォームが、スタンフォード大学ロボティクスセンターと戦略的協力関係を構築した。スタンフォード大学のスティーブ・カズンス上級エグゼクティブディレクターが来社し、AI介護ロボット『ダソミ』を体験した。この提携により、米国市場での事業展開が期待される。",
+      "insights": [
+        "韓国の介護ロボット企業が世界有数の大学研究機関と提携することで、技術の信頼性向上と米国市場進出の足がかりを獲得",
+        "高齢化社会における介護ロボット需要の拡大に対応し、アカデミアとの連携による研究開発・商用化加速が進行中",
+        "シニアケア領域のAIロボットが、医療・福祉機関との実装に向けた大学のネットワークと産業パートナーシップが重要な戦略となっている"
+      ]
+    }
+  },
+  {
+    "title": "AI Scientists Are Already on the Job in Beijing: Mixing Conduction Fluid in 20 Seconds",
+    "link": "https://pandaily.com/beijing-ai4s-ai-scientists-lab-jul2026",
+    "published": "Fri, 10 Jul 2026 07:56:16 GMT",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-10 14:45:49",
+    "ai_summary": {
+      "title_ja": "北京ですでに稼働中のAI科学者：導電流体を20秒で混合",
+      "summary": "北京のAI for Science研究所が、実験設計、データ収集、新材料発見を自律的に実行可能なロボット科学者を導入している。これは従来の研究パラダイムから、自動化・AI駆動型の研究プロセスへの転換を示唆している。自律型ロボット科学者による高速データ生成により、材料科学における発見の加速が実現される。",
+      "insights": [
+        "自律ロボット科学者は実験の仮説設定から実行・分析までの完全サイクルを自動化し、従来の人間主導型研究の効率性と速度を大幅に超える",
+        "20秒での導電流体混合など、極めて短い実験サイクルで大量のデータを生成可能となり、材料科学などの基礎研究分野での発見速度が飛躍的に向上する",
+        "中国（北京）が AI×ロボティクス×科学の融合領域で先行優位を確立しており、自動科学発見システムは次世代R&D競争の重要な差別化要因となる可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Humanoid Robot Performs First Live Surgery: Unitree G1 Completes Gallbladder Removal on Living Subject",
+    "link": "https://pandaily.com/unitree-g1-robot-gallbladder-surgery-jul2026",
+    "published": "Fri, 10 Jul 2026 03:03:41 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-10 14:45:53",
+    "ai_summary": {
+      "title_ja": "ヒューマノイドロボットが初の生体手術を実施：Unitree G1が生きた患者の胆嚢摘出手術を完了",
+      "summary": "改良されたUnitree G1ヒューマノイドロボットが、生きた患者に対して腹腔鏡下胆嚢摘出手術を成功させました。これは汎用目的のヒューマノイドが生体手術を完了した初の事例となります。この成功は、医療ロボティクスの応用可能性を大きく拡大させるマイルストーンです。",
+      "insights": [
+        "汎用ヒューマノイドが医療領域への実装段階に入ったことを示唆し、ロボティクス産業の適用範囲が大幅に拡大する可能性がある",
+        "精密な動作制御と視覚フィードバック能力を備えたヒューマノイドが複雑な外科手術に対応できることが実証され、AI/ロボット技術の実用レベルが飛躍的に向上した",
+        "医療従事者の負担軽減と手術の標準化・遠隔化が進む可能性があり、医療インフラの革新と医療格差の解消に寄与する可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Dexmal Launches Embodied MaaS and DexOS, Solving Model Scaling Into Real-World Scenarios",
+    "link": "https://pandaily.com/dexmal-embodied-maas-dexos-model-jul2026",
+    "published": "Fri, 10 Jul 2026 02:12:48 GMT",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-10 14:45:57",
+    "ai_summary": {
+      "title_ja": "Dexmalが具現化型MaaSとDexOSを発表、実世界シナリオへのモデルスケーリング課題を解決",
+      "summary": "Dexmalは、Action開発者会議においてDM0.5基盤モデル、DexOSオペレーティングシステム、および具現化型MaaS（Mobility as a Service）プラットフォームを発表しました。これらの技術は、ロボティクス産業における「Androidのような存在」の創造を目指し、AIモデルを実世界のロボット環境へ効果的にスケーリングするための統合的なソリューションを提供します。",
+      "insights": [
+        "DexOSは、異なるロボットハードウェア間での互換性と標準化を実現し、ロボティクス業界の碎片化問題を解決する基盤となる可能性が高い",
+        "具現化型MaaSプラットフォームにより、企業がロボット能力をサービスとして利用可能になり、ロボティクス市場の民主化と急速な普及が加速する",
+        "DM0.5基盤モデルは、シミュレーション環境から実世界への転移学習を改善し、ロボットの実運用性能向上における重要な技術的ブレークスルーを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
+    "link": "https://36kr.com/p/3889551814916614?f=rss",
+    "published": "2026-07-10 18:23:02  +0800",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "36Kr",
+    "flag": "CN",
+    "detected_at": "2026-07-10 14:46:06",
+    "ai_summary": {
+      "title_ja": "クリプトン晩報｜独フォルクスワーゲンが大規模リストラ検討、最大12万人削減；ゴールドマン・サックスが裁定取引は2000年以来最好調と指摘；100億元超の私募ファンドが142社に達し史上最多を更新",
+      "summary": "独フォルクスワーゲンが最大12万人の大規模リストラとドイツ国内工場の閉鎖を検討しており、労働組合と政府の反発を招いている。一方、SK海力士の米国上場により投資銀行は1.4億ドルの手数料を見込む一方、グーグルはAI生成広告への表示要件を強化し、三星はAI PC向け加速チップGAIAの量産準備を進めている。TSMC先進パッケージング産能は2027年に月産20万枚以上が目標。",
+      "insights": [
+        "自動車産業の競争激化：フォルクスワーゲンの大規模リストラは、EV転換における過剰産能削減圧力とテスラなど新興勢力との競争激化を示唆",
+        "AI関連チップ産業の急速な拡大：三星GAIA、SK海力士米国上場、TSMC先進パッケージング産能増強により、AI推論チップの供給競争が激化",
+        "規制強化とAI倫理：グーグルのAI広告表示要件強化は、生成AI技術の社会的信頼構築とコンプライアンス義務化の国際的トレンドを反映"
+      ]
+    }
+  },
+  {
+    "title": "Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme Sloped Terrains",
+    "link": "https://arxiv.org/abs/2607.07830",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:12",
+    "ai_summary": {
+      "title_ja": "極度な斜面地形上のヒューマノイド歩行のための物理学ガイド付きバイオメカニクス歩行適応",
+      "summary": "本研究は、極度な斜面地形でのヒューマノイド歩行制御を実現する「HumoSlope」という2段階物理学ガイド枠組みを提案している。従来のモデルフリー強化学習では斜面上で低速・保守的な姿勢に収束する問題があったが、斜面適応型Zero Moment Point(ZMP)正則化器を導入することで、安定性と姿勢制御を同時に実現している。",
+      "insights": [
+        "斜面環境での物理制約をZMP理論に組み込むことで、報酬設計の複雑性を軽減し、より自然で効率的な歩行パターンの学習が可能になる",
+        "重力バイアスという環境の持続的な影響を明示的に考慮することで、強化学習の収束性と実用性が向上する可能性がある",
+        "地形固有のバランス事前知識を段階的に組み込む手法は、不整地での四足/多足ロボットへの拡張も視野に入れた応用可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning",
+    "link": "https://arxiv.org/abs/2607.07844",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:16",
+    "ai_summary": {
+      "title_ja": "シフト&ドリフト：自動運転モーション計画の汎化性と堅牢性を評価するゼロショットベンチマーク",
+      "summary": "本研究は、大規模データセット（nuPlan）で訓練された自動運転モーション計画システムの汎化性と堅�ású性を評価するための新しいベンチマーク「Shift & Drift」を提案している。セマンティックシフトトラックではDeepScenario Open 3DデータセットをnuPlan形式に変換し、北米・シンガポールで訓練されたプランナーをドイツ4都市およびサンフランシスコの1,182シナリオで評価する。このアプローチにより、分布シフト（ドメイン外データ）への対応能力と、実行時の摂動からの回復メカニズムを厳密にテストする。",
+      "insights": [
+        "自動運転システムの実用化に向けて、学習データの地域的多様性とドメイン外適応が重要な課題であり、ゼロショット評価は異なる都市トポロジーへの汎化性を測定する有効な手段となる",
+        "歩行者・自転車との相互作用が多い都市環境への対応は、モーション計画の堅牢性評価において不可欠な要素であり、シミュレーション環境の高度な多様性が必要",
+        "実行時の摂動（センサーノイズ、予測誤差など）からの回復能力の評価は、実世界運用における信頼性向上のために、従来の分布内性能評価と同等に重要な指標"
+      ]
+    }
+  },
+  {
+    "title": "Time-to-Collision Based Dynamic Obstacle Avoidance Using Pretrained Vision Models for Robots in Unstructured Environments",
+    "link": "https://arxiv.org/abs/2607.07885",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:21",
+    "ai_summary": {
+      "title_ja": "非構造化環境でのロボット向け事前学習済みビジョンモデルを用いた衝突時間ベースの動的障害物回避",
+      "summary": "本研究は、シミュレーション学習の現実世界への転送問題を回避し、実データのみを使用する動的障害物回避手法を提案している。UniDepthという事前学習済みモノキュラー深度推定モデルをRGB動画から密な深度マップ生成に活用し、SuperPointおよびSuperGlueの特徴点対応パイプラインで長フレーム列にわたるキーポイント追跡を実現する。このデータ効率的で解釈可能なアプローチにより、ロボット特有の大規模学習データやLiDAR/ステレオカメラなしで非構造化屋外環境での自律移動ロボットの障害物回避が可能になる。",
+      "insights": [
+        "事前学習済みビジョンモデル(UniDepth)の活用により、ロボット固有の学習データを最小化し、データ効率性と汎用性を向上させることができる",
+        "Sim-to-Real問題を完全に排除し、実世界データのみで学習・運用可能な手法は、デプロイメント時間とコスト削減につながる重要な実装パラダイム",
+        "単眼RGB入力から衝突時間予測による動的回避制御は、センサハードウェアの簡素化とスケーラビリティを実現し、低コスト自律ロボットの実用化を促進する"
+      ]
+    }
+  },
+  {
+    "title": "Monocular Vision Based Control Framework for Grasping",
+    "link": "https://arxiv.org/abs/2607.07897",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:26",
+    "ai_summary": {
+      "title_ja": "単眼視覚ベースの把持制御フレームワーク",
+      "summary": "本研究は、RGB入力のみと位置制御グリッパーを用いて、軟質物体と剛体物体の両方を単一の制御パイプラインで把持できる統一的な単眼視覚ベースフレームワークを提案している。オープン語彙物体検出、画像セグメンテーション、境界認識点割り当て、リアルタイム点追跡、単眼深度推定を組み合わせることで、視覚観察から物体の動きと幾何学情報を復元する。言語ベースの剛性推定モデルが物体の機械的特性を推論し、統一的な把持制御を実現する。",
+      "insights": [
+        "触覚センサやグリッパーの特殊化を排除し、単眼RGBカメラのみで軟質物体と剛体物体を統一的に扱う汎用性の高いアプローチは、実用的なロボティクスシステムの製造コスト低減と導入の容易さを大幅に改善する可能性がある",
+        "言語ベースの剛性推定モデルの導入により、物体固有のパラメータ学習が不要になり、未知物体への汎化能力が向上することで、非構造化環境でのロボット自律性が飛躍的に向上する",
+        "リアルタイム点追跡と単眼深度推定の組み合わせは、エッジデバイスへの展開を促進し、クラウド依存を削減することで、産業用・サービスロボット分野での実装可能性が高まる"
+      ]
+    }
+  },
+  {
+    "title": "Towards Soft Robotic Exogloves for Musculoskeletal Manipulation to Reduce Pain and Spasticity",
+    "link": "https://arxiv.org/abs/2607.07958",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation",
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:31",
+    "ai_summary": {
+      "title_ja": "筋骨格系操作のための軟質ロボット外骨格グローブ：痛みと筋硬直の軽減に向けて",
+      "summary": "脳卒中後遺症や関節炎など手の筋硬直と痛みに悩む世界12百万人を対象とした軟質ロボット外骨格グローブを開発している。本グローブは個人の手の形態と運動学に適応した空気圧アクチュエータを搭載し、可動性向上と筋弛緩マッサージの両機能を実現する。有限要素法による設計・解析から実験検証まで、革新的な軟質アクチュエータの開発プロセスが進行中である。",
+      "insights": [
+        "パーソナライズド軟質アクチュエータ技術により、従来の一律的な外骨格を超えた個別最適化医療機器の実現が可能になる",
+        "可動性支援と疼痛管理を統合したハイブリッド機能設計は、リハビリテーションロボットの臨床応用範囲を大幅に拡張する市場機会",
+        "3Dモデリング・FEM解析と実装の統合アプローチにより、軟質ロボティクスの医療応用における設計-製造-検証サイクルの高度化が進行中"
+      ]
+    }
+  },
+  {
+    "title": "Soft Robotic Exogloves for Dexterous Mobility -- Towards Personalized Rehabilitation",
+    "link": "https://arxiv.org/abs/2607.07968",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation",
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "In vivo feasibility study of humanoid robots in surgery",
+    "link": "https://arxiv.org/abs/2607.07972",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Factors Influencing Conversational Engagement in Robot-Delivered Individual Cognitive Stimulation Therapy (iCST) for Dementia in Home Settings",
+    "link": "https://arxiv.org/abs/2607.07998",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning",
+    "link": "https://arxiv.org/abs/2607.08283",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance",
+    "link": "https://arxiv.org/abs/2607.08341",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation",
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "SkillPlug: Unsupervised Skill Mining for Few-Shot Adaptation in Robotic Manipulation",
+    "link": "https://arxiv.org/abs/2607.08354",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data",
+    "link": "https://arxiv.org/abs/2607.08436",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents",
+    "link": "https://arxiv.org/abs/2607.08448",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation",
+    "link": "https://arxiv.org/abs/2607.08575",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths",
+    "link": "https://arxiv.org/abs/2607.08620",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Native Video-Action Pretraining for Generalizable Robot Control",
+    "link": "https://arxiv.org/abs/2607.08639",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "ContactMimic: Humanoid Object Interaction via Contact Control",
+    "link": "https://arxiv.org/abs/2607.08742",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "sim2real",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation",
+    "link": "https://arxiv.org/abs/2607.08751",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Teleoperation",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+    "link": "https://arxiv.org/abs/2607.07775",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Post-Training in End-to-End Autonomous Driving",
+    "link": "https://arxiv.org/abs/2607.08072",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim",
+    "link": "https://arxiv.org/abs/2607.08098",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio",
+    "link": "https://arxiv.org/abs/2607.08127",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Compositional Generalization",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Input-Constrained Spatiotemporal Tubes for Safe Navigation of Unknown Euler-Lagrange Systems in Dynamic Environments",
+    "link": "https://arxiv.org/abs/2607.08189",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+    "link": "https://arxiv.org/abs/2607.08741",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "FunHOI: Annotation-Free 3D Hand-Object Interaction Generation via Functional Text Guidance",
+    "link": "https://arxiv.org/abs/2502.20805",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "BiNoMaP: Learning Category-Level Bimanual Non-Prehensile Manipulation Primitives",
+    "link": "https://arxiv.org/abs/2509.21256",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "OREN: Octree Residual Network for Real-Time Euclidean Signed Distance Mapping",
+    "link": "https://arxiv.org/abs/2510.18999",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "A Collaborative Reasoning Framework for Anomaly Diagnostics in Underwater Robotics",
+    "link": "https://arxiv.org/abs/2511.03075",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "SeFA-Policy: Fast and Accurate Visuomotor Policy Learning with Selective Flow Alignment",
+    "link": "https://arxiv.org/abs/2511.08583",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "V-VLAPS: Value-Guided Planning for Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2601.00969",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "TriphiBot: A Triphibious Robot Combining FOC-based Propulsion with Eccentric Design",
+    "link": "https://arxiv.org/abs/2602.01385",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "ZAPS-DA: Zero-Phase Action Policy Smoothing with Decoupled Actor for Continuous Control in Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2605.30612",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Dynamic Execution Horizon Prediction for Chunk-based Robot Policies",
+    "link": "https://arxiv.org/abs/2606.11408",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Training and Evaluating Diffusion Policies with Long Context Lengths",
+    "link": "https://arxiv.org/abs/2606.16447",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
+    "link": "https://arxiv.org/abs/2606.26428",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "He3-Seeker: Robotic Information Planning for Lunar Helium-3 Distribution Mapping",
+    "link": "https://arxiv.org/abs/2606.28746",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Dynamic Evaluation of Classical and Control-Aware Optimal Trajectory Planning in Robot Manipulators",
+    "link": "https://arxiv.org/abs/2607.05544",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Pelican-VLA 0.5: Attending Before Acting Benefits Generalization",
+    "link": "https://arxiv.org/abs/2607.06655",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation",
+    "link": "https://arxiv.org/abs/2607.07287",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report",
+    "link": "https://arxiv.org/abs/2607.07370",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation",
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "BiasBench: A reproducible benchmark for tuning the biases of event cameras",
+    "link": "https://arxiv.org/abs/2504.18235",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
+    "link": "https://arxiv.org/abs/2607.07859",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:36",
+    "ai_summary": null
+  },
+  {
+    "title": "A Transdiagnostic Space of Disorder Like Phenotypes in Reinforcement Learning Agents",
+    "link": "https://arxiv.org/abs/2607.07753",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:36",
+    "ai_summary": null
+  },
+  {
+    "title": "Beyond Thermal Imaging: Inferring Thermophysical Properties from Time-Resolved Thermal Observations",
+    "link": "https://arxiv.org/abs/2607.07962",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:36",
+    "ai_summary": null
+  },
+  {
+    "title": "LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action",
+    "link": "https://arxiv.org/abs/2607.08182",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:36",
+    "ai_summary": null
+  },
+  {
+    "title": "WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving",
+    "link": "https://arxiv.org/abs/2607.08375",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:36",
+    "ai_summary": null
+  },
+  {
+    "title": "Retrieval-Augmented Generation Must Move Beyond Factual Grounding to Represent Diverse Opinions",
+    "link": "https://arxiv.org/abs/2604.12138",
+    "published": "Fri, 10 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-10 14:46:36",
+    "ai_summary": null
+  },
+  {
     "title": "ForSight Robotics’ road to performing a fully robotic cataract surgery",
     "link": "https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/",
     "published": "Thu, 09 Jul 2026 21:14:06 +0000",
