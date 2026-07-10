@@ -1,5 +1,48 @@
 [
   {
+    "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
+    "link": "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/",
+    "published": "Fri, 10 Jul 2026 19:44:55 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-10 21:58:07",
+    "ai_summary": {
+      "title_ja": "AI² Robotics、車輪付きヒューマノイドロボット開発で$735M調達、評価額$30億に到達",
+      "summary": "深圳に拠点を置くAi2 Roboticsが、車輪付きヒューマノイドロボット開発のため、28億ドルの企業評価額で7億3500万ドルの資金調達に成功した。この調達は、国家系投資家、大手企業、金融機関など複数の大型スポンサーからの支援を受けている。",
+      "insights": [
+        "中国のロボティクス企業が大型調達に成功し、ヒューマノイドロボット市場への投資が加速している",
+        "車輪付き移動機構を備えたヒューマノイドロボットは、実用性と産業応用の可能性から高い評価を受けている",
+        "国家系投資家と大手企業の同時参加により、政府主導のロボット産業育成戦略と民間企業の事業化の接点が形成されている"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: A World Cup for Robots",
+    "link": "https://spectrum.ieee.org/video-friday-robot-world-cup",
+    "published": "Fri, 10 Jul 2026 16:00:01 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-07-10 21:58:11",
+    "ai_summary": {
+      "title_ja": "ロボットのワールドカップ：ヒューマノイドロボットが初の11対11サッカー試合を実現",
+      "summary": "IEEE Spectrumのロボティクス動画シリーズで、史上初めて2つのフルサイズヒューマノイドロボットチームが11対11のサッカー試合をハードウェアで実施しました。このマイルストーンはロボティクス分野の長年の野心的ビジョンの実現に向けた大きな前進であり、MITとEPFL（スイス・ローザンヌ）の研究者による水中泳行ロボットなど、他の先端的なロボット開発も紹介されています。",
+      "insights": [
+        "ヒューマノイドロボットの実用化段階への移行：単独動作から複数ロボットの協調作業（11対11試合）への進化により、群知能制御と実環境での動的タスク実行が技術的に可能になった",
+        "RoboCupのような競技型プロジェクトがロボット産業の技術開発を加速：明確な目標設定とベンチマーク化により、センサー技術、機械学習、動作制御などの統合的な進化が促進される",
+        "マルチロボットシステムの次段階展開：2026年のIROS、RSS、Humanoids Summitなど複数の国際会議が開催予定であり、ロボティクス研究のグローバルな関心の高まりと商用化への道筋が明確化している"
+      ]
+    }
+  },
+  {
     "title": "원더풀플랫폼, 스탠포드대 로보틱스센터와 손잡고 美 시장 공략 가속",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=47360",
     "published": "2026-07-10 11:16:25",
