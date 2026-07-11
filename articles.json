@@ -1,5 +1,78 @@
 [
   {
+    "title": "Why robotics teams need virtual gyms before deployment",
+    "link": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
+    "published": "Sat, 11 Jul 2026 12:36:16 +0000",
+    "keywords": [
+      "Sim-to-Real",
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-11 13:44:15",
+    "ai_summary": {
+      "title_ja": "ロボット導入前に仮想トレーニング環境が必要な理由",
+      "summary": "ロボットの実環境導入における環境・タスクの多様性に対応するため、SoftServeは「仮想ジム」の活用を推奨している。仮想ジムはシミュレーション環境と現実世界のギャップ（シムtoリアルギャップ）を橋渡しする役割を果たす。これにより、ロボティクスチームはより効果的な導入準備が可能になる。",
+      "insights": [
+        "シムtoリアルギャップの解決は、ロボット導入成功の重要課題であり、仮想環境でのトレーニングが実装必須要素として認識されつつある",
+        "環境・タスク可変性への対応能力がロボットの実用性を左右するため、多様なシナリオでの事前検証が導入リスク低減に不可欠",
+        "仮想ジムの活用は開発期間短縮とコスト削減につながり、エンタープライズロボティクスの普及促進を加速させる可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "How Path Robotics uses AI to optimize robotic welding",
+    "link": "https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/",
+    "published": "Fri, 10 Jul 2026 23:02:23 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-11 13:44:18",
+    "ai_summary": {
+      "title_ja": "Path RoboticsがAIを活用してロボット溶接を最適化する方法",
+      "summary": "Path RoboticsのCEO Andy Lonsberryが、AIを溶接工程に適用する方法について説明しており、UC San Diegoの教授Michael Yipがロボット学習について議論しています。本記事はAI技術がロボット溶接の効率化と精度向上にいかに貢献するかについて解説しています。",
+      "insights": [
+        "AI技術は従来の固定的なロボット溶接プログラムを動的最適化に変え、製造効率と製品品質を大幅に向上させる可能性がある",
+        "ロボット学習アルゴリズムにより、複雑な溶接タスクにおけるロボットの適応性と自律性が実現され、産業用ロボットの汎用性が拡大する",
+        "アカデミア（UC San Diego）と産業界（Path Robotics）の連携は、フィジカルAIの実装を加速させ、製造業のデジタルトランスフォーメーションの重要なモデルケースとなっている"
+      ]
+    }
+  },
+  {
+    "title": "三菱自がヒューマノイド参入　トヨタもAI学習強化、自動車メーカーの開発動向は",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/11/news020.html",
+    "published": "Sat, 11 Jul 2026 07:00:00 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-07-11 13:44:25",
+    "ai_summary": null
+  },
+  {
+    "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+    "link": "https://36kr.com/p/3890553690192384?f=rss",
+    "published": "2026-07-11 09:24:06  +0800",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "36Kr",
+    "flag": "CN",
+    "detected_at": "2026-07-11 13:44:35",
+    "ai_summary": {
+      "title_ja": "9点1氪｜国産メモリ第一号長鑫科技が引受団を発表、SK海力士が米国上場で初日13%急騰、OpenAIがChatGPT AIエージェントを発表",
+      "summary": "中国の国産メモリメーカー長鑫科技がIPO引受団を発表し、7月16日上場予定。韓国のSK海力士がナスダックに上場し初日13%の上昇を見せ、約265億ドルを調達。OpenAIはGPT-5.6搭載のChatGPT Workエージェントを発表し、数時間にわたるタスク継続実行が可能。",
+      "insights": [
+        "国産メモリ産業の成熟化：中国の長鑫科技IPOにより、国産メモリチップの自給率向上と産業チェーンの完成が加速。中金公司、中信建投など名門投行の参画は国家重要産業への支援姿勢を反映",
+        "グローバルAI基盤構築競争の激化：SK海力士の米国上場と265億ドル調達は、AI時代のメモリ需要急増に対応するもので、日米中韓の半導体企業のAI向けメモリ投資競争が本格化",
+        "AIエージェント実用化の進展：OpenAIのChatGPT Work発表は、生成AIが単なる会話ツールから自動実行エージェントへシフト。ロボティクス・フィジカルAI時代への基盤技術整備が進行中"
+      ]
+    }
+  },
+  {
     "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
     "link": "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/",
     "published": "Fri, 10 Jul 2026 19:44:55 +0000",
