@@ -1,5 +1,168 @@
 [
   {
+    "title": "STEM education in the classroom, introducing BotBall",
+    "link": "https://www.therobotreport.com/stem-education-classroom-introducing-botball/",
+    "published": "Sun, 12 Jul 2026 10:00:26 +0000",
+    "keywords": [
+      "robotics",
+      "autonomous robot"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-12 13:45:37",
+    "ai_summary": {
+      "title_ja": "教室でのSTEM教育、BotBallの紹介",
+      "summary": "BotBallは自律型ロボティクスと実践的なコーディングを通じてSTEM教育に取り組むプログラムです。学生が主体的に学習を進める完全な平等な競技環境を提供しています。教室でのロボティクス教育の実装を実現するソリューションとして位置付けられています。",
+      "insights": [
+        "自律型ロボティクスと実際のコーディング経験を組み合わせることで、抽象的なSTEM概念を具体的に学習できる教育効果がある",
+        "学生主導の競技形式により、従来の座学型教育では達成困難な問題解決能力と創造性の育成が可能",
+        "「レベルプレイングフィールド」の実現により、異なる学習背景を持つ生徒が公平に競争・協働できる教育環境を構築"
+      ]
+    }
+  },
+  {
+    "title": "“휴머노이드 로봇이 살아있는 동물 수술 성공”…의료 로봇 새 이정표",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47375",
+    "published": "2026-07-12 19:35:42",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-07-12 13:45:48",
+    "ai_summary": {
+      "title_ja": "ヒューマノイドロボットが生体動物手術に成功…医療ロボット新たなマイルストーン",
+      "summary": "米国カリフォルニア大学サンディエゴ校の研究チームがヒューマノイドロボットを使用し、テレオペレーション（遠隔操作）による生きたほ乳類への手術に成功した。本手術は手術室で人間と協働する汎用ヒューマノイドロボットの実用性を実証する事例として評価されており、研究成果は国際学術誌『Nature』に発表された。",
+      "insights": [
+        "ヒューマノイドロボットが医療分野での実運用段階に移行し、複雑な手術タスクの自動化・支援が技術的に可能であることが実証された",
+        "遠隔手術技術の確立により、地域医療格差の解消や専門医不足への対応策として、医療インフラの革新的再構築が期待される",
+        "人間-ロボット協働での医療オペレーション成功事例が増加することで、規制整備・臨床応用の加速化およびロボティクス医療デバイス市場の成長機会が創出される"
+      ]
+    }
+  },
+  {
+    "title": "Ant Group Robotics Subsidiary Lingbo Takes a New Approach to Building Robot Brains",
+    "link": "https://pandaily.com/ant-group-lingbo-robot-brain-jul2026",
+    "published": "Sun, 12 Jul 2026 08:16:25 GMT",
+    "keywords": [
+      "robotics",
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-12 13:45:53",
+    "ai_summary": {
+      "title_ja": "アント・グループのロボティクス子会社Lingboがロボット脳構築への新しいアプローチを展開",
+      "summary": "アント・グループのロボティクス部門であるLingboは、同社の膨大な決済エコシステムデータを活用してロボット知能プラットフォームを開発している。これは従来のエンボディドAI開発とは異なるアプローチであり、金融決済データをロボット制御の学習に応用する独創的な戦略である。",
+      "insights": [
+        "金融データの活用：決済取引データから得られるパターン認識能力をロボット制御に転用し、実世界タスク学習を加速する可能性",
+        "エコシステム統合戦略：既存の金融プラットフォームの規模と複雑性をロボティクス開発に活かすアリババグループの統合的なAI開発アプローチ",
+        "エンボディドAI競争：従来のシミュレーション環境やロボットハードウェア中心の開発と異なり、リアルワールドデータに基づく学習モデルの構築が可能性として示唆される"
+      ]
+    }
+  },
+  {
+    "title": "PHANES AI Writes Touch Into Robot Foundation Models: TouchWorld Tactile Model Enables Dexterous Manipulation",
+    "link": "https://pandaily.com/phanes-ai-touchworld-tactile-foundation-model-jul2026",
+    "published": "Sun, 12 Jul 2026 08:16:12 GMT",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-12 13:45:57",
+    "ai_summary": {
+      "title_ja": "PHANES AIが触覚をロボット基盤モデルに組み込む：TouchWorldタクタイルモデルが器用な操作を実現",
+      "summary": "清華大学(HIT)の28歳の教授Yang Shuoが創設したPHANES AIが、ロボットに触覚を与える予測型・反応型タクタイル基盤モデル「TouchWorld」を発表した。このモデルにより、ロボットは精密な物理的タスクを完了することが可能になる。",
+      "insights": [
+        "ロボットの触覚認識能力が基盤モデル化されることで、物体操作における器用性と精密性が飛躍的に向上し、従来困難であった微細作業の自動化が現実化する",
+        "予測型と反応型の二面的アプローチにより、ロボットが環境変化への動的対応と事前計画を同時に実現でき、より堅牢で適応的なマニピュレーション能力が実装される",
+        "若手研究者による基盤モデルの開発が加速しており、ビジョンに続く触覚がロボティクス・フィジカルAIの次のコア基盤技術として確立される可能性が高い"
+      ]
+    }
+  },
+  {
+    "title": "Every 48 Hours, a New Embodied AI Model Is Born: From BAAI World Model to Alibaba Qwen-Robot",
+    "link": "https://pandaily.com/embodied-ai-model-explosion-48-hours-jul2026",
+    "published": "Sun, 12 Jul 2026 08:15:58 GMT",
+    "keywords": [
+      "World Model",
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-12 13:46:02",
+    "ai_summary": {
+      "title_ja": "48時間ごとに新しい具体化AI（エンボディドAI）モデルが誕生：BAAI世界モデルからアリババQwen-Robotへ",
+      "summary": "2026年6月には13個の新しい具体化AIモデルとワールドモデルがリリースされ、具体化AI分野の競争軸がハードウェアベンチマークからソフトウェア知能競争へシフトしていることが明らかになった。この急速な発展ペースは、48時間ごとに新モデルが誕生する状況を示している。具体化AI技術の成熟に伴い、ロボット制御の知能化がコア競争力となりつつある。",
+      "insights": [
+        "産業の競争が物理的なハードウェア性能からソフトウェア（世界モデル・ワールドモデル）の知能レベルへ急速にシフトしており、データとアルゴリズムの差別化が重要となっている",
+        "BAAI、アリババなどの大手企業による連続的なモデルリリースは、具体化AI分野の急速な技術進化と商業化競争の加速を示唆している",
+        "ワールドモデル技術（物理世界のシミュレーションと予測）がロボット制御の次世代プラットフォームとして確立され、汎用ロボット実現への実装段階に入りつつある"
+      ]
+    }
+  },
+  {
+    "title": "Dexmal Aims to Ignite Embodied AI Productivity With DM0.5 Model, DexOS, and MaaS Three-Stage Strategy",
+    "link": "https://pandaily.com/dexmal-embodied-ai-dm05-dexos-maas-jul2026",
+    "published": "Sun, 12 Jul 2026 02:37:37 GMT",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-12 13:46:06",
+    "ai_summary": {
+      "title_ja": "Dexmalが具現化AI生産性を点火：DM0.5モデル、DexOS、MaaS三段階戦略",
+      "summary": "Dexmalは、DM0.5基盤モデル、Apex汎用ロボット、DexOSオペレーティングシステム、MaaSプラットフォームを発表し、具現化AIモデルと実世界の生産性の間の最終的なエンジニアリングギャップを埋めることを目指しています。このアプローチにより、物理的なAI実装の実用化に向けた包括的なエコシステムの構築を実現する戦略を展開しています。",
+      "insights": [
+        "エンドツーエンドのエコシステム戦略：基盤モデル、ハードウェア、OS、MaaSプラットフォームを統合することで、他社が個別に開発した各要素より優れた実世界適用を実現する可能性",
+        "生産性ギャップの直接的な解決：従来の具現化AIモデルが実世界で機能しない「ラストマイル問題」に対し、DexOSとMaaSにより実装面の障壁を除去する設計",
+        "MaaS（ロボット・マシン・サービス）パラダイム：AIエージェント活用の民主化と産業規模での展開を促進し、エンタープライズ向けロボティクス市場の新たなビジネスモデル確立"
+      ]
+    }
+  },
+  {
+    "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+    "link": "https://36kr.com/p/3892027841362694?f=rss",
+    "published": "2026-07-12 10:16:07  +0800",
+    "keywords": [
+      "sim2real"
+    ],
+    "source": "36Kr",
+    "flag": "CN",
+    "detected_at": "2026-07-12 13:46:15",
+    "ai_summary": {
+      "title_ja": "具身AI市場に約100社参入：1年で446.7億円の融資、「データ販売」で誰が稼げるのか",
+      "summary": "中国のロボティクス具身AI分野で約97社の国内企業が参入し、データ採集専業企業15社が過去1年で約446.7億円を融資。具身データ採集は真機遠隔操作、無本体採集、シミュレーション合成、インターネット動画蒸留の4つの技術路線に分かれ、複数路線を組み合わせる企業が43%を占める。",
+      "insights": [
+        "具身AIデータ市場は急速に拡大しており、データ採集専業企業だけで446.7億円の融資を集めているが、脳型企業の半年230億円に比べてはまだ初期段階",
+        "複数の採集技術路線の組み合わせ（43%）が主流となることで、単一技術より高品質・多様なデータ取得が競争優位性につながる傾向",
+        "地域コミュニティを活用した採集方法（データ採集5S店など）やVR・クラウド操作など、スケーラブルで低コストなデータ採集イノベーションが進行中"
+      ]
+    }
+  },
+  {
+    "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
+    "link": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment/",
+    "published": "2026-07-12T01:08:17Z",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "NVIDIA Developer",
+    "flag": "Lab",
+    "detected_at": "2026-07-12 13:46:21",
+    "ai_summary": {
+      "title_ja": "実世界展開のための汎用ロボット政策の評価方法",
+      "summary": "ロボティクス基盤モデルは自然言語指示に従ってピッキング、配置、分類などの操作を実行できるレベルまで進化している。実世界での確実な導入には、シミュレーション環境での性能評価だけでは不十分であり、多様なロボットハードウェアや環境条件での堅牢性評価が必須である。本記事は汎用ロボット政策の実務的な評価フレームワークと検証方法について論じている。",
+      "insights": [
+        "汎用ロボット政策の実世界適用には、シミュレーション-現実ギャップ(Sim-to-Real Gap)の克服と、複数ハードウェアプラットフォーム間での転移学習の検証が重要な課題である",
+        "自然言語理解と物理的操作の統合モデルは、説明可能性と予測可能性の確保が産業導入の前提条件となる",
+        "ロボティクス基盤モデルの経済的価値実現には、評価・検証コストの標準化と、業界間での評価メトリクス統一が市場拡大の鍵となる"
+      ]
+    }
+  },
+  {
     "title": "Why robotics teams need virtual gyms before deployment",
     "link": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
     "published": "Sat, 11 Jul 2026 12:36:16 +0000",
