@@ -1,5 +1,31 @@
 [
   {
+    "title": "Building a Foundation Stack for General-Purpose Robots",
+    "link": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+    "published": "Mon, 13 Jul 2026 10:19:51 +0000",
+    "keywords": [
+      "Vision-Language-Action",
+      "World Model",
+      "Teleoperation",
+      "robotics",
+      "humanoid",
+      "embodied AI",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-07-14 21:54:23",
+    "ai_summary": {
+      "title_ja": "汎用ロボット向けファンデーションスタックの構築",
+      "summary": "大規模言語モデルが一般的なAI開発のレシピを確立したのに対し、ロボティクスはまだそのような統一されたアプローチを持たない。中国の具体化AI企業X Square Robotは、ロボットが複数のタスク・機体間で学習を転移できるようにするには、データ、世界モデル（物理世界の変化予測）、そしてアクションモデル（知覚・計画・推論・意思決定を統合）からなる統合スタックが必要だと主張している。",
+      "insights": [
+        "LLMの成功モデル（大規模事前学習→汎用能力獲得）をロボティクス領域に適用するには、従来の分散型アーキテクチャ（知覚・計画・制御の独立）の統合が不可欠であり、これが現在の産業的課題である",
+        "世界モデルとアクションモデルの統合により、タスク間・機体間での学習の転移が実現され、ロボット開発のスケーラビリティが大幅に向上する可能性がある",
+        "具体化AI（embodied AI）の中心的問題は『統一的なレシピの発見』であり、X Square Robotのような企業による統合スタックアプローチが業界標準確立への重要な試みとなっている"
+      ]
+    }
+  },
+  {
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
     "published": "Mon, 13 Jul 2026 12:37:28 +0000",
