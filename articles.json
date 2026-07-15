@@ -1,5 +1,66 @@
 [
   {
+    "title": "Walden Robotics launches at $1.1B valuation for general-purpose robots",
+    "link": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/",
+    "published": "Wed, 15 Jul 2026 20:04:03 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-15 21:56:09",
+    "ai_summary": {
+      "title_ja": "Walden Robotics、11億ドルの評価額で汎用ロボット事業を立ち上げ",
+      "summary": "Walden Roboticsは、フルスタック物理AIを開発する企業として、大手テクノロジー企業からの投資を受けてステルスモードから市場に登場しました。同社は11億ドルの評価額での資金調達を実施しており、汎用ロボット分野における注目度の高さを示しています。",
+      "insights": [
+        "フルスタック物理AI開発への大型投資が加速しており、汎用ロボット市場の商用化段階への移行を示唆している",
+        "11億ドルの高い評価額は、物理AI技術が大手テクノロジー企業から戦略的価値を認識されていることを証明している",
+        "ステルスモード終了による新規参入は、汎用ロボット市場が競争激化局面に入ったことを示し、ハードウェア・ソフトウェア統合型ソリューションの重要性が高まっている"
+      ]
+    }
+  },
+  {
+    "title": "Agility outlines six recommendations for U.S. humanoid robot policies",
+    "link": "https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/",
+    "published": "Wed, 15 Jul 2026 18:58:29 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-15 21:56:13",
+    "ai_summary": {
+      "title_ja": "Agilityがアメリカのヒューマノイドロボット政策に関する6つの提言を提示",
+      "summary": "Agilityの最高経営責任者ペギー・ジョンソンは、米国がヒューマノイド産業において既に機能している施策を強化するための政策枠組みが必要であると述べた。同社は産業発展に向けた具体的な6つの政策提言を提示している。",
+      "insights": [
+        "ヒューマノイド業界の成長には、政府による戦略的な政策支援と産業界との連携が重要である",
+        "既存の成功事例を基盤とした漸進的な政策フレームワークの構築が求められている",
+        "米国のロボティクス産業競争力維持には、産業リーダー企業の提言に基づいた実行可能な規制環境整備が必要"
+      ]
+    }
+  },
+  {
+    "title": "Icarus Robotics uses KULR technology to power JOY free-flying space robot",
+    "link": "https://www.therobotreport.com/icarus-robotics-uses-kulr-technology-to-power-joy-free-flying-space-robot/",
+    "published": "Wed, 15 Jul 2026 18:10:47 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-15 21:56:15",
+    "ai_summary": {
+      "title_ja": "イカロス・ロボティクスがKULR技術を採用し、JOY自由飛行宇宙ロボットを実現",
+      "summary": "イカロス・ロボティクスは、国際宇宙ステーション(ISS)上で自由飛行する宇宙ロボット「JOY」の搭載システムに電力を供給するため、KULRのKULR ONE Space バッテリーシステムの供給を受けることで合意した。この協力により、宇宙環境での長期動作が可能な高性能バッテリー技術が宇宙ロボット分野に導入される。",
+      "insights": [
+        "宇宙ロボット開発において、信頼性の高い専門バッテリーシステムの確保が自由飛行能力実現の重要な要素となっている",
+        "ISS上でのロボット運用を前提とした産業用バッテリー技術の需要が拡大している",
+        "宇宙フィジカルAI分野では、エネルギーソリューション企業とロボティクス企業のパートナーシップが商用化の加速化を促進している"
+      ]
+    }
+  },
+  {
     "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
     "link": "https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/",
     "published": "Tue, 14 Jul 2026 21:38:28 +0000",
