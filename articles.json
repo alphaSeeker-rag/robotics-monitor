@@ -1,5 +1,61 @@
 [
   {
+    "title": "How to Make an Invisible Drone",
+    "link": "https://spectrum.ieee.org/invisible-spinning-drone",
+    "published": "Thu, 16 Jul 2026 16:09:21 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-07-16 22:00:10",
+    "ai_summary": {
+      "title_ja": "目に見えないドローンの製作方法",
+      "summary": "ノースウェスタン大学のロボット工学者たちがRSS 2026(シドニー)で発表した「Phantom Twist」ドローンは、計算機設計を用いることで、従来の四軸ドローンと比べて約10倍視認しにくい「ほぼ見えないドローン」を実現している。従来のドローンは一直線的な動きと不自然なホバリングにより視覚的に目立つが、新技術はこれらの課題を解決している。",
+      "insights": [
+        "計算機設計（Computational Design）による物理AI開発により、ドローンの視認性を劇的に低下させることが可能。軍事・監視分野への応用が予想される",
+        "ドローンの「不自然さ」（動き、音、外観）の除去は、より効果的なロボット設計の新フロンティア。生物模倣ロボティクスの重要性が示唆される",
+        "RSS 2026での発表から、ロボット工学分野では知覚回避や隠蔽性能の研究が主流化しており、倫理・規制面での議論が急務"
+      ]
+    }
+  },
+  {
+    "title": "フアンCEO「ジャパンAI構築はマストだ」　経産省、国産フィジカルAIで新プロジェクト　赤沢大臣も“革ジャン”羽織る",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
+    "published": "Thu, 16 Jul 2026 23:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia NEWS",
+    "flag": "JP",
+    "detected_at": "2026-07-16 22:00:18",
+    "ai_summary": null
+  },
+  {
+    "title": "日本再起の旗印となるか、国産マルチモーダルAI基盤「FRONTia」が始動",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/17/news059.html",
+    "published": "Fri, 17 Jul 2026 06:45:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-07-16 22:00:19",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIA新GPUを2.7万基導入、国策AI基盤モデル開発「FRONTia」始動",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2125880.html",
+    "published": "",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "PC Watch",
+    "flag": "JP",
+    "detected_at": "2026-07-16 22:00:21",
+    "ai_summary": null
+  },
+  {
     "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
     "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
     "published": "Wed, 15 Jul 2026 23:00:54 +0000",
