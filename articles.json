@@ -1,5 +1,90 @@
 [
   {
+    "title": "Founder of Maximo discusses how robotics is accelerating solar construction",
+    "link": "https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/",
+    "published": "Fri, 17 Jul 2026 19:17:39 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-17 21:48:55",
+    "ai_summary": {
+      "title_ja": "Maximoの創業者がロボティクスがいかに太陽光発電施工を加速させるかについて論じる",
+      "summary": "Maximo創業者のDeise Yumi Asamiは、ロボティクスを用いた太陽光発電施工の自動化プロセスについて説明している。本記事では、ロボット技術が再生可能エネルギー産業における建設効率の向上にどのように貢献しているかが焦点となっている。",
+      "insights": [
+        "ロボティクスは太陽光発電施工の自動化を通じて、建設業界の生産性と安全性を向上させる主要技術として機能している",
+        "再生可能エネルギー産業への自動化導入は、急速な拡大が必要なクリーンエネルギー産業における人手不足や労働コストの課題に対処する戦略である",
+        "フィジカルAIとロボティクスの融合により、複雑な建設タスクの自動化が可能になり、プロジェクト完了期間の短縮と品質管理の向上が実現される"
+      ]
+    }
+  },
+  {
+    "title": "Weave Robotics launches Isaac, its first mobile humanoid robot",
+    "link": "https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/",
+    "published": "Fri, 17 Jul 2026 17:35:02 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-17 21:48:58",
+    "ai_summary": {
+      "title_ja": "Weave Roboticsが初の移動型ヒューマノイドロボット「Isaac」を発表",
+      "summary": "Weave Roboticsが家庭および オフィス用途向けの車輪式二腕マニピュレータロボット「Isaac」を発表しました。このロボットは移動型ヒューマノイドロボット市場における同社初の製品です。Isaacは日常環境での実用的なタスク遂行を目指して設計されています。",
+      "insights": [
+        "車輪式駆動と二腕マニピュレータの組み合わせは、足型ロボットより経済性と安定性に優れ、商用化への障壁を低減する設計選択",
+        "家庭およびオフィス環境への展開により、産業用途だけでなく消費者向けロボティクス市場への進出を示唆",
+        "実用的な日常タスク対応型ロボットの開発トレンドは、特定用途ロボットから汎用移動マニピュレータへの業界シフトを反映"
+      ]
+    }
+  },
+  {
+    "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+    "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+    "published": "Fri, 17 Jul 2026 18:00:01 +0000",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-07-17 21:49:02",
+    "ai_summary": {
+      "title_ja": "大学院生がNASAのロボットに組立スキルを装備させる",
+      "summary": "テキサスA&M大学の電気工学専攻大学院生サラ・ダウンズは、NASAと米空軍と協力してロボットの組立能力を向上させるアルゴリズム開発に取り組んでいます。彼女はNASAの火星探査機の映像に触発され、ロボティクス分野でのキャリアを実現しました。本プロジェクトはロボットの自律作業能力を拡張する重要な研究となっています。",
+      "insights": [
+        "NASAが宇宙ロボットの自律的な組立・製造能力の開発を推進しており、宇宙ミッションの効率化と自給能力の向上を目指している",
+        "STEM教育（特にロボティクスプログラム）が若い世代を航空宇宙産業に引き付け、高度な人材育成の重要な入り口となっている",
+        "大学と政府機関（NASA・米空軍）の産学連携が、実践的なロボティクスアルゴリズム開発を加速させており、アカデミアとインダストリーの協働モデルが機能している"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Your Robot Surgeon Will See You Now",
+    "link": "https://spectrum.ieee.org/video-friday-robotic-surgery",
+    "published": "Fri, 17 Jul 2026 16:00:01 +0000",
+    "keywords": [
+      "Teleoperation",
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-07-17 21:49:06",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：ロボット外科医があなたの診察に向かいます",
+      "summary": "IEEE Spectrumのロボティクスセクションによる週刊動画選集で、ロボティクス関連の今後のイベント情報を提供しています。本記事では、腹腔鏡手術タスクにおける最新のヒューマノイドロボット技術の体系的評価を紹介し、汎用手術器具を用いたテレオペレーションフレームワークの開発と、ベンチトップ試験、多様な外科経験レベルの実験、そして豚を用いた生体内試験を通じた能力評価を実施しています。",
+      "insights": [
+        "ヒューマノイドロボットが複雑な腹腔鏡手術タスクに適用可能であることが実証され、遠隔手術の新しい可能性が広がっている",
+        "多様な経験レベルのユーザーを対象とした評価研究により、ロボット外科システムの実用性と汎用性の検証が進んでいる",
+        "2026年にプラハ、サンフランシスコ、ピッツバーグ、ソウルなど複数地域でロボティクス関連の主要会議が開催予定であり、分野全体の成長と国際的な関心の高まりを示唆している"
+      ]
+    }
+  },
+  {
     "title": "これからのロボットは「買ったときが一番性能低い」？　ソフトバンクと安川電機「フィジカルAI」学習工程の効率化を実証",
     "link": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/",
     "published": "Fri, 17 Jul 2026 08:00:00 +0900",
