@@ -1,5 +1,66 @@
 [
   {
+    "title": "Building robots for unpredictable, infrastructure-free environments",
+    "link": "https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/",
+    "published": "Mon, 20 Jul 2026 18:39:57 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-20 21:57:22",
+    "ai_summary": {
+      "title_ja": "予測不可能なインフラ非依存環境向けロボット構築",
+      "summary": "現実のロボティクス成功には、予測不可能で厳しい屋外環境で機能するインフラ非依存システムの構築が必須である。既存のロボット開発は制御された環境を前提としているが、実用的な展開には環境に適応する自律性が求められる。このアプローチは災害対応、建設、鉱業など、複雑な現場作業への応用を可能にする。",
+      "insights": [
+        "インフラ依存性の排除：GPS、通信インフラなしで動作する自律型ロボットが産業化のキー",
+        "環境適応能力：悪天候、不規則な地形、予測困難な障害物への対応技術が競争力を決定する",
+        "実世界検証の重要性：制御環境でのシミュレーション主導から、フィールド検証ベースの開発へのシフトが必要"
+      ]
+    }
+  },
+  {
+    "title": "AGIBOT unveils four embodied AI products for real-world operations at WAIC",
+    "link": "https://www.therobotreport.com/agibot-unveils-four-embodied-ai-products-real-world-operations-waic/",
+    "published": "Mon, 20 Jul 2026 15:18:07 +0000",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-20 21:57:26",
+    "ai_summary": {
+      "title_ja": "AGIBOTがWAICで実世界運用向けの4つの具現化AI製品を発表",
+      "summary": "AGIBOTは世界人工知能会議(WAIC)で、具現化AI機能を反復可能なワークフローに転換した進展を示す4つの新製品を披露した。デモンストレーションと産業展開を通じて、同社は具現化AIを実務的に活用できる段階に到達したことを実証している。",
+      "insights": [
+        "具現化AI(Embodied AI)が研究段階から産業応用・商用展開フェーズへ移行しており、AGIBOTはこの転換を主導する企業として位置付けられている",
+        "単一の技術ではなく複数製品(4つ)のポートフォリオ展開により、異なる産業用途・ワークフローへの適応性を強化する戦略が見られる",
+        "デモから実際の産業導入までの道のりを短縮し、AIロボットの実用化スピードが加速している傾向を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+    "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+    "published": "Mon, 20 Jul 2026 15:00:53 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-07-20 21:57:31",
+    "ai_summary": {
+      "title_ja": "SIGGRAPH でNVIDIA がエージェンティックAIとフィジカルAIでグラフィックスとシミュレーションを進化",
+      "summary": "NVIDIAはSIGGRAPHで、オープンモデルからリアルタイムシミュレーションまで、AI とグラフィックス技術の革新を発表し、メディア・コンテンツ制作・ロボティクス分野の変革を推進している。これらの技術は物理シミュレーションと自律エージェント機能を統合し、デジタル創作から実世界のロボット制御まで幅広い応用を可能にする。",
+      "insights": [
+        "フィジカルAI とエージェンティックAIの統合により、シミュレーション環境から現実世界へのAI応用の円滑な移行が実現可能になる",
+        "リアルタイムグラフィックスシミュレーション技術は、ロボティクス開発の訓練環境やデジタル双子の高度化を加速させる",
+        "オープンモデルの提供戦略により、エンタープライズから研究機関まで幅広いエコシステムの参加が促進され、AI×ロボティクスの民主化が進む"
+      ]
+    }
+  },
+  {
     "title": "iM증권 \"LG, 자회사 수직계열화로 피지컬 AI 밸류체인 완성\"",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=47489",
     "published": "2026-07-20 11:20:31",
