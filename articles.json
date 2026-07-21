@@ -1,5 +1,57 @@
 [
   {
+    "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing",
+    "link": "https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/",
+    "published": "Tue, 21 Jul 2026 19:44:26 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-21 22:01:13",
+    "ai_summary": {
+      "title_ja": "ジェネラティブ・バイオニクス、全身触覚センサ搭載のヒューマノイドロボットを発表",
+      "summary": "ジェネラティブ・バイオニクスが開発したヒューマノイドロボット「Gene.01」は、全身に触覚センサを搭載した完全なセンサ化を実現しています。このセンサ技術により、ロボットは人間の存在をいち早く察知し、迅速に対応することが可能になります。",
+      "insights": [
+        "全身触覚センサの実装により、人間とロボットの協働作業における安全性と反応性が大幅に向上し、産業用ロボットの実用化の新段階を示唆している",
+        "センサデータをリアルタイムで処理・統合する能力が、ヒューマノイドロボットの実用化における重要な技術的障壁を克服するカギとなる可能性がある",
+        "全身センサ搭載型ロボットの開発は、ロボティクス業界における触覚フィードバック技術の競争力強化と、人間中心設計への産業全体のシフトを加速させる"
+      ]
+    }
+  },
+  {
+    "title": "現場で動き続けるAIを社会へ──富士ソフトはフィジカルAIなど3つのAI領域に注力",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/22/news045.html",
+    "published": "Wed, 22 Jul 2026 06:15:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-07-21 22:01:21",
+    "ai_summary": null
+  },
+  {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "published": "Tue, 21 Jul 2026 20:00:27 GMT",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "Hugging Face",
+    "flag": "Lab",
+    "detected_at": "2026-07-21 22:01:30",
+    "ai_summary": {
+      "title_ja": "フィジカルAIのためのシミュレーション技術の現状：概要",
+      "summary": "本記事は、フィジカルAI開発において不可欠なシミュレーション技術の現在地を包括的に解説しています。現実世界での高コストな試行錯誤を削減するため、仮想環境での学習と検証がロボット開発の加速化を実現しています。シミュレーション環境の精度向上と現実世界へのギャップ縮小（sim-to-real）が、フィジカルAIの実用化における最大の課題となっています。",
+      "insights": [
+        "シミュレーション環境の物理演算精度、特に接触力学や材料特性の再現が、ロボット制御学習の成否を左右する重要因子である",
+        "マルチドメインシミュレーション（物理・センサ・通信の統合）により、現実環境に近い学習条件を構築でき、実機展開時の失敗率低減が期待される",
+        "業界はオープンソースシミュレーション環境（Gazebo、IsaacSim等）とクローズドプロプライエタリアな高精度ツールの棲み分けが進み、開発スピードと精度のトレードオフ最適化が進行中である"
+      ]
+    }
+  },
+  {
     "title": "Friction is key to making better robot world models",
     "link": "https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/",
     "published": "Tue, 21 Jul 2026 12:19:30 +0000",
