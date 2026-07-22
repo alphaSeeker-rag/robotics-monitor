@@ -1,5 +1,58 @@
 [
   {
+    "title": "Report shares the state of physical AI and robotics",
+    "link": "https://www.therobotreport.com/physical-ai-and-robotics/",
+    "published": "Wed, 22 Jul 2026 20:48:30 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-22 22:01:28",
+    "ai_summary": {
+      "title_ja": "物理AIとロボティクスの現状を共有するレポート",
+      "summary": "物理AIが自律システムの環境認識、意思決定、現実世界での行動能力を急速に向上させています。このレポートは、物理AIとロボティクス産業の最新動向と技術進展について包括的に分析しています。AIと機械学習の進化により、ロボットがより複雑で動的な現実世界タスクに対応できるようになっています。",
+      "insights": [
+        "物理AIは単なるシミュレーション環境から実世界への適用段階に入り、自律システムの実用化が加速している",
+        "環境認識・意思決定・実行の統合的AI能力が、産業用ロボット・自動運転・ドローンなど多領域の実装を推進している",
+        "物理AIの発展により、ロボティクス産業の競争力強化と新規ユースケースの創出が期待される"
+      ]
+    }
+  },
+  {
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "published": "Wed, 22 Jul 2026 18:50:44 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "TechCrunch",
+    "flag": "US",
+    "detected_at": "2026-07-22 22:01:33",
+    "ai_summary": {
+      "title_ja": "トラビス・カラニック氏のロボティクス企業、a16zが主導して17億ドルを調達",
+      "summary": "Uber創業者のトラビス・カラニック氏が率いるロボティクス企業Atomsが、Andreessen Horowitzを主導投資家として17億ドルの資金調達に成功した。同社はインダストリアルAIを活用して産業の近代化を実現すると標榜している。Uberも同社への投資に参加している。",
+      "insights": [
+        "トップクラスのベンチャーキャピタルとUberという大手企業からの投資により、フィジカルAI/ロボティクス分野への機関投資家の関心が急速に高まっている",
+        "インダストリアル・ロボティクスの産業自動化ソリューション市場に、テクノロジーエコシステム発祥の起業家による革新的アプローチが注入されている",
+        "大型調達資金は製造業やロジスティクスなどの労働集約的産業における自動化ソリューションの実装・スケーリング加速に向けられると推定される"
+      ]
+    }
+  },
+  {
+    "title": "高速通信機器やヒューマノイドの高周波ノイズ解消、極薄の電波吸収体",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/23/news047.html",
+    "published": "Thu, 23 Jul 2026 06:15:00 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-07-22 22:01:40",
+    "ai_summary": null
+  },
+  {
     "title": "U.K.-based Humanoid secures $152M in Series A funding",
     "link": "https://www.therobotreport.com/uk-based-humanoid-secures-152m-in-series-a-funding/",
     "published": "Tue, 21 Jul 2026 23:43:12 +0000",
