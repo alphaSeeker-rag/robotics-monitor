@@ -1,5 +1,79 @@
 [
   {
+    "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
+    "link": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/",
+    "published": "Thu, 23 Jul 2026 20:45:47 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-23 22:01:32",
+    "ai_summary": {
+      "title_ja": "Holiday Roboticsが車輪型ヒューマノイド「FRIDAY」で1億500万ドルの資金調達を実現",
+      "summary": "Holiday Roboticsが開発する車輪型ヒューマノイド「FRIDAY」は、車輪ベースの移動機構、器用な上半身操作能力、ホットスワップ可能なバッテリーを搭載している。同社が1億500万ドルの大型資金調達に成功し、商用化への道が加速している。",
+      "insights": [
+        "車輪型ベース採用により、脚型ヒューマノイドより効率的な移動と安定性を実現する設計戦略",
+        "ホットスワップバッテリーの搭載で、稼働時間の延長と連続作業環保の向上が可能になる実用性重視",
+        "大型資金調達($105M)はヒューマノイド市場の競争激化と商用ロボット化への産業的期待の高まりを示唆"
+      ]
+    }
+  },
+  {
+    "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
+    "link": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/",
+    "published": "Thu, 23 Jul 2026 18:53:11 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-23 22:01:35",
+    "ai_summary": {
+      "title_ja": "Uber共同創業者、ロボティクス新興企業ATOMSに17億ドルを調達",
+      "summary": "Uber元CEOのTravis Kalanickが新たなロボティクススタートアップATOMSを立ち上げ、17億ドルの資金調達に成功した。同社は物理的自動化によって産業の変革を目指している。",
+      "insights": [
+        "大手テック企業の創業者による大規模資金調達は、フィジカルAI・ロボティクス市場への機関投資家の強い関心を示唆している",
+        "産業用自動化は次の大型市場として認識され、ソフトウェア中心のビジネスから製造業等への展開が加速する可能性がある",
+        "Kalanickのような影響力のある起業家による参入は、ロボティクス分野の信頼性向上と人材・エコシステム集約を促進する効果が期待される"
+      ]
+    }
+  },
+  {
+    "title": "AMD unveils Kria module for real-time control, unified memory for robots",
+    "link": "https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/",
+    "published": "Thu, 23 Jul 2026 18:30:56 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-23 22:01:39",
+    "ai_summary": {
+      "title_ja": "AMDがロボット向けリアルタイム制御と統一メモリを備えたKriaモジュールを発表",
+      "summary": "AMDはRyzen AI Embedded X100とKria AI SoMを発表し、統一メモリとリアルタイム制御機能をロボティクス分野に導入した。この動きはロボット業界におけるNVIDIAの独占的地位に対する直接的な挑戦となっている。統一メモリアーキテクチャにより、ロボットの推論と制御タスクの効率化が期待される。",
+      "insights": [
+        "AMDがロボティクス向けAIプラットフォームに進出することで、NVIDIA主導のロボット用エッジAI市場に競争がもたらされる",
+        "統一メモリの採用により、CPUとGPU間のデータ転送オーバーヘッドが削減され、ロボットのリアルタイム制御性能が向上する可能性がある",
+        "組み込みAIと確定的なリアルタイム制御の両立は、産業用ロボットから自律移動体まで幅広いロボット応用に対応する新たなエコシステム構築を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2127479.html",
+    "published": "",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "PC Watch",
+    "flag": "JP",
+    "detected_at": "2026-07-23 22:01:48",
+    "ai_summary": null
+  },
+  {
     "title": "外科医に遠隔操作された人型ロボットが「生きたブタの腹腔鏡手術」に史上初めて成功",
     "link": "https://gigazine.net/news/20260723-first-humanoid-robots-surgery-live-animals/",
     "published": "Thu, 23 Jul 2026 14:00:00 +0900",
