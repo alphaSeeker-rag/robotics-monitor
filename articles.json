@@ -1,5 +1,48 @@
 [
   {
+    "title": "How time series databases unlock real-time data for robotics",
+    "link": "https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/",
+    "published": "Fri, 24 Jul 2026 16:28:39 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-24 22:02:10",
+    "ai_summary": {
+      "title_ja": "時系列データベースがロボティクスのリアルタイムデータを解き放つ方法",
+      "summary": "時系列データベースは、ロボティクスチームが大量のセンサーデータを効率的に管理し、AI洞察を生成し、スケール環境でシステムの安定運用を実現するための重要なツールである。ロボットから継続的に生成される高速・高容量データの処理において、従来のデータベースではなく時系列データベースの活用が必須となっている。",
+      "insights": [
+        "ロボティクスシステムはセンサーからの膨大な時系列データを生成するため、リアルタイム処理に特化した時系列データベースが不可欠",
+        "時系列データベースはAI/機械学習の学習や推論を高速化し、ロボットの自律性と意思決定精度を向上させる",
+        "スケーラビリティと高速クエリ処理能力により、複数ロボット・複雑なシステムの大規模展開を可能にする"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: An Italian Humanoid Comes to Life",
+    "link": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+    "published": "Fri, 24 Jul 2026 15:30:01 +0000",
+    "keywords": [
+      "sim2real",
+      "robotics",
+      "humanoid",
+      "Physical AI"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-07-24 22:02:13",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：イタリアンヒューマノイドが動き始める",
+      "summary": "IEEE Spectrumが週間ロボティクスビデオ特集として紹介する記事で、イタリアチームが開発したヒューマノイド「GENE.01」が6ヶ月で完全に機能するプラットフォームへと進化したことを報告している。このロボットは歩行・センシング・相互作用が可能で、全身に触覚・近接覚・力覚・温度覚を備えたマルチモーダルスキンを装備している。フィジカルAIが人間との安全で自然な協働に近づいていることを示す実例である。",
+      "insights": [
+        "ヒューマノイド開発の短期化：6ヶ月という短期間で実用的なプロトタイプ完成が可能になり、フィジカルAI産業の急速な発展を示唆している",
+        "マルチモーダルセンシング技術の進展：触覚・近接覚・力覚・温度覚の統合により、人間との自然な相互作用実現に向けた重要な技術段階を達成している",
+        "実用化フェーズへの移行：コンセプトや予想図ではなく実際に動作するロボットの展示により、フィジカルAIが研究段階から商用化・応用段階へシフトしていることを示している"
+      ]
+    }
+  },
+  {
     "title": "NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI",
     "link": "https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/",
     "published": "Fri, 24 Jul 2026 12:30:42 +0000",
