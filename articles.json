@@ -1,5 +1,28 @@
 [
   {
+    "title": "마음AI, 바르퀸과 협력…글로벌 피지컬AI 시장 공략",
+    "link": "https://zdnet.co.kr/view/?no=20260725090203",
+    "published": "Sat, 25 Jul 2026 09:02:03 +0900",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "World Model",
+      "Physical AI"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-07-25 13:53:11",
+    "ai_summary": {
+      "title_ja": "マインドAI、バルキンと協力…グローバルフィジカルAI市場を開拓",
+      "summary": "韓国のマインドAIが、米国ワシントンD.C.に拠点を置くバルキン・インターナショナルと戦略的業務協約を締結し、グローバルおよびラテンアメリカ市場でのフィジカルAI共同事業展開を発表した。両社は市場調査から技術実証、ビジネスモデル開発まで段階的に協力を拡大し、公安、スマートインフラ、製造、物流などの産業分野でのフィジカルAI適用事例を共同構築する予定である。マインドAIはオンデバイスAIモジュール「MAIED」、自動運転ソリューション「NAVICOM」、4足歩行ロボット「JINDOBOT」などのフィジカルAI技術を展示した。",
+      "insights": [
+        "フィジカルAI技術は単なる技術提携から実装ベースのユースケース開発へシフトしており、各産業分野での具体的な適用が市場化の鍵となっている",
+        "ラテンアメリカ地域は新興フィジカルAI市場として注目されており、地域の産業ネットワークと技術提携による現地適応型ビジネスモデルの構築が戦略的重要性を持つ",
+        "Vision-Language-Action(VLA)とWorld ModelベースのオンデバイスAI技術により、エッジでの自律判断が可能な実用的フィジカルAIシステムの実現が進展している"
+      ]
+    }
+  },
+  {
     "title": "How time series databases unlock real-time data for robotics",
     "link": "https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/",
     "published": "Fri, 24 Jul 2026 16:28:39 +0000",
