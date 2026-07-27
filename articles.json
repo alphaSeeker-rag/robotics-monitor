@@ -1,5 +1,522 @@
 [
   {
+    "title": "「こんなのに追われたら……」急斜面もやすやす爆走、中国製の車輪付き四足ロボのデモ動画が話題　最高時速20km超",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/27/news099.html",
+    "published": "Mon, 27 Jul 2026 20:50:00 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "ITmedia NEWS",
+    "flag": "JP",
+    "detected_at": "2026-07-27 14:54:12",
+    "ai_summary": null
+  },
+  {
+    "title": "スポーツ諮問グループがPolymarketにおけるワールドカップ関連の不正操作の可能性を指摘",
+    "link": "https://gigazine.net/news/20260727-potential-world-cup-manipulation-polymarket/",
+    "published": "Mon, 27 Jul 2026 12:22:00 +0900",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-07-27 14:54:14",
+    "ai_summary": null
+  },
+  {
+    "title": "“아이처럼 세상의 원리 스스로 배우는 AI”…KAIST, 월드모델 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47623",
+    "published": "2026-07-27 13:26:02",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-07-27 14:54:16",
+    "ai_summary": {
+      "title_ja": "子どものように世界の原理を自ら学ぶAI…KAIST、ワールドモデル開発",
+      "summary": "KAIST(韓国科学技術院)の研究チームが、AIが観測情報のみから世界の作動原理を自ら理論化する「理論化学習(L2T)」という新しい学習パラダイムを開発した。従来の予測を超えて、変化の原因と仕組みをAIが自発的に理解・説明できる次世代ワールドモデル技術である。",
+      "insights": [
+        "物理法則や因果関係の自動発見：AIが人間の教示なしに観測データから物理的原理や因果関係を自動抽出することで、汎用性の高い世界モデルが実現される可能性がある",
+        "ロボティクスとシミュレーションの革新：自己理論化能力により、ロボットの予測精度向上と未知環境への適応性が飛躍的に改善され、より自律的なフィジカルAIの実現につながる",
+        "人間のような解釈可能性：AIが『なぜ』という因果的理解を獲得することで、説明責任が求められる産業応用（自動運転、医療ロボ等）での信頼性と採用促進が加速する"
+      ]
+    }
+  },
+  {
+    "title": "美스티븐스공대-中선전 AI·로봇硏, '낚시거미' 모방 4족 보행형 로봇 보트 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47619",
+    "published": "2026-07-27 11:57:00",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-07-27 14:54:21",
+    "ai_summary": {
+      "title_ja": "米スティーブンス工科大学と中国深圳AI・ロボット研究所、『釣り蜘蛛』を模倣した4足歩行ロボットボート開発",
+      "summary": "米スティーブンス工科大学と中国深圳AI・ロボット研究所の共同研究チームが、釣り蜘蛛の特性を模倣した4足歩行ロボットボート『QuadBoat』を開発した。このロボットは水に落ちた人を発見・接近するだけでなく、直接救助活動を実行できる能力を備えている。生物模倣工学とロボティクスの融合により、救助・捜索活動の自動化を実現する。",
+      "insights": [
+        "生物模倣工学(バイオミミクリー)による革新：釣り蜘蛛の水上移動能力を再現することで、既存のドローンやボートにない新しい救助プラットフォームを創出",
+        "国際共同研究による技術融合：米国の高度なロボティクス技術と中国のAI研究のシナジーで、実用性の高い災害対応ロボットの開発を加速",
+        "災害救助分野への応用拡大：自動化された水上救助ロボットは、水難事故対応、捜索救援活動のコスト削減と効率化をもたらす戦略的価値を持つ"
+      ]
+    }
+  },
+  {
+    "title": "中 저장대, 촉각으로 보행 의도 읽는 보행 보조 로봇 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47611",
+    "published": "2026-07-27 10:19:08",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-07-27 14:54:25",
+    "ai_summary": {
+      "title_ja": "浙江大学、触覚センサーで歩行意図を読み取る歩行補助ロボットを開発",
+      "summary": "浙江大学、テンセント・ロボティクスX研究所、上海交通大学の共同研究チームが、腰部と脇の下の大面積触覚接触インターフェース技術を用いて、ユーザーの歩行意図を認識し、バランスをサポートする歩行補助ロボットを開発した。本研究成果は国際学術誌『National Science Review』に掲載されている。",
+      "insights": [
+        "大面積触覚センサーの活用により、複雑な外部センサーに依存せず、身体接触からの直感的な意図認識が可能となり、ロボット操作の自然さと応答性が向上する可能性がある",
+        "高齢者や下肢障害者向けの介護・福祉ロボット市場において、非侵襲的で安全な物理的相互作用を実現する新たなヒューマン・ロボット・インターフェース技術として商用化の価値が高い",
+        "触覚フィードバック技術は医療用外骨格スーツやリハビリロボットなど、身体支援ロボット全般の認識・制御精度向上に応用可能な基盤技術である"
+      ]
+    }
+  },
+  {
+    "title": "KAIST-엔비디아, 인간의 움직임 이해하는 '피지컬 AI 테크놀로지센터' 설립",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47608",
+    "published": "2026-07-26 22:30:52",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-07-27 14:54:33",
+    "ai_summary": {
+      "title_ja": "KAIST・NVIDIA、人間の動きを理解する『フィジカルAI技術センター』を設立",
+      "summary": "KAISTとNVIDIAが共同で、人間の動きを理解・予測する『人体動作ファウンデーションモデル』の開発に着手する。このモデルにより、ウェアラブルロボットとヒューマノイドのより精密な制御が可能になり、フィジカルAI時代の本格化が期待される。NVIDIAのAI技術センターを通じた産学連携により、物理知能の研究が加速する。",
+      "insights": [
+        "人間の動作予測能力を持つファウンデーションモデルは、ロボット制御の精密性を革新的に向上させる基盤技術となる",
+        "KAISTのウェアラブルロボット研究とNVIDIAのAI・GPU技術の融合により、アジア発の次世代フィジカルAI開発競争の中心化が進む",
+        "動作理解に基づく物理知能は、産業用ロボット、リハビリテーション用機器、日常生活支援ロボットなど多領域への応用可能性を有する"
+      ]
+    }
+  },
+  {
+    "title": "AgiBot starts Hong Kong IPO process",
+    "link": "https://technode.com/2026/07/27/agibot-starts-hong-kong-ipo-process/",
+    "published": "Mon, 27 Jul 2026 10:12:10 +0000",
+    "keywords": [
+      "humanoid",
+      "embodied AI"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-07-27 14:54:41",
+    "ai_summary": {
+      "title_ja": "AgiBot、香港でのIPOプロセスを開始",
+      "summary": "中国の人型ロボット企業AgiBot（上海拠点）が香港IPOのプロセスを開始した。2023年創業のAgiBotsは産業・商用向けの人型ロボットと具現化AI（Embodied AI）システムを開発している。同社はAgiBot Worldもリリースしており、ハードウェアとソフトウェアの統合展開を進めている。",
+      "insights": [
+        "中国のロボット企業による香港上場は、アジア地域での資本調達とグローバル展開の加速を意味する",
+        "具現化AIと人型ロボットの産業応用が商業化段階に入り、市場が投資対象として認識されている",
+        "創業1年以内での上場プロセス開始は、同分野への機関投資家の関心の高さと資金流入の勢いを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "Momenta expands into autonomous freight with Robovan",
+    "link": "https://technode.com/2026/07/27/momenta-expands-into-autonomous-freight-with-robovan/",
+    "published": "Mon, 27 Jul 2026 10:09:45 +0000",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-07-27 14:54:46",
+    "ai_summary": {
+      "title_ja": "Momentaが自律走行貨物輸送事業「Robovan」を展開開始",
+      "summary": "中国の自動運転企業Momentaが、自律走行貨物輸送事業「Robovan」をローンチし、蘇州の相城地区で既に運用を開始している。同社のR7ワールドモデルとマップ不要のアプローチを採用し、宅配便と夜間配送に従事している。この技術プラットフォームは乗用車展開から適応させたものである。",
+      "insights": [
+        "ワールドモデル技術により、事前の詳細地図作成を不要とし、自動運転の商用展開コストと展開速度を大幅に削減できる可能性",
+        "自動運転技術が乗用車から貨物輸送へ転用される業界トレンドが加速しており、物流業界のAI化が急速に進行中",
+        "中国企業による自動運転実装の商用化が先行しており、特に地域限定での実証運用から段階的な事業拡大が進められている"
+      ]
+    }
+  },
+  {
+    "title": "BYD to unveil first humanoid robot in early August",
+    "link": "https://technode.com/2026/07/27/byd-to-unveil-first-humanoid-robot-in-early-august/",
+    "published": "Mon, 27 Jul 2026 02:42:30 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-07-27 14:54:50",
+    "ai_summary": {
+      "title_ja": "BYDが8月初旬に初の人型ロボットを公開予定",
+      "summary": "中国の大手自動車メーカーBYDが、初の人型ロボットを8月初旬に公開することを発表した。BYD幹部は以前、ディーラーネットワーク全体への人型ロボット配備の野心を表明しており、同社のロボティクス事業への本格参入を示唆している。",
+      "insights": [
+        "BYDは自動車製造の垂直統合能力を活かし、ロボティクス産業への戦略的拡大を進めている",
+        "ディーラーネットワークへのロボット配備計画は、販売・サービス現場の自動化・効率化という具体的な商用用途を想定している",
+        "テスラやその他テック企業に続き、大手自動車メーカーが人型ロボット開発競争に参入する動きが加速している"
+      ]
+    }
+  },
+  {
+    "title": "Learning Diverse Humanoid Tasks via Synthetic Video Scenarios without Real World Data",
+    "link": "https://arxiv.org/abs/2607.21648",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:54:54",
+    "ai_summary": {
+      "title_ja": "合成ビデオシナリオを用いた実世界データなしの多様なヒューマノイドロボットタスク学習",
+      "summary": "本研究は、生成AIを活用してテキストプロンプトから現実的で多様な人間の動作シーケンスを生成し、ヒューマノイドロボットに同一タスクの複数の実行バリエーションを学習させるフレームワークを提案している。実世界データ収集の高コスト性、動作キャプチャの困難性、デモンストレーションの限定的多様性といった従来の学習からの模倣法の課題を解決している。合成デモンストレーションを訓練リソースとして活用することで、ロボットの複雑なスキル習得効率を大幅に向上させる可能性を示唆している。",
+      "insights": [
+        "生成AIによる合成ビデオ活用により、実世界データ取得の高コストと時間的制約を排除し、ロボット学習の効率性を革新的に向上させる",
+        "テキストプロンプトベースの多様な動作生成により、同一タスクの複数の実行方法を網羅的に学習でき、ロボットの汎用性と適応性が飛躍的に拡大する",
+        "Learning-from-Demonstrations手法の根本的制限（個人差、モーションキャプチャの困難性）を技術的に克服し、ヒューマノイドロボットの実用化時間短縮とコスト削減に直結する産業的価値がある"
+      ]
+    }
+  },
+  {
+    "title": "Addressing the Orchestration Gap in Generalist Robots via Physical Agency",
+    "link": "https://arxiv.org/abs/2607.21725",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:54:59",
+    "ai_summary": {
+      "title_ja": "物理的エージェンシーによる汎用ロボットのオーケストレーション・ギャップへの対応",
+      "summary": "汎用ロボットが知覚、世界知識、計画、成功検出、復帰、低レベル制御を統合する必要がある課題に対し、本研究では大規模事前学習による単一ポリシーではなく、言語条件付きポリシーエージェントと高レベルマネージャー/オーケストレーターに機能を分解することを提案する。Physical Agency orchestrator (Pigey)は、高レベルの計画、サブゴール分解、モーター制御、結果追跡、失敗復帰を実現し、既存のVLA（ビジョン・ランゲージ・アクション）ポリシーを制御可能である。",
+      "insights": [
+        "エンドツーエンド学習から機能分解へのパラダイムシフト：大規模事前学習による単一ポリシー統合ではなく、複数エージェントの協調によりロボットの推論能力を向上させる新しいアプローチ",
+        "クローズドループ物理オーケストレーション：低レベル観測からの実時間フィードバックと失敗復帰メカニズムにより、実世界環境での堅牢性と適応性を実現",
+        "既存VLAモデルとの互換性：新開発のオーケストレーターが既存の視覚言語アクションモデルと統合可能であり、段階的な導入と実用化の道を提供"
+      ]
+    }
+  },
+  {
+    "title": "StARS: Socially Appropriate Robot Actions via a Recommender System-Driven Approach",
+    "link": "https://arxiv.org/abs/2607.21802",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:03",
+    "ai_summary": {
+      "title_ja": "StARS: 推薦システム駆動アプローチによる社会的に適切なロボット行動",
+      "summary": "人間とロボットの相互作用において、同じロボット行動が人によって異なる社会的適切性を持つという課題に対し、推薦システムの考え方を応用した新フレームワークを提案。ユーザー個別の適切性スコアを生成するため、協調フィルタリングと学習可能なシーン表現を統合し、モデルに依存しない柔軟な設計を実現。",
+      "insights": [
+        "社会的適切性を個人差を考慮した推薦問題として再定義することで、HRI分野における個人カスタマイズの新しいアプローチを開拓",
+        "協調フィルタリング技術をロボット行動生成に応用し、大規模なロボット学習データなしに複数ユーザーの嗜好を効率的に学習可能",
+        "モデル非依存アーキテクチャにより、異なるシーンエンコーダやバックボーン実装との互換性を確保し、既存ロボティクスシステムへの統合が容易"
+      ]
+    }
+  },
+  {
+    "title": "Action-Conditioned World Model for Goal Plane Probe Guidance in Robotic Ultrasound",
+    "link": "https://arxiv.org/abs/2607.21918",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Mag4D-SLAM Dataset: A Repeated-Traversal Multi-Modal 4D Geomagnetic Dataset for Localization and Mapping",
+    "link": "https://arxiv.org/abs/2607.21986",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Embodying Multi-Hand Manipulation Policies by Searching the Assignment and Null Spaces",
+    "link": "https://arxiv.org/abs/2607.22020",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Impedance Control of Ship-Borne Manipulators via Optimization-based Task-Space Inverse Dynamics",
+    "link": "https://arxiv.org/abs/2607.22030",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "One Hand Watches The Other: Dynamic Multi-Agent Cooperation for Sample-Efficient Bimanual Manipulation in Dynamic Environments",
+    "link": "https://arxiv.org/abs/2607.22119",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments",
+    "link": "https://arxiv.org/abs/2607.22226",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "A Monolithic Hand with Asymmetric Origami Bending and Dual-chamber Actuators",
+    "link": "https://arxiv.org/abs/2607.22320",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education",
+    "link": "https://arxiv.org/abs/2607.22345",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Conformal Constraint Tightening for Chance-Constrained Motion Planning with Unknown Dynamics",
+    "link": "https://arxiv.org/abs/2607.22409",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes",
+    "link": "https://arxiv.org/abs/2607.22483",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
+    "link": "https://arxiv.org/abs/2607.22530",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Robot-Factored World Models via Robot Rendering",
+    "link": "https://arxiv.org/abs/2607.22535",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents",
+    "link": "https://arxiv.org/abs/2607.22014",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Geometric 2D Scene Graph Generation",
+    "link": "https://arxiv.org/abs/2607.22325",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Compliant Non-Prehensile Pushing Manipulation",
+    "link": "https://arxiv.org/abs/2605.25672",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Efficient Domain-Adaptive Policy Learning via Kernel Representation with Application to Quadrotor Control under Non-Stationary Disturbances",
+    "link": "https://arxiv.org/abs/2606.13842",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation",
+    "link": "https://arxiv.org/abs/2607.14021",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents",
+    "link": "https://arxiv.org/abs/2607.19190",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning",
+    "link": "https://arxiv.org/abs/2607.21049",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control",
+    "link": "https://arxiv.org/abs/2604.26577",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "SAFE-Pruner: Semantic Attention-Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation",
+    "link": "https://arxiv.org/abs/2605.29662",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
+    "link": "https://arxiv.org/abs/2606.03159",
+    "published": "Mon, 27 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "World Model",
+      "Physical AI"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-27 14:55:07",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "published": "Mon, 27 Jul 2026 09:32:20 GMT",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Hugging Face",
+    "flag": "Lab",
+    "detected_at": "2026-07-27 14:55:08",
+    "ai_summary": null
+  },
+  {
     "title": "Magmotor makes motors for a changing world for 150+ years",
     "link": "https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/",
     "published": "Sun, 26 Jul 2026 12:30:51 +0000",
