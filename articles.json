@@ -1,5 +1,86 @@
 [
   {
+    "title": "Registration is open for RoboBusiness 2026",
+    "link": "https://www.therobotreport.com/registration-is-open-for-robobusiness-2026/",
+    "published": "Tue, 28 Jul 2026 20:54:46 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-28 22:00:41",
+    "ai_summary": {
+      "title_ja": "RoboBusiness 2026の登録がスタート",
+      "summary": "RoboBusiness 2026はロボティクス業界の20周年を記念して、2026年10月にサンタクララで開催される。本イベントは2年に一度の主要なロボティクスカンファレンスであり、業界の最新動向と技術革新を紹介する。現在、参加登録が受け付けられている。",
+      "insights": [
+        "RoboBusinessは20年間の継続開催により、ロボティクス・フィジカルAI業界における最大級のフラッグシップイベントとしての地位を確立している",
+        "2026年の開催は、ロボティクス技術が産業応用から日常生活への普及段階へ移行する時期と合致しており、市場成熟度の指標となる",
+        "サンタクララ開催はシリコンバレー近辺での開催を示唆し、テック企業とロボティクス企業のネットワーキング拠点としての重要性が高い"
+      ]
+    }
+  },
+  {
+    "title": "Agency Tool Company wants to make OTA software updates easier",
+    "link": "https://www.therobotreport.com/agency-tool-company-wants-to-make-ota-software-updates-easier/",
+    "published": "Tue, 28 Jul 2026 14:59:58 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-28 22:00:45",
+    "ai_summary": {
+      "title_ja": "エージェンシーツール社がOTAソフトウェア更新を簡素化したい考え",
+      "summary": "Scythe社の共同創業者2名が、商用ロボット開発での経験を活かしてAgency Tool Co.を設立し、ロボティクス開発者向けのツール開発に取り組んでいます。同社はOTA（Over-The-Air）ソフトウェア更新プロセスを簡素化することを目標としています。",
+      "insights": [
+        "OTA更新は商用ロボットの運用効率性において重要な課題であり、開発者向けツール市場の成長機会が存在する",
+        "実際のロボット開発経験を持つ起業家による開発ツール企業の参入は、業界固有のペイン解決に適している",
+        "ロボティクス産業の成熟に伴い、運用・保守基盤の整備を支援するインフラ企業の需要が拡大傾向にある"
+      ]
+    }
+  },
+  {
+    "title": "Robot Finger Feels in Color",
+    "link": "https://spectrum.ieee.org/robot-finger",
+    "published": "Tue, 28 Jul 2026 15:00:03 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-07-28 22:00:48",
+    "ai_summary": {
+      "title_ja": "ロボットの指が色で感じる：高解像度触覚センシングの革新",
+      "summary": "欧州の科学者チームが、カラフルなロボット皮膚を使用して、ペニーの表面を感じるような高精度な触覚センシングをリアルタイムで実現した。従来は複数の空間位置での圧力と力のデータ収集が必要だったが、この新しいアプローチは圧力分布を色情報として可視化することで、ロボットハンドの感覚能力を飛躍的に向上させている。",
+      "insights": [
+        "色情報を活用した触覚センシングにより、複雑な圧力・力データの多次元情報を視覚的に符号化し、リアルタイム処理が可能になった革新的なアプローチ",
+        "ロボットハンドの精密操作能力が向上することで、微細物体の把握や繊細な作業（医療、精密組立など）への応用が拡大する可能性",
+        "従来のセンサアーキテクチャとは異なる原理設計により、業界の技術的パラダイムシフトを引き起こす可能性がある（Shadow Robotなど主要企業も高く評価）"
+      ]
+    }
+  },
+  {
+    "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+    "link": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
+    "published": "2026-07-28T20:49:21Z",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "NVIDIA Developer",
+    "flag": "Lab",
+    "detected_at": "2026-07-28 22:01:07",
+    "ai_summary": {
+      "title_ja": "GPU ネイティブ医療物理シミュレーションによるヘルスケアロボティクスの開発",
+      "summary": "医療用ロボットは自動運転や産業用ロボットとは異なり、インターネット規模のデータ収集や無制限の実世界実験に依存できない。GPU ネイティブの医療物理シミュレーション技術により、安全かつ効率的な学習と検証が可能になる。この手法は医療ロボット開発における規制要件と実用性のギャップを埋める重要なソリューションである。",
+      "insights": [
+        "医療ロボットは安全性・倫理的制約が強いため、シミュレーション駆動型開発が自動運転や産業ロボット以上に重要",
+        "GPU ネイティブシミュレーションは物理演算の高速化により、大規模な仮想学習を現実的な時間コストで実現可能にする",
+        "医療特化型物理シミュレーションは規制認可(FDA等)と実臨床への移行段階における信頼性構築の鍵となる"
+      ]
+    }
+  },
+  {
     "title": "How Integrated Actuators Improve Humanoid Robot Joint Performance and System Integration",
     "link": "https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/",
     "published": "Tue, 28 Jul 2026 13:25:37 +0000",
