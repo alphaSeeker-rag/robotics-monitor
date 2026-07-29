@@ -1,5 +1,25 @@
 [
   {
+    "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
+    "link": "https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/",
+    "published": "Wed, 29 Jul 2026 14:11:19 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-29 21:56:50",
+    "ai_summary": {
+      "title_ja": "米国のヒューマノイド・モバイルロボット輸入規制に対する専門家の反応",
+      "summary": "米FCC（連邦通信委員会）が外国製ヒューマノイドロボットの輸入を制限する措置を実施した。業界専門家は、この規制が米国産業の競争力強化につながる一方で、技術革新を阻害する可能性があると指摘している。",
+      "insights": [
+        "保護主義的政策による国内産業育成と国際的な技術協力・競争のバランスが今後の産業発展の鍵となる",
+        "ロボティクス分野における安全保障上の懸念が規制の背景にあると考えられ、セキュリティ基準の国際標準化が重要",
+        "輸入規制により米国企業の研究開発コストが増加し、短期的には消費者負担増加につながる可能性がある一方、長期的な産業自立化につながるか検証が必要"
+      ]
+    }
+  },
+  {
     "title": "アマノの複数階清掃に対応した業務用ロボット掃除機に自律移動ソフトが採用",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2607/29/news068.html",
     "published": "Wed, 29 Jul 2026 14:00:00 +0900",
