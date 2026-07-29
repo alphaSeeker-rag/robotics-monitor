@@ -1,5 +1,594 @@
 [
   {
+    "title": "アマノの複数階清掃に対応した業務用ロボット掃除機に自律移動ソフトが採用",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/29/news068.html",
+    "published": "Wed, 29 Jul 2026 14:00:00 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-07-29 14:25:55",
+    "ai_summary": null
+  },
+  {
+    "title": "日立製作所、化学プラントのバッチ生産をAIで可視化する運転支援システム提供",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2607/29/news024.html",
+    "published": "Wed, 29 Jul 2026 10:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-07-29 14:25:55",
+    "ai_summary": null
+  },
+  {
+    "title": "トランプ政権はアメリカのAI開発を守るため中国製の新型人型ロボットやインバーターの輸入を禁止",
+    "link": "https://gigazine.net/news/20260729-trump-administration-bans-chinese-humanoid-robots/",
+    "published": "Wed, 29 Jul 2026 10:38:00 +0900",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-07-29 14:25:56",
+    "ai_summary": null
+  },
+  {
+    "title": "BYD AI Team Revealed for First Time: HyWorldVLA Hybrid World Model Achieves SOTA on NAVSIM v1 With 90.59 PDMS Marking BYD Entry Into Autonomous Driving Foundation Models",
+    "link": "https://pandaily.com/byd-hyworld-vla-autonomous-driving-sota-jul2026",
+    "published": "Wed, 29 Jul 2026 11:04:00 GMT",
+    "keywords": [
+      "VLA",
+      "World Model",
+      "robotics"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-29 14:25:59",
+    "ai_summary": {
+      "title_ja": "BYDのAIチーム初公開：ハイブリッドワールドモデル「HyWorldVLA」がNAVSIM v1で90.59 PDMSの最高性能を達成、BYDの自動運転基盤モデル参入を示唆",
+      "summary": "BYDのAIチーム（哈工大ロボティクス研究者を含む）がピクセル・潜在空間のハイブリッド世界モデルとVLAアーキテクチャを組み合わせた「HyWorldVLA」を発表した。NAVSIMベンチマークで90.59 PDMSの最高性能を達成し、自動運転の基盤モデル開発領域へのBYDの本格参入を示している。",
+      "insights": [
+        "BYDが自動運転用の基盤モデル開発に注力し、業界競争が激化。中国の大手EV企業による自動運転AI領域への投資加速を示唆",
+        "ハイブリッド世界モデル（pixel-latent fusion）は、計算効率と認識精度のトレードオフを解決する次世代アーキテクチャとして注目される技術方向性",
+        "VLA（ビジョンランゲージアクション）とワールドモデルの融合は、エンドツーエンド自動運転システムの実現に向けた重要な技術ステップ"
+      ]
+    }
+  },
+  {
+    "title": "China Advanced Packaging Enters New Wave of Investment as 400 Billion Yuan in Projects Target Chiplet 3D Integration and AI Chip Substrates",
+    "link": "https://pandaily.com/china-advanced-packaging-new-wave-jul2026",
+    "published": "Wed, 29 Jul 2026 11:01:55 GMT",
+    "keywords": [
+      "Chiplet"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-29 14:26:04",
+    "ai_summary": {
+      "title_ja": "中国の先端パッケージング産業が新たな投資波に：チップレット3D統合とAIチップ基板を対象に400億元のプロジェクト",
+      "summary": "2026年5月から7月にかけて、中国は約10件の先端パッケージングプロジェクト（総額400億元）を発表し、2.5D/3D、チップレット、ファンアウト、自動車チップパッケージングなど複数の技術領域をカバーしている。これらのプロジェクトはAIおよびHPC(高性能コンピューティング)分野に特化しており、中国の半導体産業における垂直統合を加速させている。本投資ラッシュは、米国の先端チップ製造制裁に対抗する中国独自のエコシステム構築を示唆している。",
+      "insights": [
+        "チップレット・3D統合技術への集中投資により、中国はムーアの法則の限界を回避し、自国でAI/HPC向け高性能チップの製造能力を確立しようとしている",
+        "自動車チップパッケージングへの並行投資は、EV・自動運転分野における半導体自給率向上と産業チェーンの脆弱性排除を目指す戦略的意図を示している",
+        "短期間(3ヶ月)での400億元の大規模プロジェクト公表は、国家主導型の産業政策加速と、先端パッケージング技術が地政学的競争における優先順位の最高峰に位置していることを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "Chinese Internet Giants Accelerate Into the Physical World as Meituan JD.com ByteDance and Baidu Build Robotics Smart Delivery and Embodied AI Empires",
+    "link": "https://pandaily.com/chinese-internet-companies-physical-world-jul2026",
+    "published": "Wed, 29 Jul 2026 02:01:40 GMT",
+    "keywords": [
+      "robotics",
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-07-29 14:26:09",
+    "ai_summary": {
+      "title_ja": "中国のインターネット大手がロボティクス・スマート配送・具現化AIで物理世界へ加速展開――美団、JD.com、ByteDance、Baiduが帝国構築",
+      "summary": "中国の大手インターネット企業（美団、JD.com、ByteDance、Baidu）がロボタクシー、配送ドローン、倉庫ロボット、具現化AI(embodied AI)エージェント、物理世界AI基盤インフラを展開している。これらは運輸、ロジスティクス、製造、サービス部門に広がっている。デジタルプラットフォームから物理世界への大規模な事業拡張が進行中である。",
+      "insights": [
+        "中国テック大手の戦略的転換：プラットフォーム経済から物理的なロボティクスインフラへの投資拡大により、長期的な競争優位を構築しようとしている",
+        "垂直統合型のエコシステム構築：配送・物流・製造など複数の産業領域で自社ロボットシステムを導入し、データと運営効率を統合化している",
+        "具現化AIの産業化段階突入：単なるソフトウェアAIから、実世界で動作するエンボディド・エージェントへの転換により、新たな商業価値創出と規制回避の可能性"
+      ]
+    }
+  },
+  {
+    "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
+    "link": "https://36kr.com/p/3915175290901889?f=rss",
+    "published": "2026-07-29 09:30:00  +0800",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "36Kr",
+    "flag": "CN",
+    "detected_at": "2026-07-29 14:26:20",
+    "ai_summary": {
+      "title_ja": "柔軟触覚センシング企業が新規融資を獲得、2026年に売上10倍成長を予想｜ロボティクス産業レポート",
+      "summary": "中国の柔軟織物センシング企業「尧乐科技」がPre-A+ラウンドで新規融資を完了し、データグローブの開発・生産拡大と具身知能（embodied AI）向けソリューション展開を加速する。同社は柔軟織物センシング技術を活用し、人形ロボットやAI訓練に必要な真実の物理相互作用データ採集を可能にする。現在、高品質な触覚データは全世界で約50万時間しかなく、通用具身モデル訓練に必要な数千万時間に対して9割以上のギャップが存在する構造的課題を解決する。",
+      "insights": [
+        "触覚データ供給の構造的ボトルネック：視覚・テキストと異なり触覚データはシミュレーション環境では真実の圧力分布・摩擦・材質変形を再現できず、実体験データ採集が不可欠であり、データグローブが重要な物理インターフェースとなる",
+        "一体化センサ設計による製品差別化：従来の印刷回路やフィルムセンサを織物表面に貼付する多層構造から脱却し、センシング機能を織物構造に直接統合することで、耐久性と実運用スケーラビリティを実現",
+        "具身AI時代のハードウェア-データシナジー：人形ロボットの機構や制御が成熟段階に入る中、高品質触覚データ供給が次の競争軸となり、センサハードウェアメーカーがAI訓練データの生成・流通に拡大する産業構造の変化"
+      ]
+    }
+  },
+  {
+    "title": "Egocentric Station Holding of Robotic Fish in Unknown Turbulent Background Flow",
+    "link": "https://arxiv.org/abs/2607.24860",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:26:27",
+    "ai_summary": {
+      "title_ja": "未知の乱流背景流における魚型ロボットの自己中心的ステーション保持",
+      "summary": "本研究は、自然な水流環境で魚型ロボットが目標位置に接近し、流れの中で位置を保持する能力を開発することを目的としています。流体-構造相互作用の複雑性に対処するため、SWiFTフレームワーク(Swimming With Flow Toolbox)を提案し、強化学習を用いて未知の乱流環境における体部・尾部駆動型ロボット魚の自律的なステーション保持戦略を実現しています。本フレームワークは実験的水流槽設置と物理的に一貫性のある計算流体力学を統合しています。",
+      "insights": [
+        "自然環境での水中ロボット運用における未解決課題であるステーション保持能力を、強化学習と実験的検証を組み合わせることで実現可能にした点が革新的",
+        "流体-構造相互作用の非線形性という根本的な課題に対し、実験とシミュレーションの統合アプローチが有効であることを示唆",
+        "自律型水中ロボットの自然環境適応能力の向上は、環境モニタリング、海洋探査、インフラ検査などの産業応用の拡大を可能にする"
+      ]
+    }
+  },
+  {
+    "title": "Decompose and Reorganize: Planning with Primitives and Visuomotor Policies Learned from Demonstrations",
+    "link": "https://arxiv.org/abs/2607.25397",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:26:32",
+    "ai_summary": {
+      "title_ja": "分解と再編成：デモンストレーションから学習されたプリミティブとビジュオモータポリシーによる計画",
+      "summary": "本研究は、従来のタスク・モーション計画（TAMP）と模倣学習（IL）の強みを統合したDR-LfDフレームワークを提案している。接触関係に基づいて人間のデモンストレーションを原子的スキルに分解し、ビジュオモータポリシーとして再現することで、複雑で長期的なロボット操作タスクの自動化を実現する。これにより、シンボリック計画の汎用性と接触を伴う細かい動作制御を両立させることができる。",
+      "insights": [
+        "従来のTAMPは記号的計画に優れるが接触操作に脆弱であり、ILは視覚フィードバック下で効果的だが空間汎化に制限がある。この補完的な課題を統合することが巧緻操作の自動化の鍵である",
+        "デモンストレーションから接触関係を基準に原子的スキルを自動抽出し再利用可能なポリシー化することで、データ効率と汎化性の向上が期待できる",
+        "ビジュオモータポリシーをTAMP層の決定システムに組み込むハイブリッドアプローチにより、高レベルの推論と低レベルの実行制御の両立が可能になる産業応用の拡張が見込まれる"
+      ]
+    }
+  },
+  {
+    "title": "A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models",
+    "link": "https://arxiv.org/abs/2607.25516",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:26:37",
+    "ai_summary": {
+      "title_ja": "VLAモデルのテスト時モダリティ適応のための因果性認識型推論-診断-洗練フレームワーク",
+      "summary": "本論文は、視覚・言語・動作(VLA)モデルにおいて、ロボット操作タスク中の動的フェーズ(長距離移動と近距離相互作用)で視覚情報の重要度が時間とともに変化する問題に対処する。提案するIDR(推論-診断-洗練)フレームワークは、反事実シナリオを用いて視覚観測の因果効果を推定し、テスト時にアクション予測を動的に改善するモデル非依存的なアプローチである。",
+      "insights": [
+        "モダリティフュージョンの最適化：ロボット操作の異なるフェーズで視覚と固有感覚の寄与度が変動するため、固定的なモダリティ統合では不十分であり、動的な重要度推定が必要",
+        "因果推論の応用：反事実推論(counterfactual reasoning)を用いて視覚情報の因果効果を診断することで、テスト時適応性を向上させるアプローチは汎用性が高い",
+        "モデル非依存性：IDRフレームワークが既存のVLAアーキテクチャに統合可能な設計により、多様なロボティクスシステムへの実装可能性と汎用性を拡大"
+      ]
+    }
+  },
+  {
+    "title": "P3: Probabilistic Policy Propagation for Stable VAE-Based Robot Learning",
+    "link": "https://arxiv.org/abs/2607.25541",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:26:41",
+    "ai_summary": {
+      "title_ja": "P3: ロボット学習における安定的なVAEベースポリシーのための確率的ポリシー伝播",
+      "summary": "本研究は、ロボティクスで広く使用される変分オートエンコーダ(VAE)と近接方策最適化(PPO)の間の根本的な不整合を指摘している。単一潜在サンプルのみを使用した従来の実装は代理損失に大きな分散とバイアスを引き起こすため、分布認識型の最適化フレームワークP³(確率的ポリシー伝播)を提案する。このアプローチはモーメント法と標本ベースの校正を組み合わせることで、潜在不確実性下における安定的で堅牢なポリシー学習を実現する。",
+      "insights": [
+        "VAEの確率的潜在変数とPPOの確率比推定の間にある理論的不整合は、従来のシングルサンプル近似による高い分散・バイアスに起因しており、ロボット政策学習の安定性を著しく損なっている",
+        "モーメント法による分布認識型最適化と標本ベース校正の融合は、高次元観測下でのロボット制御において、従来手法比で優れた安定性と堅牢性を実現する新しいアプローチである",
+        "本研究はVAEベースのポリシーネットワークを採用する既存のロボティクスシステム全般に対して汎用的な改善手法を提供し、実装コスト低で精度向上が期待できる"
+      ]
+    }
+  },
+  {
+    "title": "When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning",
+    "link": "https://arxiv.org/abs/2607.25593",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid",
+      "manipulation",
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:26:49",
+    "ai_summary": {
+      "title_ja": "ロボット学習における複数構成間の転移学習：いつレガシーデータが有効になるのか",
+      "summary": "ロボットハードウェアの世代交代時に、過去の異なるセンサ・アクチュエータ構成のデータがいつから新型ロボットの学習に役立つかを調査した研究。従来の「データが多いほど良い」という仮定に反し、新型ロボットが最小限のタスク能力に到達するまではレガシーデータは効果がなく、その後から急速に学習効果が上昇する「grokking現象」を発見。転移学習のしきい値に基づく3段階のフェーズモデルを提案している。",
+      "insights": [
+        "ロボット開発では、異なるハードウェア世代間のデータ転移には明確な「転移学習しきい値」が存在し、この閾値以下ではレガシーデータは学習を阻害する可能性がある",
+        "機械学習の一般的な仮定（データ量が多いほど性能向上）がロボティクスでは非線形であり、タスク能力の段階的成長が転移効果を決定することが実証された",
+        "ロボットハードウェアの進化時には、単なるデータ統合ではなく、新型構成の自立的な学習段階を経た後のハイブリッド学習戦略が実装効率を最大化できる"
+      ]
+    }
+  },
+  {
+    "title": "Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller",
+    "link": "https://arxiv.org/abs/2607.25728",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:26:54",
+    "ai_summary": {
+      "title_ja": "共有ボクセルマップベースの協調型室内UAV誘導マルチエージェントソフトアクタークリティックコントローラ",
+      "summary": "本論文は、複数のドローンが360度LiDAR観測データを共有ボクセルマップに統合し、鳥瞰図表現に変換して各エージェントに提供する協調型室内UAV誘導フレームワークを提案している。マルチエージェントソフトアクタークリティック(MASAC)コントローラを採用し、集中訓練・分散実行アーキテクチャにより、複数ドローン間の空間的融合の一貫性を保ちながら分散制御を実現している。シミュレーション環境で廊下ナビゲーションタスクにおいて90.3%の成功率を達成し、従来のA*プランニングと人工ポテンシャルフィールド手法を上回る性能を示している。",
+      "insights": [
+        "共有ボクセルマップと鳥瞰図表現により、マルチエージェントロボットの空間認識と協調行動の効率性が向上。世界座標系での統合と自我中心座標系での行動の分離設計は、スケーラブルな多体系制御の新しいパラダイム",
+        "MASAC制御により、複数ドローンの協調ナビゲーション性能が従来の経路計画手法(A*、APF)を上回る90%超の成功率を実現。深層強化学習がロボティクスの複雑な実環境問題への適用可能性を実証",
+        "集中訓練・分散実行フレームワークは、通信負荷の低減と実時間応答性の両立が可能であり、ロボット群の実装効率化と商用化に向けた重要な技術基盤となる見通し"
+      ]
+    }
+  },
+  {
+    "title": "Tri-Manual Visuomotor Imitation Learning of Robot Policies",
+    "link": "https://arxiv.org/abs/2607.25731",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation",
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks",
+    "link": "https://arxiv.org/abs/2607.25781",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design",
+    "link": "https://arxiv.org/abs/2607.25798",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
+    "link": "https://arxiv.org/abs/2607.25895",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "Teleoperation",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2607.25912",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models",
+    "link": "https://arxiv.org/abs/2607.25918",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Physics-Aware End-to-End Deep Reinforcement Learning for Quadcopter Control with Actuator Dynamics",
+    "link": "https://arxiv.org/abs/2607.25985",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information",
+    "link": "https://arxiv.org/abs/2607.26047",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "$\\pi\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+    "link": "https://arxiv.org/abs/2607.26055",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models",
+    "link": "https://arxiv.org/abs/2607.26056",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "VisualPatchWorld: Code World Models as Latent Structured Representations for Planning",
+    "link": "https://arxiv.org/abs/2607.25236",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control",
+    "link": "https://arxiv.org/abs/2607.25337",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "HOME: Robust Hough-space Matching Method for Structured and Textureless Videos",
+    "link": "https://arxiv.org/abs/2607.25389",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "A context-adaptive policy framework for robust and reactive robotic manipulation via uncertainty-aware imitation learning",
+    "link": "https://arxiv.org/abs/2410.24035",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding",
+    "link": "https://arxiv.org/abs/2601.02295",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Nautilus: From One Prompt to Plug-and-Play Robot Learning",
+    "link": "https://arxiv.org/abs/2605.11665",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Can Vision-Language-Action Models Learn from Real-World Data Continually without Forgetting?",
+    "link": "https://arxiv.org/abs/2605.26820",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "UniReLo: Learning a Unified Humanoid Policy from Fall Recovery to Locomotion across Diverse Terrains",
+    "link": "https://arxiv.org/abs/2606.08922",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "InDex: Empowering VLA Models with Intent-Conditioned Arm-Hand Coordination for Dexterous Manipulation",
+    "link": "https://arxiv.org/abs/2606.12109",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "RoboProcessBench: Benchmarking Process-Aware Understanding in Vision-Language Robotic Manipulation",
+    "link": "https://arxiv.org/abs/2606.13040",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "RoboMME-Interference: Benchmarking Robot Memory Under Interference",
+    "link": "https://arxiv.org/abs/2606.22338",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference",
+    "link": "https://arxiv.org/abs/2607.16123",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning",
+    "link": "https://arxiv.org/abs/2607.18060",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Towards Embodied Cognition in Robots via Spatially Grounded Synthetic Worlds",
+    "link": "https://arxiv.org/abs/2505.14366",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model",
+    "link": "https://arxiv.org/abs/2607.25487",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Fairness Is Not Enough: Auditing Competence and Intersectional Bias in AI-powered Resume Screening",
+    "link": "https://arxiv.org/abs/2507.11548",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
+    "title": "PatchWorld: Gradient-Free Optimization of Executable World Models for Agent Environments",
+    "link": "https://arxiv.org/abs/2605.30880",
+    "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-07-29 14:27:00",
+    "ai_summary": null
+  },
+  {
     "title": "Registration is open for RoboBusiness 2026",
     "link": "https://www.therobotreport.com/registration-is-open-for-robobusiness-2026/",
     "published": "Tue, 28 Jul 2026 20:54:46 +0000",
