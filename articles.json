@@ -1,5 +1,86 @@
 [
   {
+    "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
+    "link": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/",
+    "published": "Thu, 30 Jul 2026 20:01:22 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-30 22:02:44",
+    "ai_summary": {
+      "title_ja": "2026年のロボティクスを形作る5つのPhysical AIインフラストラクチャプラットフォーム",
+      "summary": "ロボティクス産業においてPhysical AIの発展を支える5つの重要なインフラストラクチャプラットフォームが台頭している。これらは加速コンピューティング、シミュレーション、データ操作、オープンソースツール、バリデーションエンジニアリング、継続学習など異なる制御ポイントを担当する。従来のAIブームがコンピューティング資源に一極集中していたのに対し、Physical AIスタックは複数の専門化されたインフラ層で構成される新たなアーキテクチャを形成している。",
+      "insights": [
+        "Physical AIスタックの発展により、単一のコンピューティング中心から複数の特化したインフラプラットフォームへの産業構造転換が進行中",
+        "シミュレーション、データ操作、継続学習などの機能が独立したプラットフォームとして確立され、ロボティクス開発の効率化が加速する可能性",
+        "オープンソースツールとバリデーションエンジニアリングが新たなコントロールポイントとして重要性を増し、業界全体の標準化が進む"
+      ]
+    }
+  },
+  {
+    "title": "Teradyne Robotics revenue rises 33% year over year in Q2",
+    "link": "https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/",
+    "published": "Thu, 30 Jul 2026 17:38:52 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-07-30 22:02:48",
+    "ai_summary": {
+      "title_ja": "テラダイン・ロボティクスのQ2売上33%増加、前年同期比",
+      "summary": "テラダイン・ロボティクスが2026年第2四半期に前年同期比33%の売上成長を達成した。この成長は米国市場とAI関連需要が主要な牽引力となっている。ロボティクス産業におけるAI統合と北米市場の拡大が加速している傾向を示唆している。",
+      "insights": [
+        "AI技術の統合がロボティクス企業の成長エンジンとなっており、産業用ロボティクスのAI化が急速に進行している",
+        "米国市場における産業用・自動化ロボティクスの需要が旺盛であり、製造業のDXが継続的に推進されている",
+        "テラダイン傘下のロボティクス事業の急成長は、テスト・測定・オートメーション企業による新規事業領域での成功を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "published": "Thu, 30 Jul 2026 15:00:59 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Google DeepMind",
+    "flag": "US",
+    "detected_at": "2026-07-30 22:02:52",
+    "ai_summary": {
+      "title_ja": "Gemini Robotics ER 2：動画理解、タスク調整、マルチロボット協働によるロボティクスの強化",
+      "summary": "Gemini Robotics ER 2は、ロボットが推論・協働し現実世界のタスクを解決するためのAIモデルである。動画理解、ツール調整、マルチロボット協働の能力において大幅な進化を実現し、ロボティクス応用の新段階を切り開いている。",
+      "insights": [
+        "動画理解能力によりロボットが視覚情報から複雑なコンテキストを認識でき、より高度な自律実行が可能になった",
+        "タスク調整（オーケストレーション）機能により、複数のツールやロボットを統合的に制御する汎用的なロボット制御プラットフォームへ進化",
+        "マルチロボット協働対応により、単一ロボットから分散ロボットシステムへ拡張可能な実用的なソリューションが実現可能に"
+      ]
+    }
+  },
+  {
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "published": "Tue, 28 Jul 2026 13:21:37 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Google DeepMind",
+    "flag": "US",
+    "detected_at": "2026-07-30 22:02:55",
+    "ai_summary": {
+      "title_ja": "Gemini Robotics 2がロボットに全身知能をもたらす",
+      "summary": "Gemini Robotics 2は、ロボットに全身的な知能を統合する新しいモデルです。このアプローチにより、ロボットはより複雑なタスクを実行し、環境との相互作用をより効果的に理解できるようになります。AIと物理的な動作の統合により、次世代のロボティクス技術が実現されます。",
+      "insights": [
+        "全身知能統合により、ロボットが視覚・触覚・動作を一体で処理し、より自律的で適応的な行動が可能になる",
+        "マルチモーダルAI（視覚・音声・物理センサデータ）を組み合わせることで、ロボットの汎用性と信頼性が向上",
+        "エンドツーエンド学習アーキテクチャにより、ロボット開発の効率化とコスト削減、および商用化への加速が期待される"
+      ]
+    }
+  },
+  {
     "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
     "link": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
     "published": "Wed, 29 Jul 2026 14:53:15 +0000",
