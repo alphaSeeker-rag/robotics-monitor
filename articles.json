@@ -1,5 +1,89 @@
 [
   {
+    "title": "igus launches energy chain with 600-degree rotation for industrial robots",
+    "link": "https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots/",
+    "published": "Mon, 03 Aug 2026 21:06:07 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-03 22:05:03",
+    "ai_summary": {
+      "title_ja": "igus、産業用ロボット向けに600度回転対応のエネルギーチェーンを発表",
+      "summary": "igusが新開発の「twisterchain」エネルギーチェーンを発表し、パレタイジングなどの高度な産業用ロボット用途向けのケーブル管理ソリューションを提供する。このエネルギーチェーンは600度の回転に対応可能で、従来のケーブル管理システムでは対応困難だった用途に対応できる。",
+      "insights": [
+        "高回転角度対応(600度)により、多軸ロボットやTCPの頻繁な回転が必要な用途での耐久性と信頼性が向上",
+        "パレタイジング等の繰り返し動作が多い産業用ロボット応用において、ケーブルの断線・損傷を低減し、ダウンタイム削減に貢献",
+        "igusの専門的なケーブル管理ソリューションは、ロボット導入企業の総保有コスト(TCO)低減と稼働率向上に寄与する差別化要因"
+      ]
+    }
+  },
+  {
+    "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
+    "link": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/",
+    "published": "Mon, 03 Aug 2026 17:17:46 +0000",
+    "keywords": [
+      "robotics",
+      "actuator"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-03 22:05:07",
+    "ai_summary": {
+      "title_ja": "HEBI Roboticsが小型化されたアクチュエーター開発を加速させるNASA SBIR助成金を獲得",
+      "summary": "HEBI RoboticsはNASA SBIR(中小企業革新研究)のPhase I助成金を獲得し、小型化されたアクチュエーター技術の開発を加速させている。この助成金獲得はNASA案件への対応戦略の一部であり、同社は既存のアクチュエーターハードウェアの開発を継続する計画である。SBIR助成金は、宇宙・航空産業における革新的なロボティクス技術開発の推進に貢献している。",
+      "insights": [
+        "小型化アクチュエーター技術は宇宙探査ミッションにおける重要なコンポーネントとなりつつあり、政府助成金対象となるほど戦略的価値が高い",
+        "HEBI Roboticsの多層的な開発アプローチ(新規技術開発と既存製品改善の並行実施)は、商業化と革新のバランスを取る現代的なロボティクス企業戦略を示唆している",
+        "NASAなどの公的機関によるSBIR助成金は、民間ロボティクス企業が宇宙産業向けの高度な技術開発に参入する重要な資金メカニズムとなっている"
+      ]
+    }
+  },
+  {
+    "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
+    "link": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
+    "published": "Mon, 03 Aug 2026 16:05:39 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-08-03 22:05:12",
+    "ai_summary": {
+      "title_ja": "Walden Robotics、トヨタと実用的なヒューマノイドロボット開発で提携",
+      "summary": "トヨタ研究所（TRI）のスピンアウト企業Walden Roboticsが、3億ドルの資金調達と11億ドルの企業評価で市場に登場しました。同社は約10年間、研究から実世界応用への移行を目指してロボティクスの難題に取り組んできており、初期の誇大広告から脱却した現在のロボティクス産業において、実用性と価値の追求が重視される傾向が強まっています。",
+      "insights": [
+        "ロボティクス産業の成熟期への転換：初期段階の誇大広告から離れ、実用性と商用価値に基づく現実的な目標設定が業界全体で求められている",
+        "大手自動車メーカーの研究機関からのスピンアウト戦略：トヨタのような大企業の基礎研究部門が、実装段階の企業化を通じて技術の商用化を加速させている",
+        "ヒューマノイドロボット企業の起業における新たなハードル上昇：数年前と異なり、今日のヒューマノイドロボット企業設立には実用的な応用シナリオと市場適合性の証明がより厳格に求められている"
+      ]
+    }
+  },
+  {
+    "title": "Trump’s AI protectionism has come for robotics",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "published": "Mon, 03 Aug 2026 18:43:30 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "MIT Tech Review",
+    "flag": "US",
+    "detected_at": "2026-08-03 22:05:17",
+    "ai_summary": {
+      "title_ja": "トランプのAI保護主義がロボティクス産業に波及",
+      "summary": "本記事は、トランプ政権のAI保護主義政策がロボティクス産業に影響を与えている現状を報告している。ヒューマノイドロボットは現在、まだ発展途上段階であり、基本的なタスク遂行能力に課題がある。保護主義的な政策が、この急速に成長するロボティクス産業の国際競争とイノベーション速度に影響を及ぼしている。",
+      "insights": [
+        "ヒューマノイドロボット産業はまだ初期段階にあり、実用性の面で大きな課題が存在している",
+        "トランプ政権のAI・ロボティクスに対する保護主義的政策が、国際的なサプライチェーンとR&D協力に悪影響を及ぼす可能性がある",
+        "国家レベルの規制やタリフ政策が、ロボティクス分野における技術進歩と商用化のペースを鈍化させるリスクがある"
+      ]
+    }
+  },
+  {
     "title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
     "link": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
     "published": "Mon, 03 Aug 2026 07:00:51 +0000",
