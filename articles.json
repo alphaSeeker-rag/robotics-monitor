@@ -1,5 +1,68 @@
 [
   {
+    "title": "Humanoids won’t scale on factory floors until costs drop",
+    "link": "https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop/",
+    "published": "Tue, 04 Aug 2026 15:15:10 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-04 22:08:07",
+    "ai_summary": {
+      "title_ja": "ヒューマノイドロボットが工場で普及するには、コストの低下が不可欠",
+      "summary": "ヒューマノイドロボットの商用化競争が加速している。しかし、既存の自動化システムよりも経済的優位性を証明できるかが重要な課題である。コスト削減が実現するまで、工場床での大規模導入は難しい見通しである。",
+      "insights": [
+        "ヒューマノイドロボットの商用化実現には、技術開発だけでなく既存自動化システムとの経済性競争への勝利が必須条件",
+        "現在の自動化製造業者が提供するソリューションが既に確立された基準となっており、新規参入企業はこれを超える価値提案が求められる",
+        "大規模な工場導入には単体のロボット性能ではなく、総所有コスト(TCO)の大幅な削減が市場普及の鍵となる"
+      ]
+    }
+  },
+  {
+    "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+    "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+    "published": "Tue, 04 Aug 2026 11:00:01 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-08-04 22:08:11",
+    "ai_summary": {
+      "title_ja": "米国の外国製ロボット禁止令に対するロボット関連企業の見方",
+      "summary": "米国FCC は2021年に発表した「適用対象リスト」に、2kg以上の通信機能付きロボットと太陽光パネル用パワーインバーターを追加し、外国製品の輸入を禁止した。この措置は国防総省主導で中国技術への米国の露出を制限するものだが、同盟国のロボット産業にも大きな影響をもたらす可能性がある。米国政府は外国製ロボットが国家安全保障上の許容できないリスクを構成すると主張している。",
+      "insights": [
+        "地政学的規制：米国の安全保障戦略が技術輸入規制へシフトしており、中国以外の同盟国のロボット企業も直接的な商業影響を受ける",
+        "産業サプライチェーン再構築：ロボット企業は米国市場向けに現地製造拠点の構築やサプライチェーン最適化を迫られる可能性",
+        "定義の曖昧性：「通信機能付きロボット」の定義が不明確なため、多くのロボット製品が対象規制の対象となるリスクがあり、業界の明確化要求が予想される"
+      ]
+    }
+  },
+  {
+    "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+    "link": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
+    "published": "2026-08-04T16:00:00Z",
+    "keywords": [
+      "VLA",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "NVIDIA Developer",
+    "flag": "Lab",
+    "detected_at": "2026-08-04 22:08:29",
+    "ai_summary": {
+      "title_ja": "VLAを超えて：ワールドアクションモデルがロボット操作をいかに再構築するか",
+      "summary": "ロボティクスの中心課題は、訓練データを超えて汎化する政策の構築である。従来のVLA（Vision Language Action）モデルの制限を克服するため、ワールドアクションモデルは環境の物理的ダイナミクスを明示的にモデル化することで、より柔軟で汎化性の高いロボット操作を実現する。このアプローチにより、少数の実演から多様なシーンへの適応が可能になる。",
+      "insights": [
+        "ワールドモデルと行動政策の統合により、VLAの視覚言語理解の制限を超えた物理的推論が可能になり、未見のシーンでの汎化性が向上する",
+        "環境ダイナミクスの明示的モデル化は、サンプル効率を高め、少数デモンストレーションからの学習効率が改善され、現実世界への適用がより現実的になる",
+        "ワールドアクションモデルのアプローチは、複数のロボット形態や環境条件への転移学習を容易にし、ロボット製造業における汎用性の高いシステム構築の道を開く"
+      ]
+    }
+  },
+  {
     "title": "The Download: US robot restrictions, and ICE’s DNA grab",
     "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "published": "Tue, 04 Aug 2026 12:14:00 +0000",
