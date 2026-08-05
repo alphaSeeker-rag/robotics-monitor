@@ -1,5 +1,45 @@
 [
   {
+    "title": "University of Florida opens new robotics lab dedicated to industrialized construction",
+    "link": "https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction/",
+    "published": "Wed, 05 Aug 2026 17:41:55 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-05 22:09:01",
+    "ai_summary": {
+      "title_ja": "フロリダ大学が産業化建設向けロボティクス研究所を開設",
+      "summary": "フロリダ大学はAutodeskの支援を受けて、産業化建設専門のロボティクス研究所を開設しました。この施設は、住宅不足と労働力不足という社会課題への対応を目指しています。建設業界におけるロボティクス技術の実用化を加速させるものです。",
+      "insights": [
+        "建設業界の労働力不足という構造的課題に対して、ロボティクスとAIを活用した産業化建設が有力な解決策として認識されている",
+        "大手テック企業（Autodesk）と大学の産学協携により、ロボティクス技術の研究開発から実装までのエコシステムが構築されつつある",
+        "産業化建設・オフサイト建設モデルの推進により、建設プロセスの効率化、コスト削減、工期短縮が期待される"
+      ]
+    }
+  },
+  {
+    "title": "Moove raises $250M to build infrastructure for autonomous vehicles",
+    "link": "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles/",
+    "published": "Wed, 05 Aug 2026 16:53:38 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-05 22:09:04",
+    "ai_summary": {
+      "title_ja": "Mooveが自動運転車向けインフラ構築に2億5,000万ドルを調達",
+      "summary": "Mooveが2億5,000万ドルの資金調達を実施し、自動運転車両フリート所有事業の拡大とロボティクス優先型デポインフラ「Nests」の構築を推進する。この投資により、自動運転社会の実現に向けた物流・運用インフラの整備が加速する。",
+      "insights": [
+        "自動運転車の商用化には車両購入だけでなく、専門的な運用インフラ（充電・メンテナンス施設）の構築が重要な事業機会になっている",
+        "「Nests」というロボティクス優先型施設コンセプトは、自動運転フリート管理の効率化と完全自動化を目指す業界トレンドを反映している",
+        "大規模資金調達は自動運転フリート運用サービスが成熟段階に移行し、スケーラビリティへの投資が加速していることを示唆している"
+      ]
+    }
+  },
+  {
     "title": "에프알티로보틱스, 스페인·사우디·멕시코 독점 총판 계약 체결",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=47779",
     "published": "2026-08-05 13:41:23",
