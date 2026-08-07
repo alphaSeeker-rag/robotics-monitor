@@ -1,5 +1,49 @@
 [
   {
+    "title": "Avatar Robotics raises seed round to address industrial labor constraints",
+    "link": "https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/",
+    "published": "Fri, 07 Aug 2026 19:57:22 +0000",
+    "keywords": [
+      "Teleoperation",
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-07 21:34:52",
+    "ai_summary": {
+      "title_ja": "Avatar Robotics、産業労働力不足への対策でシードラウンド調達",
+      "summary": "Avatar Roboticsは650万ドルの資金調達を実施し、ヒューマノイドロボットと遠隔操作技術の産業サプライチェーン展開をスケーリングする。労働力不足が深刻な製造・流通業界での自動化ソリューションを拡大する計画である。",
+      "insights": [
+        "遠隔操作(テレオペレーション)型ロボットが、AIによる自動化が困難な複雑作業向けの有力なソリューションとして産業界で注目されている",
+        "供給チェーン全体での労働力制約が、ヒューマノイドロボット導入の重要な市場ドライバーになっている",
+        "シードステージでの650万ドル調達は、ロボティクス企業の資金調達が活発化し、産業用ロボティクスへの投資家関心が高まっていることを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
+    "link": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
+    "published": "Fri, 07 Aug 2026 16:00:01 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "actuator"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-08-07 21:34:56",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：DARPAリフトチャレンジで重量級ドローンが活躍",
+      "summary": "IEEE Spectrumが厳選した週間ロボティクスビデオ特集で、DARPAリフトチャレンジの様子が紹介されている。本週末を通じて開催されるこのチャレンジでは、従来にない奇抜で革新的な大型揚重ドローン設計が多数出展されている。DARPAは全イベントのライブストリーム映像を公開しており、関心のある者は独創的なドローン技術を確認できる。",
+      "insights": [
+        "DARPAリフトチャレンジは重量級ドローン技術の実証・開発プラットフォームとして機能し、従来の制約を超えた革新的設計が次々と生まれている",
+        "公開ライブストリーム配信により、ドローン業界の最先端技術が透明性高く社会に共有される傾向が強まっており、産業全体のイノベーション加速に寄与している",
+        "多様で奇抜な揚重ドローン設計の登場は、物流・建設・防衛分野での実用化を視野に、ドローン技術が急速に多機能化・高性能化していることを示唆している"
+      ]
+    }
+  },
+  {
     "title": "“피지컬 AI 핵심은 '촉각 지능'”…한국햅틱스학술대회, 10일 건국대서 개막",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=47818",
     "published": "2026-08-07 16:32:48",
