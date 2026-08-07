@@ -1,5 +1,38 @@
 [
   {
+    "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
+    "link": "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/",
+    "published": "Thu, 06 Aug 2026 20:19:29 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-07 01:00:03",
+    "ai_summary": {
+      "title_ja": "HII、Path RoboticsおよびGrayMatter Roboticsと最大9億ドルの契約を締結",
+      "summary": "Huntington Ingalls Industries (HII)は、Path RoboticsおよびGrayMatter Roboticsとの間で最大9億ドルの契約を締結しました。この契約はHIIの「HYPERプログラム」を拡張するもので、両社は2024年初頭にこのプログラムに参加しています。",
+      "insights": [
+        "防衛・宇宙産業大手のHIIが産業用ロボティクス企業への大型投資を実施しており、防衛製造業界でのロボット自動化需要の高まりを示唆している",
+        "Path RoboticsとGrayMatter Roboticsのような企業がHYPERプログラムに参加することで、大型契約獲得が可能となり、ロボティクス企業の事業拡大機会が増加している",
+        "複数のロボティクス企業との協業モデル(プラットフォーム化)が、防衛産業での採用が進み、エコシステム構築が加速している可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "あえて歩かせない――準国産ヒューマノイド「D1」登場、現場稼働で日本の勝ち筋へ",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news039.html",
+    "published": "Fri, 07 Aug 2026 06:45:00 +0900",
+    "keywords": [
+      "ヒューマノイド",
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-08-07 01:00:15",
+    "ai_summary": null
+  },
+  {
     "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
     "link": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
     "published": "Thu, 06 Aug 2026 13:00:00 +0000",
