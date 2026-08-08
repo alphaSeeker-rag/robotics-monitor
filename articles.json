@@ -1,5 +1,25 @@
 [
   {
+    "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
+    "link": "https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/",
+    "published": "Sat, 08 Aug 2026 12:30:52 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-08 13:04:12",
+    "ai_summary": {
+      "title_ja": "RoboBusinessで業界専門家がロボティクスの次の20年を展望",
+      "summary": "RoboBusiness会議では、ロボティクス業界のリーダーたちが今後20年間のロボット技術、ビジネス機会、および課題について探討する。本会議は、急速に進化するロボット産業の将来方向性を示唆する重要なフォーラムとなる。",
+      "insights": [
+        "ロボティクス産業は次の20年で革新的な技術進展が予想され、業界リーダーによる戦略的な方向性の共有が重要",
+        "商業化機会と技術的課題の両面が業界の成長を左右する主要要因として認識されている",
+        "業界専門家による知見共有は、ロボット技術の実装と市場展開における意思決定に直結する価値を持つ"
+      ]
+    }
+  },
+  {
     "title": "Avatar Robotics raises seed round to address industrial labor constraints",
     "link": "https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/",
     "published": "Fri, 07 Aug 2026 19:57:22 +0000",
