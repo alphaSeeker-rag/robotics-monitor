@@ -1,5 +1,46 @@
 [
   {
+    "title": "Q2 2026 robotics demand increased across industries, reports A3",
+    "link": "https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/",
+    "published": "Wed, 12 Aug 2026 14:18:56 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-12 21:40:41",
+    "ai_summary": {
+      "title_ja": "2026年Q2 ロボティクス需要が複数産業で増加、A3が報告",
+      "summary": "A3の報告によると、2026年第2四半期のロボティクス受注は食品、電子機器、ヘルスケア産業での堅調な需要により、自動車製造業の軟調な需要を相殺した。産業別の需要がロボティクス市場の成長を牽引する多元化の傾向が見られる。",
+      "insights": [
+        "自動車産業への依存度低下：従来のロボティクス主要顧客である自動車製造業の需要減少が、他産業への多角化を加速させている",
+        "新興産業での成長機会：食品加工、電子機器製造、ヘルスケア分野でのロボット導入が拡大し、産業ロボット市場の成長源泉が多様化",
+        "市場の耐性強化：単一産業への依存から複数産業への需要分散により、ロボティクス市場全体の景気変動への耐性が向上している可能性"
+      ]
+    }
+  },
+  {
+    "title": "Celona launches Orion agentic wireless platform built for physical AI and robotics",
+    "link": "https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/",
+    "published": "Wed, 12 Aug 2026 12:00:08 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-12 21:40:45",
+    "ai_summary": {
+      "title_ja": "Celona、フィジカルAIとロボティクス向けに構築された「Orion」エージェンティック無線プラットフォームを発表",
+      "summary": "Cellonaは、プライベート5G、Wi-Fi、セルラー、衛星通信を統合した「Celona Orion」プラットフォームを発表した。このプラットフォームはフィジカルAIおよびロボティクス向けに最適化された統合ネットワークソリューションである。",
+      "insights": [
+        "フィジカルAIとロボティクスの実装には、複数の無線技術を統合した専用プラットフォームが必要という市場ニーズの顕在化",
+        "プライベート5G、Wi-Fi、セルラー、衛星通信の統合により、産業用ロボットの稼働環境における通信の信頼性・柔軟性が大幅に向上",
+        "エージェンティック(自律動作型)プラットフォームの登場により、ロボティクス産業におけるネットワークインフラのレイヤーでも自律化・高度化が加速する可能性"
+      ]
+    }
+  },
+  {
     "title": "Uberがロボット企業Serve Roboticsの全株式を売却",
     "link": "https://gigazine.net/news/20260812-uber-serve-robotics-selling-entire-stake/",
     "published": "Wed, 12 Aug 2026 11:07:00 +0900",
