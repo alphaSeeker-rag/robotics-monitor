@@ -1,5 +1,26 @@
 [
   {
+    "title": "Mobile manipulators and humanoids: The future of robotics",
+    "link": "https://www.therobotreport.com/mobile-manipulators-and-humanoids/",
+    "published": "Thu, 13 Aug 2026 15:06:47 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-13 21:40:13",
+    "ai_summary": {
+      "title_ja": "モバイルマニピュレータとヒューマノイド：ロボティクスの未来",
+      "summary": "本記事は、ヒューマノイドロボットの現状について、主要なロボティクス開発企業の概要と業界専門家へのインタビューを通じて解説しています。モバイルマニピュレータとヒューマノイドが今後のロボティクス産業の中核技術となることを示唆しており、これらの技術がもたらす産業への影響と発展可能性について考察しています。",
+      "insights": [
+        "ヒューマノイドロボットとモバイルマニピュレータが産業用ロボティクスの重要な進化方向として注目されている",
+        "複数の主要ロボティクス開発企業による競争が激化しており、業界の急速な技術進展が予想される",
+        "業界専門家のインタビュー知見を通じ、実装段階における課題と将来のビジョンが提示されている"
+      ]
+    }
+  },
+  {
     "title": "Experts to discuss the state of humanoid robots at RoboBusiness",
     "link": "https://www.therobotreport.com/experts-discuss-state-humanoid-robots-robobusiness-2026/",
     "published": "Thu, 13 Aug 2026 12:30:25 +0000",
