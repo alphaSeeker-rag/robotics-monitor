@@ -1,5 +1,26 @@
 [
   {
+    "title": "Video Friday: Lift Happens",
+    "link": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
+    "published": "Fri, 14 Aug 2026 17:00:01 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-08-14 21:20:40",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：リフトが起こる",
+      "summary": "IEEE Spectrumロボティクス部門による週間ロボティクスビデオ選集。DARPA Lift Challengeの最終段階のビデオ再編集や、ドローン配送技術、小型ロボットSTEMbotなど、最新のロボティクス開発事例を紹介している。2026年のACTUATE、IROS、Humanoids Summitなど主要なロボティクスイベントの開催予定も掲載。",
+      "insights": [
+        "DARPA Lift Challengeなどの競争的R&Dプログラムが、実践的なロボティクス技術開発の重要な推進力となっている",
+        "ドローン配送システムが移動体への配送や窓からの配送など、実用化段階に進行しており、ラストマイル物流の革新が加速している",
+        "マイクロロボット（STEMbot）から大型リフトロボットまで、多層的なスケールでのロボット開発が並行して進行中である"
+      ]
+    }
+  },
+  {
     "title": "Robots on Wall Street: Non-traditional paths to public markets for robotics companies",
     "link": "https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/",
     "published": "Fri, 14 Aug 2026 12:30:40 +0000",
