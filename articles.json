@@ -1,5 +1,25 @@
 [
   {
+    "title": "Why robots that can’t communicate naturally won’t be adopted",
+    "link": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
+    "published": "Sat, 15 Aug 2026 12:20:18 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-15 12:51:48",
+    "ai_summary": {
+      "title_ja": "自然なコミュニケーションができないロボットは採用されない理由",
+      "summary": "Treble Technologies共同創業者兼COOのGunnar Pétur Hauksson氏は、ロボティクス開発者が聴覚機能の重要性を見落としてはならないと指摘している。ロボットが人間と自然にコミュニケーションできない場合、市場での採用が進まないという課題が浮き彫りになっている。",
+      "insights": [
+        "ロボット採用の障壁：自然言語インタラクション機能（特に聴覚・音声認識）がロボットの実用化・市場導入の重要な要因となっている",
+        "感覚センサー統合の必要性：視覚だけでなく聴覚を含めたマルチモーダル感覚インテグレーションが、人間中心設計のロボット開発で必須要件",
+        "UX/採用戦略：ロボットメーカーは技術仕様だけでなく、エンドユーザーとの自然なインタラクション体験を優先する開発パラダイムシフトが必要"
+      ]
+    }
+  },
+  {
     "title": "Video Friday: Lift Happens",
     "link": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
     "published": "Fri, 14 Aug 2026 17:00:01 +0000",
