@@ -1,5 +1,45 @@
 [
   {
+    "title": "How robotics is revolutionizing stroke rehabilitation",
+    "link": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/",
+    "published": "Sun, 16 Aug 2026 12:30:18 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-16 12:53:28",
+    "ai_summary": {
+      "title_ja": "ロボティクスが脳卒中リハビリテーションに革命をもたらす方法",
+      "summary": "Bioxtreme CEO のアイアル・サミュエル・シャハーは、ロボティクス、AI、人間中心のケアの相乗効果が患者の治療成績を改善すると述べています。この統合的アプローチにより、脳卒中後のリハビリテーションにおいて新たな可能性が開かれています。",
+      "insights": [
+        "ロボティクスとAIの組み合わせにより、脳卒中患者のリハビリテーション精度と効率が向上する可能性がある",
+        "人間中心のケアをロボット技術と統合することで、患者体験と治療成績の両面での改善が期待される",
+        "医療用ロボティクス分野での産業成長と、医療アウトカム向上のビジネスケースが形成されている"
+      ]
+    }
+  },
+  {
+    "title": "제4회 한국햅틱스학술대회 성황리 개최…산·학·연 200명 ‘한 자리에’",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=47936",
+    "published": "2026-08-16 17:19:07",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-08-16 12:53:38",
+    "ai_summary": {
+      "title_ja": "第4回韓国ハプティクス学術大会が盛況開催…産学研200名が一堂に",
+      "summary": "ロボティクスとフィジカルAIの核心技術である「触覚知能」の最新研究成果を共有する第4回韓国ハプティクス学術大会が8月10日～14日に開催され、産業界・学界・研究機関から約200名が参加した。建国大学で開催されたこの学術大会は「知性に触れる、フィジカルAIを実現する」をテーマに5日間にわたり実施された。",
+      "insights": [
+        "触覚知能（ハプティクス）がフィジカルAIの実現における中核技術として業界内で認識が深まっている",
+        "韓国における産学研の連携強化とハプティクス分野への組織的な取り組み推進が進行中",
+        "アジア主要国（韓国）が触覚フィードバック技術の研究開発ハブとしての地位を確立しつつある"
+      ]
+    }
+  },
+  {
     "title": "Why robots that can’t communicate naturally won’t be adopted",
     "link": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
     "published": "Sat, 15 Aug 2026 12:20:18 +0000",
