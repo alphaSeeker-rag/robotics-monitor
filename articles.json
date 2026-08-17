@@ -1,5 +1,67 @@
 [
   {
+    "title": "How Generalist uses human demonstration data for robot learning",
+    "link": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
+    "published": "Mon, 17 Aug 2026 19:32:31 +0000",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-17 21:21:16",
+    "ai_summary": {
+      "title_ja": "ジェネラリストが人間のデモンストレーションデータをロボット学習に活用する方法",
+      "summary": "ユニバーサル・マニピュレーション・インターフェース(UMI)の研究により、ジェネラリスト、ウォルデン・ロボティクスなどの企業が人間のデモンストレーションデータをロボットの行動パターンに変換することが可能になった。この技術は、ロボットが人間の操作データから学習し、多様なタスクを実行できるようにすることで、ロボット学習の民主化を推し進めている。",
+      "insights": [
+        "人間のデモンストレーションデータを活用することで、ロボットが複雑な操作タスクを効率的に習得できる学習手法が確立されつつある",
+        "ユニバーサル・マニピュレーション・インターフェースは、異なるロボットプラットフォーム間でのスキル転移を可能にする標準化された方法論として機能している",
+        "この技術は、ロボット開発企業が教示プログラミングの手間を削減し、より汎用的で適応性の高いロボットシステムの開発を加速させる産業的価値を持つ"
+      ]
+    }
+  },
+  {
+    "title": "Gravis Robotics raises $200M for autonomous construction",
+    "link": "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/",
+    "published": "Mon, 17 Aug 2026 13:00:16 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-17 21:21:20",
+    "ai_summary": {
+      "title_ja": "Gravis Robotics、自律型建設機械向けに2億ドルを調達",
+      "summary": "Gravis Roboticsは、様々な油圧ショベルおよび建設機械向けの自律運転AI とハードウェアを開発しました。同社は、設計した自律化技術により2億ドルの資金調達に成功しており、グローバル展開を計画しています。この投資は、建設業界におけるロボティクス・フィジカルAI領域の急速な成長を示しています。",
+      "insights": [
+        "建設機械の自律化は、労働力不足や安全性向上に対応する重要なソリューションとして機関投資家の注目を集めている",
+        "既存の汎用建設機械にAI・自律システムを後付けするアプローチは、新規開発より市場投入が迅速でスケーラビリティが高い",
+        "大規模な資金調達（$200M）は、自律建設機械が成熟段階へ移行し、商用化・グローバル展開の段階に入ったことを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+    "link": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+    "published": "Mon, 17 Aug 2026 15:33:42 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-08-17 21:21:24",
+    "ai_summary": {
+      "title_ja": "造船所の溶接作業は、ヒューマノイドロボットの最初の仕事として適切か？",
+      "summary": "Persona AIは、YouTubeでの実演ばかりではなく実際の経済的価値を生み出すことに焦点を当てたヒューマノイド企業であり、溶接という産業用ロボットの初期段階で採用された作業を選択することで、経済的に実行可能なロボットの開発を目指している。NASA JSCのValkyrie開発者であるNic RadfordとIHMCのDARPA Robotics Challenge責任者であったJerry Prattが創業し、実用化に向けた具体的なアプローチを展開している。",
+      "insights": [
+        "ヒューマノイドロボットの産業化に向けては、PR効果を狙ったデモンストレーションではなく、現在の技術で経済的に成立する具体的な職務選定が重要である",
+        "溶接という職務選択は、既に工業用ロボットで実績のある作業分野であり、技術的実現可能性と市場ニーズのバランスが取れている",
+        "DARPA等の先端ロボティクス研究に携わった優秀な人材が民間企業で実用化に注力する動きが、ロボティクス産業の成熟段階への移行を示唆している"
+      ]
+    }
+  },
+  {
     "title": "人型ロボが“人間超え”――助走なしで高さ2mのジャンプ、時速45kmで走行も　中国Unitreeが開発中の新モデルを公開",
     "link": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000567/",
     "published": "Mon, 17 Aug 2026 16:58:35 +0900",
