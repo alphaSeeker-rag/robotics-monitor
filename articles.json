@@ -1,5 +1,66 @@
 [
   {
+    "title": "FORT Robotics to take safety stack public via SPAC merger",
+    "link": "https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/",
+    "published": "Tue, 18 Aug 2026 15:24:13 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-18 21:19:20",
+    "ai_summary": {
+      "title_ja": "FORT Robotics、SPAC合併により安全性スタックを上場公開へ",
+      "summary": "ロボティクス企業のFORT Roboticsが、SPAC合併によるNasdaq上場を発表し、評価額は5億ドルを超える見通し。上場により安全性ソフトウェア開発の加速を計画している。",
+      "insights": [
+        "ロボティクス産業における安全性ソフトウェア（Safety Stack）の重要性が高まり、単独の事業価値で5億ドル超の評価を獲得する市場環境が成熟している",
+        "SPAC合併による上場は、ロボティクス・フィジカルAI企業の資金調達手段として活用が進み、開発体制の急速な拡大を可能にしている",
+        "産業用ロボット・自律システムの普及に伴い、安全規格対応と信頼性検証が競争力の核となる戦略的ポジションであることを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+    "link": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
+    "published": "Tue, 18 Aug 2026 12:49:41 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-18 21:19:23",
+    "ai_summary": {
+      "title_ja": "ユニケムがルーミアを買収、ヒューマノイド『スキン』市場への参入を加速",
+      "summary": "自動車部品サプライヤーのユニケムがルーミアを買収し、触覚センサー技術の開発を加速させている。ユニケムとR&Yはルーミアと協力して、自動車とロボティクス用途向けの触覚センサーを開発している。この買収はヒューマノイドロボット向けの『人工皮膚』市場への本格的な参入を目指すものである。",
+      "insights": [
+        "自動車サプライヤーがロボティクス市場への拡大を図っており、既存の部品供給チェーン能力を新領域に活用する戦略が進行中",
+        "触覚センサー技術は自動車の自動運転システムとヒューマノイドロボットの両領域での需要が高まっており、技術の汎用化により市場規模の拡大が期待される",
+        "ヒューマノイド『スキン』市場は次世代ロボティクスの重要な要素技術であり、実装化に向けた垂直統合(買収による技術獲得)が加速している"
+      ]
+    }
+  },
+  {
+    "title": "Drones With Claws Perch on Arctic Icebergs",
+    "link": "https://spectrum.ieee.org/arctic-iceberg-drones",
+    "published": "Tue, 18 Aug 2026 13:00:01 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-08-18 21:19:29",
+    "ai_summary": {
+      "title_ja": "爪付きドローンが北極圏の氷山に着陸",
+      "summary": "カナダのロボティクス研究者が、マイクロスパイン（微小な棘）を装備した「Ice Dart」ドローンを開発し、氷山や氷河などの急勾配で滑りやすい表面への着陸・固定を実現した。このドローンは約60度の急斜面に対応でき、特別な装備なしで人間が到達困難な環境での活動を可能にする。衝撃吸収機構とマイクロスパイン技術の組み合わせにより、北極圏での活動増加に対応する新たな能力を獲得している。",
+      "insights": [
+        "マイクロスパイン技術の応用拡大：壁・天井から極限環境（氷山・氷河）への着陸面の拡張により、ロボット設計の新たな可能性が開拓されている",
+        "北極圏での自動化・遠隔操作需要の増加：気候変動と資源開発によるAI/ロボティクス需要の増加に対応する専用プラットフォームの開発",
+        "フィジカルAIの実装：衝撃吸収+マイクロスパイン+着陸制御の統合システムにより、人間では不可能な過酷環境での自律操作が実現"
+      ]
+    }
+  },
+  {
     "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
     "link": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/",
     "published": "Mon, 17 Aug 2026 21:15:46 +0000",
