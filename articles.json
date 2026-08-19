@@ -1,5 +1,107 @@
 [
   {
+    "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
+    "link": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/",
+    "published": "Wed, 19 Aug 2026 20:15:47 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-19 21:21:01",
+    "ai_summary": {
+      "title_ja": "Kollmorgen、RoboBusiness でヒューマノイドロボットの関節ごとのガイダンスを提示",
+      "summary": "Kollmorgen は RoboBusiness カンファレンスにおいて、ヒューマノイドロボットの各身体部位における独特な動作要件と、生産スケーリングの課題について解説するセッションを開催する。本講演では関節ごとのアプローチから、実用的なロボット開発における技術的課題を網羅的に紹介する予定である。",
+      "insights": [
+        "ヒューマノイドロボット開発において、身体各部位（頭部、胴体、腕、脚など）の関節は異なる動作要件を持つため、汎用的ではなく部位特化した設計・最適化が必要とされている",
+        "生産スケーリングは単なる製造量の増加ではなく、各関節の信頼性、耐久性、コスト効率を同時に実現する課題であり、産業化への重要なボトルネックとなっている",
+        "アクチュエーション技術やモーション制御の専門企業による具体的なベストプラクティス共有は、ヒューマノイドロボット産業の標準化・実用化を加速させる重要な知見源となる"
+      ]
+    }
+  },
+  {
+    "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
+    "link": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/",
+    "published": "Wed, 19 Aug 2026 18:01:43 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-19 21:21:05",
+    "ai_summary": {
+      "title_ja": "ユニツリー・ロボティクスのIPOがヒューマノイド産業に意味するもの",
+      "summary": "ユニツリー・ロボティクスがIPO(新規公開株)を実現したことで、ヒューマノイド・ロボティクス産業における重要な転機が訪れた。本IPO成功により、他のヒューマノイド・ロボティクス企業も同様の資金調達パスを追求する可能性が高まっている。この動きは、ロボティクス産業の商用化と市場成熟度が加速していることを示唆している。",
+      "insights": [
+        "ユニツリーのIPO成功は、ヒューマノイド・ロボティクス企業の市場評価が上昇し、投資家の関心が高まっていることを示唆している",
+        "IPOを通じた資金調達の実例が創出されることで、他の有望なロボティクス企業の公開市場へのアクセスが容易になる可能性がある",
+        "ヒューマノイド・ロボティクス産業全体の成熟化と商用化が急速に進展していることを示す象徴的なマイルストーンとなっている"
+      ]
+    }
+  },
+  {
+    "title": "Serve Robotics to deploy its autonomous delivery robots with Grubhub",
+    "link": "https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/",
+    "published": "Wed, 19 Aug 2026 13:55:30 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-19 21:21:09",
+    "ai_summary": {
+      "title_ja": "Serve Roboticsが自律配送ロボットをGrubhubと共同展開",
+      "summary": "Serve Roboticsは食品配送プラットフォームのGrubhubと提携し、自律配送ロボットの運用を開始します。シカゴの100以上、ロサンゼルスのほぼ200の加盟店でロボット配送サービスが利用可能になります。この展開は、大規模なオンデマンド配送市場におけるロボティクスの実用化を示す重要な事例となります。",
+      "insights": [
+        "主要な食品配送プラットフォームとの提携により、Serve Roboticsの自律配送ロボットが大規模商用展開の段階に進入。B2Bビジネスモデルの確立が進展",
+        "複数都市での同時展開（シカゴ・ロサンゼルス）は、ラストマイル配送ロボットの都市スケール化と運用ノウハウの蓄積を示唆",
+        "既存の食品配送エコシステムへのロボティクス統合は、配送業界の自動化と労働力課題への実践的なソリューション提供を意味する"
+      ]
+    }
+  },
+  {
+    "title": "Pudu Robotics launches new MP2000 autonomous forklift",
+    "link": "https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/",
+    "published": "Wed, 19 Aug 2026 13:07:06 +0000",
+    "keywords": [
+      "robotics",
+      "autonomous robot"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-19 21:21:13",
+    "ai_summary": {
+      "title_ja": "Pudu Roboticsが新型MP2000自律フォークリフトを発表",
+      "summary": "Pudu Roboticsは、2,000kgの荷物を複雑な倉庫環境で輸送できるAIネイティブの自律ロボット「MP2000」を発表しました。同製品は、物流・倉庫業界の自動化ニーズに対応する次世代ソリューションを提供します。",
+      "insights": [
+        "AIネイティブ設計により、複雑な倉庫環境での適応的な経路計画と意思決定が可能になり、従来の自動化ロボットより柔軟性が向上",
+        "2,000kg積載能力は中量級物流タスクをカバーでき、中型倉庫やフルフィルメントセンターでの導入可能性を広げる",
+        "Pudu Roboticsのような中国ロボティクス企業による自律フォークリフト開発は、物流自動化市場における地政学的な競争軸を形成"
+      ]
+    }
+  },
+  {
+    "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
+    "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
+    "published": "2026-08-19T16:00:00Z",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "NVIDIA Developer",
+    "flag": "Lab",
+    "detected_at": "2026-08-19 21:21:30",
+    "ai_summary": {
+      "title_ja": "オンデバイスロボット制御のためのNVIDIA Cosmos 3 Edgeの学習後調整",
+      "summary": "ロボットは搭載されているコンピュータハードウェア上で動作しながら、センサー、環境、タスクに適応可能なポリシーが必要とされています。ワールドモデルはこのような適応的なロボット制御の基盤となり、NVIDIA Cosmos 3 Edgeはエッジデバイス上でのオンデバイス推論に最適化されたソリューションを提供します。",
+      "insights": [
+        "ワールドモデルを活用することで、ロボットが複数のセンサー入力と環境変動に対してリアルタイムで適応する推論能力が実現可能になる",
+        "エッジAI化により、クラウド依存を排除してレイテンシを削減し、ロボットの自律性と応答速度が大幅に向上する",
+        "学習後調整(Post-Train)アプローチにより、限定的なオンデバイスリソースでも高度なロボット制御ポリシーの実装が可能になる産業応用が拡大する"
+      ]
+    }
+  },
+  {
     "title": "フィジカルAIとヒューマノイドの可能性、PFNの見立てとトヨタのアプローチ",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2608/19/news019.html",
     "published": "Wed, 19 Aug 2026 07:00:00 +0900",
