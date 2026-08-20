@@ -1,5 +1,654 @@
 [
   {
+    "title": "日本精工が「国産人型ロボ」開発を後押し　スタートアップのアトムと協力、アクチュエータの検証など",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000655/",
+    "published": "Thu, 20 Aug 2026 16:47:56 +0900",
+    "keywords": [
+      "アクチュエータ"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-08-20 13:03:25",
+    "ai_summary": null
+  },
+  {
+    "title": "리얼월드, AWS '피지컬 AI 프론티어 프로그램' 1기 선정",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48015",
+    "published": "2026-08-20 13:34:27",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-08-20 13:03:28",
+    "ai_summary": {
+      "title_ja": "リアルワールド、AWS『フィジカルAIフロンティアプログラム』第1期に選定",
+      "summary": "フィジカルAI企業のリアルワールドが、AWSが韓国で初めて展開する『AWS Korea Physical AI Frontier Program』の第1期参加企業として選定された。同社は本プログラムを通じ、独自開発のロボティクスファンデーションモデル『RLDX-1』の学習効率と拡張性を向上させる予定である。AWS基盤での大規模ロボットデータ処理とRFM学習が実現される。",
+      "insights": [
+        "AWSがアジア太平洋地域でフィジカルAI育成プログラムを本格化させており、ロボティクス産業の競争激化が加速している",
+        "ロボティクスファンデーションモデル(RFM)が次世代ロボット開発の鍵となっており、大規模データとクラウド基盤が必須要件となっている",
+        "韓国企業がフィジカルAI分野で先進企業として認識され、グローバルクラウドプロバイダーから直接支援を受ける状況にあり、日本企業との競争構図が形成されている"
+      ]
+    }
+  },
+  {
+    "title": "After 4 Months of Auto-Factory Training, Xiaomi Shows Its New-Generation Humanoid Robot",
+    "link": "https://pandaily.com/xiaomi-new-humanoid-robot-after-auto-factory-training-wrc-2026-aug2026",
+    "published": "Thu, 20 Aug 2026 08:59:39 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-08-20 13:03:33",
+    "ai_summary": {
+      "title_ja": "4ヶ月間の自動車工場実訓練を経たシャオミの新世代ヒューマノイドロボットが披露される",
+      "summary": "シャオミが2026年世界ロボット会議で、4ヶ月間の実自動車工場訓練を経た新世代ヒューマノイドロボット『CyberOne』(コードネーム:Tieda)を発表した。身長1.70メートル、体重66キログラム、66自由度を備えたこのロボットは、事前プログラムなしに、モデルベースの自律意思決定により花屋での対話を実行できる高度な自律性を実現している。",
+      "insights": [
+        "実環境訓練による実用化：4ヶ月間の実工場環境での学習により、ロボットの実装性と信頼性が大幅に向上し、実産業への適用可能性を示唆している",
+        "自律意思決定能力の進化：事前スクリプト不要での対話実行は、大規模言語モデル(LLM)と具体化AIの統合による真の自律判断能力の実現を示す",
+        "汎用ヒューマノイドロボットの商用化段階：66自由度の高い可動性と複雑なタスク実行能力により、サービス業など様々な産業分野への応用拡大が加速する可能性"
+      ]
+    }
+  },
+  {
+    "title": "The Hottest Embodied-AI Year Yet, Yet Robot Evolution Is Hard to See With the Naked Eye",
+    "link": "https://pandaily.com/wrc-2026-embodied-ai-robot-evolution-generalization-galaxy-unitree-aug2026",
+    "published": "Thu, 20 Aug 2026 08:59:38 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-08-20 13:03:37",
+    "ai_summary": {
+      "title_ja": "過去最高のエンボディドAI(実装型AI)の年、しかしロボット進化は肉眼では見難い",
+      "summary": "2026年の世界ロボット会議では、従来通りのロボット技術デモが展示されたが、実質的な変化は表面的には見えにくくなっている。2026年上半期のヒューマノイドロボット出荷台数は約22,000台と前年比約300%増加したが、実際のスマート製造と物流倉庫への導入は約5分の1に留まっており、企業は汎用性と模倣能力の開発競争に注力している。",
+      "insights": [
+        "ヒューマノイドロボット市場は急速な成長を遂行中だが、実運用における産業応用はまだ限定的であり、タスク汎用化が重要な課題となっている",
+        "ロボット展示会での華やかなデモと実際の産業導入のギャップが拡大しており、実用性と汎用学習能力が市場成熟度を左右する主要要因である",
+        "企業競争の焦点が従来の単機能タスク実行から、環境適応性と複数タスク学習能力(汎化と模倣)へシフトしており、AI統合型ロボットの開発が差別化要因になっている"
+      ]
+    }
+  },
+  {
+    "title": "Xiaomi Hits Its Tipping Point: AI Models, Self-Built Chips, and Robots Add a New Layer Beyond Phones",
+    "link": "https://pandaily.com/xiaomi-q2-2026-turning-point-mimo-models-xuanjie-chip-embodied-robots-aug2026",
+    "published": "Thu, 20 Aug 2026 02:01:10 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-08-20 13:03:43",
+    "ai_summary": {
+      "title_ja": "シャオミが転換点を迎える：AIモデル、自社製チップ、ロボットがスマートフォン事業を超えた新展開",
+      "summary": "シャオミは2026年第2四半期に収益1089.2億元、純利益を倍増させ経営を安定化させた。スマートフォンと自動車事業に加えて、独自開発のAIモデル「MiMo-V2.5」がOpenRouterランキングで首位、自社設計の「玄甲チップ」が量産検証に合格、新型人型ロボットが工場作業で98%の成功率を達成するなど、フロンティア事業が急速に進展している。",
+      "insights": [
+        "垂直統合戦略の深化：自社AIモデル、カスタムチップ、ロボットの開発により、ハードウェア・ソフトウェア・AIの統合的なエコシステム構築が進行中",
+        "ハードウェア産業への応用シフト：人型ロボットの工場導入で98%の成功率を達成しており、B2B領域での実用化が進み、エンタープライズロボティクス市場でのポジション確立を目指している",
+        "多角化による収益基盤の強化：スマートフォン依存からの脱却が加速し、AI・チップ・ロボットなどの新規事業が営利性の向上に貢献、市場競争での継続的な差別化要因となる可能性"
+      ]
+    }
+  },
+  {
+    "title": "Five Trends From WRC 2026: Robots Move From Tech Validation to Product Validation",
+    "link": "https://pandaily.com/wrc-2026-five-trends-robot-industry-product-validation-tactile-exoskeletons-joints-aug2026",
+    "published": "Thu, 20 Aug 2026 02:01:05 GMT",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-08-20 13:03:48",
+    "ai_summary": {
+      "title_ja": "WRC 2026から見える5つのトレンド：ロボットが技術検証から製品検証へ移行",
+      "summary": "2026年の世界ロボット会議では、ロボット産業が技術的な実証段階から実用的な製品開発段階へシフトしていることが示された。ワールドモデルへの期待は予想より低く、触覚センシングと関節技術が新たな競争領域として浮上している。エクソスケルトンは初期段階ながら有望な成長分野として注目されている。",
+      "insights": [
+        "ロボット産業の成熟化：技術検証から製品検証へのシフトにより、実装可能性と市場適用性が重視される時代へ",
+        "触覚センシング技術の重要性向上：器用な操作能力を持つロボットハンド開発において、触覚フィードバックが差別化要因に",
+        "コンポーネント産業の競争激化：関節技術がサプライヤー企業の主要な競争領域となり、高性能・低コスト化が求められている"
+      ]
+    }
+  },
+  {
+    "title": "Why Unitree became the first humanoid robot company to go public in China",
+    "link": "https://technode.com/2026/08/20/why-unitree-became-the-first-humanoid-robot-company-to-go-public-in-china/",
+    "published": "Thu, 20 Aug 2026 09:16:14 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-08-20 13:03:53",
+    "ai_summary": {
+      "title_ja": "ユニトリーが中国初のヒューマノイドロボット企業として上場へ",
+      "summary": "ユニトリー・ロボティクスは水曜日に上海証券取引所のSTAR市場でティッカー688836.SHで上場し、中国初のヒューマノイドロボット企業となった。同日に北京で2026年世界ロボット会議が開幕し、ヒューマノイドロボットが研究室・展示会から資本市場と商用競争の段階へ移行していることを象徴している。",
+      "insights": [
+        "ヒューマノイドロボット産業が研究開発段階から商業化・資本化段階への転換点を迎えており、主要プレイヤーの資金調達活動が活発化している",
+        "中国がロボティクス産業での国際競争力強化を戦略的に進めており、地場企業の上場支援を通じた産業育成が進行中である",
+        "ロボット技術の実用化と市場競争の加速により、企業評価が技術力から商用化能力とマーケットフィットへシフトしている"
+      ]
+    }
+  },
+  {
+    "title": "Chery’s AiMOGA Robotics begins IPO preparations as it targets overseas markets",
+    "link": "https://technode.com/2026/08/20/cherys-aimoga-robotics-begins-ipo-preparations-as-it-targets-overseas-markets/",
+    "published": "Thu, 20 Aug 2026 06:24:55 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-08-20 13:03:58",
+    "ai_summary": {
+      "title_ja": "チェリーのAiMOGAロボティクス、海外市場を狙いIPO準備を開始",
+      "summary": "中国自動車メーカーCheryから2025年1月にスピンオフしたAiMOGAロボティクスが、独立系企業としてのIPOに向けた準備を進めており、複数の上場地での検討を行っている。同社はIPOによる資金調達を通じて、技術開発と海外展開の加速を目指している。具体的な上場時期やスケジュールはまだ発表されていない。",
+      "insights": [
+        "中国のロボティクス企業による海外市場進出戦略の加速：資金調達を通じた国際展開志向が強まっており、アジア太平洋地域を含むグローバル展開が重要テーマとなっている",
+        "自動車メーカーからのスピンオフ型ロボティクス企業の増加：Cheryのような従来型製造業が、ロボティクス領域での独立した事業体化を進める傾向が、産業の再編を示唆している",
+        "IPOを通じた技術投資の資金化：ロボティクス企業における高度な技術開発のための継続的な資本調達ニーズが、公開市場への上場圧力を生み出している"
+      ]
+    }
+  },
+  {
+    "title": "Revisiting the \"Push-T\" Robot Manipulation Task with Agentic Robotics",
+    "link": "https://arxiv.org/abs/2608.18227",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:05",
+    "ai_summary": {
+      "title_ja": "エージェンティック・ロボティクスを用いた「Push-T」ロボット操作タスクの再検討",
+      "summary": "Push-Tは人間のデモンストレーションからロボット操作ポリシーを学習するベンチマークタスクですが、本研究ではLLMコーディングエージェント（Claude CodeとFable 5）を活用し、デモンストレーションデータなしでアルゴリズム的解決策を生成することを検討しました。エージェントはシミュレーション環境を自動発見し、反復的な実験を通じてプッシュメカニクスを学習し、従来の拡散ポリシーよりも46%少ないステップ数で100%の成功率を達成しました。この結果は、エージェンティック・ロボティクスアプローチの有効性を示しています。",
+      "insights": [
+        "LLMコーディングエージェントは人間デモなしでロボット制御タスクを解決可能であり、従来の模倣学習に依存しない新しいアプローチが確立された",
+        "エージェントが自動的にシミュレーション環境を発見・活用し、イテレーティブなシミュレーション実験を通じてポリシーを最適化できることが示された",
+        "データ効率性の大幅な向上（200件のデモで学習した拡散ポリシーより46%ステップ数削減）により、エージェンティック・ロボティクスが実用的な利点をもたらす可能性が示唆された"
+      ]
+    }
+  },
+  {
+    "title": "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction",
+    "link": "https://arxiv.org/abs/2608.18234",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:09",
+    "ai_summary": {
+      "title_ja": "GigaBrain-WBC-0.5: 環境相互作用を伴う堅牢全身制御のための行動世界モデル",
+      "summary": "本研究は、ヒューマノイドロボットの全身運動追跡制御における初の行動世界モデル(BWM)を提案している。従来の方法は平坦地のみで機能していたが、本手法は環境との接触ダイナミクスを学習し、テレオペレーターの粗い動作意図から堅牢で物理的に実現可能な制御を生成する。因果Transformerを用いて次の行動・状態・分布を予測することで、環境依存的な振る舞いに対応する。",
+      "insights": [
+        "環境相互作用の学習: 従来の反応的トラッキングから予測的な世界モデルへの転換により、地形やオブジェクトとの接触ダイナミクスを明示的に学習できるようになり、汎用性が向上する",
+        "因果Transformer活用: 次状態予測と行動生成を同時に実行する因果Transformerアーキテクチャにより、長期的な安定性と環境依存的な動作計画が可能になる",
+        "スケーラビリティの課題解決: 参照動作コーパスの拡張に依存しない学習アプローチにより、環境依存的な振る舞いの学習が可能になり、実運用環境への適用可能性が大幅に向上する"
+      ]
+    }
+  },
+  {
+    "title": "VERAGMIL: Virtual Environment for Scooping Granular Foods with Imitation Learning Models",
+    "link": "https://arxiv.org/abs/2608.18258",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:13",
+    "ai_summary": {
+      "title_ja": "VERAGMIL：模倣学習モデルを用いた粒状食材すくい取りのための仮想環境",
+      "summary": "本研究は、身体障害者の食事を支援するロボット給食システム(RAF)向けに、高精度シミュレータとVRインターフェースを組み合わせたVERAGMILフレームワークを提案しています。米や豆などの粒状食材の動的特性を学習するため、人間のデモンストレーションから効率的に学習可能な環境を実現しています。複数の模倣学習モデルの評価を通じて、実環境への転移可能性を検証しています。",
+      "insights": [
+        "シミュレーション環境とVRインターフェースの組み合わせにより、デモンストレーション収集コストを大幅に削減し、スケーラブルなロボット学習が可能になる",
+        "粒状食材の複雑な物理特性(動的変形、流動性)をシミュレータで再現することで、単純物体操作より難易度の高い給食タスクに対応できる",
+        "模倣学習を活用することで、身体障害者支援という社会的課題に対する実用的なロボティクスソリューションの実装が加速する"
+      ]
+    }
+  },
+  {
+    "title": "A Task-Agnostic Control Strategy for Dynamic Assistance with Pneumatically Actuated Soft Exosuits",
+    "link": "https://arxiv.org/abs/2608.18364",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "The Embodiment Gap in Robot Foundation Models",
+    "link": "https://arxiv.org/abs/2608.18433",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "HarvestPoint-ACT: Explicit Target Selection and Harvest-Point Conditioning for Robotic Fruit Harvesting under Occlusion",
+    "link": "https://arxiv.org/abs/2608.18446",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "An Experimental Study of Downwash Effects on a Continuum Manipulator Integrated with a Multirotor UAV",
+    "link": "https://arxiv.org/abs/2608.18507",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "LabDex: A Hierarchical Benchmark for Dexterous Manipulation in Laboratories",
+    "link": "https://arxiv.org/abs/2608.18618",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation",
+    "link": "https://arxiv.org/abs/2608.18647",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Orienteering Problem with Uncertain Time-Varying Rewards: Framework and Benchmark for Everyday Service Robotics",
+    "link": "https://arxiv.org/abs/2608.18672",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "SoftVTBench: A Deformation-Aware Visuo-Tactile Dataset and Benchmark for Deformable-Object Manipulation",
+    "link": "https://arxiv.org/abs/2608.18701",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Dream2Reward: Transition-Alignment Reward Models from Positive Demonstrations for Robotic Manipulation",
+    "link": "https://arxiv.org/abs/2608.18787",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction",
+    "link": "https://arxiv.org/abs/2608.18840",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience",
+    "link": "https://arxiv.org/abs/2608.18948",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+    "link": "https://arxiv.org/abs/2608.19085",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2608.19182",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations",
+    "link": "https://arxiv.org/abs/2505.10760",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Communications-Aware NMPC for Multi-Rotor Aerial Relay Networks Under Jamming Interference",
+    "link": "https://arxiv.org/abs/2603.28467",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Multi-Agent Embodied Autonomous Driving (MAEAD): From V2X Information Exchange to Shared World Models",
+    "link": "https://arxiv.org/abs/2606.13840",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "WARP: Whole-Body Retargeting for Learning from Offline Human Demonstrations",
+    "link": "https://arxiv.org/abs/2606.29940",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models",
+    "link": "https://arxiv.org/abs/2607.04546",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Imitation of Arm Gestures by the Semi-Humanoid Robot NICO",
+    "link": "https://arxiv.org/abs/2607.18197",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Multimodal Adaptive Control for Safe Robotic Craniotomy Under Partial Observability",
+    "link": "https://arxiv.org/abs/2607.21113",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving",
+    "link": "https://arxiv.org/abs/2608.12854",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Low-Rank Dynamics-Effective Latent Carriers for Counterfactual Rollout in Learned World Models",
+    "link": "https://arxiv.org/abs/2608.15156",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Tactile Sim2Real without Tactile Simulation via Bottlenecked Latent Reconstruction",
+    "link": "https://arxiv.org/abs/2608.15897",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "sim2real"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies",
+    "link": "https://arxiv.org/abs/2608.15938",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Unified Condition-Action Modeling for Accurate One-Step Action Generation",
+    "link": "https://arxiv.org/abs/2608.16153",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "EATR-Stereo: Embodiment-Aware Token Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control",
+    "link": "https://arxiv.org/abs/2608.17453",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Position: Profiling Game Worlds by Transition Complexity",
+    "link": "https://arxiv.org/abs/2608.18079",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents",
+    "link": "https://arxiv.org/abs/2608.18307",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Breaking the weakest link to evade vision language models",
+    "link": "https://arxiv.org/abs/2608.18938",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
+    "link": "https://arxiv.org/abs/2608.19161",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models",
+    "link": "https://arxiv.org/abs/2608.18484",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "MLREF: Efficient Module Reuse for Reward Design in Reinforcement Learning via Large Language Models",
+    "link": "https://arxiv.org/abs/2608.18827",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Graphical Design of Interpretable Architectures",
+    "link": "https://arxiv.org/abs/2608.18936",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting",
+    "link": "https://arxiv.org/abs/2608.19066",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Iterative Flow Matching: Path Correction and Gradual Refinement for Enhanced Generative Modeling",
+    "link": "https://arxiv.org/abs/2502.16445",
+    "published": "Thu, 20 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-08-20 13:04:18",
+    "ai_summary": null
+  },
+  {
     "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
     "link": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/",
     "published": "Wed, 19 Aug 2026 20:15:47 +0000",
