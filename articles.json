@@ -1,5 +1,65 @@
 [
   {
+    "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
+    "link": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/",
+    "published": "Fri, 21 Aug 2026 19:57:24 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-21 21:19:53",
+    "ai_summary": {
+      "title_ja": "アマゾンのバヴァナ・チャンドラシェカルがRoboBusiness「女性ロボティクス・ランチ」で講演",
+      "summary": "RoboBusiness開催のロボティクス業界における女性向けランチイベントで、Amazonのバヴァナ・チャンドラシェカルが講演を行う。このイベントは業界内での新しいネットワーク構築と既存の関係を深める機会となる。",
+      "insights": [
+        "ロボティクス産業において女性リーダーシップの可視化と育成が進んでいる",
+        "Amazon等の大手テック企業が業界のダイバーシティ推進に積極的に参画している",
+        "業界イベントがネットワーキングと人材交流の重要なプラットフォームとして機能している"
+      ]
+    }
+  },
+  {
+    "title": "Schaeffler plans to mass produce gearboxes for humanoid robots in 2027",
+    "link": "https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/",
+    "published": "Fri, 21 Aug 2026 19:27:22 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-21 21:19:56",
+    "ai_summary": {
+      "title_ja": "シェフラー、2027年にヒューマノイドロボット向けギアボックスの量産を計画",
+      "summary": "シェフラーは、ヒューマノイドロボット向けのひずみ波ギアボックスを新しい成形技術を用いて開発している。この技術により、2027年からの大量生産が可能になる見込み。ロボット産業の成長に対応し、精密機械部品の需要増加に対応する戦略的な取り組みである。",
+      "insights": [
+        "ヒューマノイドロボット産業の拡大に向けて、精密ギアボックスなどの基盤部品の量産化が産業的なボトルネック解消のカギとなっている",
+        "ひずみ波ギアボックスの成形技術革新により、製造コスト削減と生産効率向上が実現でき、ロボット価格の低下と市場普及を加速させる可能性がある",
+        "従来の高精密機械部品メーカーが早期にロボット向け部品供給体制を整備することで、今後のロボット産業での競争優位性を確保する動きが活発化している"
+      ]
+    }
+  },
+  {
+    "title": "中 루모스로보틱스, WRC 2026서 로봇 학습 시스템 '넥스코어' 발표",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48042",
+    "published": "2026-08-22 01:18:52",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-08-21 21:20:09",
+    "ai_summary": {
+      "title_ja": "中国ルモスロボティクス、WRC 2026でロボット学習システム「ネックスコア」を発表",
+      "summary": "中国のルモスロボティクスが、2026年世界ロボット大会でロボット学習システム「ルモス ネックスコア」を発表した。このシステムは、タスク定義、データアクセス、モデル学習、技術評価、デプロイメント、学習を統合し、産業用インテリジェントロボットの機能を継続的に生成・検証・改善できる。ロボット開発サイクルの大幅な短縮を実現する技術である。",
+      "insights": [
+        "ロボット開発の民主化：複雑な機械学習パイプラインを統合化することで、開発企業の参入障壁を低下させ、産業用ロボットの高速イテレーション環境を構築",
+        "継続学習アーキテクチャ：デプロイ後の継続的な学習機能により、ロボットが実運用環境で自己改善可能となり、ハードウェア更新なしに機能拡張が実現される",
+        "中国のロボティクス競争力強化：生成系AIとロボット学習システムの統合により、欧米企業との開発スピード競争で優位性を獲得する戦略的ポジショニング"
+      ]
+    }
+  },
+  {
     "title": "NSK、国産ヒューマノイド部品の共同検証／データ収集でスタートアップと提携",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2608/21/news049.html",
     "published": "Fri, 21 Aug 2026 06:15:00 +0900",
