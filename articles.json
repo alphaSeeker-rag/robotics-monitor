@@ -1,5 +1,25 @@
 [
   {
+    "title": "Robots don’t run themselves: The workforce powering physical AI",
+    "link": "https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/",
+    "published": "Sat, 22 Aug 2026 14:30:21 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-22 21:17:10",
+    "ai_summary": {
+      "title_ja": "ロボットは自動では動かない：フィジカルAIを支える労働力",
+      "summary": "フィジカルAIをワークフォースに導入する際には、スループット以上の多くの重要業績評価指標（KPI）が必要とされている。HireArtの会長によれば、ロボットの運用には人間の労働力と監督が不可欠である。フィジカルAI導入時の成功評価には、生産性だけでなく、より包括的なパフォーマンス指標の構築が重要となる。",
+      "insights": [
+        "フィジカルAI導入時の評価軸は生産性（スループット）単体では不十分であり、複数のKPI設定が経営判断に必須",
+        "ロボット導入後も人間の労働力が依然として重要な役割を担うため、オペレーション人材の確保と育成が競争優位性となる",
+        "フィジカルAI時代では、機械と人間の統合的な運用管理体制の構築が、実装成功の鍵となる可能性が高い"
+      ]
+    }
+  },
+  {
     "title": "2026 세계로봇대회: 줌라이언, 산업용 체화된 지능 기술 선보여",
     "link": "https://zdnet.co.kr/view/?no=20260822171002",
     "published": "Sat, 22 Aug 2026 17:10:02 +0900",
