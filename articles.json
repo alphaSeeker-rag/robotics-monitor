@@ -1,5 +1,66 @@
 [
   {
+    "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
+    "link": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
+    "published": "Mon, 24 Aug 2026 20:07:09 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-24 21:24:01",
+    "ai_summary": {
+      "title_ja": "XPeng Motors人型ロボット部門Dogotixが9億ドルを調達",
+      "summary": "XPeng Motorsの人型ロボット事業部門であるDogotixが9億ドルの資金調達を実施し、企業評価額は63億ドルに達した。同社はロボットの大規模生産に向けた準備を進めており、ハードウェア産業における中国の主要プレイヤーの成長を示唆している。",
+      "insights": [
+        "中国の大手EV企業であるXPeng Motorsが人型ロボット市場に本格参入し、巨額の資金調達による事業独立化を進めており、テスラのBotやFigure AIなどグローバルプレイヤーとの競争が激化している",
+        "63億ドルの評価額は、人型ロボット産業の急速な価値向上と市場の成長期待を反映しており、実用化・量産段階への移行が投資家の信認を獲得していることを示唆している",
+        "XPengの自動車製造インフラとサプライチェーン活用により、ロボット部門は他のスタートアップと比べて大規模量産化への優位性を持つ可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
+    "link": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
+    "published": "Fri, 21 Aug 2026 16:00:01 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-08-24 21:24:06",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：人間を超える人型ロボットは必要か？",
+      "summary": "IEEE Spectrumが選定した週間ロボティクスビデオ特集で、Unitreeが開発した新型ロボット基盤モデル「GEN-1.5」が紹介されている。このモデルは単一の例からわずか数秒で新しいタスクを学習でき、人間の学習能力に近づきつつある。2026年にソウル、ピッツバーグ、オースティンで開催される主要ロボティクス関連会議の情報も提供されている。",
+      "insights": [
+        "GEN-1.5は勾配更新やファインチューニングなしに単一例から学習可能であり、ロボットの汎用性と適応性の大幅な向上を示唆している",
+        "商用化の課題として、高速配送や危険環境での作業など具体的なユースケース開発がまだ明確でない点が指摘されている",
+        "人型ロボットが人間レベルの学習能力を獲得することで、労働集約的な産業への導入が加速する可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "published": "Mon, 24 Aug 2026 15:24:18 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "TechCrunch",
+    "flag": "US",
+    "detected_at": "2026-08-24 21:24:10",
+    "ai_summary": {
+      "title_ja": "Valor、Point72がGeneral Intuitionに出資 — ロボティクス参入で60億ドル評価額を達成",
+      "summary": "AI起業家General Intuitionは、空間と時間を通じて移動する汎用AIエージェントの基礎モデルを開発している。Valor VenturesとPoint72 Venturesなどの新規投資家から60億ドルの株式前評価額での資金調達を進めている。本資金調達は、生成AIからロボティクス分野への本格的な応用展開を示唆している。",
+      "insights": [
+        "汎用AI基礎モデルの物理世界への応用が投資家の強い関心を集めており、ロボティクス領域が生成AIの次の成長フロンティアとして認識されている",
+        "60億ドルの高い評価額は、AIエージェントの空間認識・運動制御技術に対する市場期待の高さを反映している",
+        "大手VCによる相次ぐ参入により、物理AIとロボティクスの統合技術開発が急速に進展する可能性が高い"
+      ]
+    }
+  },
+  {
     "title": "「まるで奇行種」――とある人型ロボの爆走フォームが話題に　中国のロボット運動会400m走で優勝",
     "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000730/",
     "published": "Mon, 24 Aug 2026 21:54:36 +0900",
