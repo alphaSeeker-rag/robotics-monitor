@@ -1,5 +1,25 @@
 [
   {
+    "title": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
+    "link": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/",
+    "published": "Tue, 25 Aug 2026 15:00:22 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-25 21:23:09",
+    "ai_summary": {
+      "title_ja": "Jetson Orin Nano 2がロボティクスのエッジ推論性能を2倍に向上、NVIDIAが発表",
+      "summary": "NVIDIAが新型エッジAIプロセッサ「Jetson Orin Nano 2」を発表し、推論性能を従来比2倍に向上させた。フロンティアレベルのAI知能がエッジ環境でリアルタイム実行可能になり、ロボティクス分野での活用が加速する見通し。",
+      "insights": [
+        "エッジAI処理の性能向上により、クラウド依存を削減でき、ロボットの自律性と応答速度が大幅に改善される",
+        "推論性能の2倍化は、コスト効率的なロボット開発を促進し、中小企業による先端ロボット開発の参入障壁を低下させる",
+        "リアルタイム推論能力の強化により、製造・物流・自動化領域でのエッジロボットの実装が加速するターニングポイントとなる可能性がある"
+      ]
+    }
+  },
+  {
     "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
     "link": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/",
     "published": "Mon, 24 Aug 2026 22:53:33 +0000",
