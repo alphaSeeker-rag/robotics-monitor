@@ -1,5 +1,57 @@
 [
   {
+    "title": "IDS Imaging adds Nion ToF sensor to its portfolio of 3D cameras",
+    "link": "https://www.therobotreport.com/ids-imaging-adds-nion-tof-camera-portfolio-3d-cameras/",
+    "published": "Wed, 26 Aug 2026 15:04:14 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-27 00:24:27",
+    "ai_summary": {
+      "title_ja": "IDS Imaging、Nion ToFセンサーを3Dカメラポートフォリオに追加",
+      "summary": "IDS Imagingがロボティクスと物流分野向けの新型ToF（Time of Flight）センサー「Nion」を製品ラインアップに加えた。本センサーは実際の処理速度で高精度な3Dデータ取得が必要なアプリケーション向けに最適化されている。",
+      "insights": [
+        "ロボティクス・自動化産業におけるToFセンサー需要の拡大。リアルタイム3Dビジョンは自律移動ロボット（AMR）や把持技術の高度化に必須",
+        "物流業界のDX加速に伴う3D画像認識技術の採用拡大。ピッキング自動化や荷物分類などで高精度な3Dセンシングの需要が急増",
+        "IDS Imagingなど既存カメラメーカーのポートフォリオ拡充戦略。専門センサー企業との統合・提携により、産業用ビジョン市場での競争力強化を図る動き"
+      ]
+    }
+  },
+  {
+    "title": "Bedrock Robotics’ first operator-free excavator deployments take off",
+    "link": "https://www.therobotreport.com/bedrock-robotics-first-operator-free-excavator-deployments-take-off/",
+    "published": "Wed, 26 Aug 2026 13:51:51 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-27 00:24:31",
+    "ai_summary": {
+      "title_ja": "Bedrock Roboticsの初のオペレーター不要な油圧ショベル配置が本格始動",
+      "summary": "Bedrock Roboticsが建設現場に自動運転の油圧ショベルを配置し、AI搭載の重機械で建設業の労働力不足に対応している。同社の無人操作型建機の実配置がスタートし、建設業界における自動化の実用段階に入っている。",
+      "insights": [
+        "建設業の深刻な労働力不足が、AI×ロボティクスによる重機械自動化の実装を加速させている",
+        "従来のオペレーター依存型から完全自動運転型への移行により、建設生産性向上と人的コスト削減が同時実現可能",
+        "重機械の自動化は安全性向上、稼働率最大化、24時間連続運用などの複合的メリットを提供する戦略的ソリューション"
+      ]
+    }
+  },
+  {
+    "title": "フィジカルAIスタートアップRLWRLDが語る「現場実装可能なフィジカルAI」の共通点",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2608/27/news023.html",
+    "published": "Thu, 27 Aug 2026 06:30:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-08-27 00:24:39",
+    "ai_summary": null
+  },
+  {
     "title": "非公開の「AI学習データ工場」に潜入　人型ロボ30台超が稼働、意外と知らない「データ収集」の裏側とは",
     "link": "https://www.itmedia.co.jp/business/articles/2608/26/news082.html",
     "published": "Wed, 26 Aug 2026 18:10:00 +0900",
