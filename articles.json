@@ -1,5 +1,152 @@
 [
   {
+    "title": "EXL acquires physical AI model developer iMerit",
+    "link": "https://www.therobotreport.com/exl-acquires-physical-ai-model-developer-imerit/",
+    "published": "Fri, 28 Aug 2026 17:36:09 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-28 22:11:10",
+    "ai_summary": {
+      "title_ja": "EXLがフィジカルAIモデル開発企業iMeritを買収",
+      "summary": "EXLがフィジカルAI開発企業のiMeritを買収した。両社の経営陣は、統合された専門知識とプラットフォームが開発者に信頼性の高いフィジカルAIを提供するのに役立つと説明している。この買収により、ロボティクス・フィジカルAI分野における総合的なソリューション提供能力が強化される。",
+      "insights": [
+        "フィジカルAI開発における専門的なデータ処理・ラベリング能力と開発基盤の統合により、ロボティクス企業への信頼性の高いAIモデル供給体制が構築される",
+        "大手テック企業とロボティクス企業によるフィジカルAI人材・技術の集約化が加速している",
+        "ロボティクスの実用化には単なるモデル開発だけでなく、高品質な学習データパイプラインの確保が重要な差別化要因となっている"
+      ]
+    }
+  },
+  {
+    "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
+    "link": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
+    "published": "Fri, 28 Aug 2026 13:29:51 +0000",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-28 22:11:14",
+    "ai_summary": {
+      "title_ja": "ロボティクス最大の課題の一つ「マニピュレーション」に取り組むLocusの戦略",
+      "summary": "Locus Roboticsは、ソフトピッキング技術を開発するNexera Roboticsを買収し、ロボット操作能力の強化を実現した。この買収により、ロボティクス業界における物体の把持・操作という根本的な課題への対応が加速する。ソフト系技術の統合により、柔軟性と汎用性を備えたマニピュレーションソリューションの実現が期待される。",
+      "insights": [
+        "M&Aによる技術補完：従来の硬質ロボット技術とソフトロボティクスの融合により、デリケート品や不定形物体の把持能力が向上",
+        "マニピュレーションの産業的重要性：ピッキング・ハンドリングはロボティクス企業の競争優位性を左右する差別化ポイント",
+        "オートメーション市場の進化：ソフトピッキング技術はe-コマースや物流業界のロボット導入を加速させる鍵となる可能性"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Meet Microduck",
+    "link": "https://spectrum.ieee.org/video-friday-microduck-robot",
+    "published": "Fri, 28 Aug 2026 16:00:03 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-08-28 22:11:19",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：マイクロダックに会おう",
+      "summary": "NVIDIAが買収したPollen Roboticsの親会社に129億ドルを投資した理由が明らかになった。マイクロダックは全長25cm、重さ780gの小型ロボットで、15自由度を備え、歩行、転倒からの自力復帰、物体把持、ローラースケートなど多様な動作を実現する。カメラ、LiDAR、IMU、通信機能を搭載した高機能なプラットフォームである。",
+      "insights": [
+        "NVIDIAの大型投資によりロボティクス企業の戦略的価値が急速に上昇。AI・機械学習の統合がロボット開発の次の競争軸になることを示唆",
+        "マイクロダックのような小型ロボットは、マルチモーダルセンサ（カメラ、LiDAR、IMU等）と高い自由度を組み合わせることで、実世界の複雑なタスク対応が可能に",
+        "転倒からの自動復帰やジェスチャー操作など、ロボットの実用性を高める自律機能が標準搭載され、開発者向けプラットフォームの汎用性が向上中"
+      ]
+    }
+  },
+  {
+    "title": "Hugging Face、あひる型ロボット「Microduck」発表　399ドルで予約開始",
+    "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
+    "published": "Fri, 28 Aug 2026 15:09:08 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "ITmedia NEWS",
+    "flag": "JP",
+    "detected_at": "2026-08-28 22:11:26",
+    "ai_summary": null
+  },
+  {
+    "title": "「国産ヒューマノイド」の作業風景を生配信中、3時間以上経過　「ベルトコンベヤーも自作」　アトム",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000912/",
+    "published": "Fri, 28 Aug 2026 17:11:03 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-08-28 22:11:27",
+    "ai_summary": null
+  },
+  {
+    "title": "中 갤봇, '응용'에 강했다…휴머노이드 운동회 3개 부문 금메달",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48171",
+    "published": "2026-08-28 11:55:38",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-08-28 22:11:32",
+    "ai_summary": {
+      "title_ja": "中国ギャルボット、『応用』に強し…ヒューマノイドロボット運動会で3部門金メダル獲得",
+      "summary": "中国のヒューマノイドロボット企業ギャルボット（銀河通用）が、第2回世界ヒューマノイドロボット運動会2026で家事、外食、スーパーマーケット部門の3つの応用分野で金メダルを獲得した。3部門以上で金メダルを獲得した企業はギャルボットのみであり、実務的な作業性能において他社を上回る成果を示した。完全自律型ヒューマノイドロボットによる実装性能が評価されている。",
+      "insights": [
+        "実応用の競争優位性：純粋な運動性能ではなく実務応用場面（家事、飲食、小売）での競争力が、産業実装段階でのロボット企業の差別化要因になっている",
+        "中国ロボット産業の実装レベル：中国企業が応用分野での統合能力で先行しており、ハードウェアと実務ソフトウェアの統合開発が商用化の鍵になっていることを示唆している",
+        "市場成熟度の指標：大会形式が『運動会』から『応用競技』へシフトしていることは、ヒューマノイドロボット市場が初期段階から実務検証段階への移行を示している"
+      ]
+    }
+  },
+  {
+    "title": "“100m 기록, 8.64초까지 당겼다”...매일 기록 깬 中 휴머노이드",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48170",
+    "published": "2026-08-28 11:34:52",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-08-28 22:11:38",
+    "ai_summary": {
+      "title_ja": "100m記録を8.64秒まで短縮...毎日記録を更新する中国のヒューマノイド",
+      "summary": "中国のヒューマノイドロボット「天工ウルトラ」が、第2回世界ヒューマノイドロボット運動会2026の100m走で8.64秒の金メダル記録を達成した。前回の準決勝では8.85秒を記録しており、わずか2日間で0.21秒の短縮を実現している。100m走はヒューマノイドロボットの性能限界を測定する標準的なベンチマークテストとされている。",
+      "insights": [
+        "ヒューマノイドロボットの運動性能が急速に進化しており、天工ウルトラは2日間で連続的に記録を更新する改善速度を示している",
+        "100m走のような標準化された競技がロボティクス業界のベンチマークとして機能し、技術開発を加速させている",
+        "中国がヒューマノイドロボット開発で国際競争力を持つプレイヤーとして台頭し、運動会開催を通じて技術進展を国際的にアピールしている"
+      ]
+    }
+  },
+  {
+    "title": "Embodied-AI startup PsiBot raises over $100 million with industrial investors joining",
+    "link": "https://technode.com/2026/08/28/embodied-ai-startup-psibot-raises-over-100-million-with-industrial-investors-joining/",
+    "published": "Fri, 28 Aug 2026 05:59:33 +0000",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-08-28 22:11:46",
+    "ai_summary": {
+      "title_ja": "エンボディドAI企業PsiBot、産業系投資家を含む1億ドル超の資金調達に成功",
+      "summary": "中国のエンボディドAI企業PsiBotが1億ドル以上の資金調達を完了し、寧波拓浦グループ（Chery傘下）やレンズテクノロジー、フォースン傘下の複数の投資ファンドが参加した。同社は器用な操作能力を持つロボットの開発に注力しており、既存株主である珠海技術産業グループも追加投資を実施している。",
+      "insights": [
+        "産業用ロボットの巧緻操作技術がアジア地域での競争焦点となっており、自動車・製造大手からの積極的な資金流入が加速している",
+        "金融・娯楽企業（Fosun、37 Interactive Entertainment）もエンボディドAI領域への投資を拡大させており、産業応用の商業化が近い段階にあることを示唆している",
+        "複数回の継続投資と複合的な投資家構成から、PsiBotの技術が産業スケール化への確度が高いと評価されていることが伺える"
+      ]
+    }
+  },
+  {
     "title": "ヒューマノイドを育てるバイト!?　タイミーとジールスが現場データ収集で協業",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2608/28/news061.html",
     "published": "Fri, 28 Aug 2026 08:30:00 +0900",
