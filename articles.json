@@ -1,5 +1,25 @@
 [
   {
+    "title": "The differences between decentralized and centralized power in swarm robotics",
+    "link": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
+    "published": "Sat, 29 Aug 2026 12:25:31 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-29 16:38:37",
+    "ai_summary": {
+      "title_ja": "スワームロボティクスにおける分散型と集中型電力管理の違い",
+      "summary": "ロボティクス・スワームは通常、集中型または分散型の電力管理システムに依存しています。それぞれのアプローチには利点と課題がありますが、両者のハイブリッドアプローチにより、双方の利点を統合した最適なソリューションが実現される可能性があります。",
+      "insights": [
+        "スワームロボティクスの電力管理は、システムアーキテクチャ設計における中心的な課題であり、ミッションの継続性と効率性に直結する",
+        "集中型電力管理は統一的な制御が可能である一方、単一障害点のリスクが存在し、分散型は耐障害性に優れるが調整の複雑性が増す",
+        "ハイブリッド型電力管理の採用により、スワームロボットの実用化範囲（災害対応、探査、監視など）が拡大する可能性が高い"
+      ]
+    }
+  },
+  {
     "title": "From teach and repeat to SelfPath AI: The next robotics leap",
     "link": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
     "published": "Fri, 28 Aug 2026 23:25:06 +0000",
