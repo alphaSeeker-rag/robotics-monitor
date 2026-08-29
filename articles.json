@@ -1,5 +1,25 @@
 [
   {
+    "title": "From teach and repeat to SelfPath AI: The next robotics leap",
+    "link": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
+    "published": "Fri, 28 Aug 2026 23:25:06 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-08-29 03:02:57",
+    "ai_summary": {
+      "title_ja": "教示再生からSelfPath AIへ：ロボティクスの次なる飛躍",
+      "summary": "Brian CorpのCTOジョン・ブラック氏が、ロボティクスフリートとAIの信頼構築方法について見解を示している。従来の教示再生型ロボティクスから、SelfPath AIと呼ばれる新世代のAI技術へのシフトが進んでいる。この転換は、ロボティクス産業における自律性と適応能力の大幅な進化を示唆している。",
+      "insights": [
+        "教示再生型から自律学習型AIへの技術パラダイムシフト：ロボットが環境適応的に学習・判断する能力の重要性が増している",
+        "ロボティクスフリート運用における信頼醸成が商用化の鍵：複数台ロボットの連携・管理では人間との信頼関係構築が必須",
+        "SelfPath AIのような次世代技術が産業応用の障壁を低下させる可能性：プログラミング負担の軽減により導入企業の拡大が期待される"
+      ]
+    }
+  },
+  {
     "title": "EXL acquires physical AI model developer iMerit",
     "link": "https://www.therobotreport.com/exl-acquires-physical-ai-model-developer-imerit/",
     "published": "Fri, 28 Aug 2026 17:36:09 +0000",
