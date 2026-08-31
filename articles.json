@@ -1,5 +1,526 @@
 [
   {
+    "title": "リコー、フィジカルAI技術を開発--動画から人の動きを学習",
+    "link": "https://japan.zdnet.com/article/35252095/",
+    "published": "",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ZDNet",
+    "flag": "JP",
+    "detected_at": "2026-08-31 19:05:18",
+    "ai_summary": null
+  },
+  {
+    "title": "일본 휴머노이드 로봇 컨소시엄, 로봇 ‘데이터 공장’ 본격 가동",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48210",
+    "published": "2026-08-31 14:19:06",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-08-31 19:05:19",
+    "ai_summary": {
+      "title_ja": "日本ヒューマノイドロボットコンソーシアム、ロボット「データ工場」本格稼働",
+      "summary": "日本のJ-HRTI（日本ヒューマノイドロボット訓練・実装）が千葉県習志野市に約1,400㎡規模のデータ工場を構築し、本格稼働を開始した。35台のヒューマノイドロボットを導入し、オペレーターが遠隔操作で物体の把握・移動・工具使用などの人間の作業動作をデータとして収集している。今後、ロボットを最大40台まで増設予定である。",
+      "insights": [
+        "ヒューマノイドロボットの実用化に向けた学習データの大規模収集インフラが日本で確立され、AI訓練の産業化が加速している",
+        "遠隔操作による人間の動作データ収集は、ロボットの動作学習（模倣学習）における重要な手法で、産業ロボット化への第一段階である",
+        "複数拠点（関東など）への展開計画から、日本が国家戦略としてヒューマノイドロボット産業のエコシステム構築を推進していることが明らかである"
+      ]
+    }
+  },
+  {
+    "title": "美 로직 로보틱스, 철도화물→트럭 환적용 자율팔레트 출시",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48204",
+    "published": "2026-08-31 11:51:52",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-08-31 19:05:23",
+    "ai_summary": {
+      "title_ja": "米ロジックロボティクス、鉄道貨物からトラックへの自律パレット搬送システムを発表",
+      "summary": "米国のロジックロボティクスが、デジタルツイン技術を基盤とした知能型搬送ソリューションを発表し、鉄道貨物をトラックへ効率的に環積する自律パレットシステムを導入した。このシステムは鉄道と道路の輸送連携作業を自動化し、マルチモーダル物流の革新的な進展を実現する。ロジックパレットは複数輸送モード間での効率化を実現する次世代ソリューションである。",
+      "insights": [
+        "デジタルツイン技術による自律型物流オートメーションが、従来は手作業に頼っていた環積作業を自動化し、人手不足解決と生産性向上の道を開く",
+        "鉄道と道路を統合するマルチモーダル物流の最適化により、輸送効率とコスト削減が実現し、グローバルサプライチェーンの競争力強化が期待される",
+        "データ駆動型の自律パレットシステムは、リアルタイム追跡・最適ルート選択が可能となり、物流DXの加速化とロボティクス産業の重要な応用例として注目される"
+      ]
+    }
+  },
+  {
+    "title": "서울 AI 허브, '피지컬 AI' 전문인재 본격 배출…로봇·AI 융합교육 성료",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48199",
+    "published": "2026-08-31 09:45:00",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-08-31 19:05:27",
+    "ai_summary": {
+      "title_ja": "ソウルAIハブ、『フィジカルAI』専門人材を本格輩出…ロボット・AI融合教育を完了",
+      "summary": "ソウルAIハブは韓国AI・ロボット産業協会と共同で、生成型AIを超えて現実世界を認識・判断・行動する『フィジカルAI』時代の高度な専門人材育成プログラム(7月7日～8月18日)を完了した。本教育はロボティクス、コンピュータビジョン、VLM/VLA、強化学習、ヒューマノイド、ロボットシステムセキュリティなど、フィジカルAI実装に必要なコア技術を統合した高度な専門教育を提供した。",
+      "insights": [
+        "フィジカルAIは生成型AIから実世界での知覚・判断・行動能力へのパラダイムシフトを示しており、今後のロボティクス産業の競争力の鍵となる",
+        "韓国はソウルAIハブなどの国家拠点を通じてフィジカルAI人材育成に戦略的に投資しており、ロボット産業におけるグローバル競争力を強化している",
+        "教育カリキュラムがVLM/VLA、強化学習、セキュリティなど最先端技術をカバーしており、産業ニーズと教育供給のギャップを埋める取り組みが本格化している"
+      ]
+    }
+  },
+  {
+    "title": "Chinese Robot Makers Step Into Japan's Labor Shortage",
+    "link": "https://pandaily.com/chinese-robot-makers-japan-labor-shortage-2026",
+    "published": "Mon, 31 Aug 2026 03:40:57 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-08-31 19:05:32",
+    "ai_summary": {
+      "title_ja": "中国のロボット企業が日本の労働力不足に対応",
+      "summary": "中国のロボット製造企業が、労働力不足に直面する日本市場に進出している。ヒューマノイドロボットから倉庫・飲食店向けロボットまで、幅広い分野で活躍を始めている。中国企業の低価格で実用的なロボットソリューションが、日本の産業課題解決の鍵となりつつある。",
+      "insights": [
+        "地政学的な産業シフト：日本の高齢化・労働不足という構造的課題が、中国ロボット企業の市場参入を加速させている",
+        "製品戦略の多様化：ヒューマノイドから特定産業向け実用ロボットへのシフトにより、中国企業のターゲット市場が拡大している",
+        "コスト競争力：中国製ロボットの価格優位性が、日本企業の高価格帯製品との競争構図を変えている"
+      ]
+    }
+  },
+  {
+    "title": "Chinese Robot Makers Step Into Japan's Labor Shortage",
+    "link": "https://pandaily.com/chinese-robot-makers-japan-labor-shortage-aug2026",
+    "published": "Mon, 31 Aug 2026 03:39:49 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-08-31 19:05:36",
+    "ai_summary": {
+      "title_ja": "中国のロボット製造企業、日本の労働不足に進出",
+      "summary": "中国のロボット製造企業が、深刻な労働不足に直面する日本市場で存在感を高めている。ヒューマノイドロボットから倉庫・飲食店向けロボットまで、多様な用途に展開を広げている。日本の産業空洞化とロボット導入の加速化を背景とした新たな国際競争の局面を示している。",
+      "insights": [
+        "日本の急速な高齢化と労働人口減少により、特に製造・物流・飲食業などの労働集約的産業でロボット需要が急増しており、中国メーカーがこの市場機会を積極的に捉えている",
+        "中国ロボット企業はコスト競争力と多用途対応能力に優れており、日本企業の高価格・特化型製品に対する代替選択肢として機能している可能性が高い",
+        "日本国内のロボット・AI産業が、技術優位性だけでは市場防衛不可能であり、価格・納期・サービス面での競争力強化が急務となっている"
+      ]
+    }
+  },
+  {
+    "title": "What if the first embodied AI you meet is a fighting robot?",
+    "link": "https://technode.com/2026/08/31/what-if-the-first-embodied-ai-you-meet-is-a-fighting-robot/",
+    "published": "Mon, 31 Aug 2026 09:02:36 +0000",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-08-31 19:05:44",
+    "ai_summary": {
+      "title_ja": "最初に出会う具体化されたAIが格闘ロボットだったら？",
+      "summary": "Qianxing Intelligenceは、従来の工場やウェアハウスでのロボット応用ではなく、エンターテインメント施設に格闘ロボットを直接導入するという異なるアプローチを採用している。実験室での理論的な議論ではなく、実際の商用環境でのAI具体化を推進することで、市場検証と技術開発を加速させている。",
+      "insights": [
+        "エンターテインメント分野は産業用ロボットの次なる主要市場となる可能性があり、B2B産業応用と並行して消費者向けロボット市場の開拓が進んでいる",
+        "格闘ロボットのような複雑な物理制御と対話型タスクは、具体化AIの実用的な能力を試す有効な検証プラットフォームとなる",
+        "レジャー・娯楽産業へのロボット導入は、技術的実現可能性の実証だけでなく、ユーザー受容度と市場需要の測定による新規事業モデルの構築につながる"
+      ]
+    }
+  },
+  {
+    "title": "Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics",
+    "link": "https://arxiv.org/abs/2608.27497",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:05:49",
+    "ai_summary": {
+      "title_ja": "相対幾何学を超えて：ロボティクスのためのメトリック対応幾何知覚",
+      "summary": "本研究は、既存の3次元再構成手法が任意のスケールで相対幾何学のみを復元し、ロボットの実世界スケールでの動作と非整合になる課題に対し、カメラパラメータと深度観測からメトリック幾何学を復元するMAPG（Metric-Aware Geometry Perception）フレームワークを提案している。Metric Scale Equivariant Augmentationと呼ぶ手法により、モデルが異なるシーン・視点・入力設定でも一貫したメトリック幾何学を認識することが可能になり、ロボティクスポリシーに直接統合できる。",
+      "insights": [
+        "従来の相対幾何学の限界：3D再構成手法が恣意的なスケールでのみ機能し、ロボットの実世界操作との乖離が存在していた根本的な問題を解決",
+        "メトリックスケール等変性の導入：カメラキャリブレーション情報と深度データを活用し、シーン・視点を超えた統一的なメトリック幾何学知覚を実現するアプローチ",
+        "エンドツーエンド統合型設計：提案フレームワークがプラグアンドプレイ型で既存ロボティクスポリシーに容易に組み込める汎用性の高い設計により、実装の障壁を低減"
+      ]
+    }
+  },
+  {
+    "title": "Remote Human and Robot Interaction for Greenhouse Gardening Using Virtual Reality",
+    "link": "https://arxiv.org/abs/2608.27545",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Teleoperation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:05:54",
+    "ai_summary": {
+      "title_ja": "仮想現実を用いた温室園芸におけるリモート人間ロボット相互作用",
+      "summary": "本研究は、仮想現実(VR)テレオペレーションを用いた遠隔人間ロボット相互作用の有効性を、温室環境での葉検査と土壌水分測定で評価した。無人地上走行体と動作学モデルで制御されたロボットマニピュレータを使用し、14種類の植物を検査した結果、葉検査は3.3～8.0秒で完了し、植物病害検出精度は88%に達した。",
+      "insights": [
+        "VRテレオペレーションにより、遠隔からの精密な農業作業が実現可能であり、温室自動化の新たな実装形式として産業応用が期待される",
+        "葉検査と病害検出の高精度（88%）は、AI画像認識とロボット視覚システムの統合がロボティクス農業で有効であることを示唆している",
+        "複数実験の統計検証（p=0.378）により、システムの再現性と堅牢性の段階的改善が必要であり、フィールドロボティクスの実用化にはさらなる最適化が重要である"
+      ]
+    }
+  },
+  {
+    "title": "Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2608.27550",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:05:58",
+    "ai_summary": {
+      "title_ja": "データスケーリング超越：ビジョン・言語・アクションモデルのための表現中心の継続事前学習",
+      "summary": "ロボットの汎用的なビジョン・言語・アクション（VLA）モデル構築には、ロボットデータのスケーリングが重要だが、実体的な収集コストが高く物理世界のカバレッジが限定的なため、表現品質がボトルネックになる。本研究では、複数ロボット体の異種データで事前学習したVLA向けVLMバックボーン「VLAct」を提案し、限定的な軌跡データから転移可能な視覚・アクション知識を抽出することで、ロボット固有タスク性能を向上させる。VLM事前知識の保持と複数体のアクション意味論の統一を通じて、データ効率性を大幅に改善する。",
+      "insights": [
+        "ロボットデータスケーリングの本質的課題は「データ量」ではなく「表現品質」であり、限定予算下での表現学習の最適化が次世代ロボット基盤モデルの差別化要因となる",
+        "複数ロボット体の異種データを統一的に学習するマルチヘッド連続アクション共有監督により、ロボット間の知識転移と汎化性能の向上が実現可能",
+        "VLM事前知識の保持とクロスエンボディメント・アクションレイアウト統一は、タスク特化ファインチューニングの効率を高め、少量ロボットデータでも高性能な汎用ロボットモデルの実現が加速する"
+      ]
+    }
+  },
+  {
+    "title": "PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2608.27609",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:03",
+    "ai_summary": {
+      "title_ja": "PHR-VLA：ビジョン言語行動モデルのための計画地平線推論",
+      "summary": "本研究は、視覚言語行動モデル(VLA)に未来のタスクダイナミクスを推論する能力を追加したPHR-VLAフレームワークを提案している。軽量な補助的な未来予測ヘッドを導入することで、VLAの内部表現を未来観測から抽出されたレイテント・ダイナミクスに整列させ、接触豊富な微細操作タスクで優れた性能を実現する。リストカメラからのパッチレベルのレイテント・ダイナミクス監督により、ロボット操作精度の大幅な向上が期待される。",
+      "insights": [
+        "VLAモデルに未来予測機能を組み込むことで、現在観測のみの従来手法の限界を克服し、接触感覚が必要な精密操作タスクに対応可能になる",
+        "軽量な補助ヘッド設計により、計算コストを抑えながら未来ダイナミクス推論を実装でき、実用的なロボティクスシステムへの応用可能性が高い",
+        "パッチレベルのレイテント表現監督は、エンドツーエンド学習における局所的な接触ダイナミクス理解を実現し、ロボット操作の汎用性と精密性を大幅に向上させる可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "One year in a forest: Analyzing the challenges of autonomous navigation in subarctic environments",
+    "link": "https://arxiv.org/abs/2608.27628",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Coordinated Motion Planning for Multi-Arm Systems via Iterative LQ Games",
+    "link": "https://arxiv.org/abs/2608.27726",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Plan Along the Way: Event-Triggered Foundation-Model Planning for TAMP Execution in Partially Observable Manipulation",
+    "link": "https://arxiv.org/abs/2608.28075",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters",
+    "link": "https://arxiv.org/abs/2608.28090",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "humanoid",
+      "manipulation",
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA",
+    "link": "https://arxiv.org/abs/2608.28108",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Contact-Guided Exploration for Non-Prehensile Locomanipulation with Multi-Critic RL",
+    "link": "https://arxiv.org/abs/2608.28140",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots",
+    "link": "https://arxiv.org/abs/2608.28213",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos",
+    "link": "https://arxiv.org/abs/2608.28570",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+    "link": "https://arxiv.org/abs/2608.28578",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation",
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "LUCID: An Agentic AI Framework on Digital-Twin in the Loop for QoS-Guaranteeing Robotic Control",
+    "link": "https://arxiv.org/abs/2608.28437",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction",
+    "link": "https://arxiv.org/abs/2608.28491",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
+    "link": "https://arxiv.org/abs/2608.28518",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2602.04208",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation",
+    "link": "https://arxiv.org/abs/2602.22056",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Benefits of Low-Cost Bio-Inspiration in the Age of Overparametrization",
+    "link": "https://arxiv.org/abs/2604.20365",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Mind-VLA: Instruction-Aware Spatial Representation Alignment for Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2608.04633",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience",
+    "link": "https://arxiv.org/abs/2608.18948",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Macro-Operator Generation and Predicate Selection for TAMP Operator Learning",
+    "link": "https://arxiv.org/abs/2608.23629",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "When Obstacles Bend: Modeling Vegetation Deformation in the context of Field Robotics",
+    "link": "https://arxiv.org/abs/2608.26050",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics",
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation",
+    "link": "https://arxiv.org/abs/2608.27079",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "OceanGym: A Benchmark Environment for Underwater Embodied Agents",
+    "link": "https://arxiv.org/abs/2509.26536",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints",
+    "link": "https://arxiv.org/abs/2512.05079",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
+    "link": "https://arxiv.org/abs/2607.15058",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
+    "title": "SpatialCrafter: Single Image World Modeling with Generative 3D Proxies",
+    "link": "https://arxiv.org/abs/2608.27073",
+    "published": "Mon, 31 Aug 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "robotics"
+    ],
+    "source": "arXiv cs.RO",
+    "flag": "arXiv",
+    "detected_at": "2026-08-31 19:06:08",
+    "ai_summary": null
+  },
+  {
     "title": "パナソニックHDがAI・ロボティクス研究開発本部を新設、CAIOの榊原氏がトップに",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news057.html",
     "published": "Mon, 31 Aug 2026 06:15:00 +0900",
