@@ -1,5 +1,58 @@
 [
   {
+    "title": "How better grippers can unlock physical AI",
+    "link": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai/",
+    "published": "Mon, 31 Aug 2026 20:20:25 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-01 00:20:57",
+    "ai_summary": {
+      "title_ja": "より優れたグリッパーがフィジカルAIの可能性を解き放つ",
+      "summary": "フィジカルAIの実現には、ロボットが現実世界のタスクを処理するために必要な器用さ、センシング能力、適応性を提供するスマートグリッパーの開発が不可欠である。グリッパー技術の進化がロボティクス産業全体の発展を左右する重要な要素となっている。",
+      "insights": [
+        "グリッパーの知能化がロボットの汎用性と実用性を大きく決定する要素となる",
+        "センシング機能の統合によりロボットが環境に対する適応力と作業精度を向上させることができる",
+        "フィジカルAI実現には単なる機械的性能ではなく、AI制御とセンサーフィードバックの統合が必須である"
+      ]
+    }
+  },
+  {
+    "title": "大型切削加工のAI化へ、アルムが京セラなどと共同開発スタート",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/01/news034.html",
+    "published": "Tue, 01 Sep 2026 07:30:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-01 00:21:05",
+    "ai_summary": null
+  },
+  {
+    "title": "인티그리트, 차세대 퍼스널 AI 위한 '스텔라 덱' 플랫폼 선보여",
+    "link": "https://zdnet.co.kr/view/?no=20260901082026",
+    "published": "Tue, 01 Sep 2026 08:20:35 +0900",
+    "keywords": [
+      "VLA",
+      "Physical AI"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-09-01 00:21:09",
+    "ai_summary": {
+      "title_ja": "インティグリット、次世代パーソナルAI向け「ステラデック」プラットフォームを発表",
+      "summary": "オンデバイスAIプラットフォーム専門企業のインティグリットが、複数のAIサービスを統一インターフェース上で利用できる「ステラデック」を発表した。このプラットフォームは「Bring Your Own AI」戦略に基づき、ユーザーが目的に応じて必要なAIサービスを選択・接続できるオープン型パーソナルAIエージェント基盤を提供する。",
+      "insights": [
+        "AI独立性の重視：特定のAIモデル・サービスへの依存を排除し、ユーザーが複数のAIを自由に選択・組み合わせ可能な設計により、AIプロバイダー間の競争激化への対応",
+        "IoT・スマートデバイス統合：PC・スマートフォンから家庭・業務空間の多様な知能型デバイスへの拡張を想定し、エッジコンピューティングとクラウド実行の柔軟な選択肢を提供",
+        "B2B・B2Cハイブリッドモデル：個人ユーザーには常時型AIインターフェース、企業には現実空間へのAIエージェント展開を可能にするゲートウェイとしてポジショニング"
+      ]
+    }
+  },
+  {
     "title": "リコー、フィジカルAI技術を開発--動画から人の動きを学習",
     "link": "https://japan.zdnet.com/article/35252095/",
     "published": "",
