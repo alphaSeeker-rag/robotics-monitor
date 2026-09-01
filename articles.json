@@ -1,5 +1,61 @@
 [
   {
+    "title": "Top 10 robotics stories of August 2026",
+    "link": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
+    "published": "Tue, 01 Sep 2026 18:56:28 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-01 22:57:50",
+    "ai_summary": {
+      "title_ja": "2026年8月のロボティクス業界トップ10ニュース",
+      "summary": "2026年8月のロボティクス業界では、大型資金調達、ヒューマノイドロボット産業の進展、最新のフィジカルAIモデルに関する重要なニュースが報道された。この時期は業界の成長と技術革新が加速していることを示唆している。",
+      "insights": [
+        "大型資金調達ラウンドの増加により、ロボティクス企業の事業化・商用化が急速に進展している",
+        "ヒューマノイドロボット分野が業界の中心的なトレンドとなり、複数の主要プレイヤーが競争を激化させている",
+        "フィジカルAI技術の最新モデル開発が進み、ロボットの自律性と実世界での適応能力が大幅に向上している"
+      ]
+    }
+  },
+  {
+    "title": "Learn how physical AI is being used to do real work at RoboBusiness",
+    "link": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness/",
+    "published": "Tue, 01 Sep 2026 16:48:33 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-01 22:57:53",
+    "ai_summary": {
+      "title_ja": "RoboBusinessで実現されるフィジカルAIの実務応用",
+      "summary": "Amazon Robotics、Teradyne Robotics、Cobotのリーダーたちが、顧客環境で稼働するロボットへのフィジカルAI適用事例を共有する。本記事は、理論的な研究段階から実運用への移行という、ロボティクス業界の重要な転換点を示している。フィジカルAIは現在、実際のビジネス環境での課題解決に活用される段階に到達している。",
+      "insights": [
+        "フィジカルAIは研究レベルから顧客環境での実運用へシフトしており、ROI創出が可能な段階に達している",
+        "Amazon、Teradyne、Cobotといった主要企業がフィジカルAI導入を推進していることは、市場の急速な成熟と採用加速を示唆している",
+        "エンタープライズロボティクスにおけるフィジカルAI統合は、自律性、適応性、複雑タスク遂行能力の飛躍的向上を実現する鍵となる"
+      ]
+    }
+  },
+  {
+    "title": "ヒューマノイド40台でフィジカルAIを育てる巨大拠点が稼働、その内部とは",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/02/news043.html",
+    "published": "Wed, 02 Sep 2026 06:45:00 +0900",
+    "keywords": [
+      "ヒューマノイド",
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-01 22:58:01",
+    "ai_summary": null
+  },
+  {
     "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
     "link": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
     "published": "Tue, 01 Sep 2026 13:45:36 +0000",
