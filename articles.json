@@ -1,5 +1,58 @@
 [
   {
+    "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
+    "link": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration/",
+    "published": "Wed, 02 Sep 2026 19:45:19 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-02 22:57:25",
+    "ai_summary": {
+      "title_ja": "NexCOBOTが物理AIの市場課題と加速要因を論じる",
+      "summary": "機能安全とモーション制御を提供するNexCOBOTが、物理AIがビッグテックからどのような恩恵を受けているか、また今後の成長領域について議論している。物理AI産業の発展には技術的な統合と大手企業の参入が重要な役割を果たしている。",
+      "insights": [
+        "物理AIの発展にはビッグテック企業の参入と投資が市場成長の加速要因となっている",
+        "機能安全とモーション制御技術は物理AIシステムの信頼性と性能向上に不可欠な要素",
+        "物理AI市場の拡大には技術的障壁の解決と産業標準化の推進が重要な課題"
+      ]
+    }
+  },
+  {
+    "title": "Learn why food is physical AI’s hardest problem at RoboBusiness",
+    "link": "https://www.therobotreport.com/learn-why-food-is-physical-ai-hardest-problem-chef-robotics-robobusiness/",
+    "published": "Wed, 02 Sep 2026 17:37:50 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-02 22:57:28",
+    "ai_summary": {
+      "title_ja": "RoboBusinessで学ぶ：食品産業がフィジカルAIにとって最難関課題である理由",
+      "summary": "Chef Roboticsの創業者兼CEOであるRajat Bhageriaは、食品がフィジカルAIにとって最も要求度の高いベンチマークである理由を探究する。食品取り扱いは、物体認識、操作の精密性、衛生管理など、複合的な技術課題を提示する。この分野での突破は、ロボティクス技術全体の進化を象徴するものとなる。",
+      "insights": [
+        "食品取り扱いの多様性（形状、硬さ、脆さの変動）が、機械学習モデルの汎化性能に極めて高い要求を課す",
+        "衛生基準と食品安全規制への適合が、産業用ロボットの設計・運用に追加的な技術制約を生じさせる",
+        "食品産業での実装成功は、フィジカルAIが実世界の不確実性と複雑性に対応可能であることの証明となり、他産業への波及効果が大きい"
+      ]
+    }
+  },
+  {
+    "title": "複数メーカーの6種マテハン連携、「倉庫自動化はサプライウェブ時代へ」",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/03/news049.html",
+    "published": "Thu, 03 Sep 2026 07:15:00 +0900",
+    "keywords": [
+      "ロボティクス"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-02 22:57:36",
+    "ai_summary": null
+  },
+  {
     "title": "フェイフェイ・リー氏のWorld Labs、空間知能オムニモデル「Atlas」発表　少数の画像から3D空間やバレットタイム映像を生成",
     "link": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001068/",
     "published": "Wed, 02 Sep 2026 14:09:32 +0900",
