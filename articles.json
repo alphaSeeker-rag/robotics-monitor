@@ -1,5 +1,445 @@
 [
   {
+    "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
+    "link": "https://spectrum.ieee.org/moon-ball-robot",
+    "published": "Thu, 03 Sep 2026 12:00:01 +0000",
+    "keywords": [
+      "robotics",
+      "actuator"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-09-03 16:17:48",
+    "ai_summary": {
+      "title_ja": "月面クレーター探査に最適な巨大ロボットボール",
+      "summary": "テキサスA&M大学の研究チームが、直径1.8メートル、重量150キログラムの膨張式ロボット「RoboBall」を開発中である。このロボットは岩やれき、粘土質地など困難な地形を容易に走行でき、月の南極にあるシャクルトン・クレーター（深さ4km、幅21km）などの太陽系で最もアクセスが困難な地形の探査を目指している。永遠に太陽光が当たらないクレーター内部の謎の物質の調査が主な目標である。",
+      "insights": [
+        "膨張式球体設計により、従来の車輪型ロボットが進入困難な急崖・凹凸地形での高い機動性と安定性を実現",
+        "月面極域のような極限環境での自律探査プラットフォームの開発は、将来の月資源採掘・科学調査ミッションの基盤技術となる可能性",
+        "5年以上の継続開発により、インフレータブルロボティクスが宇宙探査という高リスク応用分野での実用化段階に進展"
+      ]
+    }
+  },
+  {
+    "title": "ルネサスが北京に次世代ロボティクスの開発を支援するラボを開設",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/03/news059.html",
+    "published": "Thu, 03 Sep 2026 14:00:00 +0900",
+    "keywords": [
+      "ロボティクス",
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-03 16:17:57",
+    "ai_summary": null
+  },
+  {
+    "title": "AWSのフィジカルAI開発支援、採択企業はクラウドで何を加速させたか",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/03/news053.html",
+    "published": "Thu, 03 Sep 2026 07:45:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-03 16:17:57",
+    "ai_summary": null
+  },
+  {
+    "title": "日立、フィジカルAIの推進に向け「HMAX」ソリューションを拡充",
+    "link": "https://japan.zdnet.com/article/35252261/",
+    "published": "",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ZDNet",
+    "flag": "JP",
+    "detected_at": "2026-09-03 16:17:59",
+    "ai_summary": null
+  },
+  {
+    "title": "NTTPC、フィジカルAI向けGPUクラウドを提供--デジタルツインやロボティクス開発を支援",
+    "link": "https://japan.zdnet.com/article/35252231/",
+    "published": "",
+    "keywords": [
+      "ロボティクス",
+      "フィジカルAI"
+    ],
+    "source": "ZDNet",
+    "flag": "JP",
+    "detected_at": "2026-09-03 16:17:59",
+    "ai_summary": null
+  },
+  {
+    "title": "中 에이스로보틱스, 홍콩대와 손잡고 '시간 이해' VLA 모델 발표",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48287",
+    "published": "2026-09-03 17:25:10",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-09-03 16:18:00",
+    "ai_summary": {
+      "title_ja": "中国のエースロボティクス、香港大学と共同で「時間理解」VLAモデルを発表",
+      "summary": "中国のエースロボティクスが香港大学と協力し、ロボットが過去を記憶し現在を理解しながら未来を予測できるVLA（ビジョン言語行動）モデル「StreamPI」を開発した。このモデルは時間的な連続性を理解し、言語認識、環境認知、ロボット動作を統合したマルチモーダル機能を備えている。連続的なフィジカルインテリジェンスを実現するための重要な技術革新である。",
+      "insights": [
+        "時間軸を組み込んだVLAモデルにより、ロボットが単一フレームではなく時系列データから学習・行動できるようになり、複雑なタスク実行能力が大幅に向上する可能性がある",
+        "中国のロボティクス企業が大学と連携して基礎研究を推進しており、フィジカルAI領域での技術開発競争が加速している",
+        "マルチモーダル（言語・視覚・行動）統合モデルの進化により、ロボットの汎用性と自律性が高まり、産業用途から生活支援ロボットまでの応用範囲が拡大する見込み"
+      ]
+    }
+  },
+  {
+    "title": "삼성SDS, 미국서 'RX ART 2026' 개최… RX 시너지 본격화",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48283",
+    "published": "2026-09-03 16:07:22",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-09-03 16:18:05",
+    "ai_summary": {
+      "title_ja": "サムスンSDS、米国で『RX ART 2026』開催…RXシナジー本格化",
+      "summary": "サムスンSDSが8月31日から9月1日にかけてカリフォルニア州マウンテンビューで『RX ART 2026』を開催し、サムスングループの関連会社のロボット担当幹部が参加して協力方案と共同課題を導出した。サムスンSDSは関連会社と共同で発掘した産業現場のロボット活用事例を、ウォルデンロボティクスやロボフォースなどグローバルフィジカルAI企業と協力して先制的に推進する計画である。",
+      "insights": [
+        "グループ横断的なロボティクス戦略の統合推進により、複数の関連会社のシナジー効果を最大化する組織的な取り組みが本格化",
+        "フィジカルAI分野の有力グローバル企業（ウォルデンロボティクス、ロボフォース等）との戦略的協業により、産業用ロボット技術の実装スピードを加速",
+        "米国西海岸（シリコンバレー近郊）でのエコシステム構築により、グローバル技術トレンドとの連携強化と北米市場での競争力向上を図る戦略的な地政学的配置"
+      ]
+    }
+  },
+  {
+    "title": "中 루모스로보틱스, 모바일 매니퓰레이터 ‘루모스 모스2’ 출시",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48280",
+    "published": "2026-09-03 14:45:27",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-09-03 16:18:10",
+    "ai_summary": {
+      "title_ja": "中国ルモスロボティクス、モバイルマニピュレータ『ルモス MOS2』を発表",
+      "summary": "中国のルモスロボティクスが次世代重量級モバイルマニピュレータ『ルモス MOS2』を公式発表した。本製品はAMR（自律走行ロボット）とロボットアームを統合し、移動しながらピッキング・組立・検査などの操作作業を実行する。三菱電機との共同開発によって、実製造現場での応用経験を積み、2025年から本格的な商用化を目指している。",
+      "insights": [
+        "モバイルマニピュレータは物流・製造領域における重要なソリューションであり、中国企業が日本大手メーカーとの協業により実装化を加速させている",
+        "実製造現場での検証プロセスを経た商用化戦略により、技術の実用性と信頼性を高めることで市場競争力を強化している",
+        "2025年の本格的な事業展開開始は、アジア太平洋地域のロボティクス産業における競争激化と、自動化ソリューション需要の急速な拡大を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "애자일 로봇, 산업 자동화부터 로봇 트레이닝 데이터까지 피지컬 AI를 현실 세계로 가져오다",
+    "link": "https://zdnet.co.kr/view/?no=20260903171003",
+    "published": "Thu, 03 Sep 2026 17:10:03 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-09-03 16:18:15",
+    "ai_summary": {
+      "title_ja": "애자일 로봇、産業自動化からロボット訓練データまで、フィジカルAIを現実世界へ実装",
+      "summary": "애자일 로봇과子会社프랑카 로보틱스が、スイス・チューリッヒとドイツ・ブレーメンの2つの欧州主要イベントで、感知・学習・実行できるインテリジェントロボットによるフィジカルAIの実世界応用を披露した。産業自動化から両腕ロボットの訓練データまで、研究から実用化への統合ビジョンを示している。",
+      "insights": [
+        "フィジカルAI技術が研究段階から実産業応用へシフト。애자일 로봇이 실제 자동화 솔루션으로의 전환을 주도하고 있음",
+        "両腕ロボット・訓練データの組み合わせが、다목적 산업용 로봇의 새로운 표준이 될 가능성。センサー・機械学習・エグゼキューション統合の重要性が増加",
+        "欧州のロボティクス企業による、東アジア競争への対抗戦略。フランカロボティクスの自動化ソリューションはドイツの산업 4.0 주도권 강화를 시사"
+      ]
+    }
+  },
+  {
+    "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+    "link": "https://arxiv.org/abs/2609.01861",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:25",
+    "ai_summary": {
+      "title_ja": "信念キャリブレーション最適化：エージェント最適化のための明示的な世界モデル",
+      "summary": "LLMエージェントのパフォーマンス向上のため、従来は暗黙的だったコーディングエージェントの信念（環境がどう応答するかの予測）を明示的なドキュメントとして記述する「信念キャリブレーション最適化（BCO）」を提案する。この信念を継続的に更新することで、反復的なソース編集と候補生成の効率性を向上させる。",
+      "insights": [
+        "LLMエージェントの最適化において、推論プロセス内に留まる暗黙的な信念を外在化・可視化することで、複数反復間での学習効率が大幅に改善される可能性",
+        "世界モデルの明示化はエージェントの意思決定プロセスの透明性と再現性を向上させ、デバッグと改善が容易になるアーキテクチャパターン",
+        "コーディングエージェントをオプティマイザーとして活用する際、環境フィードバック（スコアとトレース）と信念の明示的な統合が、より効果的な適応型最適化ループの構築を可能にする"
+      ]
+    }
+  },
+  {
+    "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+    "link": "https://arxiv.org/abs/2609.01873",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:30",
+    "ai_summary": {
+      "title_ja": "認識論的シビル耐性：証拠を増やさずにAIエージェントを増やす",
+      "summary": "マルチエージェントAIシステムは複数のエージェントを展開して報告を合成することで推論を改善するが、追加のエージェントが追加の観察とは限らないという根本的な問題を指摘している。本研究は、見かけ上独立した複数の報告が同一の証拠に由来する可能性があり、報告のみの集約では独立した裏付けと複製を区別できないことを形式化した。ガウス共有根モデルを通じて、共通の祖先が完全な冗長性を意味しないこと、および繰り返しの抽出が情報を追加できることを示している。",
+      "insights": [
+        "マルチエージェントシステムの信頼性評価には報告の独立性検証が必須であり、単純な集約では隠れた依存関係を見落とす可能性がある",
+        "AIエージェントの基盤モデルが共通である場合、相関のあるエラーが発生し、見かけ上の独立性が幻想になる可能性がある",
+        "エージェント増加による信号強化には限界があり、元の証拠源のレベルで頭打ちになるため、システム設計時に基盤となる学習データの多様性が重要である"
+      ]
+    }
+  },
+  {
+    "title": "Discriminative World Models for Web Agents",
+    "link": "https://arxiv.org/abs/2609.02885",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:35",
+    "ai_summary": {
+      "title_ja": "Webエージェント向け判別的世界モデル",
+      "summary": "本研究は、Webエージェントにおいて従来の教師あり学習による次状態予測ではなく、「予測状態マッチング」という新しい訓練目的を提案する。このアプローチにより、予測表現が候補アクション間で判別性を持ち、ランカーモデルによる正確なスコアリングが可能になる。WebArena Go-Browseの分岐軌跡データセットを用いて複数の決定点でモデルを訓練する。",
+      "insights": [
+        "世界モデルの訓練目的と下流タスク(ランキング)の目的関数のミスアライメント問題に、判別的表現学習で対処する革新的アプローチ",
+        "従来のHTML/AXTree固定表現予測から、相対的判別性重視へのパラダイムシフトにより、Webエージェントの意思決定精度向上を実現",
+        "分岐軌跡データセットの活用により、実世界的な複数選択肢シナリオに基づくロボティック・プロセスオートメーション(RPA)の性能向上が期待される"
+      ]
+    }
+  },
+  {
+    "title": "WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling",
+    "link": "https://arxiv.org/abs/2609.01608",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:40",
+    "ai_summary": {
+      "title_ja": "WMLLM: 予測-実行ワールドモデリングによる自己進化的最適化エージェント",
+      "summary": "本研究は、大規模言語モデル(LLM)を世界モデルとして活用し、ブラックボックス最適化問題の探索効率を向上させるフレームワークWMLLMを提案しています。予測フェーズで有望な方向性を特定した後に実行フェーズで候補を生成することで、試行錯誤による低い標本効率の問題を解決します。マルチターン精密化、集団ベース探索、強化学習を組み合わせた自己進化メカニズムにより、最適化性能を継続的に改善します。",
+      "insights": [
+        "LLMの暗黙的知識を活用した予測ベースの最適化により、従来の試行錯誤型手法と比べて標本効率が大幅に向上する可能性",
+        "予測-実行の二段階アプローチにより、高次元・弱構造化された探索空間での効率的な方向探索が可能になる",
+        "自己進化型エージェント設計により、単一のLLM呼び出しではなく反復的な学習プロセスを通じて最適化精度が継続的に改善される"
+      ]
+    }
+  },
+  {
+    "title": "A Data-Driven Multimodal Method for Early Detection of Coordinated Abnormal Behaviors in Live-Streaming Platforms",
+    "link": "https://arxiv.org/abs/2609.01649",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:44",
+    "ai_summary": {
+      "title_ja": "ライブストリーミングプラットフォームにおける協調的異常行動の早期検出のためのデータ駆動型マルチモーダル手法",
+      "summary": "本研究は、ライブストリーミング電子商取引における隠蔽・協調された異常マーケティング行動を検出するため、MM-FGDNetというマルチモーダルフレームワークを提案しています。動画、テキスト、音声、ユーザー行動を統一された時間軸意味空間にマッピングし、弱い初期信号から突発的な異常への進行パターンと、組織化されたユーザーグループと自動化アカウント間の協調的操作を特定します。この手法により、大規模ライブストリーミング環境におけるプラットフォーム統治とリスク識別の精度向上が実現されます。",
+      "insights": [
+        "マルチモーダル融合による異常検出：動画・テキスト・音声・ユーザー行動の4モダリティを統合することで、従来の単一モダリティ手法では見落とされる協調的な異常パターンの検出が可能になる",
+        "時間進化と群構造の複合分析：初期の弱い信号から異常の爆発的増加までの時間的推移と、ボット・サクラアカウントなどの組織化されたグループの相互作用を同時監視する二重構造の有効性",
+        "プラットフォーム統治の実務的課題解決：ライブコマース急成長に伴う悪質マーケティングの巧妙化・多様化に対応する、スケーラブルで早期介入可能な異常検知システムの実装戦略"
+      ]
+    }
+  },
+  {
+    "title": "Dictionary-Guided Mutation Operators for Automated HDL Repair",
+    "link": "https://arxiv.org/abs/2609.01775",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "Modeling What Changes: Sparse, Residual World Models for Object-Centric Manipulation",
+    "link": "https://arxiv.org/abs/2609.02046",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "Physical AI",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "VoRTeC: Taming Foundation Flow for One-step Real time Video Compression",
+    "link": "https://arxiv.org/abs/2609.02291",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "AGI Maze Prediction Datasets: A Compact Benchmark for Learning World Dynamics with Transformers",
+    "link": "https://arxiv.org/abs/2609.02339",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "Dutch Books for Language Models",
+    "link": "https://arxiv.org/abs/2609.02797",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+    "link": "https://arxiv.org/abs/2609.02861",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?",
+    "link": "https://arxiv.org/abs/2512.24497",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "CHASE: Cache-Hole-Adapted Skip Exit for Looped State-Space Language Models",
+    "link": "https://arxiv.org/abs/2607.10110",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
+    "link": "https://arxiv.org/abs/2607.15550",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "Deep denoising autoencoder-based non-invasive blood flow detection for arteriovenous fistula",
+    "link": "https://arxiv.org/abs/2306.06865",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "SEBA: Sample-Efficient Black-Box Attacks on Visual Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2511.09681",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies",
+    "link": "https://arxiv.org/abs/2605.27284",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules",
+    "link": "https://arxiv.org/abs/2608.22642",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies",
+    "link": "https://arxiv.org/abs/2608.30378",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
+    "title": "Exploring Collaboration between a language and a non-language agent",
+    "link": "https://arxiv.org/abs/2609.00474",
+    "published": "Thu, 03 Sep 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-09-03 16:18:49",
+    "ai_summary": null
+  },
+  {
     "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
     "link": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration/",
     "published": "Wed, 02 Sep 2026 19:45:19 +0000",
