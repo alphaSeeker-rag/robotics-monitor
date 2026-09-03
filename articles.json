@@ -1,5 +1,57 @@
 [
   {
+    "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
+    "link": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
+    "published": "Thu, 03 Sep 2026 18:53:54 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-03 22:56:49",
+    "ai_summary": {
+      "title_ja": "メドトロニック、手術ロボット企業コーナーストーン・ロボティクスに7億ドルを投資",
+      "summary": "メドトロニックはコーナーストーン・ロボティクスに7億ドルを投資し、Hugo手術システムとSentireを軸とした複数ポートの手術ロボット製品ポートフォリオを構築する。この提携により、両社は次世代の外科手術ロボット技術の開発と市場展開を加速させる。メドトロニックの大型投資は、手術ロボット市場での競争力強化とダ・ヴィンチシステムを中心とする既存市場への対抗姿勢を示している。",
+      "insights": [
+        "大型投資による手術ロボット市場の再編：メドトロニックによる7億ドルの投資は、外科手術ロボット市場における主要プレイヤーの再構築を示唆し、ダ・ヴィンチシステムの市場独占に対する競争圧力が増加している",
+        "マルチプラットフォーム戦略の採用：HugoとSentireの複数システムポートフォリオにより、異なる手術ニーズや病院システムに対応した柔軟な製品展開が可能となり、市場カバレッジが拡大する",
+        "技術統合による医療イノベーション：コーナーストーン・ロボティクスの先端技術とメドトロニックの医療機器流通ネットワークの統合により、より多くの医療施設での手術ロボット導入が加速する可能性が高い"
+      ]
+    }
+  },
+  {
+    "title": "JAKA hits Teradyne Robotics back over patent dispute",
+    "link": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
+    "published": "Thu, 03 Sep 2026 17:44:20 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-03 22:56:54",
+    "ai_summary": {
+      "title_ja": "JAKAがテラダイン・ロボティクスに対して特許紛争で法的措置を講じる",
+      "summary": "JAKAはテラダイン・ロボティクスに対して法的措置を取り、同社が「虚偽かつ誤解を招き、損害をもたらす」と考える声明の公開的な発表の中止を求めている。この行動は両企業間の特許紛争の激化を示す。協働ロボット産業における知的財産権をめぐる競争の激しさが露呈している。",
+      "insights": [
+        "協働ロボット（協働型ロボットアーム）市場の拡大に伴い、企業間の特許紛争が増加している",
+        "中国系ロボティクス企業（JAKA）と欧米企業（Teradyne）間の国際的な知的財産権紛争は業界の成熟化と競争激化を示唆している",
+        "企業評判管理とブランド保護が、ロボティクス産業における法的戦略の重要な要素となっている"
+      ]
+    }
+  },
+  {
+    "title": "日立社長が熱弁を振るう「フィジカルAI革命」　英の産業革命、米のネット革命、次は日本から起こせるか",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/04/news058.html",
+    "published": "Fri, 04 Sep 2026 07:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-09-03 22:57:03",
+    "ai_summary": null
+  },
+  {
     "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
     "link": "https://spectrum.ieee.org/moon-ball-robot",
     "published": "Thu, 03 Sep 2026 12:00:01 +0000",
