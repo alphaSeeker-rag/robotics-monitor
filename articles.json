@@ -1,5 +1,45 @@
 [
   {
+    "title": "How FPGAs become the gatekeepers of physical AI security",
+    "link": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/",
+    "published": "Fri, 04 Sep 2026 18:09:54 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-04 22:44:58",
+    "ai_summary": {
+      "title_ja": "FPGAがフィジカルAIセキュリティの門番となる方法",
+      "summary": "Lattice SemiconductorのセキュリティビジネスVPであるEric Sivertson氏は、FPGAがロボットシステムに対して確定的なガードレール(安全機構)として機能できることを説明しています。FPGAは物理的AIの安全性を確保するための重要なセキュリティソリューションとして位置付けられています。",
+      "insights": [
+        "FPGAは低遅延で予測可能な動作を実現でき、ロボットの暴走防止や異常な動作検出に適した決定論的セキュリティ機構として機能する",
+        "フィジカルAIシステムでは、クラウドベースのAIの不確実性に対して、エッジレベルのFPGAによるハードウェアベースの安全保証が必要とされている",
+        "ロボティクス業界におけるセキュリティとセーフティの重要性が高まる中、FPGAベンダーがロボットシステムの信頼性と安全性の鍵となるプレイヤーとしての地位を確立しつつある"
+      ]
+    }
+  },
+  {
+    "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
+    "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
+    "published": "Fri, 04 Sep 2026 16:33:59 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-04 22:45:03",
+    "ai_summary": {
+      "title_ja": "ロボティクススタートアップへの呼びかけ：2026年ロボティクススタートアップレーダーへの応募受付開始",
+      "summary": "ロボティクス業界の有望なスタートアップを集約する「2026年ロボティクススタートアップレーダー」への応募受付が開始された。本イニシアティブは、革新的なロボティクス企業を発掘し、業界内での認知度向上と成長支援を目的としている。スタートアップはこのプラットフォームを通じて、投資家やパートナーシップの機会を得られる。",
+      "insights": [
+        "ロボティクス業界における人材・企業の集約化が進行中であり、スタートアップエコシステムの構築が加速している",
+        "2026年に向けた大型レーダープログラムの展開により、ロボティクス分野への投資および事業化機会が増加する傾向が予想される",
+        "フィジカルAI・ロボティクス企業の可視化と認証が重要な成長要因となっており、業界発展における生態系構築の重要性が高まっている"
+      ]
+    }
+  },
+  {
     "title": "とにかく「データが足りない」フィジカルAI　AWS支援プログラム採択各社が示す突破口",
     "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001158/",
     "published": "Fri, 04 Sep 2026 11:00:43 +0900",
