@@ -1,5 +1,80 @@
 [
   {
+    "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
+    "link": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
+    "published": "Sat, 05 Sep 2026 12:30:37 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-05 15:01:31",
+    "ai_summary": {
+      "title_ja": "Enovisが手術用ロボティクス企業eCential Roboticsを1億8000万ドルで買収",
+      "summary": "Enovisは手術用ロボティクス企業eCential Roboticsを1億8000万ドルで買収する。膝関節向けのロボティックシステムを今後2年以内に市場投入し、その後肩関節向けシステムを展開する予定。",
+      "insights": [
+        "外科手術ロボティクスの市場拡大に伴い、大型企業による戦略的な買収・統合が加速している",
+        "膝関節・肩関節といった主要関節部位への対応により、手術用ロボティクスの適用範囲が拡大している",
+        "2年以内という明確なロードマップから、同社の技術基盤がすでに成熟段階にあることが推測される"
+      ]
+    }
+  },
+  {
+    "title": "Cyborg Roaches Can Stab You With Needles",
+    "link": "https://spectrum.ieee.org/cyborg-rescue-roach",
+    "published": "Sat, 05 Sep 2026 13:00:04 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-09-05 15:01:35",
+    "ai_summary": {
+      "title_ja": "サイボーグゴキブリは注射針で刺すことができる",
+      "summary": "オーストラリアのクイーンズランド大学が開発した「パラボーグ」は、電子機器を搭載した昆虫型サイボーグで、背中に装備された春仕掛けの注射針を持つ。地震などの災害時に瓦礫の中に取り残された被害者に医療支援を届ける可能性を秘めており、昆虫サイズのロボット開発における複雑な技術課題を回避する手段として注目されている。",
+      "insights": [
+        "昆虫型サイボーグは、瓦礫通過性・不規則地形の踏破・落下からの回復・自律電源搭載など、従来型ロボットが困難とする複数の課題を生物学的特性で解決できる",
+        "災害救助・医療支援など人命救助分野でのフィジカルAI応用は、従来のロボティクスの限界を超えた新しい価値提案を生み出す可能性がある",
+        "昆虫の運動能力と電子・機械システムの融合は、極限環境での小型ロボット開発の『ショートカット』となり、次世代レスキューロボティクスの実現を加速させる可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Digit Redecorates",
+    "link": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+    "published": "Fri, 04 Sep 2026 16:00:05 +0000",
+    "keywords": [
+      "Sim-to-Real",
+      "sim2real",
+      "robotics",
+      "humanoid"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-09-05 15:01:40",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：Digitが家具を移動",
+      "summary": "IEEE Spectrumのロボティクス動画週刊シリーズ。Agility Roboticsのソファ引きずり動画が紹介され、二足歩行ロボットが不安定な積載物を運搬する際の振動制御が重要な技術課題であることが示唆されている。階層型強化学習（ReST-RL）により、移動と積載物安定化を独立させて制御する手法が開発されている。",
+      "insights": [
+        "二足歩行ロボットの動的歩行時における積載物の振動制御は、非構造化環境での実用化における重大な技術的ボトルネックとなっている",
+        "階層型強化学習による機能の分離（移動制御と積載物安定化の分離）が、ヒューマノイドロボットの実世界応用の鍵となる",
+        "Unitreeなどの商用二足歩行ロボットプラットフォームが、実装検証の対象として業界で採用されている傾向を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
+    "link": "https://gigazine.net/news/20260905-robot-olympics/",
+    "published": "Sat, 05 Sep 2026 21:00:00 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-09-05 15:01:49",
+    "ai_summary": null
+  },
+  {
     "title": "How FPGAs become the gatekeepers of physical AI security",
     "link": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/",
     "published": "Fri, 04 Sep 2026 18:09:54 +0000",
