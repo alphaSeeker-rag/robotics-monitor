@@ -1,5 +1,58 @@
 [
   {
+    "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
+    "link": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+    "published": "Tue, 08 Sep 2026 20:39:51 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-08 23:09:06",
+    "ai_summary": {
+      "title_ja": "ボストン・ダイナミクスの退職者がDynamic Creaturesを立ち上げ、ロボティクスでキャラクターを実現化",
+      "summary": "ボストン・ダイナミクスの元メンバーが新企業Dynamic Creaturesを設立し、ロボティクス技術を活用したオリジナルキャラクターの開発とブランド向けのカスタマイズキャラクターの製造を計画している。同社はロボット技術を娯楽・マーケティング分野へ展開し、商業化を目指している。",
+      "insights": [
+        "ボストン・ダイナミクスなどの先端ロボット企業の人材が起業し、研究開発から商業応用への転換が加速している",
+        "ロボティクス技術がエンターテインメントやブランド体験領域に進出し、新しいビジネスモデルが創出されている",
+        "キャラクター化・カスタマイズによって、B2B向けロボット需要の多様化と市場の拡大が予想される"
+      ]
+    }
+  },
+  {
+    "title": "AI can’t outrun a humanoid’s hardware",
+    "link": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
+    "published": "Tue, 08 Sep 2026 19:03:09 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-08 23:09:11",
+    "ai_summary": {
+      "title_ja": "AIはヒューマノイドのハードウェアを凌駕できない",
+      "summary": "AI技術の急速な進展により、ロボットが自律的に判断・行動することが可能に近づいている。しかし次のブレークスルーは、AIの意思決定をロボットの物理システムが効率的・正確・安全に実行できるかにかかっている。つまり、ハードウェアの性能がロボティクス発展の新たなボトルネックになりつつあるということである。",
+      "insights": [
+        "AI能力の向上だけでは不十分であり、アクチュエータ、センサー、制御システムなどのハードウェア技術の革新が実用的なロボット実現の鍵となる",
+        "ヒューマノイドロボットの実用化には、意思決定の正確さと同等かそれ以上に、物理的な実行能力（精度・速度・耐久性・安全性）の向上が重要な課題である",
+        "ロボティクス産業は単なるAI競争ではなく、メカニクス・マテリアルサイエンス・エネルギー管理などのハードウェア領域への投資・開発加速が競争優位を決定する可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "小径精密加工の旋盤新モデル　スター精密がヒューマノイド部品など向け",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news037.html",
+    "published": "Wed, 09 Sep 2026 07:30:00 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-08 23:09:19",
+    "ai_summary": null
+  },
+  {
     "title": "“ヒト型ロボット用救急車”爆誕　メカ用担架や予備パーツ積載　GMO系",
     "link": "https://www.itmedia.co.jp/news/article/2609/08/2000001266/",
     "published": "Tue, 08 Sep 2026 16:00:46 +0900",
