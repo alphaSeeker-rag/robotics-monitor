@@ -1,5 +1,214 @@
 [
   {
+    "title": "Vention opens Physical AI Lab for manufacturing in Montreal",
+    "link": "https://www.therobotreport.com/vention-opens-physical-ai-lab-manufacturing-montreal/",
+    "published": "Wed, 09 Sep 2026 15:41:50 +0000",
+    "keywords": [
+      "Physical AI",
+      "manipulation"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-09 16:27:51",
+    "ai_summary": {
+      "title_ja": "Ventionがモントリオールに製造業向けPhysical AI Labを開設",
+      "summary": "Ventionはモントリオールに新しいPhysical AI Labを開設し、ロボットの操作能力の研究開発から実生産ラインへの展開拡大を目指しています。本施設は、研究段階から実用化・スケーラビリティの段階への移行を加速させることに重点を置いています。",
+      "insights": [
+        "ロボティクス企業が研究から製造現場への実装までをカバーする統合的なラボ施設を構築することで、Physical AIの商用化サイクルを短縮",
+        "カナダ（モントリオール）への投資は、北米でのロボティクス・AI開発の産業化拠点化を示唆",
+        "ロボット操作技術（Robotic Manipulation）の実生産スケーリングが、Physical AIの次の競争領域として注視される傾向"
+      ]
+    }
+  },
+  {
+    "title": "PayPay、身に覚えのない送金に注意　マルウェア感染で遠隔操作リスク",
+    "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001306/",
+    "published": "Wed, 09 Sep 2026 12:08:27 +0900",
+    "keywords": [
+      "遠隔操作"
+    ],
+    "source": "ITmedia NEWS",
+    "flag": "JP",
+    "detected_at": "2026-09-09 16:27:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Armが3つの新プロダクトを発表、モバイルとAIインフラ、フィジカルAI向け",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news059.html",
+    "published": "Wed, 09 Sep 2026 08:00:00 +0900",
+    "keywords": [
+      "フィジカルAI",
+      "Physical AI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-09-09 16:27:58",
+    "ai_summary": null
+  },
+  {
+    "title": "中 아스트리봇, 로봇 온라인 강화학습 기술 ‘스무드RL’ 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48382",
+    "published": "2026-09-09 13:52:36",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-09-09 16:28:04",
+    "ai_summary": {
+      "title_ja": "中国のアストリボット、ロボット向けオンライン強化学習技術『SmoothRL』を開発",
+      "summary": "中国のヒューマノイドロボット企業アストリボットは、実際の運用現場でロボットを停止させずに継続学習できるオンライン強化学習フレームワーク『SmoothRL』を開発した。シミュレーションではなく実運用環境での直接学習により、非同期推論問題を解決し、大規模ロボットモデル(VLA等)の実装効率を向上させる。",
+      "insights": [
+        "実環境学習への転換：シミュレーション依存から実運用現場での強化学習へシフトすることで、ロボットの実用性と対応性が大幅に向上する可能性",
+        "非同期推論問題の解決：モデルの推論時間と実行時間のズレを解消することで、VLAなどの大規模モデルの実装課題に対する実用的なソリューション",
+        "運用効率の最適化：ロボットの停止時間を排除することで、継続稼働下での学習が可能になり、製造業やロジスティクス現場での生産性向上に直結"
+      ]
+    }
+  },
+  {
+    "title": "英 반도체 설계기업 '암(Arm)', 피지컬 AI 생태계 결집",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48386",
+    "published": "2026-09-09 13:43:24",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-09-09 16:28:08",
+    "ai_summary": {
+      "title_ja": "英国半導体設計企業『Arm』、フィジカルAI生態系の結集を推進",
+      "summary": "英国の半導体設計企業Armは、自動運転車やロボットなどのフィジカルAI分野における協力プログラム『Arm Total Design for Physical AI』を立ち上げた。複数のフィジカルAI専門企業の専門知識を統合し、システム統合の複雑性を軽減しながら自律システム開発を加速させることが目標である。AWSやNXP、Hugging Face、LiquidAIなど大手企業がパートナーとして参画している。",
+      "insights": [
+        "Armが業界標準として自律システム開発の統合基盤を提供することで、フィジカルAI市場の成熟度向上とエコシステムの構築を加速させる",
+        "AWS、NXP、Hugging Faceなど多業種のトッププレイヤーが参画することで、AIチップ設計、クラウドインフラ、機械学習フレームワークの垂直統合が実現する",
+        "複数のアクターによる協力プログラムは、自動運転やロボットの開発コスト削減と上市期間短縮に直結する競争力強化戦略である"
+      ]
+    }
+  },
+  {
+    "title": "씨이랩, 엔비디아 'AI 시티 챌린지 2026' 1위...'ECCV 2026'서 수상",
+    "link": "https://zdnet.co.kr/view/?no=20260909214627",
+    "published": "Wed, 09 Sep 2026 21:46:27 +0900",
+    "keywords": [
+      "sim2real",
+      "Physical AI"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-09-09 16:28:14",
+    "ai_summary": {
+      "title_ja": "씨이랩、エヌビディアの「AI City Challenge 2026」で1位受賞、ECCV 2026で表彰",
+      "summary": "フィジカルAI専門企業の씨이랩がエヌビディア主催の国際コンピュータビジョン競技会「2026 AI City Challenge」のTrack 4（テキスト基づく人物異常検出、Sim2Real）部門で最終1位を獲得しました。同社は約101万枚の合成画像のみで学習したモデルが実映像でも高性能を発揮する「シミュレーション・ツー・リアル（Sim2Real）」技術を実証し、この分野の商用化における重要な課題を解決しました。씨이랩は今回の成果をデジタルツイン構築→合成データ生成→モデル学習→現場適用という統合的なビジネスフローに連携させる計画です。",
+      "insights": [
+        "Sim2Real技術の実証：物理空間でのAI応用の商用化における最大課題である『仮想環境と実環境の性能ギャップ』を解決するアプローチが産業界で実証され、ロボティクス・自動運転・産業自動化の実装可能性が大きく前進した",
+        "デジタルツインと合成データの統合戦略：企業は単なる画像認識ではなく、デジタルツイン構築→学習データ生成→モデル展開という垂直統合型ソリューション提供へシフトしており、B2B産業向けAIの付加価値戦略が高度化している",
+        "国際AI競技会での地政学的重要性：エヌビディアが主催する国際大会で非米国企業が最高成績を獲得することで、AI開発の主導権が多元化し、韓国・アジア系企業のフィジカルAI産業への参入が加速する可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "마음AI, 부산 'SCE 2026'서 로봇개 시연...피지컬AI 강연도",
+    "link": "https://zdnet.co.kr/view/?no=20260909195445",
+    "published": "Wed, 09 Sep 2026 19:54:45 +0900",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-09-09 16:28:21",
+    "ai_summary": {
+      "title_ja": "マインドAI、釜山『SCE 2026』でロボット犬を実演...フィジカルAI講演も実施",
+      "summary": "AI企業のマインドAIは釜山で開催された『2026ワールドスマートシティエクスポ』でフィジカルAI技術に基づくスマートシティのビジョンを提示した。同社の四足歩行ロボット『ハエチ』を用いた講演では、生成型AIからフィジカルAIへの転換、すなわちAIが現実世界を認識・判断し直接行動する時代の到来を強調した。フィジカルAIは都市安全、巡回、施設点検、災害対応など公共領域での活用が期待されている。",
+      "insights": [
+        "フィジカルAIはセンサー/CCTV単純収集から、AI・ロボットが物理的状況を実時間理解し行動する『行動する都市(Actionable City)』への進化を実現する次世代スマートシティインフラ",
+        "マインドAIの競争優位は、現実世界データ理解AI、マルチロボット制御インターフェース、行動物理結果予測のワールドモデル、実行の成功/失敗による継続学習の4要素統合にある",
+        "四足歩行ロボット『ハエチ』は人間アクセス困難な危険環境での運用が可能で、都市インフラ点検・防災・セキュリティ領域でのロボティクス活用の実用化が加速している"
+      ]
+    }
+  },
+  {
+    "title": "Unitree G1 Sparring Demo Uses UnifoLM-X2-1.0 World Model Without Teleoperation",
+    "link": "https://pandaily.com/unitree-g1-unifolm-x2-autonomous-sparring-world-model",
+    "published": "Wed, 09 Sep 2026 09:57:19 GMT",
+    "keywords": [
+      "World Model",
+      "Teleoperation",
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-09-09 16:28:27",
+    "ai_summary": {
+      "title_ja": "Unitree G1がワールドモデル「UnifoLM-X2-1.0」を使用したスパーリングデモを実施—テレオペレーション不要",
+      "summary": "Unitreeは人型ロボット「G1」が、ワールド-アクションモデル「UnifoLM-X2-1.0」により物理状態をリアルタイムで予測し、テレオペレーションなしで自律的にトレーナーとスパーリングを行うデモを披露した。このデモは、ワールドモデル駆動型の人型ロボット制御が実現可能になりつつあることを示している。",
+      "insights": [
+        "ワールドモデルベースの自律制御：テレオペレーションに依存しない自律的な意思決定と動作生成が可能になり、ロボットの実用性が大幅に向上する",
+        "リアルタイム物理予測：環境との動的相互作用（スパーリング）を予測・計画できることで、複雑で不確実な実世界タスクへの対応能力が証明された",
+        "人型ロボット市場の加速：自律型ワールドモデルの実装成功により、産業用途から日常生活支援まで、人型ロボットの商用化ロードマップが現実化する見通し"
+      ]
+    }
+  },
+  {
+    "title": "XPeng puts humanoid robot production line into operation as first IRON robot walks off autonomously",
+    "link": "https://technode.com/2026/09/09/xpeng-puts-humanoid-robot-production-line-into-operation-as-first-iron-robot-walks-off-autonomously/",
+    "published": "Wed, 09 Sep 2026 09:19:58 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-09-09 16:28:35",
+    "ai_summary": {
+      "title_ja": "XPengが人型ロボット生産ラインを稼働開始、初号機IRONが自律走行で生産ラインを離脱",
+      "summary": "XPengは人型ロボット「IRON」の自動生産ラインの稼働を発表し、初号機が自動最終組立プロセスを完了して自律的に生産ラインから走行離脱した。これはXPengが研究開発段階から量産段階への移行を意味する重要なマイルストーンである。IRONは世界初の高度な汎用人型ロボットとして位置付けられている。",
+      "insights": [
+        "中国の主要EV企業が人型ロボット領域で本格的な量産体制を構築し、研究開発から商用化フェーズへ急速にシフトしている",
+        "自動生産ラインの導入により、ロボット製造の効率化と標準化が実現され、市場投入スピードの加速が期待される",
+        "人型ロボット技術の実用化競争が激化する中で、XPengなどのテック企業が自動車産業以外の新規事業領域で競争力を確立しようとしている"
+      ]
+    }
+  },
+  {
+    "title": "How Excelland Robotics Puts Robots to Work",
+    "link": "https://technode.com/2026/09/09/excelland-robotics-puts-robots-to-work/",
+    "published": "Wed, 09 Sep 2026 06:11:46 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-09-09 16:28:40",
+    "ai_summary": {
+      "title_ja": "エクセランドロボティクスがロボットを実務に投入する方法",
+      "summary": "中国でエクセランドロボティクスが開発したロボットたちは、夜間にホテルの廊下を移動したり、エレベーターを待ったり、キャンパス内での配送や地下駐車場の清掃など、人目につかない場所で重要な作業を行っている。これらのロボットは二足歩行ではなく、実際の運用環境での実用性を重視した設計になっている。",
+      "insights": [
+        "実用的なロボティクスは理想的な形態よりも、実際の環境適応性と稼働率を優先する必要がある",
+        "夜間や周辺環境での無人自律作業は、ホテルやキャンパスなどの大型施設運営における主要なユースケースとなっている",
+        "中国のロボティクス企業は、研究開発だけでなく実装・運用段階にフォーカスすることで市場競争力を獲得している"
+      ]
+    }
+  },
+  {
+    "title": "JD Cloud plans 100,000-GPU computing cluster powered by Moore Threads",
+    "link": "https://technode.com/2026/09/09/jd-cloud-moore-threads-100000-gpu-computing-cluster/",
+    "published": "Wed, 09 Sep 2026 05:43:48 +0000",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-09-09 16:28:44",
+    "ai_summary": {
+      "title_ja": "JDクラウド、ムーア・スレッズ製GPUを搭載した100万GPU規模の計算クラスタを計画",
+      "summary": "JDクラウドは、中国チップメーカーのムーア・スレッズ製の汎用GPU10万個を搭載する大規模計算クラスタの構築を計画している。JDの2026年グローバル技術エクスプロータ会議で発表されたこのプロジェクトは、大規模モデルの学習・推論と具現化AI（エンボディドAI）をサポートし、複数産業の企業に計算能力を提供する予定である。",
+      "insights": [
+        "中国国内のAIインフラ構築競争激化：ムーア・スレッズなど国産チップメーカーの採用により、米国NVIDIA依存からの脱却を加速",
+        "エンボディドAI/ロボティクス市場への投資拡大：大規模GPU計算資源をロボティクス・物理AI向けに整備する産業トレンドの出現",
+        "クラウドコンピューティング基盤の民主化：JDクラウドによる外部企業向け計算能力提供で、AI・ロボティクス開発の商用化障壁を低下させる戦略的意義"
+      ]
+    }
+  },
+  {
     "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
     "link": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
     "published": "Tue, 08 Sep 2026 20:39:51 +0000",
