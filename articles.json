@@ -1,5 +1,70 @@
 [
   {
+    "title": "What bricklaying has taught Monumental about robots in construction",
+    "link": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
+    "published": "Wed, 09 Sep 2026 21:08:06 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-09 22:53:05",
+    "ai_summary": {
+      "title_ja": "レンガ積みから学んだ、建設ロボティクスの課題 ―Monumentalの事例",
+      "summary": "建設業界はロボティクス導入の機会に満ちているが、現段階では大規模な市場展開は実現していない。Monumentalのレンガ積みロボット開発の経験から、建設現場でのロボット導入における実装上の課題と可能性が明らかになっている。",
+      "insights": [
+        "建設業界はロボット導入による労働力不足対応と生産性向上の需要が高いが、技術的実装と採算性のギャップが大規模展開を阻害している",
+        "レンガ積みのような反復的・構造化された作業は単純に見えても、現場の多様性や環境変数への対応が実装困難であり、実戦データの蓄積が重要である",
+        "ロボティクス企業が建設市場で成功するには、単なる技術開発だけでなく、既存の建設プロセスや職人の作業流との統合方法の開発が必須である"
+      ]
+    }
+  },
+  {
+    "title": "AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness",
+    "link": "https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/",
+    "published": "Wed, 09 Sep 2026 16:43:28 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-09 22:53:10",
+    "ai_summary": {
+      "title_ja": "AGIBOTがRoboBusinessで人型ロボットをラボから実世界へスケーリングする方法を説明",
+      "summary": "AGIBOTはRoboBusiness conference において、人型ロボットの商用化に向けた実践的知見を共有する。高付加価値のロボティクスユースケース識別と持続可能な開発者エコシステム構築に焦点を当てた講演を予定している。",
+      "insights": [
+        "人型ロボットの実用化には、ラボでの技術検証から実世界応用への段階的スケーリングが重要である",
+        "ロボティクスビジネスの成功には、高ROIが見込める特定用途の選別と優先順位付けが必須",
+        "長期的な産業発展には、開発者コミュニティとエコシステムの構築・維持が競争力の源泉となる"
+      ]
+    }
+  },
+  {
+    "title": "「かすり傷を負ってでも歩く」　日立が見せる覚悟　売り上げ5000億円見込む“AI事業”の拡大にどう挑むか",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/10/news028.html",
+    "published": "Thu, 10 Sep 2026 07:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-09-09 22:53:16",
+    "ai_summary": null
+  },
+  {
+    "title": "GENIACの活動はAI×ロボティクスへ、ロボット基盤モデル開発の採択事業者を発表",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/10/news053.html",
+    "published": "Thu, 10 Sep 2026 06:15:00 +0900",
+    "keywords": [
+      "ロボティクス"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-09-09 22:53:16",
+    "ai_summary": null
+  },
+  {
     "title": "Vention opens Physical AI Lab for manufacturing in Montreal",
     "link": "https://www.therobotreport.com/vention-opens-physical-ai-lab-manufacturing-montreal/",
     "published": "Wed, 09 Sep 2026 15:41:50 +0000",
