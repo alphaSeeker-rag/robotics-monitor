@@ -1,5 +1,121 @@
 [
   {
+    "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
+    "link": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
+    "published": "Thu, 10 Sep 2026 22:14:26 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-10 22:54:58",
+    "ai_summary": {
+      "title_ja": "テラダイン・ロボティクス、ユニバーサルロボッツの3件特許侵害でJAKAを提訴",
+      "summary": "テラダイン・ロボティクスがJAKAに対してユニバーサルロボッツの3件特許侵害で提訴した。訴訟の対象はロボット・インターフェース、安全ブレーキ、関節に関する特許である。これはロボット業界における知的財産権紛争の深刻化を示す事例である。",
+      "insights": [
+        "協働ロボット市場の競争激化に伴い、インターフェース・安全機構・駆動系など基本特許をめぐる知財紛争が増加する傾向",
+        "ユニバーサルロボッツの基本特許群がコボット業界の標準化技術として機能し、後発参入企業との法的対立の源泉になっている",
+        "JAKAなど中国系ロボット企業の急速な成長が、欧米大手による特許防御・市場保護の動きを加速させている"
+      ]
+    }
+  },
+  {
+    "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
+    "link": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
+    "published": "Thu, 10 Sep 2026 20:10:22 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-10 22:55:02",
+    "ai_summary": {
+      "title_ja": "スウォーマー、ウクライナのUGVメーカー「ラテル・ロボティクス」を最大2億2,400万ドルで買収",
+      "summary": "スウォーマーはスウォームソフトウェアを開発する企業で、ウクライナの無人地上車両メーカー・ラテル・ロボティクスを買収予定。本買収によってスウォーマーはラテル・ロボティクスのUGVとスウォームソフトウェアを組み合わせた協調ロボット戦術をウクライナで展開できるようになる。",
+      "insights": [
+        "スウォーム技術とUGVの統合により、複数の無人地上車両を協調制御する軍事・防衛応用が可能になり、実戦環境での検証機会が得られる",
+        "ウクライナ紛争が進行中の地政学的環境により、ロボティクス企業の買収・提携が防衛技術の実装と検証の場として機能している",
+        "アメリカ資本によるウクライナ技術企業の買収は、東欧のロボティクス人材・技術資産の北米統合を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "Robots Are Learning to Feel",
+    "link": "https://spectrum.ieee.org/tactile-data-robots",
+    "published": "Thu, 10 Sep 2026 18:22:35 +0000",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics",
+      "Physical AI",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-09-10 22:55:07",
+    "ai_summary": {
+      "title_ja": "ロボットが触覚を習得している",
+      "summary": "ロボットの器用な操作能力は視覚言語行動（VLA）モデルの進化により向上していますが、触覚データの不足が課題でした。学術機関とスタートアップが触覚データセットと活用技術の開発競争を展開し、この状況が変わり始めています。触覚機能はロボットが日常的な複雑なタスクを成功させるための重要な鍵となる可能性があります。",
+      "insights": [
+        "触覚データは現在のロボティクスの大きなボトルネックであり、質の高いタクタイルデータセットの構築が業界競争の焦点となっている",
+        "VLAモデルと触覚センシングの統合により、視覚のみに依存する現在のロボット操作能力をさらに拡張できる可能性がある",
+        "洗濯物たたみ・片付け・調理など日常的タスク実現には、触覚フィードバックが重要な実装要件になる可能性が高い"
+      ]
+    }
+  },
+  {
+    "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+    "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+    "published": "Thu, 10 Sep 2026 16:30:35 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-09-10 22:55:11",
+    "ai_summary": {
+      "title_ja": "Skild AIがNVIDIA Physical AIを活用し、単一ビデオからロボットに新しいタスクを教える",
+      "summary": "Skild AIが発表した新型ロボット基盤モデル「S1」は、単一のビデオデモンストレーションから未経験の長期タスクを学習できます。製造現場や倉庫の環境変化に対応し、大規模な再プログラミングなしにロボットが新しい作業に適応できるようになります。NVIDIA Physical AIを活用することで、ロボットの学習効率と汎用性が大幅に向上します。",
+      "insights": [
+        "単一ビデオからの学習により、ロボットの再プログラミングコストと導入時間を大幅削減でき、製造業の柔軟性が向上する",
+        "ロボット基盤モデルの登場により、異なるタスク間の転移学習が可能になり、ロボティクス産業における汎用性革命が加速している",
+        "NVIDIA Physical AIのような専門的なAIプラットフォームの活用が、実世界のロボット制御における物理的制約の理解を深める傾向が強まっている"
+      ]
+    }
+  },
+  {
+    "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+    "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+    "published": "Thu, 10 Sep 2026 16:00:04 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-09-10 22:55:15",
+    "ai_summary": {
+      "title_ja": "フィジカルAIが主導権を握る：世界のロボタクシー企業がNVIDIA技術で構築する方法",
+      "summary": "ロボタクシーはPhysical AIの最初の商用化の成功例として、2035年までに4,000億ドル規模の市場に成長し、600万台以上の商用車が世界の複雑な街路で運用される見通し。ドライバーレス車両の配置から運用開始は1つの課題だが、フリート全体のスケーリングはさらに大きな課題となる。NVIDIA技術がこうしたスケーリング課題の解決に中心的な役割を果たしている。",
+      "insights": [
+        "ロボタクシー市場は物理的世界で動作するAI（Physical AI）の初の大規模商用化であり、急速な市場拡大が予測されている",
+        "NVIDIA技術は単なる個別車両の自動運転ではなく、大規模フリート運用のスケーリングに必須のプラットフォームとなっている",
+        "自動運転技術の実装よりも、複数台の車両を統合的に管理・運用するフリート管理システムの構築がロボタクシービジネスの成功鍵である"
+      ]
+    }
+  },
+  {
+    "title": "まるで直接触れている!?　遠隔から重さや柔らかさを感じるオカムラの物流ロボ",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/11/news037.html",
+    "published": "Fri, 11 Sep 2026 06:15:00 +0900",
+    "keywords": [
+      "遠隔操作"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-10 22:55:22",
+    "ai_summary": null
+  },
+  {
     "title": "GMOの世界ロボット運動会出場、言い出しっぺは新卒1年目の社員？　プロジェクト統括までしていた",
     "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001384/",
     "published": "Thu, 10 Sep 2026 18:49:11 +0900",
