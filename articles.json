@@ -1,5 +1,45 @@
 [
   {
+    "title": "One brick at a time: How Monumental uses robotics to build walls",
+    "link": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
+    "published": "Fri, 11 Sep 2026 21:09:01 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-11 22:56:43",
+    "ai_summary": {
+      "title_ja": "一つのレンガずつ：Monumentalがロボティクスで壁を建設する方法",
+      "summary": "Monumentalは、ロボティクス技術を活用して壁の建設プロセスを自動化している企業です。CEOのSalar al Khafaji氏がポッドキャストで、同社がどのようにロボット技術を建設産業に適用しているかについて説明しています。この取り組みは、労働力不足や建設効率の課題に対する革新的なソリューションを提供しています。",
+      "insights": [
+        "建設産業のオートメーション化により、危険で単調な作業の自動化が可能になり、労働者の安全性と生産性が向上する",
+        "ロボティクスの導入により建設プロセスの精度と速度が向上し、プロジェクトコストの削減と納期短縮が実現される",
+        "建設業界における人手不足と高齢化問題に対して、ロボット技術は重要な代替手段となり、産業の持続可能性を高める"
+      ]
+    }
+  },
+  {
+    "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+    "link": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
+    "published": "Fri, 11 Sep 2026 19:49:40 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-11 22:56:47",
+    "ai_summary": {
+      "title_ja": "RoboBusiness：自動運転車とロボティクスがフィールド展開の基盤を構築",
+      "summary": "ASIのCEOメル・トーリーが、自動運転車（AV）とロボティクスの交差点がフィールド展開をさらに革新する理由について探究する。両技術の融合により、実運用環境での自律システムの能力が大幅に拡張される見込み。",
+      "insights": [
+        "自動運転車とロボティクスの統合により、フィールド展開における自律性と作業効率が飛躍的に向上する可能性",
+        "両分野の技術的なシナジーが実現することで、複雑なオペレーション環境での信頼性と実用性が高まる",
+        "産業用途におけるAVとロボティクスの組み合わせが、新たなビジネスモデルと商用化の機会を創出する傾向"
+      ]
+    }
+  },
+  {
     "title": "How to select the right rack and pinion system for high-precision linear motion",
     "link": "https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion/",
     "published": "Fri, 11 Sep 2026 14:35:47 +0000",
