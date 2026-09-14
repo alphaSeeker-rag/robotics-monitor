@@ -1,5 +1,69 @@
 [
   {
+    "title": "Why RaaS needs more than a subscription model",
+    "link": "https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/",
+    "published": "Mon, 14 Sep 2026 21:45:57 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-14 23:40:10",
+    "ai_summary": {
+      "title_ja": "RaaS（ロボティクス・サービス化）にはサブスクリプションモデル以上のものが必要",
+      "summary": "RoboBusiness 2026のパネルセッションでは、ロボティクス業界の経営幹部がロボットのサービス化（RaaS）ビジネスモデルの実践的な展開方法を検討する。RaaSの成功には、単なるサブスクリプション課金制度だけでなく、より包括的なビジネスフレームワークが必要とされている。",
+      "insights": [
+        "RaaSモデルの採用が進む中、従来のサブスクリプションモデルでは顧客満足度とロボット運用コストの最適化に課題があり、統合的なサービスプラットフォーム構築が急務",
+        "ロボティクス企業はハードウェアの提供にとどまらず、メンテナンス、データ分析、AI最適化などの付加価値サービスをバンドル化する必要性",
+        "RaaS市場の拡大にはロボット導入企業の継続的な成功を保証する、結果ベースの価格設定や長期パートナーシップモデルの構築が不可欠"
+      ]
+    }
+  },
+  {
+    "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
+    "link": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/",
+    "published": "Mon, 14 Sep 2026 21:01:59 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-14 23:40:13",
+    "ai_summary": {
+      "title_ja": "外科用ロボットの進歩と倉庫自動化の実装に関するレポート",
+      "summary": "本レポートは、外科用ロボティクスの事例研究と倉庫環境におけるモバイルロボットの最適な導入方法について取り上げています。現実世界での実装ケースを通じて、ロボット技術の医療・物流分野での活用が進展していることを示しています。",
+      "insights": [
+        "外科用ロボットは高度な精密性が求められる医療分野で実用化が進み、具体的な成功事例が蓄積されている",
+        "倉庫自動化においてはモバイルロボットの導入が課題解決の鍵であり、実装方法の最適化が産業的に重要となっている",
+        "ロボット導入の成功には技術的な先進性だけでなく、現場での実装戦略と運用方法の工夫が不可欠である"
+      ]
+    }
+  },
+  {
+    "title": "メカトロ機器を素早く動かしたい！　LMガイドのレイアウトで変わる機械剛性",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/15/news006.html",
+    "published": "Tue, 15 Sep 2026 08:00:00 +0900",
+    "keywords": [
+      "アクチュエータ"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-14 23:40:19",
+    "ai_summary": null
+  },
+  {
+    "title": "フィジカルAI支えるURの新たな協働ロボット基盤の全貌、2027年にはGPU搭載",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/15/news056.html",
+    "published": "Tue, 15 Sep 2026 07:15:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-14 23:40:19",
+    "ai_summary": null
+  },
+  {
     "title": "Arm to discuss scaling physical AI at RoboBusiness",
     "link": "https://www.therobotreport.com/arm-to-discuss-scaling-physical-ai-at-robobusiness/",
     "published": "Mon, 14 Sep 2026 16:09:27 +0000",
