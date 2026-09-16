@@ -1,5 +1,63 @@
 [
   {
+    "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
+    "link": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/",
+    "published": "Wed, 16 Sep 2026 17:45:50 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-16 23:30:37",
+    "ai_summary": {
+      "title_ja": "Digit の進化: Agility Robotics の Cassie から Digit 5 までの軌跡",
+      "summary": "Agility Robotics は、Cassie から始まり、5つの異なるバージョンの Digit を開発することで、ロボット技術を産業用タスクに適応させてきた。各バージョンの進化を通じて、実際の工業現場の要求に応じた機能改善と最適化を実現している。",
+      "insights": [
+        "産業用ロボットの進化には、単一の最終形態ではなく段階的なイテレーション開発が重要である",
+        "実世界の産業タスク適応が、ロボット設計の改良サイクルを駆動する主要因となっている",
+        "二足歩行ロボットプラットフォームの汎用性により、複数の産業用途への展開が可能になっている"
+      ]
+    }
+  },
+  {
+    "title": "Rethinking Robot Safety in the Age of AI",
+    "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+    "published": "Wed, 16 Sep 2026 16:51:02 +0000",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics",
+      "humanoid",
+      "Physical AI",
+      "autonomous robot",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-09-16 23:30:41",
+    "ai_summary": {
+      "title_ja": "AI時代におけるロボット安全性の再考",
+      "summary": "従来のロボット安全性は「何か問題が発生した時に安全を保つ」という観点だったが、フィジカルAIの時代には「一見して何も故障していないのに、攻撃者がロボットの認識・判断・行動を変化させた場合に安全を保つ」という難しい課題が生じている。現代のロボットはマルチモーダルセンサーで環知覚し、AIモデルで文脈を解釈して物理的行動に変換するため、意思決定を導くデータの完全性がロボットの安全性を決定する。従来の安全評価では捉えきれない、データ操作による行動制御のリスクが新たに顕在化している。",
+      "insights": [
+        "AI搭載ロボットの安全性評価パラダイムの転換が必要：従来の物理的故障検知から、センサーデータ・AI解釈層への敵対的操作検知へのシフトが急務",
+        "マルチモーダルセンサー依存の脆弱性：視覚・聴覚・触覚などの複数センサー入力を利用するロボットは、個別のセンサー攻撃による連鎖的な誤判断リスクに晒されている",
+        "動的環境でのロボット運用には、データ完全性保証・異常検知メカニズム・サイバーセキュリティ統合が不可欠な新しい安全基準の策定が必要"
+      ]
+    }
+  },
+  {
+    "title": "国産汎用ロボットによるフィジカルAIのデータ収集で7社が競う、試作機を披露",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/17/news053.html",
+    "published": "Thu, 17 Sep 2026 06:45:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-09-16 23:30:48",
+    "ai_summary": null
+  },
+  {
     "title": "パナソニックの設計AI事例やフィジカルAIの展望も　「Virtual EXPO 2026 夏」開催中！",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2609/16/news022.html",
     "published": "Wed, 16 Sep 2026 12:30:00 +0900",
