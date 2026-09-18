@@ -1,5 +1,66 @@
 [
   {
+    "title": "The picks-and-shovels strategy behind the robotics boom",
+    "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+    "published": "Fri, 18 Sep 2026 18:57:36 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-18 22:59:02",
+    "ai_summary": {
+      "title_ja": "ロボティクスブームの背後にある「ツルハシとシャベル」戦略",
+      "summary": "ロボティクス産業の真の成長機会は、各家庭にヒューマノイドロボットを配置することではなく、企業が現在必要とする仕事に特化したロボットを提供することにある。このアプローチは、特定のビジネスニーズに対応した実用的なソリューション開発に焦点を当てている。",
+      "insights": [
+        "ロボティクス市場の成熟には、汎用ロボットよりも業務特化型ロボットの開発・展開が近道である",
+        "B2B向けの産業用ロボットソリューションが、B2C向けコンシューマー製品よりも市場機会として大きい可能性がある",
+        "「ツルハシとシャベル戦略」とは、ゴールドラッシュ時代に採掘者ではなくツール供給者が利益を得たという歴史的教訓を、ロボティクス産業に適用する考え方"
+      ]
+    }
+  },
+  {
+    "title": "SoftBank agrees to acquire Robotics and AI Institute",
+    "link": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
+    "published": "Fri, 18 Sep 2026 17:14:32 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-18 22:59:06",
+    "ai_summary": {
+      "title_ja": "ソフトバンク、ロボティクス・AI研究所の買収に合意",
+      "summary": "ソフトバンクがロボティクス・AI研究所の買収に合意した。この取引は数ヶ月前から噂されていたが、現在は米国外国投資委員会(CFIUS)による審査が進行中である。",
+      "insights": [
+        "ソフトバンクがフィジカルAI領域への戦略的投資を強化し、ロボティクス技術の内部能力を拡大しようとしている",
+        "米国の重要技術・安全保障に関わる買収案件であるため、CFIUS審査という規制的障壁が存在し、取引完了には政治的リスク要因がある",
+        "アジア発の大型テック企業による米国AI/ロボティクス資産の買収は、地政学的な技術覇権競争の一部として認識される可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "F-Prime Capital to give insights on the state of robotics investments at RoboBusiness",
+    "link": "https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness/",
+    "published": "Fri, 18 Sep 2026 16:16:44 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-18 22:59:09",
+    "ai_summary": {
+      "title_ja": "F-Prime Capital、RoboBusiness でロボティクス投資の現状に関する知見を提供",
+      "summary": "F-Prime Capital のサンジェイ・アガルワルとベッツィ・ミュールが、RoboBusiness カンファレンスで同社の「ロボティクス投資の現状レポート」を発表する。このレポートは、ロボティクス産業の投資トレンドと市場動向に関する重要な分析を提供する。",
+      "insights": [
+        "大手VC企業が定期的にロボティクス投資レポートを発行し、業界の透明性と信頼性を構築している",
+        "RoboBusiness などの業界カンファレンスが、投資家と起業家の重要な情報交換の場として機能している",
+        "ロボティクス分野への機関投資家の関心が高まり、市場成熟度が向上していることを示唆している"
+      ]
+    }
+  },
+  {
     "title": "Icarus Robotics flies ISS-bound robot in microgravity for the first time",
     "link": "https://www.therobotreport.com/icarus-robotics-flies-iss-bound-robot-in-microgravity-for-the-first-time/",
     "published": "Fri, 18 Sep 2026 13:07:45 +0000",
