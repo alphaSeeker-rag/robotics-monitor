@@ -1,5 +1,37 @@
 [
   {
+    "title": "パナソニック・サムスン撤退の裏で「中国勢5割」　独IT見本市「IFA」トップが明かす舞台裏",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/19/news010.html",
+    "published": "Sat, 19 Sep 2026 08:00:00 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-09-19 15:47:25",
+    "ai_summary": null
+  },
+  {
+    "title": "CATL Targets 2027 Small-Batch All-Solid-State Battery Production",
+    "link": "https://pandaily.com/catl-2027-all-solid-state-small-batch",
+    "published": "Sat, 19 Sep 2026 02:23:10 GMT",
+    "keywords": [
+      "Solid-State Battery"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-09-19 15:47:31",
+    "ai_summary": {
+      "title_ja": "CATL、2027年の全固体電池小量生産を目指す",
+      "summary": "CATLは2027年の全固体電池の小量生産を目標としており、現在の開発段階はTRL-4（技術成熟度レベル4）である。このマイルストーンはパイロット製造であり、2030年前までの大量生産・車両搭載ではない。",
+      "insights": [
+        "全固体電池は次世代EV技術として重要だが、CATLでさえ2027年時点ではパイロット段階であり、商用化にはなお3-5年の開発期間が必要",
+        "TRL-4は実験室環境での技術検証段階を意味し、製造プロセスの課題（コスト、歩留まり、スケーラビリティ）が本格化することを示唆",
+        "主要バッテリー企業の中でもCATLのような大手でさえ全固体電池の実用化時期が2030年以降にずれ込むことで、業界全体の技術進展ペースが予想より緩やかであることが確認される"
+      ]
+    }
+  },
+  {
     "title": "The picks-and-shovels strategy behind the robotics boom",
     "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
     "published": "Fri, 18 Sep 2026 18:57:36 +0000",
