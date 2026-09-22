@@ -1,5 +1,66 @@
 [
   {
+    "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
+    "link": "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/",
+    "published": "Tue, 22 Sep 2026 21:31:19 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-22 23:27:11",
+    "ai_summary": {
+      "title_ja": "IntelがロボビジネスでフィジカルAIのスケーリングに必要なインフラを議論",
+      "summary": "Intelの技術者Nagesh Puppalaは、ロボティクスイノベーションの次段階が単なる大規模モデルやシミュレーション改善では不十分であることを説明する。フィジカルAIのスケーリングには、基盤となるインフラストラクチャが重要な役割を担うことが強調される。",
+      "insights": [
+        "フィジカルAI実装には、モデルやアルゴリズムだけでなく、ハードウェア・インフラの整備が必須要件である",
+        "ロボティクスの産業化には、エッジコンピューティングやリアルタイム処理能力などのシステムレベルの最適化が必要",
+        "大型テック企業は単なるAI技術提供者から、ロボット運用を支える統合インフラプロバイダーへの転換を進めている"
+      ]
+    }
+  },
+  {
+    "title": "Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA",
+    "link": "https://www.therobotreport.com/isaac-ros-5-0-brings-ai-agents-robotics-development-says-nvidia/",
+    "published": "Tue, 22 Sep 2026 17:51:19 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-22 23:27:14",
+    "ai_summary": {
+      "title_ja": "NVIDIA Isaac ROS 5.0がロボティクス開発にAIエージェント機能をもたらす",
+      "summary": "NVIDIAはIsaac ROS 5.0をリリースし、AIエージェント機能と新しいプラットフォームサポートを導入した。このアップデートにより、開発者はロボティクスアプリケーションのデプロイメント速度を向上させることができる。エージェンティックワークフローの統合により、ロボット開発プロセスの効率化が期待される。",
+      "insights": [
+        "AIエージェント機能の統合により、ロボティクス開発にLLM/生成AIの活用が本格化する転換点となる可能性がある",
+        "プラットフォームサポートの拡充は、開発者の採用障壁低減とエコシステム拡大を加速させる戦略的な動き",
+        "アジャイルなロボット開発環境の構築が進むことで、産業用ロボットから自律システムまでの幅広い応用が加速する可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "차세대 AI부터 수술 로봇까지: IEEE, 미래를 이끄는 기술 혁신가들을 조명",
+    "link": "https://zdnet.co.kr/view/?no=20260923001024",
+    "published": "Wed, 23 Sep 2026 00:10:24 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-09-22 23:27:23",
+    "ai_summary": {
+      "title_ja": "次世代AIから手術ロボットまで：IEEE、未来を牽引する技術革新者たちを表彰",
+      "summary": "世界最大の技術・工学コミュニティであるIEEEが、2027年度の技術分野賞受賞者を発表した。医療ロボット、次世代Wi-Fi、電気自動車、マイクロエレクトロニクス、人工知能など複数分野で革新的成果を上げた研究者とチームが選出されている。この賞は厳格な同業者評価を通じて、全球技術コミュニティに持続的な影響を与えた優秀な技術的リーダーシップを認定するもの。",
+      "insights": [
+        "医療ロボティクスが重要な技術トレンドとして確立：手術支援ロボットのような生命救助型ロボットが国際的な技術賞の主要カテゴリとなっており、フィジカルAI分野の成熟度と社会的期待が高まっている",
+        "多領域統合イノベーションの加速：AI、マイクロエレクトロニクス、無線ネットワーク、電力電子、EV技術などが同時に表彰対象となっており、これら技術の相互融合によるエコシステム構築が進行中",
+        "リーダーシップと社会インパクト評価の重視：技術的成果だけでなく、人類の利益への貢献と教育への影響を重視する評価基準が、技術革新の社会的責任化を推進している"
+      ]
+    }
+  },
+  {
     "title": "Intrinsic open sources key parts of its platform for easier development",
     "link": "https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development/",
     "published": "Tue, 22 Sep 2026 11:55:37 +0000",
