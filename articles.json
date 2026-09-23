@@ -1,5 +1,45 @@
 [
   {
+    "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
+    "link": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/",
+    "published": "Wed, 23 Sep 2026 18:04:35 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-23 23:24:40",
+    "ai_summary": {
+      "title_ja": "新しいVENTUNO Qボードで、Arduinoはロボティクス開発の簡素化を目指す",
+      "summary": "Arduinoが新たに発表したVENTUNO Qボードは、同社の意図的なロボティクス分野への初めての進出である。Arduinoは20年以上にわたってロボティクス開発者と協働した実績を持っており、その経験を活かしてロボティクス開発をより簡単にすることを目標としている。",
+      "insights": [
+        "Arduinoの20年以上のロボティクス開発支援経験が、VENTUNO Qボード開発の基盤となっており、開発者コミュニティとの深い信頼関係が競争優位性になる可能性がある",
+        "マイコンボード大手による意図的なロボティクス市場への本格参入は、ロボティクス開発のエコシステム成熟化と民主化を加速させる動き",
+        "ハードウェアプラットフォームの統合化により、プロトタイピングから商用化までの開発期間短縮と、エンジニアリングコストの削減が実現される可能性"
+      ]
+    }
+  },
+  {
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "published": "Wed, 23 Sep 2026 18:41:40 GMT",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Hugging Face",
+    "flag": "Lab",
+    "detected_at": "2026-09-23 23:24:56",
+    "ai_summary": {
+      "title_ja": "NVIDIA WarpとMjWarpを使用してロボティクスシミュレーションと学習ワークフローを高速化する方法",
+      "summary": "NVIDIA WarpおよびMjWarpフレームワークは、GPUを活用したロボティクスシミュレーションと機械学習パイプラインの高速化を実現する。これらのツールはPythonベースの開発環境で物理シミュレーションを効率的に処理し、ロボット学習の計算時間を大幅に削減する。MuJoCoシミュレータとの統合により、産業レベルのロボティクス開発が従来比で数倍以上高速化される。",
+      "insights": [
+        "GPU並列処理によるシミュレーション加速により、強化学習のサンプル生成速度が従来CPU実装比で10-100倍向上し、ロボット学習の開発サイクルが劇的に短縮される",
+        "NVIDIA WarpのJIT compilationとMjWarp統合により、Pythonの利便性を保ちながらC/CUDAレベルのパフォーマンスが実現でき、研究から本番デプロイまでの開発効率が向上する",
+        "バッチシミュレーション機能により複数ロボットエージェントの同時学習が可能となり、マルチエージェントロボティクスや分散型学習システムの実装が実用的になる"
+      ]
+    }
+  },
+  {
     "title": "State of Humanoids keynote brings industry leaders to RoboBusiness",
     "link": "https://www.therobotreport.com/state-of-humanoids-keynote-brings-industry-leaders-robobusiness/",
     "published": "Wed, 23 Sep 2026 12:25:11 +0000",
