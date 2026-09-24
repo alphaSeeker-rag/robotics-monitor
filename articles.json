@@ -1,5 +1,50 @@
 [
   {
+    "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+    "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+    "published": "Thu, 24 Sep 2026 18:00:04 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-09-24 23:44:43",
+    "ai_summary": {
+      "title_ja": "メキシコのEPICS in IEEE チームが可搬式教育プラットフォームを構築",
+      "summary": "グアダラハラの高校では優秀な学生と意欲的な教員がいながら、ロボティクス実験室などの先進的なツールへのアクセスが不足していた。ITESO大学のEPICS in IEEE イニシアティブに参加する学際的チーム(学生15名、顧問、IEEE志願者)は、可搬式で自己完結型の教育プラットフォーム「RoboMeshA」を開発し、ロボティクスとAI体験を教室に持ち込む取り組みを進めている。",
+      "insights": [
+        "リソース不足地域における遠隔教育・移動式学習施設の重要性：専用の施設建設が困難な環境で、可搬式プラットフォームによるSTEM教育アクセスの民主化が実現可能",
+        "産学連携による教育格差の解消：大学とIEE財団の協働により、高度なロボティクス・AI教育を低コストで広範な学生層に提供できるモデルの構築",
+        "EPICS in IEEEプログラムの有効性：学生の実践的な問題解決スキル育成と地域社会への貢献を同時に実現するプラットフォーム"
+      ]
+    }
+  },
+  {
+    "title": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
+    "published": "Fri, 25 Sep 2026 06:45:00 +0900",
+    "keywords": [
+      "チップレット",
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-09-24 23:44:50",
+    "ai_summary": null
+  },
+  {
+    "title": "NTTドコモビジネスのIoTサービスが機能拡充、ソブリンAIや大規模展開に対応",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news067.html",
+    "published": "Fri, 25 Sep 2026 07:45:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-24 23:44:50",
+    "ai_summary": null
+  },
+  {
     "title": "NTTドコモビジネス、国内完結のAI環境と大規模IoT向け新機能を発表",
     "link": "https://japan.zdnet.com/article/35252916/",
     "published": "",
