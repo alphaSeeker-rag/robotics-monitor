@@ -1,5 +1,45 @@
 [
   {
+    "title": "Amazon to invest $100M in new Indiana manufacturing facility",
+    "link": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
+    "published": "Fri, 25 Sep 2026 18:59:01 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-25 23:46:08",
+    "ai_summary": {
+      "title_ja": "アマゾン、インディアナ州に1億ドル規模の新製造施設に投資",
+      "summary": "アマゾンはインディアナ州に1億ドルを投じて新しい製造施設を建設する。この施設は北米全域のアマゾンの物流・ロボティクスネットワークを支える製品を製造する予定である。",
+      "insights": [
+        "アマゾンの垂直統合戦略：サプライチェーンの一部を内製化することで、ロボティクスシステムの供給安定性と開発スピードを強化",
+        "フルフィルメント自動化の加速：北米規模での物流ロボティクス製品の製造能力拡大により、物流センターの自動化導入が加速する可能性",
+        "米国製造業への投資：オンショアリング傾向を反映し、重要なロボティクス・部品製造を国内に集約することでサプライチェーンリスクを軽減"
+      ]
+    }
+  },
+  {
+    "title": "General Robotics is betting on modular intelligence, not one robot brain",
+    "link": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
+    "published": "Fri, 25 Sep 2026 18:43:22 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-25 23:46:12",
+    "ai_summary": {
+      "title_ja": "General Roboticsは単一のロボット脳ではなくモジュール型インテリジェンスに賭ける",
+      "summary": "General Roboticsは、すべての機能を1つのモデルで学習させるのではなく、特化した能力をモジュール的に組み合わせるアプローチを採用している。このモジュール型アーキテクチャにより、ロボットは異なるタスクや形態要因を横断して適応できるようになる。",
+      "insights": [
+        "モジュール型インテリジェンスは単一の汎用AIモデルより、ロボットの多様なタスク対応力と柔軟性を向上させる可能性がある",
+        "特化した能力モジュールの組み合わせにより、異なるロボットフォームファクタ（形状・サイズ）への適用が容易になり、プラットフォーム横断的な展開が実現しやすい",
+        "この設計思想は、汎用AIへの過度な依存を避け、実装効率と予測可能性を高めるロボティクス業界の実用的トレンドを反映している"
+      ]
+    }
+  },
+  {
     "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
     "link": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
     "published": "Fri, 25 Sep 2026 14:08:27 +0000",
