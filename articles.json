@@ -1,5 +1,29 @@
 [
   {
+    "title": "ロボットを入れれば終わりじゃない　フィジカルAIを現場で動かす企業の役割とは",
+    "link": "https://kn.itmedia.co.jp/kn/article/2609/28/2000001734/",
+    "published": "Mon, 28 Sep 2026 07:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-09-27 23:35:29",
+    "ai_summary": null
+  },
+  {
+    "title": "ダイフクが物流倉庫の完全自動化へヒューマノイドを開発、2030年に実証実験",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news058.html",
+    "published": "Mon, 28 Sep 2026 07:15:00 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-27 23:35:29",
+    "ai_summary": null
+  },
+  {
     "title": "Asimov’s laws are not enough to keep robotics and AI safe",
     "link": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
     "published": "Sun, 27 Sep 2026 12:26:44 +0000",
