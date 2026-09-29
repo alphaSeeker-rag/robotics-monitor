@@ -1,5 +1,38 @@
 [
   {
+    "title": "Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for humanoids",
+    "link": "https://www.therobotreport.com/robotics-threshold-economic-autonomy-crypto-wallets-humanoids/",
+    "published": "Mon, 28 Sep 2026 13:56:56 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-29 00:47:52",
+    "ai_summary": {
+      "title_ja": "ロボノミクスの転機：ヒューマノイドの経済的自律性、スマートシティ、暗号ウォレット",
+      "summary": "ロボットが街中での配送や家庭での作業を行う時代において、経済性はロボティクス発展の推進力であると同時に制約要因となっている。ヒューマノイドロボットの実用化には、経済的自律性とスマートシティ環境の統合が不可欠である。暗号ウォレットなどの自動決済機構がロボットの経済活動を支える基盤となりつつある。",
+      "insights": [
+        "ロボットの経済的自律性（自己決済・資源管理）がロボティクス産業の次段階の課題であり、実装には規制・技術両面の解決が必要",
+        "スマートシティインフラとロボットの統合により、自動配送・物流の実現可能性が高まり、新しいロボノミクス市場が形成される可能性",
+        "ブロックチェーン・暗号資産がロボット間・ロボット-人間間の自動取引を実現する仕組みとして機能し始めており、AIエージェント経済の実装に向けた重要な要素"
+      ]
+    }
+  },
+  {
+    "title": "「デジタルの言葉が聞こえない」と言われた電源開発が、DX開始4年でフィジカルAIに挑むまで",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news014.html",
+    "published": "Tue, 29 Sep 2026 08:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-09-29 00:48:00",
+    "ai_summary": null
+  },
+  {
     "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
     "link": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
     "published": "Mon, 28 Sep 2026 17:41:32 +0000",
