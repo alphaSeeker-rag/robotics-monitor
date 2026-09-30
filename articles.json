@@ -1,5 +1,37 @@
 [
   {
+    "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
+    "link": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026/",
+    "published": "Tue, 29 Sep 2026 19:52:46 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-09-30 00:02:20",
+    "ai_summary": {
+      "title_ja": "ForceNがRoboBusiness開催時にヒューマノイドロボット向け力覚・トルクセンサの集中講座を実施",
+      "summary": "ForceNはRoboBusiness会議でヒューマノイドロボットにおける力覚センサとトルクセンサの活用法について講座を開催する。参加者は、これらセンサを装備したロボットの実践的な使用方法や、センサ損傷を防ぐための対策手法を学ぶ機会が提供される。",
+      "insights": [
+        "ヒューマノイドロボットの実用化が進む中で、力覚・トルクセンサの正確な理解と適切な運用が業界の重要課題となっている",
+        "センサの破損防止という課題が明示されており、ロボットの耐久性向上と運用コスト削減が実装上の課題であることを示唆している",
+        "業界専門カンファレンスでの教育プログラム充実により、ロボティクス企業のセンシング技術に対するニーズが高まっていることが示唆される"
+      ]
+    }
+  },
+  {
+    "title": "「スタートアップが産業を変える」　AWSとSTRADVISIONが語るフィジカルAIの進化",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2609/30/news012.html",
+    "published": "Wed, 30 Sep 2026 06:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-09-30 00:02:30",
+    "ai_summary": null
+  },
+  {
     "title": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
     "link": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/",
     "published": "Tue, 29 Sep 2026 14:00:12 +0000",
