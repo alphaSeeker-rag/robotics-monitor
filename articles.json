@@ -1,5 +1,25 @@
 [
   {
+    "title": "Top 10 robotics stories of September 2026",
+    "link": "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026/",
+    "published": "Thu, 01 Oct 2026 20:42:08 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-02 00:29:40",
+    "ai_summary": {
+      "title_ja": "2026年9月のロボティクス業界トップ10ニュース",
+      "summary": "2026年9月は、IMTS、ROSCon、iROSなどの主要業界イベントが開催され、ロボティクス分野における多数の革新的な発展がもたらされた。これらのライブイベントを通じて、業界全体で技術進展と新規プロダクト発表が相次いだ。",
+      "insights": [
+        "主要な国際展示会（IMTS、ROSCon、iROS）がロボティクス技術の発展と業界コラボレーションの重要なプラットフォームとなっている",
+        "9月は業界イベント集中期間として、複数の大型展示会の開催がロボティクス企業の新規発表やパートナーシップ構築の機会を創出している",
+        "ライブイベントの開催がロボティクス・フィジカルAI分野の市場動向と技術トレンド把握の重要な情報源となっている"
+      ]
+    }
+  },
+  {
     "title": "Boston Dynamics drops pinkie on new humanoid hand",
     "link": "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/",
     "published": "Thu, 01 Oct 2026 17:52:51 +0000",
