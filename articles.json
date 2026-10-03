@@ -1,5 +1,45 @@
 [
   {
+    "title": "Inside Omron’s next-generation LD mobile robots",
+    "link": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
+    "published": "Fri, 02 Oct 2026 23:01:36 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-03 00:06:47",
+    "ai_summary": {
+      "title_ja": "オムロンの次世代LD移動ロボットの内部構造",
+      "summary": "モバイルロボティクス分野では、ロボット本体と同等かそれ以上に、ソフトウェア、安全性、フロート管理が重要になりつつある。オムロンのプロジェクトマネージャーによると、これらの要素がロボット導入の成功を左右する要因となっている。",
+      "insights": [
+        "ハードウェア中心から統合ソリューション重視へのシフト：ロボット本体の性能だけでなく、ソフトウェアと運用管理が競争力の源泉となっている",
+        "安全性の高度化：複数ロボットの協調動作環境では、安全規格への対応がシステム全体の信頼性を決定する重要要素",
+        "フロート管理技術の差別化：複数ロボットの効率的な運用・最適化を可能にするフロート管理システムが、顧客価値の向上に直結している"
+      ]
+    }
+  },
+  {
+    "title": "Runway introduces Praxis-1 world action model for robotics",
+    "link": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
+    "published": "Fri, 02 Oct 2026 18:32:13 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-03 00:06:50",
+    "ai_summary": {
+      "title_ja": "Runwayがロボティクス向けの世界アクションモデル「Praxis-1」を発表",
+      "summary": "RunwayはロボティクスAIの新モデル「Praxis-1」を開発しており、公開時にはオープンウェイト形式での配布を計画している。これは閉鎖的なモデルではなく、オープンソースアプローチを採用することで、ロボティクス業界全体の発展を促進する戦略となっている。",
+      "insights": [
+        "オープンウェイト戦略により、ロボティクス開発の民主化と業界全体の技術進展を加速させる可能性",
+        "基盤モデル企業がロボティクス領域での競争力強化に注力し、エッジコンピューティングと実世界AI統合が市場トレンドになりつつある",
+        "ワールドアクションモデルは物理世界の複雑な動作理解を可能にし、汎用ロボット実現に向けた重要な技術ステップとなる"
+      ]
+    }
+  },
+  {
     "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
     "link": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
     "published": "Fri, 02 Oct 2026 16:30:02 +0000",
