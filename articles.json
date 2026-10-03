@@ -1,5 +1,26 @@
 [
   {
+    "title": "The physical AI race will be won in the patent office",
+    "link": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
+    "published": "Sat, 03 Oct 2026 14:30:07 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-03 16:06:56",
+    "ai_summary": {
+      "title_ja": "フィジカルAIの競争は特許庁で決まる",
+      "summary": "ロボティクススタートアップにとって特許保護は重要だが、どの知的財産が重要かを戦略的に判断する必要があります。Lightbringerの指摘によれば、フィジカルAI分野での競争優位性は、単なる技術開発だけではなく、適切な特許戦略によって最終的に決定されるということです。",
+      "insights": [
+        "ロボティクス業界では技術開発と同等かそれ以上に、特許ポートフォリオの構築が競争力を左右する重要な要素となっている",
+        "スタートアップは限定的なリソースの中で、すべての技術を特許化するのではなく、コア技術と市場優位性に直結する知的財産の選別が重要",
+        "フィジカルAI企業の長期的な成功は、優れた製品開発と同様に戦略的な知財管理による市場保護が不可欠"
+      ]
+    }
+  },
+  {
     "title": "Inside Omron’s next-generation LD mobile robots",
     "link": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
     "published": "Fri, 02 Oct 2026 23:01:36 +0000",
