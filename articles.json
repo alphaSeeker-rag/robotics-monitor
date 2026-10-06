@@ -1,5 +1,147 @@
 [
   {
+    "title": "Sovereign AI, same landlord — thoughts on the physical AI race",
+    "link": "https://www.therobotreport.com/sovereign-ai-same-landlord-thoughts-physical-ai-race/",
+    "published": "Tue, 06 Oct 2026 17:47:50 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-06 18:16:17",
+    "ai_summary": {
+      "title_ja": "ソブリンAI、同じ地主—フィジカルAIレースに関する考察",
+      "summary": "フィジカルAIのアーキテクチャオプションが増加する中、NVIDIAは業界内での支配的地位を確保するため、ソブリン戦略を採用している。この動きは、分散型AIの台頭にもかかわらず、コンピューティングインフラの中核層でNVIDIAが「地主」としての立場を維持しようとするものである。",
+      "insights": [
+        "NVIDIAは複数のフィジカルAIアーキテクチャの登場に対抗するため、ハードウェア/ソフトウェア統合による垂直統合戦略を強化している",
+        "ロボティクス・フィジカルAI産業では、オープンソース化・多様化が進む一方で、基盤となるコンピューティングプラットフォームの集約傾向が継続している",
+        "国家安保と技術主権の観点から、各国が独自AIインフラを目指す中でも、チップ設計やGPUという下位層の支配が極めて重要な経済的・戦略的意義を持つ"
+      ]
+    }
+  },
+  {
+    "title": "두산로보틱스, 국산 AI 반도체로 ‘한국형 피지컬 AI’ 구현한다",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48858",
+    "published": "2026-10-06 16:43:51",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-06 18:16:29",
+    "ai_summary": {
+      "title_ja": "ドゥーサンロボティクス、国産AIチップで『韓国型フィジカルAI』を実現",
+      "summary": "ドゥーサンロボティクスが、産業通商部と韓国産業技術企画評価院が主催する『K-オンデバイスAIチップ技術開発事業』と『ロボット産業技術開発事業』の2つの国家プロジェクトに選定された。総研究開発費は約989億ウォン（政府支援金約681億ウォン）であり、協働ロボットの知能化と製造現場の革新に本格的に取り組む。",
+      "insights": [
+        "韓国がエッジAI（オンデバイスAI）チップの国産化を加速し、フィジカルAI領域でのテック自立を推進している",
+        "ドゥーサンロボティクスがロボットの『脳』（AI処理能力）と『スキル』（溶接などの応用タスク）を分離した段階的開発戦略を展開している",
+        "協働ロボットの知能化と製造業への適用が、政府レベルの戦略的投資対象となっており、アジアでの産業用ロボット競争が激化している"
+      ]
+    }
+  },
+  {
+    "title": "가트너가 제시한 피지컬 AI에 대한 ‘10가지 오해’",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48850",
+    "published": "2026-10-06 13:44:09",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-06 18:16:33",
+    "ai_summary": {
+      "title_ja": "ガートナーが指摘するフィジカルAIに関する『10の誤解』",
+      "summary": "グローバル市場調査機関ガートナーは、企業がフィジカルAI（物理的AI）を単なるロボットやAI技術と誤解してはならないと警告している。2030年以降の競争力維持には、企業システムと業務プロセス全体の抜本的な再設計が必須であり、対応の遅れは企業競争力の大幅な低下につながると指摘している。",
+      "insights": [
+        "フィジカルAIは単なる技術導入ではなく、企業の組織体制・業務フローの包括的な変革が必要となる戦略的課題である",
+        "経営層とCIOレベルでの正確な認識形成が急務であり、具体的な投資・実行戦略の策定が2030年以降の競争優位確保の鍵となる",
+        "現在の対応遅延は数年後の企業競争力に直結する重大なリスク要因となるため、優先度の高い経営課題として位置づけるべき"
+      ]
+    }
+  },
+  {
+    "title": "싱가포르, 공공 안전용 휴머노이드 로봇 개발 나선다",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48848",
+    "published": "2026-10-06 13:27:54",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "embodied AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-06 18:16:37",
+    "ai_summary": {
+      "title_ja": "シンガポール、公共安全用ヒューマノイドロボット開発を推進",
+      "summary": "シンガポール政府傘下の科学技術機関HTXが、公共安全業務に活用するヒューマノイドロボット開発を積極的に推進している。HTXは「ホームチーム・ヒューマノイドロボティクスセンター(H2RC)」を新設し、体化AI(Embodied AI)能力を備えたヒューマノイドロボット開発に着手する。デジタル開発情報部大臣のジョセフィン・テオ氏がセンター開設に関連してコメントしている。",
+      "insights": [
+        "政府主導の公共安全分野への具体的なロボット活用が進行中であり、シンガポールが国家戦略としてフィジカルAI導入を加速している",
+        "体化AI(Embodied AI)が公共安全ロボットの要件として重視されており、センサー統合と実環境での自律判断能力が開発の重点",
+        "専門センター設置により、ロボティクス産業のエコシステム構築と人材育成が同時進行され、東南アジアにおけるロボティクス技術の地域ハブ化が進展"
+      ]
+    }
+  },
+  {
+    "title": "ISHCMC, 학생 성장을 위한 노력의 새로운 도약으로 신규 및 개편된 캠퍼스 공간 개방",
+    "link": "https://zdnet.co.kr/view/?no=20261006201014",
+    "published": "Tue, 06 Oct 2026 20:10:14 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-10-06 18:16:41",
+    "ai_summary": {
+      "title_ja": "ISHCMC、学生成長のための新規・改編キャンパス施設をオープン",
+      "summary": "ベトナムのホーチミン市国際学校（ISHCMC）が、33年間の学生体験投資に基づいて、初等・中高等キャンパスの施設を大幅に改善・拡張した。改善内容には、キャンパス入口の再設計、シェード付き待機スペース、新しいFab Lab、ウェルネスセンター、教室技術設備のアップグレードが含まれる。これらの改善により、学習、創造性、ウェルビーイング、コミュニティ連携を支援する環境が実現された。",
+      "insights": [
+        "教育施設におけるフレキシブルラーニングスペースの設計が、教師と生徒の有意義な協働と深い学習を促進する重要な要素として認識されている",
+        "初等教育機関で『Fab Lab』などの創造型学習施設を導入することで、STEM教育と実践的なスキル開発環境の構築が進展している",
+        "キャンパス施設の物理的環境改善（シェード、アクセス改善、コミュニティスペース）が、児童・生徒の日常体験向上とウェルビーイング向上に直結する重要な投資として位置づけられている"
+      ]
+    }
+  },
+  {
+    "title": "Transfar Opens 300+ Industrial Scenarios to Embodied AI, From Chemical Plants to Logistics Parks",
+    "link": "https://pandaily.com/transfar-opens-300-industrial-scenarios-embodied-ai-robots-chemical-logistics",
+    "published": "Tue, 06 Oct 2026 01:54:49 GMT",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-06 18:16:46",
+    "ai_summary": {
+      "title_ja": "トランスファーが300以上の産業シナリオを具現化AIに開放——化学工場から物流パークまで",
+      "summary": "浙江省の製造企業トランスファーが、化学工場から物流パーク、農場に至る300以上の実際の産業現場をロボットの訓練・実装の試験地として開放している。この取り組みにより、具現化AIロボットが多様な実世界の環境で学習・展開できるプラットフォームが構築される。産業界全体のロボット導入加速が期待される。",
+      "insights": [
+        "具現化AIの実装には多様で大規模な実世界データと学習環境が不可欠であり、単一企業ではなく産業全体でのテストベッド共有モデルが有効性を示している",
+        "化学・物流・農業など異なる産業セクターの統合により、ロボットの汎用性と適応能力が大幅に向上する可能性が高い",
+        "中国製造企業による具現化AIインフラ整備の先制的投資は、グローバルロボティクス市場における技術的優位性確保戦略を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "Moxin Technology Puts Its MoWorld 4D World Model on a Phone, Turning Pet Photos into Digital Twins",
+    "link": "https://pandaily.com/moxin-technology-moworld-4d-world-model-huawei-mate-90-on-device-pet-digital-twin",
+    "published": "Tue, 06 Oct 2026 01:54:34 GMT",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-06 18:16:50",
+    "ai_summary": {
+      "title_ja": "モキシン・テクノロジーがMoWorld 4Dワールドモデルをスマートフォンに搭載、ペット写真をデジタルツインに変換",
+      "summary": "モキシン・テクノロジーが開発したMoWorldは、わずか数枚のペット写真から、ファーウェイMate 90上でアニメーション化された4Dデジタルツインを生成する技術。Ascendクラウド生成とKirinチップ上の6億パラメータモデルを組み合わせることで実現している。この技術により、スマートフォン上で高度な3D/4D生成AIが実行可能になった。",
+      "insights": [
+        "エッジAI×クラウド連携モデル：デバイス側（600Mパラメータ）とクラウド側（Ascend）の役割分担により、スマートフォンでも高度な4D生成が可能に。従来は不可能とされた複雑な生成タスクの民主化",
+        "物理シミュレーション技術の実用化段階へ：ペット写真から動的な4Dツインを生成できる点は、メタバース・デジタルツイン市場における実装技術の成熟を示唆。消費者向けアプリケーション化が加速",
+        "ハードウェア企業の競争軸シフト：ファーウェイが独自チップ（Kirin）とクラウド（Ascend）を統合したAIエコシステムを構築することで、GPUメーカーへの依存を低減し、差別化優位性を確立"
+      ]
+    }
+  },
+  {
     "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
     "link": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
     "published": "Mon, 05 Oct 2026 23:34:35 +0000",
