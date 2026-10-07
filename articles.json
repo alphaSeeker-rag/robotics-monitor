@@ -1,5 +1,62 @@
 [
   {
+    "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
+    "link": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+    "published": "Tue, 06 Oct 2026 20:07:48 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-07 00:20:11",
+    "ai_summary": {
+      "title_ja": "Pegasus 1.6がフィジカルAIに動画理解機能をもたらす、TwelveLabsが発表",
+      "summary": "TwelveLabsが開発したPegasus 1.6モデルは、一人称視点の動画を理解し、ロボティクス開発者向けのラベリングを含むワークフローに対応しています。このモデルはフィジカルAI分野における動画理解能力の向上を実現しています。",
+      "insights": [
+        "フィジカルAI領域では動画理解がロボット開発の実用化に必須となりつつあり、一人称視点動画の解析はロボットの行動学習やタスク認識に重要",
+        "TwelveLabsのような企業による動画AI基盤モデルの提供は、ロボティクス開発者のハードルを低下させ、産業応用の加速化につながる可能性がある",
+        "ラベリングワークフロー対応は、学習データの効率的な準備を可能にし、ロボット開発の開発サイクルの短縮に貢献する"
+      ]
+    }
+  },
+  {
+    "title": "2026年のAI開発最前線――「AIによるAI開発」から今後は再帰的自己改善「RSI」へ",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news019.html",
+    "published": "Wed, 07 Oct 2026 07:30:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-10-07 00:20:18",
+    "ai_summary": null
+  },
+  {
+    "title": "“フィジカルAIの耳”やスマートグラス向けミラーなど　CEATEC 2026の注目技術",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news038.html",
+    "published": "Wed, 07 Oct 2026 06:45:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-10-07 00:20:19",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェント搭載ガジェットを自作できる「Muse Gadgets」、MetaがオープンソースのESP32マイクロチップファームウェアとLinux SDKを提供しユーザーがRaspberry Pi 5などのハードウェアにMuseを導入可能に",
+    "link": "https://gigazine.net/news/20261007-muse-gadgets/",
+    "published": "Wed, 07 Oct 2026 07:00:00 +0900",
+    "keywords": [
+      "アクチュエータ"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-10-07 00:20:21",
+    "ai_summary": null
+  },
+  {
     "title": "Sovereign AI, same landlord — thoughts on the physical AI race",
     "link": "https://www.therobotreport.com/sovereign-ai-same-landlord-thoughts-physical-ai-race/",
     "published": "Tue, 06 Oct 2026 17:47:50 +0000",
