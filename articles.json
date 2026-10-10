@@ -1,5 +1,66 @@
 [
   {
+    "title": "Why dexterity is physical AI’s real bottleneck",
+    "link": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
+    "published": "Sat, 10 Oct 2026 12:45:15 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-10 17:16:05",
+    "ai_summary": {
+      "title_ja": "器用さはフィジカルAIの真の課題である",
+      "summary": "ロボティクスにおける器用さの次の大きな課題は、システム全体を信頼性のあるものにして、技術的能力を実用的な仕事に転換することである。現在、ロボットの器用さの技術開発は進んでいるが、実運用環境での安定性と信頼性の実現が、フィジカルAIの実用化における最大のボトルネックとなっている。",
+      "insights": [
+        "ロボット器用性の開発において、技術的能力の実現よりも、実運用環境での信頼性と安定性の確保がより重大な課題である",
+        "フィジカルAIの商用化には、継続的で予測可能なシステムパフォーマンスが必須要件であり、単発的な成功ではなく再現性が重要",
+        "ロボットが実用的な価値を生み出すには、ハードウェア・ソフトウェア・環境適応を統合したエンドツーエンドシステムの信頼性向上が急務"
+      ]
+    }
+  },
+  {
+    "title": "Striding AI Unveils H1 and C1 Robots for 24/7 Convenience Stores, Targets 2027 Service Launch",
+    "link": "https://pandaily.com/striding-ai-retail-physical-ai-h1-humanoid-c1-wheeled-robot-m1-convenience-stores",
+    "published": "Sat, 10 Oct 2026 07:42:07 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-10 17:16:18",
+    "ai_summary": {
+      "title_ja": "Striding AIが24時間営業コンビニ向けH1・C1ロボットを発表、2027年のサービス開始を目標",
+      "summary": "Striding AIは人型ロボットH1、狭い通路対応の車輪付きアームロボットC1、フリート管理プラットフォームM1を発表し、24時間営業コンビニエンスストアでの自動化を推進している。これらのロボットは既存の棚や店舗レイアウトの変更を不要とする設計となっている。2027年のサービス開始を目指している。",
+      "insights": [
+        "既存インフラ適合性：棚や店舗レイアウト変更不要という設計により、導入障壁を大幅に低減し、既存コンビニエンスストアチェーンへの早期導入が可能",
+        "多機能ロボット体制：人型ロボット（H1）と特化型ロボット（C1）の組み合わせにより、異なる作業環境と業務内容に最適化した運用効率を実現",
+        "24時間自動化市場の拡大：労働力不足が深刻な小売・飲食業界において、無人運営による新ビジネスモデルの創出が加速する可能性"
+      ]
+    }
+  },
+  {
+    "title": "LivSyn Robotics raises Series A funding for platform connecting robots with AI models",
+    "link": "https://technode.com/2026/10/10/livsyn-robotics-raises-series-a-funding-for-platform-connecting-robots-with-ai-models/",
+    "published": "Sat, 10 Oct 2026 09:19:47 +0000",
+    "keywords": [
+      "robotics",
+      "embodied AI"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-10-10 17:16:26",
+    "ai_summary": {
+      "title_ja": "LivSyn Robotics、ロボットとAIモデルを接続するプラットフォームでシリーズA資金調達を実施",
+      "summary": "北京を拠点とするLivSyn Roboticsが1億元以上のシリーズA資金調達を完了し、複数の投資家と上場エネルギーサービス企業Suwen Electric Energyから出資を受けた。同社が開発するRUDA（Robotics Unified Device Architecture）は、異なるロボット設計を統一プラットフォームでAIモデルと連携させるソリューションである。このプラットフォームは業界標準化とロボットのAI実装を加速させる重要な基盤となる可能性がある。",
+      "insights": [
+        "ロボティクスの標準化アーキテクチャ化：異機種ロボット間の相互運用性を実現するプラットフォームへの需要が急速に高まっており、産業用ロボット市場の成熟段階への移行を示唆している",
+        "エンボディドAIへの投資拡大：伝統的エネルギー企業の戦略投資家参画により、実体型AI（フィジカルAI）が産業転換の重要領域として認識されている",
+        "エコシステム統合型ビジネスモデル：複数の異なるロボット設計をサポートするプラットフォーム供給者の立場は、ロボティクス業界におけるAndroid的な基盤レイヤー企業として高い価値を持つ"
+      ]
+    }
+  },
+  {
     "title": "Why humanoid robot demos still fail the generalization test",
     "link": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
     "published": "Fri, 09 Oct 2026 19:28:41 +0000",
