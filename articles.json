@@ -1,5 +1,47 @@
 [
   {
+    "title": "Why humanoid robot demos still fail the generalization test",
+    "link": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
+    "published": "Fri, 09 Oct 2026 19:28:41 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-10 00:28:10",
+    "ai_summary": {
+      "title_ja": "ヒューマノイドロボットのデモがなぜ汎用性テストで失敗し続けるのか",
+      "summary": "ヒューマノイドロボットのデモンストレーションは実世界での性能への汎用化に失敗し続けている。より質の高いデータと人間の判断がロボットの信頼性のある実世界パフォーマンス実現に不可欠である。",
+      "insights": [
+        "現在のヒューマノイドロボット技術は制御された環境でのデモには成功しているが、環境変動への適応能力と汎用性が根本的な課題である",
+        "ロボット開発において、アルゴリズムの改善だけでなく学習用データの質と人間の専門知識の統合が実装の成功率を大きく左右する",
+        "デモから実用化への移行には、多様なシナリオでの検証と人間の直感的判断を機械学習プロセスに組み込むアプローチが重要である"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
+    "link": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+    "published": "Fri, 09 Oct 2026 15:30:02 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-10-10 00:28:14",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：ロボット廃棄が楽しい展開に",
+      "summary": "IEEE Spectrumのロボティクスビデオ週間セレクション。Figureのロボット廃棄スタントやDevanthroのプラスチックボール($1000)、Pollenのロボット音声、EPFL開発の線形モーターなど、ロボティクス分野の多様なプロジェクトが紹介されている。CoRL 2026とHumanoids 2026の学会開催予定も告知。",
+      "insights": [
+        "ロボット廃棄・リサイクルが新しいエンターテイメント・製品化の領域として注目されている",
+        "線形モーター等の基礎技術開発が実用化段階に進み、多様なロボット応用を可能にしている",
+        "ロボティクス業界は大型学会の継続開催を通じてコミュニティの結集と技術交流を推進している"
+      ]
+    }
+  },
+  {
     "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
     "link": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
     "published": "Fri, 09 Oct 2026 16:59:57 +0000",
