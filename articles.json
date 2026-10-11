@@ -1,5 +1,86 @@
 [
   {
+    "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
+    "link": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+    "published": "Sun, 11 Oct 2026 12:36:24 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-11 17:38:27",
+    "ai_summary": {
+      "title_ja": "退屈なロボットが実世界で勝つのか？ロボットの形状は業務フローに従うべき理由",
+      "summary": "ロボティクスとフィジカルAIが社会メディアの話題から持続的な商用レベルへ移行するには、現在のアプローチを根本的に転換する必要がある。ロボットの設計哲学は、視覚的な注目度よりも実務的なワークフローに適応することを優先すべきである。",
+      "insights": [
+        "ロボット開発における美的訴求よりも機能性と業務適応性が商用化成功の鍵である",
+        "現在のロボティクス産業はメディア受けを重視しすぎており、実際の産業応用とのギャップが存在する",
+        "持続可能なロボット普及には、特定のワークフローに最適化された『退屈だが実用的』なロボット設計へのシフトが必須である"
+      ]
+    }
+  },
+  {
+    "title": "美 애질리티 로보틱스-포트 로보틱스, 휴머노이드 안전 강화 협력",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48927",
+    "published": "2026-10-11 18:32:08",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-11 17:38:39",
+    "ai_summary": {
+      "title_ja": "米国アジリティロボティクスとFORTロボティクス、ヒューマノイド安全性強化で協力",
+      "summary": "米国のアジリティロボティクスとFORTロボティクスが、次世代ヒューマノイド「Digit 5」を含むロボットの安全性向上を目的とした業務提携契約(MOU)を締結した。両社は単一カスタムハードウェア部品から始まった協力関係を、安全ペンダントやロボット通信システムなど複数領域に拡大する計画である。この多年にわたるパートナーシップにより、産業用ヒューマノイドの安全機能の進化が加速される見込みである。",
+      "insights": [
+        "ヒューマノイド産業化における安全性は単なるオプションから必須要件へシフトし、両社の協力は業界標準化の先駆けとなる可能性",
+        "ハードウェア部品から安全ペンダント・通信システムへの統合的なアプローチは、エンタープライズロボット導入の障壁低減に寄与",
+        "Digit 5への安全機能実装は倉庫・物流の自動化において労働者共存環境を実現し、産業用ロボット市場の急速な拡大を促進する要因となる"
+      ]
+    }
+  },
+  {
+    "title": "Startup Led by Ex-Nvidia GPU Architect Designs Y10 Chip to Close Robot Control Loops in 1 ms",
+    "link": "https://pandaily.com/y10-physical-ai-chip-1ms-closed-loop-latency-fpga-platform-xu-feixiang",
+    "published": "Sun, 11 Oct 2026 01:51:56 GMT",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-11 17:38:45",
+    "ai_summary": {
+      "title_ja": "元Nvidia GPU設計者が率いるスタートアップ、ロボット制御ループを1ms以内で閉じるY10チップを設計",
+      "summary": "江蘇省のチップスタートアップが、元Nvidia GPU設計者の徐飛翔氏により創業され、サブミリ秒の閉ループレイテンシを実現するフィジカルAIプロセッサ「Y10」を開発中です。同社は今年中にFPGAプラットフォームのリリースを予定しており、ロボット制御の高速化を目指しています。",
+      "insights": [
+        "ロボット制御の閉ループレイテンシを1ms以下に短縮することで、リアルタイム制御精度が大幅に向上し、危険環境下でのロボット操作やマニピュレーション精度が飛躍的に改善される可能性がある",
+        "Nvidiaの高度なGPU設計経験を持つ人材がアジア発のフィジカルAI専用チップ開発に参入することで、AI推論の処理遅延問題を根本的に解決する新しいハードウェアカテゴリが形成される",
+        "FPGA段階での迅速な市場投入戦略により、アジア地域でのロボティクス・エコシステム競争力が強化され、先進国主導のAIチップ市場の勢力図が再編される可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Westlake Robotics' WR1 Brain Has Two Humanoids Fold Trousers With Dexterous Hands",
+    "link": "https://pandaily.com/westlake-robotics-wr1-humanoid-general-brain-dexterous-hand-clothes-folding",
+    "published": "Sun, 11 Oct 2026 01:51:42 GMT",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-11 17:38:49",
+    "ai_summary": {
+      "title_ja": "ウェストレイク・ロボティクスのWR1ブレインが2体のヒューマノイドでズボン折りたたみを実現",
+      "summary": "ウェストレイク・ロボティクスが開発した汎用AI「WR1ブレイン」は、ヒューマノイドロボットを台所から寝室までの家事作業に対応させることに成功した。特に2体のロボットが協調してズボンを折りたたむ動作を実現し、同社は器用な手を持つロボットによるこのタスクが世界初であると主張している。",
+      "insights": [
+        "汎用AI脳により複数のロボットを統一的に制御でき、異なる環境や複雑なタスク対応が可能になった",
+        "器用な手と複数ロボット間の協調作業が実現され、衣類などのデリケートで複雑な物体操作が現実化した",
+        "家事業務への応用が進むことで、日常生活支援ロボットの実用化に向けた重要なマイルストーンとなる可能性がある"
+      ]
+    }
+  },
+  {
     "title": "Why dexterity is physical AI’s real bottleneck",
     "link": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
     "published": "Sat, 10 Oct 2026 12:45:15 +0000",
