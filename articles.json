@@ -1,5 +1,127 @@
 [
   {
+    "title": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
+    "link": "https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding/",
+    "published": "Tue, 13 Oct 2026 13:00:05 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-13 19:11:00",
+    "ai_summary": {
+      "title_ja": "Promise Roboticsがアメリカ最大手住宅建設企業D.R. Hortonとパートナーシップ契約、フィジカルAIを建設業界に導入",
+      "summary": "Promise Roboticsは、アメリカ最大規模の住宅建設企業D.R. Hortonと複数年にわたるパートナーシップ契約を締結し、建設業界にフィジカルAIを導入する。この提携は建設産業へのロボティクス・AI技術の実装を加速させるものである。",
+      "insights": [
+        "フィジカルAI技術が建設・不動産開発などの伝統産業に本格導入される段階に突入し、市場規模の大きい企業との提携によるスケーラビリティ確保が急速に進行している",
+        "D.R. Hortonのような業界大手との協業により、Promise Roboticsは実運用データを大規模に収集でき、アルゴリズムの高度化と実装精度向上が加速する可能性が高い",
+        "建設業界の慢性的な労働力不足や生産性向上ニーズが、フィジカルAI導入の主要な推進力となっており、今後同業他社への技術導入拡大が予想される"
+      ]
+    }
+  },
+  {
+    "title": "씨메스로보틱스, ‘팩 엑스포 인터내셔널’ 참가…AI 랜덤 팔레타이저 美에 첫선",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48963",
+    "published": "2026-10-13 15:26:56",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-13 19:11:11",
+    "ai_summary": {
+      "title_ja": "シメスロボティクス、『パック エキスポ インターナショナル』に参加…AI ランダム パレタイザーを米国で初公開",
+      "summary": "AI ロボティクス企業のシメスロボティクスが、2026年1月18日～21日にシカゴで開催される北米最大規模のパッケージング・物流産業展示会『パック エキスポ インターナショナル』に出展する。同社は AI ランダム パレタイザー（北米名：Mixed Case Palletizer）を米国市場で初めて公開し、様々な製品仕様を展示する予定である。",
+      "insights": [
+        "シメスロボティクスは AI ランダム パレタイザー技術で北米市場への参入を本格化させており、パッケージング・物流自動化領域での国際展開戦略が加速している",
+        "AI を搭載したランダム パレタイザーは、異なるサイズ・形状の製品を自動認識・処理する能力を持ち、食品・飲料・医薬品などの多様な産業での需要が高まっている",
+        "北米最大級の業界展示会での出展により、顧客獲得と業界内でのプレゼンス確立を目指す戦略的な市場開拓活動である"
+      ]
+    }
+  },
+  {
+    "title": "캐나다 토론토대, 지형에 맞춰 발 움직이는 ‘적응형 호핑 로봇’ 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48956",
+    "published": "2026-10-13 11:10:25",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-13 19:11:15",
+    "ai_summary": {
+      "title_ja": "カナダ・トロント大学、地形に適応する「適応型ホッピングロボット」を開発",
+      "summary": "トロント大学のCLIMB Lab研究チームが、地形に応じて足の方向と角度を自動調整できる適応型足場技術を搭載したホッピングロボットを開発した。草地、岩、砂、凍結地面など様々な環境で安定的に移動可能な、軽量で柔軟な足場設計が特徴である。",
+      "insights": [
+        "生体模倣ロボティクス：動物の脚構造に着想を得た適応的な足場メカニズムにより、複雑な地形への対応能力が大幅に向上",
+        "不整地走行性能：単一脚ホッピング方式と動的足場調整の組み合わせにより、多様な環境での安定性と汎用性を実現",
+        "フィールドロボティクスの応用展望：探査、災害救助、極限環境作業などの実用化に向けた重要な基礎技術として位置付けられる可能性"
+      ]
+    }
+  },
+  {
+    "title": "美 NYU, 무게중심 조절로 육지·물속 오가는 뱀 로봇 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48952",
+    "published": "2026-10-13 11:07:51",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-13 19:11:19",
+    "ai_summary": {
+      "title_ja": "米NYU、重心調節で陸地・水中を移動できるヘビ型ロボット「WorMa」を開発",
+      "summary": "NYU탠던工科大学のナナ・オバヤシ教授チームが、内部の液体移動による重心調節機構を持つヘビ型ロボット「WorMa」を開発した。このロボットは追加の脚や推進装置なしで、平地・斜面・階段・水中など多様な環境を移動でき、両生型ロボットの新しいパラダイムを示唆している。研究成果は学術誌『Advanced Robotics Research』に掲載された。",
+      "insights": [
+        "内部流体の動的再配置による受動的重心調節は、複雑な機械装置を最小化しながら多環境適応性を実現する革新的アプローチ",
+        "ヘビ型フォームファクタと重心制御の組み合わせにより、災害救助・環境調査・インフラ点検などの狭隘・複雑環境での応用可能性が高い",
+        "エネルギー効率と耐久性に優れた設計は、長時間・長距離ミッションが必要な実環境ロボティクスの実用化を加速させる可能性"
+      ]
+    }
+  },
+  {
+    "title": "DeepSeek's Liang Wenfeng Is Meeting Embodied AI Founders as the Company Weighs a Move Into Robotics",
+    "link": "https://pandaily.com/deepseek-liang-wenfeng-embodied-ai-founders-considering-robotics-entry",
+    "published": "Tue, 13 Oct 2026 07:38:49 GMT",
+    "keywords": [
+      "robotics",
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-13 19:11:25",
+    "ai_summary": {
+      "title_ja": "DeepSeekの梁文峰CEOがロボティクス参入を検討、エンボディドAI創業者らと協議中",
+      "summary": "DeepSeekの梁文峰創業者がエンボディドAI（物理的AIロボット）の分野への参入を検討しており、同分野の創業者たちと会談を重ねている。チーム構築か別の形での参入かを模索中で、DeepSeekからの正式なコメントはまだない。",
+      "insights": [
+        "生成AI企業が物理化へシフト：言語モデルで優位性を確立したDeepSeekが、実世界応用するロボティクスへの事業拡大を検討しており、AI企業の多角化戦略が加速している",
+        "エンボディドAI市場の競争激化：有力なAI企業のロボティクス参入検討は、物理AIスタートアップへの投資・M&A機会の増加と、市場競争の一層の激化を示唆している",
+        "アライアンス戦略の模索：DeepSeekが内製か外部パートナーシップかの選択を検討中であり、エコシステム構築の柔軟なアプローチが業界トレンドになりつつある"
+      ]
+    }
+  },
+  {
+    "title": "XPENG plans humanoid robot deliveries in 2027 and European rollout later that year",
+    "link": "https://technode.com/2026/10/13/xpeng-plans-humanoid-robot-deliveries-in-2027-and-european-rollout-later-that-year/",
+    "published": "Tue, 13 Oct 2026 07:32:40 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-10-13 19:11:32",
+    "ai_summary": {
+      "title_ja": "シャオペン、2027年にヒューマノイドロボット配送を計画、同年後半にヨーロッパ展開へ",
+      "summary": "シャオペンは2026年末までにIRONヒューマノイドロボットの量産を開始し、2027年上半期に配送を開始、同年下半期にヨーロッパでの展開を予定している。これはCEOの何小鵬が10月12日のパリイベントで発表した計画に基づいている。",
+      "insights": [
+        "中国の自動車メーカーが次世代AIロボット産業に本格参入し、2027年という早期段階での実用化・商用化を目指す戦略的動き",
+        "アジアから欧州への地理的拡大により、グローバルロボティクス市場での競争が激化する可能性",
+        "ヒューマノイドロボットが配送・物流分野での実装を通じて、実務的なユースケースで技術検証される段階に進化"
+      ]
+    }
+  },
+  {
     "title": "「止まらない物流」をどう実現する？ --仏Exotec CTOが語る、フィジカルAIと群制御ロボットの未来",
     "link": "https://japan.zdnet.com/article/35252996/",
     "published": "",
