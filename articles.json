@@ -1,5 +1,177 @@
 [
   {
+    "title": "Timken Precision Drives puts the motion challenge first in humanoid robots",
+    "link": "https://www.therobotreport.com/timken-precision-drives-puts-motion-challenge-first-humanoid-robots/",
+    "published": "Wed, 14 Oct 2026 12:20:19 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-14 17:00:22",
+    "ai_summary": {
+      "title_ja": "ティムケン・プレシジョン・ドライブス、ヒューマノイドロボットにおけるモーション課題を最優先に",
+      "summary": "ティムケンはCone Drive、SPINEA、CGI Motion、ティムケン・エンコーダーの専門知識を組み合わせて、ヒューマノイドロボット向けのアプリケーション特化型モーションシステムを開発している。複数の駆動技術プロバイダーの統合により、ロボットの動作課題に対する包括的なソリューションの提供を目指している。",
+      "insights": [
+        "ヒューマノイドロボット開発において、精密駆動システムがコア技術課題として認識され、統合的なアプローチが採用されている",
+        "複数の専門企業（減速機、エンコーダ、モーション制御など）の連携が、カスタマイズされたロボット駆動ソリューション実現に必須である",
+        "産業用ロボティクスから人型ロボットへの移行に伴い、より精密で複雑なモーションコントロール技術への需要が急速に高まっている"
+      ]
+    }
+  },
+  {
+    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+    "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+    "published": "Wed, 14 Oct 2026 06:00:28 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-10-14 17:00:26",
+    "ai_summary": {
+      "title_ja": "ヨーロッパの都市がNVIDIA搭載のAIエージェントをスマートシティ運用に導入",
+      "summary": "EMEA地域の都市がNVIDIAの加速コンピューティングを活用して、物理AIエージェントとデジタルツインを構築し、道路修復やエネルギー効率化などの日常的な都市運営意思決定を支援している。ローカルソフトウェア、インフラ、統合パートナーと協力し、スマートシティ運用の最適化を実現している。",
+      "insights": [
+        "NVIDIAの加速コンピューティングがスマートシティのコア技術として採用され、物理AIとデジタルツインの統合が進行中",
+        "都市インフラの意思決定プロセスがAIエージェント化により自動化・最適化され、エネルギー効率やメンテナンス計画の高度な最適化が可能に",
+        "EMEA地域でのエコシステム形成により、ローカルパートナーを含む統合的なスマートシティソリューションの市場展開が加速"
+      ]
+    }
+  },
+  {
+    "title": "人型ロボットが女性の尻に接触＆性的動作のセクハラ行動の疑い、ロボット所有者と同行者を警察が捜査",
+    "link": "https://gigazine.net/news/20261014-humanoid-robot-harassment/",
+    "published": "Wed, 14 Oct 2026 13:08:00 +0900",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-10-14 17:00:34",
+    "ai_summary": null
+  },
+  {
+    "title": "美 애질리티 로보틱스, 11월 나스닥 입성 '카운트다운'",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48973",
+    "published": "2026-10-14 11:45:02",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-14 17:00:36",
+    "ai_summary": {
+      "title_ja": "米国ヒューマノイドロボット企業アジリティ・ロボティクス、11月ナスダック上場へカウントダウン",
+      "summary": "米国のヒューマノイドロボット企業アジリティ・ロボティクスがSPAC「チャーチル・キャピタル・コープXI」との合併手続きを完了し、6億2000万ドル以上の資金調達を実現した。調達資金により、ヒューマノイドロボット「Digit」の生産拡大と商用化の加速を計画している。同社は2024年11月のナスダック上場を目指している。",
+      "insights": [
+        "ヒューマノイドロボット市場の商用化段階への転換が加速しており、有力企業の上場を通じた資金調達が産業成熟度を示唆している",
+        "Digitロボットの生産拡大戦略は、物流・製造業における自動化ニーズの高まりに応える準備段階であり、実用化タイムラインが現実化している",
+        "SPACを活用した資金調達モデルは、ロボティクス企業の迅速な成長と市場投入を可能にし、業界の投資ダイナミクスを変えている"
+      ]
+    }
+  },
+  {
+    "title": "알에스오토메이션, 에이전틱 로보틱스 기반 K로봇 부품 생태계 조성 추진",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=48982",
+    "published": "2026-10-14 11:27:42",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-14 17:00:40",
+    "ai_summary": {
+      "title_ja": "アールエスオートメーション、エージェンティック・ロボティクス基盤のK-ロボット部品エコシステム構築を推進",
+      "summary": "ロボット駆動制御大手のアールエスオートメーションが、AI駆動型の「エージェンティック・ロボティクス」プラットフォームを中心に国内ロボット部品メーカーの技術を統合するエコシステムの構築を進めている。同社は自社のモーション制御、サーボドライブ、エンコーダなどの精密駆動技術にAIを融合させ、個別部品の性能向上と国産部品のロボット・生産設備への統合を実現する。このアプローチにより、韓国産ロボット部品の競争力強化とサプライチェーン自立化を目指している。",
+      "insights": [
+        "エージェンティック・ロボティクスは、AIが作業目標から最適な動作を自律判断・学習・改善するフレームワークで、従来のプログラミング型制御から自律適応型制御への産業的転換を示唆している",
+        "部品レベルのAI統合（モーション制御+AI）により、システムレベルの知能化を実現する階層的アーキテクチャの構築が進行中で、今後の競争優位は統合エコシステムの構築速度に依存する可能性が高い",
+        "国内部品メーカーの垂直統合を通じたサプライチェーン自立化戦略は、地政学的リスク回避と韓国ロボット産業の競争力強化を同時実現する産業政策的に重要な動きである"
+      ]
+    }
+  },
+  {
+    "title": "Dobot Launches VEGA 7, a Seven-Axis Force-Controlled Arm for Embodied AI With 50,000-Hour MTBF",
+    "link": "https://pandaily.com/dobot-vega-7-seven-axis-force-control-arm-embodied-ai-50000-hour-mtbf",
+    "published": "Wed, 14 Oct 2026 07:40:14 GMT",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-14 17:00:46",
+    "ai_summary": {
+      "title_ja": "Dobotが7軸力制御ロボットアーム「VEGA 7」を発表—具身AIに対応し平均故障間隔50,000時間を実現",
+      "summary": "Dobotが発表した「VEGA 7」は、全関節にトルクセンサーとブレーキを装備した7軸力制御ロボットアームで、0.15Nの力制御精度、7kgのペイロード、725mmのリーチを備えている。車輪型デュアルアームロボットと具身AI作業に特化した設計となっており、平均故障間隔(MTBF)が50,000時間という高い信頼性を実現している。この製品は、微細な力制御が必要な複雑なマニピュレーション作業への対応を目指している。",
+      "insights": [
+        "全関節への力覚センサー搭載により、デリケートなハンドリング作業（組立、検査、医療応用）が可能になり、具身AIの実用化に向けた重要なハードウェア基盤を提供している",
+        "50,000時間のMTBFという産業用水準の信頼性は、24時間連続稼働での長期自動化運用を実現し、ロボットの総所有コスト削減に寄与する",
+        "デュアルアームロボットプラットフォームへの統合を意図した設計は、移動ロボットの知能化と自律性向上の加速を示唆し、産業・サービスロボット市場の次段階への技術転換を意味している"
+      ]
+    }
+  },
+  {
+    "title": "MagicLab's EchoPolicy-0 Tops AI2's MolmoSpaces Combined Board With a 75.4% Manipulation Success Rate",
+    "link": "https://pandaily.com/magiclab-echopolicy-0-ai2-molmospaces-combined-leaderboard-75-4-percent-magicbrain",
+    "published": "Wed, 14 Oct 2026 04:25:38 GMT",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-14 17:00:51",
+    "ai_summary": {
+      "title_ja": "MagicLabのEchoPolicy-0がAI2のMolmoSpaces統合ボードで75.4%の操作成功率でトップを獲得",
+      "summary": "MagicLabが開発したVLMエージェントフレームワーク「EchoPolicy-0」は、MolmoSpaces の4つのタスクで平均75.4%の成功率を達成し、AI2の公式リーダーボードで第1位にランクされた。同社の「MagicBrain」はピック操作タスクで94.4%の高い成功率を記録している。",
+      "insights": [
+        "ビジョン・ランゲージ・モデル(VLM)ベースのエージェント技術が物理的操作タスクで高い実用性を示しており、ロボティクス産業への応用が加速している",
+        "複数タスクでの平均成功率75%超は、実装可能なフィジカルAIシステムの閾値に達しており、商用化への道筋が見えつつある",
+        "AI2による公開リーダーボード体制が業界標準化を促進し、異なる組織の技術比較を可能にしており、オープンな競争環境が形成されている"
+      ]
+    }
+  },
+  {
+    "title": "Hello Inc.'s Robotaxi Unit Releases HelloWorld, a World Model That Builds Driving Scenes on Demand",
+    "link": "https://pandaily.com/hello-inc-robotaxi-helloworld-generative-driving-world-model-multi-view-video-lidar",
+    "published": "Wed, 14 Oct 2026 04:25:25 GMT",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-14 17:00:56",
+    "ai_summary": {
+      "title_ja": "Hello Inc.のロボタクシー部門がHelloWorldを発表 - オンデマンドで運転シーンを生成するワールドモデル",
+      "summary": "Hello Inc.のロボタクシーチームが開発した生成型ドライビングワールドモデル「HelloWorld」は、編集されたレイアウトまたは自然言語プロンプトからマルチビューカメラ映像とLiDARデータをリアルタイムで生成します。このモデルは自動運転システムのテストとシミュレーション環境として機能します。",
+      "insights": [
+        "生成AIを用いた合成データ生成により、膨大な実走行テストデータの収集コストを削減し、自動運転開発の効率化が可能になる",
+        "自然言語インターフェースにより、エンジニアが複雑な運転シナリオを簡単に設定でき、テスト効率とシナリオカバレッジが向上する",
+        "マルチモーダルセンサー（カメラ・LiDAR）の同時生成により、より現実的な自動運転システム評価環境が実現され、技術の安全性検証が強化される"
+      ]
+    }
+  },
+  {
+    "title": "Hong Kong regulator suspends ChaPanda shares over suspected IPO manipulation",
+    "link": "https://technode.com/2026/10/14/hong-kong-regulator-suspends-chapanda-shares-over-suspected-ipo-manipulation/",
+    "published": "Wed, 14 Oct 2026 07:18:53 +0000",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-10-14 17:01:02",
+    "ai_summary": {
+      "title_ja": "香港規制当局がIPO操作疑惑でChaPandaの株式取引を停止",
+      "summary": "香港証券先物委員会は、中国茶チェーン企業ChaPandaの新規公開株(IPO)が人為的に操作された可能性があるとして、10月13日午前9時から同社の株式取引停止を命じた。この措置は、IPO詐欺スキームを組織した2つのグループの調査の一環である。",
+      "insights": [
+        "香港の上場市場における規制監視の強化と、IPO段階での不正操作に対する当局の積極的な対応体制の整備",
+        "中国新興企業のIPOプロセスにおける透明性リスクと、機関投資家の市場参入時における信頼性検証の必要性",
+        "金融テクノロジーと取引監視システムの高度化により、従来検出困難であったIPO操作スキームが摘発される傾向の加速"
+      ]
+    }
+  },
+  {
     "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
     "link": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
     "published": "Tue, 13 Oct 2026 23:22:05 +0000",
