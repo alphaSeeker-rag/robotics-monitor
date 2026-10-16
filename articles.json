@@ -1,5 +1,61 @@
 [
   {
+    "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
+    "link": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/",
+    "published": "Fri, 16 Oct 2026 17:57:12 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-16 23:13:24",
+    "ai_summary": {
+      "title_ja": "MassRobotics、ヘルスケアロボティクススタートアップ育成プログラムの応募開始",
+      "summary": "MassRoboticsがヘルスケアロボティクス企業向けのスタートアップ育成プログラム「Healthcare Robotics Startup Catalyst Program」の応募受付を開始した。本プログラムは2027年2月から6月まで開催され、ボストンで開催される「Robotics Summit and Expo」での企業展示会で最終発表となる。",
+      "insights": [
+        "医療ロボティクス分野の起業支援が活発化しており、米国のロボティクスハブが加速プログラムを通じて産業化を推進している",
+        "ボストン地域を中心とした地域的なロボティクスエコシステムの構築が進行中で、業界イベントとの連携による投資家・パートナー紹介の場が形成されている",
+        "4ヶ月間の集中育成プログラムと展示会での発表機会により、スタートアップの資金調達やビジネスマッチング機会の創出が目的と考えられる"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: When Two Robots Become One",
+    "link": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+    "published": "Fri, 16 Oct 2026 16:30:02 +0000",
+    "keywords": [
+      "Sim-to-Real",
+      "robotics",
+      "humanoid",
+      "Physical AI",
+      "autonomous robot"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-10-16 23:13:29",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：2つのロボットが1つになるとき",
+      "summary": "IEEE Spectrumが週刊で配信するロボティクス動画集で、複数ロボットの協調動作が紹介されている。JSK Labでは有線接続により2体のロボットが統合して新しいロボットを形成する技術が、Pollenではマイクロダック型ロボットがBluetooth同期して自動作曲・ハーモニー実現する事例が紹介されている。ロボット群の分散協調と自律的な集団知能の実現例が示されている。",
+      "insights": [
+        "マルチロボットシステムの協調メカニズム：物理的接続またはワイヤレス通信による複数ロボット間の同期・統合により、単体では実現不可能な複雑な動作・機能を創出可能",
+        "スウォーム知能の実装例：中央コントローラなしに個別ロボットが近傍と通信するだけで集団的行動（合唱、ハーモニー）を自律生成する分散制御アーキテクチャの有効性",
+        "消費者向けロボティクスの商用化ポテンシャル：Microducksのような小型ロボットの複数購入・協調動作が売上機会になり、ロボティクスの初期段階市場における新しい価値提案の可能性"
+      ]
+    }
+  },
+  {
+    "title": "CEATECに排水レス洗濯機やゴジラ襲来？　フィジカルAIが拓く未来",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/17/news004.html",
+    "published": "Sat, 17 Oct 2026 07:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-10-16 23:13:38",
+    "ai_summary": null
+  },
+  {
     "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
     "published": "Fri, 16 Oct 2026 16:30:00 +0000",
