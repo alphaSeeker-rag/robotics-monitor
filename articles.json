@@ -1,5 +1,25 @@
 [
   {
+    "title": "ADI explains the race to make AI physical",
+    "link": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+    "published": "Sat, 17 Oct 2026 21:33:57 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-17 22:51:00",
+    "ai_summary": {
+      "title_ja": "ADIが説明する物理AIを実現するための競争",
+      "summary": "ADIの新しいホワイトペーパーは、物理AIを研究室から実際の生産機械へ展開する際の課題と機会を検証しています。このレポートは、AIの実装を物理世界で実現するために必要な技術的・産業的な考慮事項を分析しています。",
+      "insights": [
+        "物理AI技術は研究段階から実用化段階への転換期にあり、生産環境での実装には多くの技術的課題が存在する",
+        "ロボティクス・オートメーション産業において、AIを実際の機械システムに統合することが次の成長ドライバーとなる可能性がある",
+        "物理AIの商用化には、センサ技術、リアルタイム処理、安全性・信頼性の確保などの複数の要件を同時に解決する必要がある"
+      ]
+    }
+  },
+  {
     "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
     "link": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
     "published": "Sat, 17 Oct 2026 12:30:55 +0000",
