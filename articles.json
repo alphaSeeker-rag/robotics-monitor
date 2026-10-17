@@ -1,5 +1,105 @@
 [
   {
+    "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+    "link": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+    "published": "Sat, 17 Oct 2026 12:30:55 +0000",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-17 15:24:34",
+    "ai_summary": {
+      "title_ja": "機械の台頭は中止：AIを搭載したヒューマノイドは敵ではなく支援者である理由",
+      "summary": "ヒューマノイドロボットとAIモデルの開発にはヒューマンインザループが不可欠であり、人間が制御権を維持できることが重要である。AIロボットは人類の脅威ではなく、あくまで人間の支援者としての役割を果たすとの主張。人間による訓練と監督を通じて、技術と人間の調和が実現可能であることを示唆している。",
+      "insights": [
+        "ヒューマノイドロボットの安全性確保には、開発段階から人間が深く関与し、AIモデルの訓練を監督することが必須",
+        "AIロボットの脅威論は過度であり、適切なガバナンスと人間中心設計により支援ツールとして機能する可能性が高い",
+        "ロボティクス産業の持続的成長には、技術的革新と人間による倫理的制御のバランスが競争優位性を生む"
+      ]
+    }
+  },
+  {
+    "title": "Why opportunity charging is winning as robot fleets scale",
+    "link": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/",
+    "published": "Fri, 16 Oct 2026 23:39:33 +0000",
+    "keywords": [
+      "autonomous robot"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-17 15:24:39",
+    "ai_summary": {
+      "title_ja": "ロボットフリート拡大時における機会充電の優位性",
+      "summary": "自律型ロボットフリートの規模拡大に伴い、機会充電（スキマ時間での充電）がフリート運用の維持と効率化に不可欠な戦略として注目されている。Ben Watersは、機会充電がロボット群の稼働率向上と運用スケーラビリティを実現する重要な技術的・運用的ソリューションであることを説明している。",
+      "insights": [
+        "機会充電により、ロボットの稼働時間を最大化し、充電インフラへの投資コストを削減できる",
+        "大規模フリート運用では、従来の一括充電方式よりも分散型の機会充電戦略の方がスケーラビリティに優れている",
+        "運用効率とコスト最適化の両立が、自律ロボット産業の商業化拡大における競争優位性となる"
+      ]
+    }
+  },
+  {
+    "title": "조델, 마이디어 그룹 투자 유치 이어 CIIF에서 산업용 체화된 지능 실행 위한 풀스택 신제품 공개",
+    "link": "https://zdnet.co.kr/view/?no=20261017181003",
+    "published": "Sat, 17 Oct 2026 18:10:03 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-10-17 15:24:49",
+    "ai_summary": {
+      "title_ja": "ジョデル、美的グループからの投資調達に続きCIIFで産業用具現化AI向けフルスタック新製品を発表",
+      "summary": "スイス・蘇州のジョデル・ロボティクスが、フォーチュン・グローバル500企業である美的グループからの戦略的投資を受け、CIIF展示会で産業用具現化AI実装向けのフルスタック製品群を公開した。5本指バイオミメティック器用ハンド「モーツァルト」、独自開発の視触覚センサー、具現化AI向けデータ収集キットの3つの主要製品で構成されており、ロボットの「認知-相互作用-実行」の全連結プロセスを完成させている。スイスのジョデル創立チームは中国初の宇宙ロボット開発に携わり、30年以上の航空宇宙グレード工学専門知識を蓄積している。",
+      "insights": [
+        "分散型全領域触覚センシング設計により、各指に高精度触覚センサーを統合した器用ハンドが、半導体・3C電子製品・リチウム電池・生命科学分野での精密組立と不規則形状物体把持を実現",
+        "具現化AIの「認知-相互作用-実行」の完全なバリューチェーン統合により、研究機関・ヒューマノイドロボット企業・先進製造業へのフルスタック能力供給が実現",
+        "美的グループなどのGlobal Fortune 500企業との戦略投資パートナーシップにより、産業用ロボティクスの商用化加速と精密製造ラインへの具現化AI導入の市場化が加速する可能性"
+      ]
+    }
+  },
+  {
+    "title": "Unitree Releases UniUni Swarm Control Software, Free for Its Users, Starting With H2 and G1",
+    "link": "https://pandaily.com/unitree-uniuni-swarm-control-system-free-desktop-app-h2-g1-humanoids-choreography",
+    "published": "Sat, 17 Oct 2026 02:13:33 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-17 15:24:55",
+    "ai_summary": {
+      "title_ja": "Unitreeが群制御ソフト「UniUni」をリリース、H2とG1ユーザー向けに無料提供開始",
+      "summary": "Unitreeは、複数の人型ロボット（ヒューマノイド）を統合制御するWindowsおよびmacOS対応アプリ「UniUni Swarm Control Software」を発表した。本ソフトウェアは経路描画、タイムライン設定、音楽同期、フリート監視機能を備え、ワンタップの緊急停止機能も搭載している。H2とG1ユーザーに対して無料で提供される。",
+      "insights": [
+        "複数ロボットの群制御プラットフォームの民主化により、産業用途だけでなく商用・エンターテインメント分野でのヒューマノイドの活用が加速する可能性がある",
+        "直感的なUI（経路描画、音楽同期）による操作簡素化は、ロボティクス技術の社会実装における重大な障壁を低減する",
+        "無料提供戦略により、ユーザーエコシステム拡大と今後のハードウェア販売促進を目指すビジネスモデルの転換が見られる"
+      ]
+    }
+  },
+  {
+    "title": "UBTECH Details Thinker-WM, a World Model That Unifies Video, Depth and Robot Actions",
+    "link": "https://pandaily.com/ubtech-thinker-wm-unified-world-model-rgb-depth-action-worldolympiad-ewmbench-worldarena",
+    "published": "Sat, 17 Oct 2026 02:19:16 GMT",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-17 15:25:00",
+    "ai_summary": {
+      "title_ja": "UBTECHが世界モデル「Thinker-WM」を発表：ビデオ、深度、ロボットアクションを統合",
+      "summary": "UBTECHが開発した「Thinker-WM」は、映像・深度情報・ロボットの行動を統合した世界モデルで、複数の具体化世界モデルベンチマークで最高性能を達成した。深度情報の追加により、RoboTwinタスクの単一タスク成功率が15ポイント向上するなど、マルチモーダル入力の重要性が実証された。この技術はロボット制御精度の向上に向けた新しいアプローチを示している。",
+      "insights": [
+        "マルチモーダル学習の重要性：深度情報の統合がロボット制御性能を15%向上させており、ビデオのみでは不十分であることが実証された",
+        "世界モデル技術の成熟化：複数ベンチマークでの優位性獲得により、ロボット予測制御の実用化段階への進展が加速している",
+        "具体化AI開発の競争激化：UBTECHのような企業による統合型モデル開発が進展し、ロボットの自律性・適応性向上への道が開かれている"
+      ]
+    }
+  },
+  {
     "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
     "link": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/",
     "published": "Fri, 16 Oct 2026 17:57:12 +0000",
