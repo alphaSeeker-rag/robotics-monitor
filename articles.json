@@ -1,5 +1,198 @@
 [
   {
+    "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
+    "link": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
+    "published": "Tue, 20 Oct 2026 10:25:47 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-20 16:46:27",
+    "ai_summary": {
+      "title_ja": "ゲッコ・ロボティクス、米海軍との3億ドル契約を獲得",
+      "summary": "ゲッコ・ロボティクスが米国防総省と3億ドルの契約を獲得した。同社はこの契約が、ロボティクス技術が重要な軍事能力であり実績を生み出していることへのペンタゴンの信頼を示すものと主張している。",
+      "insights": [
+        "ロボティクス技術の軍事応用が実装段階に進み、防衛省レベルで大規模予算が投下される段階に到達した",
+        "ゲッコ・ロボティクスのような専門企業が検査・保守・点検業務の自動化で米軍の重要インフラの信頼性向上に貢献している",
+        "フィジカルAI・ロボティクス分野での民間企業と政府機関の契約拡大は、同業界の市場成熟度と商用化の加速を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "曲げてもねじっても3D形状を読み取れる柔らかいセンサーシートをMITが開発、VRやリハビリへの応用に期待",
+    "link": "https://gigazine.net/news/20261020-optical-waveguide-arrays-shape-sensing/",
+    "published": "Tue, 20 Oct 2026 11:03:00 +0900",
+    "keywords": [
+      "遠隔操作"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-10-20 16:46:36",
+    "ai_summary": null
+  },
+  {
+    "title": "휴리엇로보틱스, 에스이아이엘 로보틱스 기반 스마트물류 자동창고 구축사업 수주",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49105",
+    "published": "2026-10-20 16:08:04",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-20 16:46:37",
+    "ai_summary": {
+      "title_ja": "フリオットロボティクス、SEILロボティクス基盤のスマート物流自動倉庫構築事業を受注",
+      "summary": "ビジョンAIとヒューマノイド技術を基盤とするロボティクス企業フリオットロボティクスが、物流企業SEILと60億円を超える大型契約を締結した。自動倉庫(AS/RS)ベースの統合物流センター構築事業であり、7月から3ヶ月間実施した物流効率化コンサルティングの成果に基づいている。",
+      "insights": [
+        "ビジョンAIとヒューマノイド技術の統合により、単なる自動化ツールから戦略的な物流パートナーへの事業転換が進行中",
+        "コンサルティング→設計→導入という段階的アプローチにより、顧客信頼を構築し大型案件獲得に至った営業モデルの有効性",
+        "AS/RS(自動倉庫システム)とAI統合システムの市場需要が急速に拡大し、ロボティクス企業の成長機会が増大している"
+      ]
+    }
+  },
+  {
+    "title": "코윈로보틱스, 中 유아이봇과 MOU…반도체 팹 로봇시장 본격 공략",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49088",
+    "published": "2026-10-20 10:35:33",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-20 16:46:41",
+    "ai_summary": {
+      "title_ja": "コウィンロボティクス、中国UIBOTとMOU締結…半導体ファブロボット市場に本格参入",
+      "summary": "フルスタックロボット専門企業のコウィンロボティクスが、グローバルEmbodied AI ロボット企業のUIBOT ROBOTICSと半導体用ロボット事業拡大に向けた戦略的業務協約を締結した。両社は半導体用AMR（自律移動ロボット）、モバイルマニピュレータ、ヒューマノイドロボット及び関連制御・運営プラットフォームの共同開発・検証・事業化を推進する。",
+      "insights": [
+        "半導体製造業における自動化需要の急速な拡大に対応し、両社の技術・市場基盤の統合により、先端製造現場でのロボット導入を加速",
+        "AMR、マニピュレータ、ヒューマノイドロボットの多層的ソリューション展開により、半導体ファブの多様な作業シーンに対応可能なエコシステム構築",
+        "UIBOTの半導体特化技術とグローバル供給実績を活用することで、コウィンロボティクスが国際競争力を備えた高信頼性ロボット事業を確立"
+      ]
+    }
+  },
+  {
+    "title": "DAMO Academy's XuanTie E908A Is an Automotive RISC-V CPU IP Aimed at ASIL-B and ASIL-D Designs",
+    "link": "https://pandaily.com/damo-academy-xuantie-e908a-automotive-risc-v-cpu-ip-asil-d-roadmap-c950a",
+    "published": "Tue, 20 Oct 2026 07:09:38 GMT",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-20 16:46:46",
+    "ai_summary": {
+      "title_ja": "アリババのDAMO Academyが開発したXuanTie E908AはASIL-B/ASIL-D対応の車載RISC-V CPU IP",
+      "summary": "アリババのDAMO AcademyがXuanTie E908Aを発表し、これはASIL-B/ASIL-D安全規格に対応する初のRISC-V CPU IPコア。SPFM（Single Point Fault Metric）が90%以上を達成し、自動車の安全性要件を満たしている。同時にC950Aを中核とした自動車・エンボディドAIロードマップも公開。",
+      "insights": [
+        "RISC-Vの車載市場への本格参入：従来ARM/x86が主流の車載CPUが、オープンISAのRISC-Vで実現され、設計の自由度と低ロイヤリティのメリットが顕現化",
+        "中国系テック企業による車載安全コア開発：ASILレベルの達成は車載認証の高い技術的障壁を突破し、Alibaba/中国企業の車載チップ産業での地位向上を意味する",
+        "エンボディドAI時代への基盤構築：自動車の自動運転・ADAS向けのAI処理需要に応える専用設計で、次世代車載コンピューティングアーキテクチャへの競争力を構築"
+      ]
+    }
+  },
+  {
+    "title": "AgiBot's Lingxi X2 Handles 46,686 Patient Queries at Peking University People's Hospital Front Desk",
+    "link": "https://pandaily.com/agibot-lingxi-x2-peking-university-peoples-hospital-guide-ant-afu-46686-interactions",
+    "published": "Tue, 20 Oct 2026 01:50:16 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-20 16:46:51",
+    "ai_summary": {
+      "title_ja": "AgiBot製Lingxi X2が北京大学人民病院の受付で46,686件の患者問い合わせに対応",
+      "summary": "Ant Group開発の医療アシスタント「Afu」を搭載したハーフサイズヒューマノイドロボット「Lingxi X2」が、北京大学人民病院の外来受付で66日間運用され、1日平均707件、最大1,420件の患者対応を処理した。本運用により、ロボティクスが医療現場の実務的ニーズに対応できることが実証された。",
+      "insights": [
+        "医療現場での実運用スケール：1日700件以上の対応実績は、ロボティクス×AI医療アシスタントの実用性を示唆し、病院の受付業務効率化の重要な事例となる",
+        "ハーフサイズヒューマノイドの有用性：フルサイズではなく中型ロボットが既存施設に適合し、66日間の継続稼働は耐久性と信頼性の確立を示す",
+        "会話型AIの高度な応用：Ant Group製アシスタントの精度が実臨床環境で検証され、複雑な患者問い合わせ処理能力が業界基準を上げる可能性"
+      ]
+    }
+  },
+  {
+    "title": "X Square Robot Launches X2Real, an Evolving Simulation Benchmark It Says Tracks Real-Robot Results",
+    "link": "https://pandaily.com/x-square-robot-x2real-evolving-simulation-benchmark-embodied-ai-sim-to-real",
+    "published": "Tue, 20 Oct 2026 01:50:01 GMT",
+    "keywords": [
+      "Sim-to-Real"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-20 16:46:56",
+    "ai_summary": {
+      "title_ja": "X Square Roboticsが「X2Real」を発表――進化するシミュレーションベンチマーク、実ロボット結果を追跡",
+      "summary": "X Square Roboticsが開発したX2Realは、シミュレーション環境と実ロボットハードウェアのキャリブレーションを行うベンチマークで、10カテゴリーにわたる44タスクをカバーしています。AIエージェントが新たなテストを自動生成し、シミュレーションから実環境への転移成功率は0.96という高い相関を達成しています。",
+      "insights": [
+        "Sim-to-Real転移の大幅な改善：0.96の成功相関は、シミュレーション結果が実ロボット性能の予測精度を飛躍的に向上させる可能性を示唆しており、ロボット開発期間とコストの削減に直結する",
+        "動的テストスイート生成の革新性：AIが自動的にテストケースを作成・進化させることで、ベンチマークが静的なままでなく継続的に実環境の複雑性に対応し、ロボティクス評価の標準化が加速する",
+        "業界標準化への道筋：複数のハードウェアプラットフォーム間での統一的な評価メトリクスの確立により、異なる企業のロボット性能を客観的に比較可能にし、ロボティクス市場の成熟度を高める"
+      ]
+    }
+  },
+  {
+    "title": "SenseTime co-founder’s ACE Robotics releases model for robot spatial perception",
+    "link": "https://technode.com/2026/10/20/sensetime-co-founders-ace-robotics-releases-model-for-robot-spatial-perception/",
+    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
+    "keywords": [
+      "robotics",
+      "embodied AI"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-10-20 16:47:03",
+    "ai_summary": {
+      "title_ja": "SenseTime共同創業者のACE Roboticsがロボット空間認識モデルをリリース",
+      "summary": "SenseTime共同創業者Xiaogang Wang氏が創業したACE Roboticsが、10月19日に具身化AI「ACE-Brain-0.6」モデルをリリースした。Qwen3.5-9Bの教師あり微調整で構築されたこのモデルは、物体認識、画像内の位置特定、ロボットの相互作用ポイント判定に特化しており、約100万件の空間グラウンディングサンプルで訓練されている。",
+      "insights": [
+        "大規模言語モデル(LLM)の微調整により、ロボットの物理的タスク実行能力を大幅に向上させる新しいアプローチが確立された",
+        "空間認識とグラウンディング能力がロボティクスの実用化における重要な技術課題として浮上している",
+        "SenseTime等の視覚AI企業からロボティクス企業への人材・技術流出が加速し、具身化AIの産業化競争が激化している"
+      ]
+    }
+  },
+  {
+    "title": "Chery unveils automotive chip lineup spanning AI computing, silicon carbide and vehicle control",
+    "link": "https://technode.com/2026/10/20/chery-unveils-automotive-chip-lineup-spanning-ai-computing-silicon-carbide-and-vehicle-control/",
+    "published": "Tue, 20 Oct 2026 07:35:42 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-10-20 16:47:07",
+    "ai_summary": {
+      "title_ja": "Cheryが自動車チップラインアップを発表—AI演算、SiC、車両制御に対応",
+      "summary": "中国の自動車メーカーCheryは10月20日のグローバル革新カンファレンスで「Ziwei」自動車チップラインアップを発表した。このポートフォリオはC-series中央演算チップ、S-series車載SiCチップ、M-series車両制御チップで構成され、演算と電力エレクトロニクス全域をカバーしている。特にC100中央演算チップはオンデバイス物理AIに対応する。",
+      "insights": [
+        "垂直統合戦略：Cheryが自社チップ開発を推進することで、EVとAI機能における供給チェーン依存性を低減し、競争力強化を図っている",
+        "オンデバイスAI実装：C100の物理AI対応により、クラウド依存から自律型エッジAIへのシフトが加速し、レイテンシ低減とプライバシー向上を実現",
+        "SiC採用の拡大：S-seriesチップにより電力変換効率が向上し、EV航続距離の延伸と充電時間短縮が期待される"
+      ]
+    }
+  },
+  {
+    "title": "Alibaba unveils automotive RISC-V processor IP and roadmap for self-driving and robotics",
+    "link": "https://technode.com/2026/10/20/alibaba-unveils-automotive-risc-v-processor-ip-and-roadmap-for-self-driving-and-robotics/",
+    "published": "Tue, 20 Oct 2026 07:35:41 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-10-20 16:47:11",
+    "ai_summary": {
+      "title_ja": "アリババが自動運転・ロボティクス向けRISC-Vプロセッサ設計を発表",
+      "summary": "アリババのDAMO Academyは、10月19日に深圳で開催されたRISC-V China Summitで、自動車向けプロセッサIP「XuanTie E908A」を発表した。本プロセッサはASIL-B/ASIL-D等の自動車機能安全要件に対応し、安全関連コンピューティング、ドメインコントローラ、ビークルゲートウェイ向けに設計されている。アリババは自動運転向けプロセッサのロードマップも提示している。",
+      "insights": [
+        "中国勢がRISC-Vアーキテクチャを自動車安全制御向けに本格展開、x86/ARM依存からの脱却を加速",
+        "ASIL-D対応により自動運転レベル3以上の高度な自動化システムへの適用が可能となり、OEM/Tier-1への採用競争が激化する可能性",
+        "プロセッサロードマップ公開は、自動運転・ロボティクス向けのエコシステム構築戦略を示唆し、ソフトウェア/ハードウェア統合における垂直統合の進展を反映"
+      ]
+    }
+  },
+  {
     "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
     "link": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/",
     "published": "Mon, 19 Oct 2026 17:38:13 +0000",
