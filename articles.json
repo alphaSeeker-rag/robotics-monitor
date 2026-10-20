@@ -1,5 +1,65 @@
 [
   {
+    "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
+    "link": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
+    "published": "Tue, 20 Oct 2026 19:40:05 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-20 23:35:39",
+    "ai_summary": {
+      "title_ja": "Reservoirがワシントン州の農家向けに新しい農業ロボティクス・インキュベーターを立ち上げ",
+      "summary": "Reservoirは農業ロボティクススタートアップをワシントン州のリンゴ園、ブドウ園、ベリー農場で実際に活動させることを目指すインキュベーター施設を新たに開設した。このプログラムでは研究者・農家と連携し、スタートアップの技術実装を加速させる環境を提供する。",
+      "insights": [
+        "農業ロボティクスの実証フィールド化：研究段階から実農場での運用検証へシフト、スタートアップの市場適応速度を加速",
+        "地域密着型イノベーション・ハブ構想：ワシントン州の主要農業地帯を拠点にエコシステム構築、農業技術の地場産業化推進",
+        "マルチステークホルダー連携モデル：スタートアップ・研究機関・農家の三者協働により、技術ニーズと実装ギャップの解消を実現"
+      ]
+    }
+  },
+  {
+    "title": "RoboBusiness rebrands as Robotics Summit & Expo West",
+    "link": "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/",
+    "published": "Tue, 20 Oct 2026 16:23:21 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-20 23:35:43",
+    "ai_summary": {
+      "title_ja": "RoboBusiness がRobotics Summit & Expo West にブランド名変更",
+      "summary": "RoboBusiness は Robotics Summit & Expo West へのブランド変更を実施した。本イベントはロボティクスとAIの実世界への実装・展開に焦点を絞っている。東海岸の主要イベントを補完する西海岸のイベントとしての位置づけが強化されている。",
+      "insights": [
+        "ロボティクス業界の成熟に伴い、学術的な研究発表から実装・デプロイメント中心へのシフトが加速している",
+        "地理的分散（東海岸・西海岸）による専門化された展示会戦略により、地域別の産業ニーズに対応する動き",
+        "AIとロボティクスの融合が業界の中心課題となり、単なるロボット技術の枠を超えた統合的なソリューション提示が求められている"
+      ]
+    }
+  },
+  {
+    "title": "2027 TRR50 Robotics Innovation Awards open nominations",
+    "link": "https://www.therobotreport.com/2027-trr50-robotics-innovation-awards-open-nominations/",
+    "published": "Tue, 20 Oct 2026 16:15:24 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-20 23:35:47",
+    "ai_summary": {
+      "title_ja": "2027年TRR50ロボティクス・イノベーション・アワード ノミネーション受付開始",
+      "summary": "The Robot Reportが2027年のTRR50ロボティクス・イノベーション・アワードのノミネーション受付を開始した。受賞者は2027年6月2日～3日にボストンで開催されるロボティクス・サミット&エキスポでの授賞式で表彰される。本アワードはロボティクス産業における技術革新と優れた企業・プロジェクトを認定する重要な業界イベントである。",
+      "insights": [
+        "2027年は北米ロボティクス産業の重要なマイルストーンであり、イノベーション・リーダーシップの競争が加速する時期",
+        "ボストンでの大規模イベント開催により、米国東部がロボティクス・ハブとしての地位を強化",
+        "業界表彰制度を通じた企業ブランディングとネットワーキングの重要性が高まっている"
+      ]
+    }
+  },
+  {
     "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
     "link": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
     "published": "Tue, 20 Oct 2026 10:25:47 +0000",
