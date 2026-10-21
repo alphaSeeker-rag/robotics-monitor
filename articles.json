@@ -1,5 +1,30 @@
 [
   {
+    "title": "SynopsysとAnsysの技術統合が切り開く、AI時代の新たな設計／解析プロセス",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news029.html",
+    "published": "Thu, 22 Oct 2026 07:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-10-21 23:52:57",
+    "ai_summary": null
+  },
+  {
+    "title": "三菱電機、ヒューマノイドと工作機械が連携して加工　JIMTOF20226でデモ",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news073.html",
+    "published": "Thu, 22 Oct 2026 06:15:00 +0900",
+    "keywords": [
+      "ヒューマノイド",
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-10-21 23:52:57",
+    "ai_summary": null
+  },
+  {
     "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
     "link": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
     "published": "Wed, 21 Oct 2026 13:19:00 +0000",
