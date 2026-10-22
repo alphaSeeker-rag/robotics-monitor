@@ -1,5 +1,73 @@
 [
   {
+    "title": "声で動く協働ロボット　フィジカルAIの検証ハードルを下げるパッケージ登場",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/23/news021.html",
+    "published": "Fri, 23 Oct 2026 07:30:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-10-22 23:51:29",
+    "ai_summary": null
+  },
+  {
+    "title": "“ロボットが合わせる工場”を目指す三菱電機、“フィジカルAIの耳”も披露",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/23/news047.html",
+    "published": "Fri, 23 Oct 2026 08:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-10-22 23:51:30",
+    "ai_summary": null
+  },
+  {
+    "title": "ヒューマノイドがより繊細に、バックラッシゼロの同軸ローラーカム式精密減速機",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/23/news029.html",
+    "published": "Fri, 23 Oct 2026 07:45:00 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-10-22 23:51:30",
+    "ai_summary": null
+  },
+  {
+    "title": "ホンダの多指ハンドは力強く器用、AI支援で分身ロボットを意のままに遠隔操作",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/23/news045.html",
+    "published": "Fri, 23 Oct 2026 07:15:00 +0900",
+    "keywords": [
+      "遠隔操作"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-10-22 23:51:30",
+    "ai_summary": null
+  },
+  {
+    "title": "테라코스, 코르티코스테로이드에 충분히 반응하지 않는 환자의 면역 관련 이상반응 치료를 위한 유럽 MDR 승인 획득",
+    "link": "https://zdnet.co.kr/view/?no=20261023001004",
+    "published": "Fri, 23 Oct 2026 00:10:04 +0900",
+    "keywords": [
+      "UCIe"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-10-22 23:51:35",
+    "ai_summary": {
+      "title_ja": "テラコス、コルチコステロイド不応性患者の免疫関連有害事象治療でEU MDR承認取得",
+      "summary": "テラコス・デベロップメントが、体外光分反術(ECP)システム「THERAKOS CELLEX」の適応症拡大について欧州MDR認証を取得した。同システムは免疫チェックポイント阻害薬(ICI)治療に関連する免疫関連有害事象(irAE)のうち、コルチコステロイドに十分反応しない成人患者の治療に使用できるようになり、この用途での承認は世界で初かつ唯一である。ICI療法は有効な癌治療である一方、重篤なirAEを引き起こすため、この新しい治療法は標準的な免疫抑制剤との併用に頼らずにirAEを管理できる重要なソリューションを提供する。",
+      "insights": [
+        "ICI療法による免疫関連有害事象(irAE)の管理は未充足医療ニーズであり、体外光分反術(ECP)がコルチコステロイド不応性患者向けの革新的ソリューションとなる",
+        "既存の追加的免疫抑制治療は抗腫瘍免疫をさらに減弱させるリスクがあり、ECP技術は抗腫瘍効果を維持しながらirAE管理を可能にする利点がある",
+        "テラコスの欧州MDR承認取得は、ECP技術の臨床的価値の認定であり、免疫癌治療分野での体外療法の地位確立を示唆している"
+      ]
+    }
+  },
+  {
     "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
     "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
     "published": "Thu, 22 Oct 2026 05:00:27 +0000",
