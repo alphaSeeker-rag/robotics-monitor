@@ -1,5 +1,47 @@
 [
   {
+    "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
+    "link": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
+    "published": "Fri, 23 Oct 2026 20:06:28 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-23 23:44:03",
+    "ai_summary": {
+      "title_ja": "FCC ロボティクス規制が自動化購買者に与える影響についてのウェビナー",
+      "summary": "FCC（米国連邦通信委員会）が特定の接続システムに対して新たな制限を設けたことが、ロボティクス業界に影響を与えています。業界のリーダーが、ロボティクス購買者が知っておくべきこのFCC規制の内容と影響について議論するウェビナーが開催されます。この規制はロボット・自動化システムの接続機能や調達戦略に影響を及ぼす可能性があります。",
+      "insights": [
+        "FCCの新規制は、ロボティクス企業とその顧客に対して製品設計や機能仕様の見直しを余儀なくさせている",
+        "自動化導入企業は規制対応コストと技術的制約を考慮した調達判断が必要になり、TCO（総所有コスト）評価が複雑化する",
+        "接続型ロボットシステムの規制動向は今後の業界標準化やコンプライアンス要件として重要な注目分野となる"
+      ]
+    }
+  },
+  {
+    "title": "Generative Bionics to launch Physical AI Data Factory in Italy",
+    "link": "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/",
+    "published": "Fri, 23 Oct 2026 18:56:44 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-23 23:44:07",
+    "ai_summary": {
+      "title_ja": "Generative Bionicsがイタリアに物理AI データファクトリーを立ち上げ",
+      "summary": "Generative Bionicsは、ヒューマノイドロボット用のデータを欧州内で生成することにより、欧州のロボティクス主権の強化を目指している。同社はイタリアに物理AIデータファクトリーを設立することで、データ生成の地域自給性を確保する計画である。この取り組みは、米国や中国への技術依存を減らし、欧州独自のAIロボティクスエコシステムの構築を目指すものと考えられる。",
+      "insights": [
+        "地政学的リスク対策：欧州がPhysical AI開発における戦略的自立性を強化し、重要技術の内製化を推進している",
+        "データ主権の重要性：ヒューマノイドロボット開発の競争力は学習データの質・量に依存するため、データ生成インフラの地域化が戦略的価値を持つ",
+        "産業集積の構築：イタリア選定は欧州ロボティクス拠点の形成を意図し、将来的なエコシステム構築と関連企業の集約につながる可能性がある"
+      ]
+    }
+  },
+  {
     "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
     "link": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
     "published": "Fri, 23 Oct 2026 15:30:02 +0000",
