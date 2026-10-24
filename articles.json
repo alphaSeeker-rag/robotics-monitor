@@ -1,5 +1,65 @@
 [
   {
+    "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+    "link": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+    "published": "Sat, 24 Oct 2026 12:34:27 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-24 15:47:31",
+    "ai_summary": {
+      "title_ja": "Eka Robotics、ロボット向けビジョン-フォース-アクションモデルのスケーリングで1億5000万ドルを調達",
+      "summary": "Eka Roboticsは、ロボットが物理法則の直感的な理解を習得するための「ビジョン-フォース-アクション(VFA)」モデルを開発している。強化学習を大規模に活用し、このモデルの実装と拡大に1億5000万ドルの資金調達を実施した。この技術は、ロボットの汎用的な行動学習能力を大幅に向上させる可能性を示している。",
+      "insights": [
+        "VFAモデルは視覚・力覚・動作の統合学習により、ロボットが物理的世界の法則性を自律的に習得できる革新的なアプローチを提示している",
+        "大規模な資金調達はロボティクス業界における機械学習・物理予測型AI への投資が加速していることを示唆している",
+        "この技術が成熟すれば、製造・物流・ハンドリング作業など多様な産業応用での汎用ロボット導入が促進される可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Dawa Technology's Scenes AI Runs a 34B Real-Time World Model at 720p and 25fps on One RTX GPU",
+    "link": "https://pandaily.com/dawa-technology-scenes-ai-real-time-world-model-34b-sparse-720p-25fps-single-rtx",
+    "published": "Sat, 24 Oct 2026 02:03:39 GMT",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-24 15:47:44",
+    "ai_summary": {
+      "title_ja": "Dawa Technology社のScenes AIが単一RTX GPUで720p/25fpsの34B リアルタイム世界モデルを実現",
+      "summary": "中国・重慶のDawa Technology社が開発したScenes AIは、通常のカメラフィードから永続的な世界状態をリアルタイムで更新する技術です。34B個のスパースパラメータを持つモデルを、消費者向けRTX GPUたった1枚で720p解像度・25fpsで動作させることに成功しました。この成果は、高性能な世界モデルの軽量化と実用化における大きな進歩を示しています。",
+      "insights": [
+        "スパースモデル設計により、パラメータ数の大幅削減を実現し、エッジデバイス上での推論が可能になった",
+        "単一消費者GPUで高解像度・高フレームレートの処理を実現する効率性は、ロボティクス・自動運転などの実用応用を加速させる",
+        "リアルタイム世界モデルの軽量化は、AI知覚システムの民主化を意味し、企業規模を問わず高度なビジョンAI実装が可能になる段階に入った"
+      ]
+    }
+  },
+  {
+    "title": "Amap Open-Sources Lambda-0, a Whole-Body Humanoid Model Trained Only on Human First-Person Data",
+    "link": "https://pandaily.com/amap-lambda-0-open-source-whole-body-humanoid-model-egocentric-human-data-unitree-g1",
+    "published": "Sat, 24 Oct 2026 02:01:13 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-24 15:47:48",
+    "ai_summary": {
+      "title_ja": "Amapがオープンソース化したLambda-0：人間の一人称視点データのみで訓練された全身ヒューマノイドモデル",
+      "summary": "AmapとAlibabAのATHグループは、500時間の人間一人称視点データで訓練した全身ヒューマノイドファウンデーションモデル「Lambda-0」をオープンソース化した。このモデルはゼロショット転移によってUnitree G1ロボットで直接動作可能であり、ロボット学習の新しいパラダイムを示している。",
+      "insights": [
+        "一人称視点データのみでの訓練が有効：複雑なヒューマノイドロボット制御において、三人称視点やシミュレーション環境ではなく人間の実際の動作視点データが十分な学習基盤となり得ることを実証",
+        "ゼロショット転移の実現：大規模ファウンデーションモデルにより、異なるハードウェア（Unitree G1）への直接的な転移が可能になり、ロボット固有の微調整が最小化される",
+        "オープンソース戦略の採用：大型言語モデルと同様にオープンソース化することで、ロボティクス分野の民主化と急速なイノベーションを加速させる可能性"
+      ]
+    }
+  },
+  {
     "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
     "link": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
     "published": "Fri, 23 Oct 2026 20:06:28 +0000",
