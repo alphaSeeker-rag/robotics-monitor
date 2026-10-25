@@ -1,5 +1,106 @@
 [
   {
+    "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
+    "link": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
+    "published": "Sun, 25 Oct 2026 12:35:33 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-25 15:58:50",
+    "ai_summary": {
+      "title_ja": "Teradyne Roboticsがセレアクトと提携、小売・物流向けフィジカルAIをスケール化",
+      "summary": "TeradyneRoboticsとSereactが戦略的パートナーシップを展開し、デュアルアーム型URロボットによるフィジカルAIソリューションを小売・物流分野で拡大している。既にヨーロッパの複数の顧客サイトに数百台のロボットを導入し、実運用での検証を進めている。このパートナーシップにより、AIと物理的な作業の統合が実用化段階に移行している。",
+      "insights": [
+        "フィジカルAI分野で大手ロボティクス企業（Teradyne）とAIスタートアップ（Sereact）の連携が加速しており、技術の実装スピードが向上している",
+        "デュアルアーム型ロボットの採用により、より複雑で精密な物流・小売業務の自動化が可能になり、適用可能な用途範囲が拡大している",
+        "ヨーロッパでの大規模導入実績は、グローバル展開への足がかりであり、規制面や実運用データの獲得において重要な意味を持つ"
+      ]
+    }
+  },
+  {
+    "title": "美 애질리티, 초고속 충전배터리 공급사로 英 나이오볼트와 협력",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49200",
+    "published": "2026-10-25 19:54:32",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-25 15:59:01",
+    "ai_summary": {
+      "title_ja": "米アジリティ・ロボティクス、英ナイオボルトと超高速充電バッテリー供給で提携",
+      "summary": "米国のアジリティ・ロボティクスが、人型ロボット「Digit 5」用の超高速充電バッテリーシステムを英ナイオボルトから供給を受けることを発表した。この技術により、ロボットは1日20時間以上の連続稼働が可能となり、2シフト体制での完全な生産性実現が見込まれる。バッテリーの稼働時間はロボットの商用価値に直結する重要な要素として位置づけられている。",
+      "insights": [
+        "充電時間の短縮がヒューマノイドロボットの産業利用における採算性の鍵となっており、1日20時間稼働は複数シフト運用を可能にする実用的な水準",
+        "バッテリー技術が産業用ロボット導入の重要な差別化要因となっており、専門バッテリーメーカーとの垂直統合が競争優位性の構築に不可欠",
+        "ロボティクス企業とバッテリー企業のパートナーシップ拡大は、フィジカルAI産業の商用化を加速させるサプライチェーン統合の流れを示唆"
+      ]
+    }
+  },
+  {
+    "title": "게코 로보틱스, 美 해군과 4000억원 규모 함정 검사 계약",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49207",
+    "published": "2026-10-25 19:53:32",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-25 15:59:05",
+    "ai_summary": {
+      "title_ja": "ゲコ・ロボティクス、米海軍と約4000億円規模の艦船検査契約を追加獲得",
+      "summary": "ピッツバーグ拠点のゲコ・ロボティクスが、米海軍および連邦総務庁(GSA)と3億ドル(約3965億円)の艦船・潜水艦検査契約を追加獲得し、既存契約額を4倍に拡大した。この拡張は初期契約(7100万ドル)からわずか6ヶ月での決定で、メンテナンス遅延削減と艦隊戦力維持が目的である。同社の検査ロボット技術が米国防産業で急速に信頼を獲得している証左となっている。",
+      "insights": [
+        "防衛・海事インフラ分野でのロボット技術の急速な商用化：検査用ロボットが従来の人的検査に代替し、メンテナンス効率化を実現",
+        "政府機関(GSA)による4倍契約拡大は、フェーズゲートモデルで技術実証から本格導入への移行を示唆し、スケーラビリティの確証を意味する",
+        "米軍のクリティカルインフラ維持にロボティクスが戦略的に組み込まれつつあり、今後の防衛技術調達における新規企業の競争機会が拡大する可能性"
+      ]
+    }
+  },
+  {
+    "title": "美 메이븐 로보틱스, 시범사업 2년여 만에 1350억원 투자 유치",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49199",
+    "published": "2026-10-25 19:51:53",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-25 15:59:10",
+    "ai_summary": {
+      "title_ja": "米メイブン・ロボティクス、2年で135億円の投資を調達—モバイルマニピュレータで実運用開始",
+      "summary": "2024年創業の米国メイブン・ロボティクスが、わずか2年で初の顧客獲得と本格生産契約段階に進み、4種類のモバイルマニピュレータを開発、1億ドル（約135億円）の投資を調達した。同社のロボットは現場で週5日、1日16時間稼働し、最大99%の稼働率を実現している。",
+      "insights": [
+        "実装段階での高稼働率（99%）は、実用的な産業用ロボットソリューションの市場需要の高さと技術的成熟度を示唆している",
+        "創業2年での大型投資調達と複数バージョン開発は、モバイルマニピュレータ市場への資本流入加速とスケーラブルなロボティクスプラットフォームの商業化が進んでいることを意味する",
+        "ユーザー主導の要件定義（4種のバリエーション開発）により、様々な産業用途への適用が進む段階にあり、汎用モバイルロボット時代への転換期を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "AgiBot Runs 110 Expedition A3 Humanoids in Sync for a Guinness Record With LinkBots Swarm Control",
+    "link": "https://pandaily.com/agibot-110-expedition-a3-humanoids-guinness-record-linkbots-swarm-control-uwb-jinan",
+    "published": "Sun, 25 Oct 2026 01:58:27 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-25 15:59:15",
+    "ai_summary": {
+      "title_ja": "AgiBot、LinkBots群制御システムでExpedition A3ヒューマノイド110体の同期運用ギネス記録を達成",
+      "summary": "AgiBotが開発したExpedition A3ヒューマノイドロボット110体が、中国の済南でLinkBots群制御システムとUWB測位技術により5分43秒間の同期運用に成功し、ギネス世界記録を樹立した。この取り組みは、複数の人型ロボットを大規模に統合制御する技術的な可能性を実証している。",
+      "insights": [
+        "群制御技術の成熟度向上：UWB測位とLinkBots群制御システムの組み合わせにより、100体超の大規模ロボット集団の精密な同期制御が可能になり、産業用途への応用が現実性を帯びてきた",
+        "ヒューマノイドロボット量産段階への突入：生産型ロボット110体の同時運用は、研究開発段階から実用化・商用段階への移行を示唆しており、製造業やサービス業への大規模導入が近づいている",
+        "中国のロボティクス競争力強化：AgiBotによるギネス記録達成は、中国企業のロボティクス技術における国際的なプレゼンス向上を示すもので、今後の業界標準策定競争にも影響を与える可能性がある"
+      ]
+    }
+  },
+  {
     "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
     "link": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
     "published": "Sat, 24 Oct 2026 12:34:27 +0000",
