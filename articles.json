@@ -1,5 +1,49 @@
 [
   {
+    "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
+    "link": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
+    "published": "Mon, 26 Oct 2026 21:15:00 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-27 00:12:58",
+    "ai_summary": {
+      "title_ja": "ビーロック・ロボティクス、自律型重機需要の急増で総資金調達額10億ドル間近に",
+      "summary": "ビーロック・ロボティクスが6億ドルの資金調達を実施し、自律型重機のスケーリングを加速させている。建設業における深刻な労働力不足に対応する自動化ソリューションの市場需要が急速に拡大している。同社の総資金調達額は10億ドルに迫っており、ロボティクス産業での重要なプレイヤーとしての地位を確立しつつある。",
+      "insights": [
+        "建設業の労働力不足が自律型重機の商業化を加速させる主要ドライバーとなっており、ハードウェア・ロボティクス分野への大規模投資を牽引している",
+        "10億ドル規模の資金調達は、フィジカルAI/自動化技術が実装段階へ移行し、投資家から強い信頼を獲得していることを示唆している",
+        "重機の自動化は土木・建設インフラの効率化と安全性向上をもたらす経済的インパクトの大きい領域として認識されている"
+      ]
+    }
+  },
+  {
+    "title": "「遅延なきネットワーク」ソブリンAIの鍵に　NTT川添氏が語る「IOWN」実装後の社会",
+    "link": "https://www.itmedia.co.jp/business/articles/2610/27/news024.html",
+    "published": "Tue, 27 Oct 2026 07:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-10-27 00:13:06",
+    "ai_summary": null
+  },
+  {
+    "title": "最新鋭の工作機械とAI、ロボティクスで製造業の課題に挑む　JIMTOF2026が開幕",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/27/news043.html",
+    "published": "Tue, 27 Oct 2026 06:15:00 +0900",
+    "keywords": [
+      "ロボティクス"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-10-27 00:13:06",
+    "ai_summary": null
+  },
+  {
     "title": "Agility and GXO Logistics plan expanded deployment of Digit humanoid",
     "link": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
     "published": "Mon, 26 Oct 2026 14:05:21 +0000",
