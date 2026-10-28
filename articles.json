@@ -1,5 +1,17 @@
 [
   {
+    "title": "デジタル空間でAIが自律的に試行を回す　AWSの「フィジカルAI自律R＆D基盤」とは",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news037.html",
+    "published": "Wed, 28 Oct 2026 07:15:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-10-28 00:13:23",
+    "ai_summary": null
+  },
+  {
     "title": "Genie 4: A new generation of world simulation",
     "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "published": "Tue, 27 Oct 2026 16:01:38 +0000",
