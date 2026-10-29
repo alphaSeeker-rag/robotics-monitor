@@ -1,5 +1,141 @@
 [
   {
+    "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+    "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+    "published": "Tue, 27 Oct 2026 16:14:39 +0000",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-10-29 18:22:06",
+    "ai_summary": {
+      "title_ja": "ロボットの安全機能は正常に機能している。しかし入力情報が嘘だったら？",
+      "summary": "ロボットの安全機能は設計通りに動作しても、センサー入力が改ざんされると予期しない危険な行動につながる可能性がある。VicOne LAB R7は、意図的な入力操作がロボットの行動にいかに影響を与えるかを検証し、安全システムの脆弱性を明らかにしている。故意の改ざんと機械的故障の両方が、安全機能の失効を招く実際の脅威として存在する。",
+      "insights": [
+        "ロボットの安全機能は入力データの信頼性に依存しており、センサー値やシグナルの改ざんに対する耐性が現在の設計では不十分である可能性がある",
+        "協働ロボット・自律移動ロボット・ヒューマノイドロボットなど、人間と共存する環境で動作するロボットにはサイバーセキュリティ対策が急務である",
+        "ロボティクス業界は機械的安全性と同等の水準でセンサー入力検証・異常検知・冗長性設計などのサイバーフィジカル安全対策を組み込む必要がある"
+      ]
+    }
+  },
+  {
+    "title": "即興ラップで踊る「AIヒューマノイド」公開　オープンハウスが静岡で31日から実証実験",
+    "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002705/",
+    "published": "Thu, 29 Oct 2026 12:29:29 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "ITmedia NEWS",
+    "flag": "JP",
+    "detected_at": "2026-10-29 18:22:13",
+    "ai_summary": null
+  },
+  {
+    "title": "伊 제너러티브 바이오닉스, 휴머노이드 피지컬 AI데이터 공장",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49297",
+    "published": "2026-10-29 18:12:38",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-29 18:22:19",
+    "ai_summary": {
+      "title_ja": "イタリアの生成バイオニクス、ヒューマノイド物理AI データファクトリーを構築",
+      "summary": "イタリアの企業Generative Bionicssは、5,000㎡規模の独自「Physical AIデータファクトリー」をイタリアに建設する計画を発表した。この施設はヒューマノイドロボット工学を実験室段階から産業用配置段階へ移行させることを目指している。欧州のヒューマノイド産業における必要なデータ、モデル、ノウハウがすべてヨーロッパ大陸内で生成・訓練・検証されることを確保する狙いがある。",
+      "insights": [
+        "欧州企業による物理AI自給率向上戦略：データの自主生成・検証により、ヒューマノイド技術における米国・中国への依存低減を目指している",
+        "産業化への転換点：実験室シミュレーションから実運用段階への移行が加速しており、ヒューマノイドロボットの商用展開が現実化しつつある",
+        "地政学的競争：欧州がAI開発のサプライチェーン統合を急速に進めており、技術主権確保の重要性が高まっている"
+      ]
+    }
+  },
+  {
+    "title": "유안타증권 “삼성전자, 휴머노이드 핵심 부품 '로봇 손' 개발에 역량 집중”",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49286",
+    "published": "2026-10-29 17:53:02",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-29 18:22:23",
+    "ai_summary": {
+      "title_ja": "ユアンタ証券「サムスン電子、ヒューマノイドロボット核心部品『ロボットハンド』開発に経営資源を集中」",
+      "summary": "サムスン電子がヒューマノイドロボットの事業化において、精密操作能力を担うロボットハンドを核心部品として位置付け、開発に経営資源を集中させている。ロボットハンドは競合他社との技術格差を生み出す重要な差別化要因として認識されており、李在用会長自らがRX事業推進室を視察し、ロボットアームと手による精密操作技術の実演を確認した。",
+      "insights": [
+        "ロボットハンドの精密操作技術がヒューマノイドロボット実用化の成否を左右する基盤技術であり、競争優位性の鍵となっている",
+        "サムスン電子は経営層が直接RX事業推進室を視察する等、ロボティクス事業を経営戦略の最優先事項として位置付けている",
+        "汎用性の高い手の開発に注力することで、製造・介護・サービス業など複数分野への展開可能性を構想している"
+      ]
+    }
+  },
+  {
+    "title": "글로벌 휴머노이드 로봇 'AI 가속기', 5년 내 연 100만 대 출하 전망",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49278",
+    "published": "2026-10-29 17:45:05",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-29 18:22:27",
+    "ai_summary": {
+      "title_ja": "グローバル人型ロボット『AI加速器』5年以内に年100万台出荷予想",
+      "summary": "カウンターポイントリサーチの報告書によると、2030年のグローバル人型ロボット用『AI加速器』の累積出荷量が100万台を超える見通しで、2026年から2030年の年平均成長率は144%に達する。人型ロボットのコンピューティングアーキテクチャではVLA（ビジョン・言語・行動）モデルとワールドモデルの融合が進行し、当面はGPUが中核プロセッサとなる。",
+      "insights": [
+        "AI加速器チップ市場の急速な拡大：年平均成長率144%は、人型ロボット産業が急速に商用化段階に入ることを示唆しており、半導体サプライチェーンへの投資機会が生まれている",
+        "マルチモーダル融合アーキテクチャの台頭：VLA（ビジョン・言語・行動）モデルとワールドモデルの統合により、より自律的で適応的な人型ロボットが実現可能になる",
+        "GPU中心のアーキテクチャ継続：短期的にはGPUが主要なコンピューティングリソースとなるため、NVIDIAなど既存GPU大手の優位性が継続し、専用AIチップメーカーの参入障壁が高い"
+      ]
+    }
+  },
+  {
+    "title": "대동기어, 中 로봇 액추에이터 전문기업 이유(EYOU)와 합작법인 설립 추진",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49274",
+    "published": "2026-10-29 17:40:04",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-10-29 18:22:32",
+    "ai_summary": {
+      "title_ja": "大同ギア、中国のロボットアクチュエータ専門企業IYOUとの合弁会社設立を推進",
+      "summary": "大同ギアと大同ロボティクスは、中国のロボットアクチュエータ専門企業EYOU Robotics Technologyと合弁会社を設立し、ロボット用アクチュエータの共同開発から生産、農業用ロボットへの応用まで一貫した事業化体系を構築する。2027年1月までに中国での合弁会社設立と試作生産を実施し、2029年に国内量産化を目指している。",
+      "insights": [
+        "日本企業と中国企業の戦略的パートナーシップにより、ロボットアクチュエータの自主開発能力を強化し、農業ロボット市場での競争力を確保する試み",
+        "段階的な事業展開（中国での開発・試作→国内量産）により、製造技術と品質管理能力を段階的に構築するアプローチ",
+        "農業用ロボットへの実装を想定した垂直統合戦略で、コア部品から応用製品までのバリューチェーン構築を目指す産業動向"
+      ]
+    }
+  },
+  {
+    "title": "WeRide’s physical AI data subsidiary raises tens of millions of dollars",
+    "link": "https://technode.com/2026/10/29/werides-physical-ai-data-subsidiary-raises-tens-of-millions-of-dollars/",
+    "published": "Thu, 29 Oct 2026 05:16:52 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-10-29 18:22:40",
+    "ai_summary": {
+      "title_ja": "WeRideの物理AI向けデータ子会社が数千万ドルの資金調達を実現",
+      "summary": "自動運転企業WeRideの子会社Jingszhuoが、物理AI向けデータインフラストラクチャ開発企業として、Vision Knight CapitalやSirius Capitalなどから数千万ドルのプレシリーズA資金調達に成功した。調達資金はR&D チームの拡大に充当される。",
+      "insights": [
+        "物理AIの発展に伴い、高品質なデータインフラ構築が独立した事業機会として認識され始めている",
+        "自動運転企業が関連する物理AIデータ企業に投資・育成する傾向が強まっており、データ価値の内部化が進行中である",
+        "香港科学技術パークなど地域の公的機関も物理AI関連企業への投資に参画しており、アジア太平洋地域でのエコシステム構築が加速している"
+      ]
+    }
+  },
+  {
     "title": "What Symbotic’s Walmart growth teaches robotics startups about anchor customers",
     "link": "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/",
     "published": "Wed, 28 Oct 2026 18:40:57 +0000",
