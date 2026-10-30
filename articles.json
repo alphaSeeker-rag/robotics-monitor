@@ -1,5 +1,71 @@
 [
   {
+    "title": "White House makes Section 232 determination regarding foreign-made robots",
+    "link": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
+    "published": "Thu, 29 Oct 2026 20:46:53 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-30 00:33:20",
+    "ai_summary": {
+      "title_ja": "ホワイトハウスが外国製ロボットに関するセクション232の決定を発表",
+      "summary": "米国商務長官によるセクション232調査により、ロボティクス製品の輸入依存が国家安全保障上のリスクであると結論付けられました。この決定は、米国国内のロボティクス産業の強化と自給能力の向上を目指すものです。",
+      "insights": [
+        "米国はロボティクス産業の戦略的重要性を認識し、サプライチェーンの国内化を推進する方針に転換",
+        "セクション232による保護主義的措置により、国内ロボティクス企業への投資・育成が加速する可能性",
+        "先端製造業における自動化技術の確保が、国家競争力と経済安全保障の重要な要素として位置付けられた"
+      ]
+    }
+  },
+  {
+    "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
+    "link": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
+    "published": "Thu, 29 Oct 2026 19:36:12 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-30 00:33:23",
+    "ai_summary": {
+      "title_ja": "2026年ロボティクスハンドブック：ヒューマノイド、AI、および設計選択を検証",
+      "summary": "2026年ロボティクスハンドブックは、器用な操作、ヒューマノイド、建設自動化の背後にある設計選択を詳細に検証している。本ハンドブックは、ロボティクス産業における次世代技術の実装における重要な設計判断と選択肢を分析している。",
+      "insights": [
+        "器用な操作能力はヒューマノイド開発における中核的な設計課題であり、実世界タスク対応の鍵となっている",
+        "AI技術の統合がロボティクスの汎用性と自律性向上を実現する上で不可欠な役割を担っている",
+        "建設自動化分野がロボティクス産業の成長領域として注目され、設計最適化の重要性が高まっている"
+      ]
+    }
+  },
+  {
+    "title": "ファナックがCNCで挑む安全なフィジカルAI　デジタルツイン×人の承認で事故防止",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news047.html",
+    "published": "Fri, 30 Oct 2026 07:45:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-10-30 00:33:29",
+    "ai_summary": null
+  },
+  {
+    "title": "3D造形で40％軽量化、ヒューマノイド連携も　シーメンスが描く次世代DX",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news046.html",
+    "published": "Fri, 30 Oct 2026 07:15:00 +0900",
+    "keywords": [
+      "ヒューマノイド"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-10-30 00:33:29",
+    "ai_summary": null
+  },
+  {
     "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
     "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
     "published": "Tue, 27 Oct 2026 16:14:39 +0000",
