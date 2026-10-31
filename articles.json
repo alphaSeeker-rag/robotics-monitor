@@ -1,5 +1,25 @@
 [
   {
+    "title": "Percepto launches Axion AI platform to unify inspection data analysis",
+    "link": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/",
+    "published": "Fri, 30 Oct 2026 19:05:34 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-10-31 00:19:23",
+    "ai_summary": {
+      "title_ja": "Perceptoが検査データ分析を統合するAxion AIプラットフォームを発表",
+      "summary": "Perceptoが、ハードウェアに依存しないフィジカルAIプラットフォーム「Axion」を発表しました。このプラットフォームは、ミッションクリティカルなインフラストラクチャ全体の可視化を実現します。複数のハードウェアデバイスからの検査データを統一的に分析・管理することで、インフラ管理の効率化と意思決定の高度化を支援します。",
+      "insights": [
+        "ハードウェアに依存しないプラットフォーム設計により、既存のドローンやロボット資産との互換性を確保し、顧客のポートフォリオの活用を最大化",
+        "インフラ検査業界における分散したデータの統合化がビジネス課題であり、AIプラットフォームによるデータ標準化・一元管理が競争優位性の源泉",
+        "フィジカルAIがミッションクリティカルインフラ(電力網、橋梁、パイプライン等)の遠隔検査・保守分野での産業応用が急速に進展"
+      ]
+    }
+  },
+  {
     "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
     "link": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
     "published": "Fri, 30 Oct 2026 16:19:16 +0000",
