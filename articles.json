@@ -1,5 +1,818 @@
 [
   {
+    "title": "ACE Robotics and NTU S-Lab Unveil Mundo, a World Model That Builds Robot Training Scenes From Photos",
+    "link": "https://pandaily.com/ace-robotics-ntu-s-lab-mundo-customized-world-model-1-12-photos-editable-3d-scene-mujoco-real-to-sim",
+    "published": "Sat, 31 Oct 2026 07:12:31 GMT",
+    "keywords": [
+      "World Model",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-31 17:10:10",
+    "ai_summary": {
+      "title_ja": "ACE RoboticsとNTU S-Labが「Mundo」を発表：写真からロボット訓練シーンを構築するワールドモデル",
+      "summary": "ACE Roboticsとシンガポール南洋理工大学のS-Labが、1～12枚の実景写真から物理演算機能付きの編集可能な3D環境を生成するAIモデル「Mundo」を開発した。このモデルにより、ロボットのナビゲーションや物体操作の訓練シミュレーションが可能になる。コードとモデルの重みは11月末までに公開予定。",
+      "insights": [
+        "実世界の画像から物理シミュレーション環境を自動生成することで、ロボット学習に必要な訓練データ収集コストを大幅に削減できる",
+        "編集可能な3Dシーン生成により、ロボットの多様なシナリオ訓練が可能となり、sim-to-realギャップの縮小に貢献する",
+        "少量の画像（1～12枚）から高品質なワールドモデルを構築する技術は、ロボットのデータ効率的な学習パラダイムシフトを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "Tencent Cloud Launches Data and Training Stack for Robots and Self-Driving, Plans TCLake XPhysis",
+    "link": "https://pandaily.com/tencent-cloud-physical-ai-multimodal-data-training-inference-embodied-autonomous-driving-tclake-xphysis",
+    "published": "Sat, 31 Oct 2026 03:06:23 GMT",
+    "keywords": [
+      "Physical AI",
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-31 17:10:15",
+    "ai_summary": {
+      "title_ja": "テンセント・クラウド、ロボットと自動運転向けデータ・学習スタックを発表、TCLake XPhysicsプラットフォームを計画",
+      "summary": "テンセント・クラウドは、具象化AI（エンボディドAI）と自動運転向けの統合マルチモーダルデータ処理・モデル学習スタックを発表した。同社は物理AI専用プラットフォームであるTCLake XPhysicsのリリースを予定している。このスタックは、ロボティクスと自動運転技術の開発を加速する基盤となる。",
+      "insights": [
+        "テンセント・クラウドが物理AIの基盤インフラ層に参入し、データ処理から学習までのエンドツーエンドソリューション提供により、ロボティクス・自動運転企業の開発コストと時間を削減する戦略",
+        "マルチモーダルデータ処理能力が物理AIの核となり、視覚・LiDAR・センサーデータの統合が自動運転とロボット制御の精度向上に直結する競争優位性",
+        "クラウド事業者による物理AI専用プラットフォーム開発の加速は、エッジAI×クラウドAIの融合モデルが産業標準化する転換点を示唆"
+      ]
+    }
+  },
+  {
+    "title": "InSpatio Opens a Simulation-First Robot Data Center in Hangzhou, Targets a Million Hours a Month",
+    "link": "https://pandaily.com/inspatio-simulation-embodied-ai-data-collection-center-hangzhou-million-hours-month-topos-pro-hesai-kosmo",
+    "published": "Sat, 31 Oct 2026 02:55:59 GMT",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-31 17:10:19",
+    "ai_summary": {
+      "title_ja": "InSpatio、杭州にシミュレーション主導型ロボットデータセンターを開設、月間100万時間のデータ生成を目指す",
+      "summary": "空間知能企業InSpatioは、中国初のシミュレーション主導型embodied AIデータセンターを杭州に開設した。このセンターは月間100万時間のロボット訓練データ生成を目標としており、物理世界でのロボット学習を加速させる戦略的な取り組みである。",
+      "insights": [
+        "シミュレーションベースの訓練データ生成により、実機試験の時間・コストを大幅削減できる可能性があり、embodied AI開発の効率化に貢献する",
+        "月間100万時間という大規模な訓練データ生産能力は、ロボティクス企業の競争力差別化要因となり、AIモデルの汎用性・性能向上を加速させる",
+        "中国がシミュレーション・データセンター構想を推進することで、ロボティクス・フィジカルAI領域における地政学的な技術競争が激化する可能性"
+      ]
+    }
+  },
+  {
+    "title": "Horizon Robotics Journey 6P and HSD Reportedly Head to BYD's God's Eye B; Yu Kai Splits TOPS Claims",
+    "link": "https://pandaily.com/horizon-robotics-journey-6p-hsd-byd-gods-eye-b-november-yu-kai-nv-tops-equivalent-tops",
+    "published": "Sat, 31 Oct 2026 02:53:18 GMT",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-10-31 17:10:23",
+    "ai_summary": {
+      "title_ja": "ホライゾン・ロボティクスのJourney 6PとHSDがBYDの「神の目B」に搭載へ、CEOユー・カイが演算性能指標の二重表記を発表",
+      "summary": "ホライゾン・ロボティクスのJourney 6Pチップとソフトウェアプラットフォーム「HSD」がBYDの新型車「God's Eye B」に搭載され、11月に納車予定。CEOユー・カイは同社が今後、異なる演算性能指標（TOPS）を複数表記することを明かした。これはAI自動運転市場でのホライゾン・ロボティクスの技術的な競争力強化を示唆している。",
+      "insights": [
+        "ホライゾン・ロボティクスが中国EV大手BYDとの深い統合を推進しており、自動運転AIチップの実装化が加速している",
+        "複数のTOPS指標の使用は、異なる処理負荷条件下での性能を正確に評価する業界標準化の動きで、信頼性向上に寄与する",
+        "11月の納車開始は、中国の自動運転車市場における競争激化の中で、実際の商用化スピードが重要な差別化要因になっていることを示す"
+      ]
+    }
+  },
+  {
+    "title": "Predict the Reward, Not the World: World Reward Models for ML Agents",
+    "link": "https://arxiv.org/abs/2610.38439",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:10:32",
+    "ai_summary": {
+      "title_ja": "報酬を予測する、世界ではなく：ML エージェント向けワールド報酬モデル",
+      "summary": "本論文は、プログラム候補を実行して最適解を探索するML エージェントにおいて、実行結果全体を予測するのではなく、どの候補がより良いパフォーマンスを示すかを直接判定するワールド報酬モデル(WRM)を提案している。従来の大規模言語モデルをベースとした世界モデルによる予測は誤情報をもたらす可能性があるが、WRM は実行結果から学習して選択判定を行うため、より信頼性の高いフィードバックを提供する。この手法により、計算コストの高い実行プロセスの効率化が実現される。",
+      "insights": [
+        "大規模言語モデルの予測精度に依存するのではなく、相対的な優劣判定に特化することで、ML エージェントの探索効率を大幅に向上させる可能性がある",
+        "ワールド報酬モデルは、ロボティクスやプログラム合成などの長時間実行を要するタスクにおいて、試行錯誤の回数削減と開発サイクルの短縮に直結する実用的価値を持つ",
+        "実行予測ではなく報酬判定に焦点を絞ることで、モデルの過度な複雑性を回避し、より堅牢で検証可能な意思決定メカニズムの構築が可能になる"
+      ]
+    }
+  },
+  {
+    "title": "Curriculum-Based Deep Reinforcement Learning for Robust Autonomous Rocket Landing under Atmospheric Uncertainty",
+    "link": "https://arxiv.org/abs/2610.38636",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:10:36",
+    "ai_summary": {
+      "title_ja": "大気不確定性下での堅牢な自律ロケット着陸のためのカリキュラムベース深層強化学習",
+      "summary": "本研究は、カリキュラム駆動型近接方策最適化(PPO)フレームワークを用いて、高度依存の空気抵抗、風せん断、乱流、突風、推進・空力パラメータの不確定性、推力ベクトル不整合など複数の不確定要因を含む確率的環境での3次元ロケット着陸制御に取り組んでいます。学習は遠距離接近、軟着陸、統合着陸の段階的タスクに構成され、方策転移と批評家のウォームアップにより強化学習の効率化を実現しています。実際の着陸ミッションの複雑な動力学と環境不確定性に対応可能な堅牢な自律制御システムの開発を目指しています。",
+      "insights": [
+        "カリキュラム学習による段階的タスク分解は、複雑な非線形制御問題を効率的に解くための有効な手法として機能し、強化学習の収束性と実用性を大幅に向上させる",
+        "シミュレーション環境での多次元不確定性（空力、推進系、センサー、アクチュエータ）の統合的モデル化は、Sim-to-Real transferの成功率向上と実運用での堅牢性確保に不可欠である",
+        "PPOと方策転移、批評家ウォームアップなどの技術的工夫の組み合わせにより、宇宙産業における自律着陸技術の実現可能性が大幅に向上し、再利用型ロケット技術の商用化加速が期待される"
+      ]
+    }
+  },
+  {
+    "title": "Context Compaction for World Models",
+    "link": "https://arxiv.org/abs/2610.38980",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:10:42",
+    "ai_summary": {
+      "title_ja": "ワールドモデルのコンテキスト圧縮",
+      "summary": "本研究は、生成されたワールドモデルにおいて、エージェントが既訪問領域を再訪問した際に一貫性を失う問題をコンテキスト検索問題として分析しています。LLMエージェントのモデル層とエージェント層の両層でコンテキスト管理を最適化する必要性を指摘し、ワールドモデルのコンテキスト検索性能を測定するベンチマークを構築しています。",
+      "insights": [
+        "ワールドモデルの一貫性維持には、KVキャッシュ設計とエージェント層のコンテキスト選択の双方の最適化が重要であり、従来のモデル層のみの改善では不十分",
+        "エージェントが訪問済み領域を正確に再生成できるかを測定するベンチマークは、ロボティクスやゲームAI等の実応用において環境の予測可能性と信頼性を向上させる",
+        "コンテキスト圧縮技術の発展は、メモリ制約下での長期的な環境相互作用を実現するフィジカルAIシステムの実装に直結する"
+      ]
+    }
+  },
+  {
+    "title": "PAPERBENCHX: Can AI Reproduce Science Across Disciplines?",
+    "link": "https://arxiv.org/abs/2610.39744",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:10:47",
+    "ai_summary": {
+      "title_ja": "PAPERBENCHX: AIは複数分野における科学を再現できるか?",
+      "summary": "本研究は、AIが新しい科学発見を信頼できるものにするには、既知の科学を再現する能力が不可欠であると主張している。既存のベンチマークはAI/機械学習に限定されているため、複数の科学分野にわたる再現性評価のためのベンチマーク「PAPERBENCHX」(93の実験)を提案している。本ベンチマークは、ドメイン固有のソフトウェア操作、物理的・数値的選択、長時間計算の診断など、学際的な課題に対応している。",
+      "insights": [
+        "AI科学エージェントの信頼性構築には、既知科学の再現性が前提条件となる必要がある",
+        "複数分野横断的な実験再現には、ドメイン固有のソフトウェアスタック操作と物理的パラメータ決定が新たな課題として浮上する",
+        "長時間計算診断と妥当性評価の自動化が、物理系やシミュレーション領域でのAI科学者の実用化の鍵となる"
+      ]
+    }
+  },
+  {
+    "title": "AegisFlow: Training-Free Non-Myopic Path-Safe Guided Flow Matching",
+    "link": "https://arxiv.org/abs/2610.39825",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:10:50",
+    "ai_summary": {
+      "title_ja": "AegisFlow: 訓練不要な非近視的経路安全ガイド付きフロー・マッチング",
+      "summary": "拡散モデルやフロー・マッチングなどの事前学習済み生成モデルは高品質データ生成に優れていますが、画像編集での同一性保持やロボティクスでの障害物回避など、厳密な制約条件を満たすように生成軌跡を誘導することは困難です。本研究は、訓練不要で非近視的な経路安全ガイダンス・フレームワーク「AegisFlow」を提案し、ガイド付き生成を安全クリティカルな最適制御問題として再定義することで、制約境界に接近しすぎる部分最適軌跡を回避し、生成モデルの性能最適化能力を大幅に向上させます。",
+      "insights": [
+        "既存の訓練不要なガイダンス手法は最小ノルム制御に依存するため、即座の制約充足のみ考慮し、長期的な最適性を欠く(近視的)という根本的限界がある",
+        "安全クリティカルな最適制御として生成軌跡誘導を再構成することで、ロボティクス・ビジョンタスクの実装可能性と信頼性が大幅に向上する可能性がある",
+        "訓練不要手法による非近視的パス安全誘導の実現は、事前学習済み生成モデルの産業応用範囲(自動運転、医用画像処理など)を著しく拡大する可能性を持つ"
+      ]
+    }
+  },
+  {
+    "title": "Cheap Retrieval and Observation Credit Assignment from One Quantity: The Value of Information",
+    "link": "https://arxiv.org/abs/2610.40030",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:10:55",
+    "ai_summary": {
+      "title_ja": "単一の量から安価な検索と観測への信用配分：情報価値",
+      "summary": "本論文は、強化学習におけるメモリ問題として注目度の高い「検索コスト」と「信用配分」の二つの課題が、情報価値という単一の量で統一できることを提案している。学習済みワールドモデルを用いて情報価値を推定し、観測時に最適行動の下界を提供するTDターゲットを生成し、決定時に最適検索セットを定義する方法を示している。エネルギー・遅延制約を受けるロボットシステムにおいて、コンテキストを削減した状態でメモリタスクを解決できる実験的検索システムを提示している。",
+      "insights": [
+        "ロボティクスにおいて、注意機構による全メモリスコアリングではなく情報価値ベースのフィルタリングにより、レイテンシとエネルギー消費を大幅に削減できる可能性",
+        "時系列全体にわたる信用配分問題が、情報価値の数学的下界によって解決され、より効率的な学習シグナルが得られることの意義",
+        "ワールドモデルを活用した情報価値推定が、エッジロボットやリソース制約環境でのメモリ効率的な強化学習の実現に向けた有望なアプローチ"
+      ]
+    }
+  },
+  {
+    "title": "Algebraic World Model: From Exploration to Proofs",
+    "link": "https://arxiv.org/abs/2610.40503",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Bouba Beats Kiki, and Other Regularities in the Subjective Preferences of LLMs",
+    "link": "https://arxiv.org/abs/2610.37692",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Poisoned Skills: Propagating Jailbreaks Through Agent Markdown Files",
+    "link": "https://arxiv.org/abs/2610.37738",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Echo: Scaling Visual Reinforcement Learning with Off-policy Experience",
+    "link": "https://arxiv.org/abs/2610.37865",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "When More Planning Hurts: Learned Planners for World Models",
+    "link": "https://arxiv.org/abs/2610.37891",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "What Actually Matters? A Paired Evaluation of Inference Settings for $\\pi_{0.5}$ on BEHAVIOR-1K",
+    "link": "https://arxiv.org/abs/2610.37917",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Self-Supervised Latent Action-Conditioned World Modeling for Time Series",
+    "link": "https://arxiv.org/abs/2610.37963",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "METATRON: A Promptable Whole-Body Execution Layer for Humanoids",
+    "link": "https://arxiv.org/abs/2610.38027",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction",
+    "link": "https://arxiv.org/abs/2610.38209",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "CuraEval: Evaluating Demonstration Curation on Mixed-Skill Robot Data",
+    "link": "https://arxiv.org/abs/2610.38221",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "A Tutorial on Generative Models for Music Audio",
+    "link": "https://arxiv.org/abs/2610.38252",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "SaiVLA-JEPA: Evaluating Future Latent Prediction in JEPA-Conditioned VLA Control",
+    "link": "https://arxiv.org/abs/2610.38508",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "AtomSteer: Test-Time Constraint Steering for Atomistic Generative Models",
+    "link": "https://arxiv.org/abs/2610.38517",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "The Artificial Personality Model: Theory, Implementation, Measurement and Experimental Validation in Conversational Agents",
+    "link": "https://arxiv.org/abs/2610.38608",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation",
+    "link": "https://arxiv.org/abs/2610.38657",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Sim-to-Real",
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Implicit Reasoning in Transformers: Bridging the Compositionality Gap in GPT-2-like Models",
+    "link": "https://arxiv.org/abs/2610.39016",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Compositional Generalization"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection",
+    "link": "https://arxiv.org/abs/2610.39076",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Generating Critic-Guided Synthetic Experience in Latent World Models",
+    "link": "https://arxiv.org/abs/2610.39100",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "WorldFlow: Joint Video and 3D Motion Prediction via Large-Scale Pretraining",
+    "link": "https://arxiv.org/abs/2610.39278",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "UMI-Live for In-The-Wild Bimanual Robotics Data Collection",
+    "link": "https://arxiv.org/abs/2610.39385",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Teleoperation",
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models",
+    "link": "https://arxiv.org/abs/2610.39848",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles",
+    "link": "https://arxiv.org/abs/2610.40075",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
+    "link": "https://arxiv.org/abs/2610.40532",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+    "link": "https://arxiv.org/abs/2610.40565",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "robotics",
+      "embodied AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "InterPol: De-anonymizing LM Arena via Interpolated Preference Learning",
+    "link": "https://arxiv.org/abs/2603.15220",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+    "link": "https://arxiv.org/abs/2604.13151",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN",
+    "link": "https://arxiv.org/abs/2608.07267",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "World Model Science: Self-Organized Criticality, Weak Chaos, and Metastable Belief Dynamics in Long-Horizon LLM Agents",
+    "link": "https://arxiv.org/abs/2609.17419",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "SemantiScene-Edit: Expert-Synthesized Supervision and Dual-Path Source Conditioning for Instruction-Based Video Editing",
+    "link": "https://arxiv.org/abs/2609.26015",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "When Do Causal World Models Help Modular LLM Agents",
+    "link": "https://arxiv.org/abs/2610.00012",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+    "link": "https://arxiv.org/abs/2610.02260",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+    "link": "https://arxiv.org/abs/2610.26844",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Compositional Generalization",
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+    "link": "https://arxiv.org/abs/2610.31066",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Aligned Delta-Triplane Transformers as Occupancy World Models",
+    "link": "https://arxiv.org/abs/2503.07338",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Joint Detection of Fraud and Concept Drift inOnline Conversations with LLM-Assisted Judgment",
+    "link": "https://arxiv.org/abs/2505.07852",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "The Verification Crisis: Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance",
+    "link": "https://arxiv.org/abs/2602.02100",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Mitigating the Likelihood Paradox in Flow-based OOD Detection: An Entropic Perspective",
+    "link": "https://arxiv.org/abs/2602.09581",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Towards Batch-to-Streaming Deep Reinforcement Learning for Continuous Control",
+    "link": "https://arxiv.org/abs/2603.08588",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "sim2real"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Turbo4DGen: Ultra-Fast Acceleration for 4D Generation",
+    "link": "https://arxiv.org/abs/2603.29572",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "World Model",
+      "Physical AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation",
+    "link": "https://arxiv.org/abs/2604.11674",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Vision-Language-Action",
+      "Sim-to-Real",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling",
+    "link": "https://arxiv.org/abs/2605.29488",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2606.11087",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Breadcrumbing Search Agents: Per-Turn Scheming Over Long-Horizon Trajectories",
+    "link": "https://arxiv.org/abs/2608.04565",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Evidence-Gated Task and Motion Planning with Vision-Language Models",
+    "link": "https://arxiv.org/abs/2608.20084",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "GlanceWAM: Sparse Test-Time Imagination for World-Action Models",
+    "link": "https://arxiv.org/abs/2608.23927",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "A Geometric Approach to Soft Actor-Critic with Zonotopes for Locomotion Learning",
+    "link": "https://arxiv.org/abs/2610.12113",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "What Happens to the Goal? Distinct Failures of Policy Alignment in Goal Misgeneralization",
+    "link": "https://arxiv.org/abs/2610.19731",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Value-Rectified Distillation for Flow-based Offline Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2610.29075",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
+    "title": "POD-RoPE: Rotary Position Encoding over Physical Observation Distributions for Embodied AI",
+    "link": "https://arxiv.org/abs/2610.33745",
+    "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "keywords": [
+      "embodied AI",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-10-31 17:11:00",
+    "ai_summary": null
+  },
+  {
     "title": "Percepto launches Axion AI platform to unify inspection data analysis",
     "link": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/",
     "published": "Fri, 30 Oct 2026 19:05:34 +0000",
