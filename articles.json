@@ -1,5 +1,107 @@
 [
   {
+    "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
+    "link": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+    "published": "Sun, 01 Nov 2026 14:00:58 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-01 17:51:50",
+    "ai_summary": {
+      "title_ja": "48時間以内に28個のゼロデイ脆弱性を発見：AI高速検出がロボティクスにもたらす意味",
+      "summary": "VicOneはAI支援型研究を活用して、Physical AIエコシステムを支えるソフトウェアとツール群から48時間以内に28個のゼロデイ脆弱性を特定した。これはAI駆動の脆弱性検出技術がロボティクス産業において従来手法を大幅に上回る速度を実現することを示唆している。ロボティクス・フィジカルAIシステムのセキュリティ検証プロセスが急速に進化していることを意味する。",
+      "insights": [
+        "AI支援型セキュリティ分析により、従来の数週間・数ヶ月単位の脆弱性検出が数日レベルに加速化する可能性",
+        "Physical AIエコシステムの急速な拡大に伴い、従来型の手動セキュリティ監査では対応不可能な規模のリスクが存在する実態が浮き彫りに",
+        "ロボティクス産業においてAI駆動型セキュリティツールの導入が競争優位性とコンプライアンス要件として急速に重要化する傾向"
+      ]
+    }
+  },
+  {
+    "title": "Why physical AI is the next lucrative frontier",
+    "link": "https://www.therobotreport.com/why-physical-ai-next-lucrative-frontier/",
+    "published": "Sun, 01 Nov 2026 13:30:41 +0000",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-01 17:51:55",
+    "ai_summary": {
+      "title_ja": "フィジカルAIが次の収益性の高いフロンティアである理由",
+      "summary": "フィジカルAIは現在、資金調達の熱狂を乗り越えて、実際の生産環境への展開が求められている段階にある。商業的価値を証明するには、研究開発段階から実運用への移行が不可欠である。今後のフィジカルAI産業の成長は、実装と量産化の成功にかかっている。",
+      "insights": [
+        "フィジカルAIの企業価値実現には、ラボから実生産環境への実装が重要な転換点となる",
+        "現在のファンディングブームから脱却し、実際のROI創出能力が市場評価を左右する",
+        "ロボティクスと物理的タスク自動化における実用化が、次世代の主要ビジネス機会となる可能性が高い"
+      ]
+    }
+  },
+  {
+    "title": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
+    "link": "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/",
+    "published": "Sun, 01 Nov 2026 13:00:31 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-01 17:51:58",
+    "ai_summary": {
+      "title_ja": "現代ロボティクスにおける相互接続の課題解決：3Mが実現する動き、密度、稼働率",
+      "summary": "ロボティクスシステムの高度化に伴い、AI駆動のビジョン・制御機能の搭載により、従来は過小評価されてきた相互接続部品がかつてないほど高い性能要求に直面している。3Mは運動性能、配線密度、システム稼働率の三要素を最適化する相互接続ソリューションの開発に注力している。",
+      "insights": [
+        "ロボティクスの高速化・高精度化に伴い、信号整合性と電力供給の安定性が従来以上に重要な設計課題となっている",
+        "小型化・高密度配線化の需要と信頼性維持のトレードオフ解決が、相互接続技術の競争力差別化要因として機能している",
+        "AI・ビジョンシステムを搭載した自律型ロボットの普及により、ダウンタイム最小化を実現する高耐久性コネクタ・ケーブル技術への投資が加速している"
+      ]
+    }
+  },
+  {
+    "title": "스스로 판단하고 움직이는 로봇의 시대, “AI 로봇 혁명, 대한민국 산업의 미래를 열다” ‘2026 로보월드’, 11월 4일 킨텍스서 개막",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49300",
+    "published": "2026-11-01 19:52:43",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-01 17:52:09",
+    "ai_summary": {
+      "title_ja": "自律判断・動作するロボット時代へ、「AIロボット革命が大韓民国産業の未来を切り開く」『2026ロボワールド』11月4日KINTEXで開幕",
+      "summary": "国内最大のロボット産業専門展示会『2026ロボワールド』が11月4～7日に経기道高陽市KINTEXで開催される。産業通商部が主催し、20カ国約400社・1200ブースが参加予定。ヒューマノイド、製造AX(M.AX)、フィジカルAIを核としたAIロボット技術の発展方向と産業応用事例が展示される。",
+      "insights": [
+        "フィジカルAI、ヒューマノイド、製造AXがロボット産業の3大核心技術トレンドとして位置づけられており、産業적 実装段階への移行が進行中",
+        "韓国がAIロボット領域で国家戦略的に注力し、国際展示会規模の拡大により技術交流とビジネスマッチングの機会を意図的に創出",
+        "自律判断能力を持つロボットの産業応用が本格화되고 있으며、製造業など実製造現場への導入が加속化する転機を迎えている"
+      ]
+    }
+  },
+  {
+    "title": "서울대-서울시, 피지컬AI 협력...내년 양재에 센터 개설",
+    "link": "https://zdnet.co.kr/view/?no=20261101114755",
+    "published": "Sun, 01 Nov 2026 11:47:55 +0900",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-11-01 17:52:14",
+    "ai_summary": {
+      "title_ja": "ソウル大学とソウル市がフィジカルAI協力...来年ヤンジェにセンター開設",
+      "summary": "ソウル大学工科大学とソウル市が人間中心のフィジカルAI技術の産業化を目指し、ヤンジェのソウルAIハブメインセンターに「H-PAIR フィジカルAXセンター」を開設する。H-PAIR国家研究所（950億ウォン規模）を中心に、大学の基礎研究と企業の実装を結びつけ、製造・産業用ロボットから生活・介護・ウェアラブルなど日常生活密接な技術の実用化を推進する。",
+      "insights": [
+        "人間中心のフィジカルAIは単なる自動化ではなく、人間と協働する共生型ロボティクスとしてのポジショニング",
+        "大学の基礎研究（16学科・41教授参加の超学際的組織）とスタートアップ支援基盤の統合により、研究成果の実装期間を短縮",
+        "生活・介護・ウェアラブル領域への展開は、高齢化社会向けのロボット市場創出を狙った戦略的なアプローチ"
+      ]
+    }
+  },
+  {
     "title": "ACE Robotics and NTU S-Lab Unveil Mundo, a World Model That Builds Robot Training Scenes From Photos",
     "link": "https://pandaily.com/ace-robotics-ntu-s-lab-mundo-customized-world-model-1-12-photos-editable-3d-scene-mujoco-real-to-sim",
     "published": "Sat, 31 Oct 2026 07:12:31 GMT",
