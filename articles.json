@@ -1,5 +1,25 @@
 [
   {
+    "title": "Westlake University Opens a World Model Research Center Led by Yu Kaicheng",
+    "link": "https://pandaily.com/westlake-university-world-model-research-center-yu-kaicheng-jin-yaochu-physical-intelligence",
+    "published": "Sun, 01 Nov 2026 01:51:27 GMT",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-02 00:11:07",
+    "ai_summary": {
+      "title_ja": "西湖大学がユー・カイチェン氏主導のワールドモデル研究センターを開設",
+      "summary": "西湖大学は2024年10月31日、雲谷キャンパスにワールドモデル研究センターを開設した。ユー・カイチェン氏が所長、ジン・ヤオチュ氏が最高科学責任者として、フィジカルインテリジェンス（物理的知能）の研究に注力する。",
+      "insights": [
+        "ワールドモデルはロボティクスとフィジカルAIの発展において重要な基盤技術であり、中国の主要大学が研究体制を強化している",
+        "フィジカルインテリジェンスは現実世界の物理法則と環境を理解・予測し、ロボットの自律性を向上させる次世代技術として位置づけられている",
+        "一流研究機関による専門センター設立は、この領域が産業化・実用化フェーズへ移行していることを示唆している"
+      ]
+    }
+  },
+  {
     "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
     "link": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
     "published": "Sun, 01 Nov 2026 14:00:58 +0000",
