@@ -1,5 +1,265 @@
 [
   {
+    "title": "[로보월드 2026] 피지컬 AI 시대 조망…‘2026 로보월드’ 오늘 개막",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49379",
+    "published": "2026-11-04 01:54:10",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-03 19:24:22",
+    "ai_summary": {
+      "title_ja": "【ロボワールド2026】フィジカルAI時代を展望...『2026ロボワールド』本日開幕",
+      "summary": "韓国最大のロボット産業専門展示会『2026ロボワールド』が11月4日から7日まで京畿道高陽市KINTEXで開催される。本展は『自律判断・行動するロボット時代、AIロボット革命、大韓民国産業の未来を開く』をテーマに、ヒューマノイド、製造業向けAX（AI転換）、フィジカルAI技術の発展と産業応用の可能性に焦点を当てる。産業通商部が主催し、複数の業界団体が共同運営する。",
+      "insights": [
+        "フィジカルAI技術が産業化の転換点を迎え、単なるシミュレーションから現実の物理環境での自律動作へシフトしている",
+        "ヒューマノイド及びAX（AI転換）が製造業など実業界での具体的応用が本格化し、韓国が주요한 시장으로 부상하는 중",
+        "政府・学会・業界が一体となった展示会開催により、AIロボット技術の産業競争力強化と技術標準化推進の戦略的意図が明確"
+      ]
+    }
+  },
+  {
+    "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+    "link": "https://arxiv.org/abs/2610.40798",
+    "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:24:33",
+    "ai_summary": {
+      "title_ja": "妥当な予測を超えて：ウェブワールドモデルにおける安全性の十分性",
+      "summary": "ウェブワールドモデルは行動の結果を予測していますが、予測結果が妥当であっても安全性判断に必要な情報を提供するとは限りません。3,000件の予測評価で86.1%が意味的に妥当と判定されたにもかかわらず、複数のモデルは非対称的な認可行動を示し、偽陰性の実行率が低い一方で明確化が必要なケースの検出率が低く、ブロック判定に強いバイアスを持っています。安全性十分性（予測インターフェースが実行可能/確認要求/ブロック判定を区別するために必要な政策決定情報を保持・公開するか）が重要であり、SafeWebWorldベンチマークが提案されています。",
+      "insights": [
+        "予測精度と安全性判断の有効性は相関しない：意味的妥当性が高くても、安全性決定に必要な微細な情報の欠落が問題となる",
+        "AIエージェントの意思決定バイアス：複数モデルで確認が必要なグレーゾーンケースの検出率低下とブロック選択への強いバイアスが確認され、過度に保守的な運用に陥るリスク",
+        "安全性ベンチマーク設計の必要性：ウェブワールドモデル評価には予測精度だけでなく、政策適合性と情報十分性を測定する専門的ベンチマークが必須"
+      ]
+    }
+  },
+  {
+    "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+    "link": "https://arxiv.org/abs/2610.40927",
+    "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:24:38",
+    "ai_summary": {
+      "title_ja": "エージェント型世界モデルを用いたテスト時間スケーリング：環境複製なしでのエージェント性能向上",
+      "summary": "本研究は、LLMエージェントのテスト時間スケーリング（複数の候補軌跡をサンプリング・選択）において、実環境での制約（環境複製不可、不可逆的副作用、軌跡間干渉）に対応する新手法「Agentic World Modeling（AWM）」を提案する。従来の生成型世界モデルの限界（部分観測下での信頼性低下）を克服するため、AWMは次の状態予測をマルチターン証拠収集タスクとして再構成し、エージェント型シミュレータが各仮想アクションに対して段階的に観測を獲得する。",
+      "insights": [
+        "実運用環境での制約（環境複製不可、コスト制約、不可逆的な副作用）を考慮したAIエージェントの設計が急務であり、従来の並列実行前提は実現性に欠ける",
+        "エージェント型の推論プロセスを世界モデルに統合することで、部分観測下での環境シミュレーションの精度・信頼性が向上し、エンタープライズAIシステムの現実的な展開を可能にする",
+        "テスト時間スケーリングはLLMの性能向上の重要な技術トレンドであり、物理的制約や運用上の制限を克服する設計が、ロボティクス・AIシステムの実用化を加速させる"
+      ]
+    }
+  },
+  {
+    "title": "Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning",
+    "link": "https://arxiv.org/abs/2506.20651",
+    "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:24:44",
+    "ai_summary": {
+      "title_ja": "悪意あるサーバーによるフェデレーテッドラーニングでの勾配漏洩検知",
+      "summary": "フェデレーテッドラーニング（FL）において、悪意あるサーバーがグローバルモデルを操作してクライアントの機密情報を含む勾配更新を引き出す攻撃に対する防御戦略を初めて包括的に分析した研究。攻撃の有効性とステルス性の間には根本的なトレードオフが存在し、正規化技術やフェデレーテッド平均化などの一般的な防御メカニズムにより、このような攻撃は検知回避が困難になることを実証した。",
+      "insights": [
+        "FLにおいて勾配更新から機密データを復元する攻撃と検知回避の両立は理論的に困難であり、実装段階では防御側に有利な設計原理が存在する",
+        "正規化手法やフェデレーテッド平均化といった標準的なFL技術が、意図せず勾配漏洩攻撃への耐性を備えており、セキュリティと利便性の両立が可能",
+        "防御側視点からの体系的な分析により、FLシステムの設計時に悪意あるサーバーシナリオを考慮した堅牢性評価が重要になる"
+      ]
+    }
+  },
+  {
+    "title": "Bayesian Distribution System State Estimation with Flow Matching",
+    "link": "https://arxiv.org/abs/2610.40728",
+    "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:24:48",
+    "ai_summary": {
+      "title_ja": "フロー・マッチングを用いたベイズ分布系統状態推定",
+      "summary": "本論文は、配電系統の状態推定(DSSE)において、ベイズ統計構造を保持しながらニューラルネットワークとフロー・マッチング手法を組み合わせたPoSE手法を提案している。リアルタイム計測が限定的な中圧配電線において、従来のWLS法や深層学習手法の課題を克服し、変電所注入電力の分布を学習することで、より柔軟で堅牢な状態推定を実現する。Kalman補正を通じて潮流方程式と測定値を統合し、過去データから学習した分布を活用する。",
+      "insights": [
+        "ベイズ統計とディープラーニングの融合により、従来の加重最小二乗法よりも柔軟な確率分布表現が可能になり、不確実性の定量化精度が向上する",
+        "フロー・マッチング技術により、ニューラルネットワークが特定の測定セットに固定されず、汎化性能と転移学習性が向上する",
+        "配電系統の限定的なリアルタイム計測環境において、擬似計測を活用したベイズ推論フレームワークは、エッジシステムの信頼性と予測精度の両立に有効"
+      ]
+    }
+  },
+  {
+    "title": "Dreams Are Cheaper Than Flights: Curated World-Model Data Improves Aerial Detection",
+    "link": "https://arxiv.org/abs/2610.41030",
+    "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:24:53",
+    "ai_summary": {
+      "title_ja": "夢は飛行より安い：キュレーションされた世界モデルデータが空中検出を改善",
+      "summary": "本研究は、ビデオ世界モデルで生成した合成データが実フィールドデータの代替となるかを検証しています。野生生物ドローン映像をシードとした70億パラメータの世界モデルを用いて、訓練データセットを2倍以上に拡張し、mAP@50-95で4.3～33.5%の精度向上を実現しました。合成データ生成コストは約1,100ドルのGPU時間で、従来の実フィールドデータ収集コストを大幅に削減できることを示唆しています。",
+      "insights": [
+        "ロボット知覚システムにおいて、実フィールドデータ収集の高コストと時間制約が主課題であり、生成型AIによる合成データ活用は実用的な解決策として機能する可能性を示唆",
+        "87.5%の生成クリップが専門家に却下されても、残存する12.5%の高品質キュレーションデータだけで大幅な性能向上を実現でき、データ品質管理と量のバランスが重要",
+        "ドローン映像のような特定デプロイメント環境（センサー、高度、環境）に特化した世界モデルを用いることで、ドメイン転移性を保ちながら低コストでタスク特化型データセットを生成可能"
+      ]
+    }
+  },
+  {
+    "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
+    "link": "https://arxiv.org/abs/2610.41039",
+    "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:24:58",
+    "ai_summary": {
+      "title_ja": "ファインチューニングされた混合専門家型大規模言語モデルにおける回復可能な専門家利用シグネチャの特性化",
+      "summary": "混合専門家(MoE)型LLMのファインチューニング時に、訓練データだけでなく内部処理経路も記憶する「構造的記憶化」という新たなセキュリティ脆弱性が発生することを実証した。この記憶化されたルーティング指紋は、わずかなサンプルからでも一貫して出現し、訓練可能モジュールの選択によって強度が左右される。モデルの無条件生成を通じて、これらの専門家経路を秘密裏に復元できることが明かされた。",
+      "insights": [
+        "MoE型LLMは分散環境での展開時に、従来の学習不可能データ漏洩を超えた『構造的記憶化』という新種の情報漏洩脆弱性を持ち、セキュリティ設計の再考が必要",
+        "ファインチューニング時のモジュール選択がプライバシーリスクの大きさを直接決定するため、訓練戦略の最適化がセキュリティ対策の鍵となる",
+        "ルーティング指紋の無条件生成からの復元は、連邦学習やエッジコンピューティング環境でのMoEモデル利用時に、推論段階での知的財産保護や訓練プロセス特定のリスクが高いことを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "One Verdict Is Not Enough: Regression Testing Learned World Models and Their Test Harnesses",
+    "link": "https://arxiv.org/abs/2610.41130",
+    "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:25:04",
+    "ai_summary": {
+      "title_ja": "単一の判定では不十分：学習された世界モデルと回帰テストハーネスの検証",
+      "summary": "本研究は、学習された世界モデルのソフトウェアコンポーネント化における回帰テストの課題に対処しています。モデルバージョン、前処理、テストハーネスの変更により、従来の精度チェックでは検出できない問題が発生します。TetraStateプロトコルを提案し、4つの固定モデル構成下での可能/不可能ビデオテストペアの実行により、テスト結果の信頼性を向上させています。",
+      "insights": [
+        "学習型世界モデルのリリース間でのモデルバージョン変更により、精度指標では隠蔽される個別サンプルレベルの性能低下（負のフリップ）が生じることが課題である",
+        "単一構成下でのテスト検証では不十分であり、複数の固定モデル構成下での並行テスト実行により、構成依存的な欠陥やハーネス障害を検出できる",
+        "テストハーネス自体をシステムの一部として版管理し、結論が出ないテストと実行失敗を別途報告することで、回帰テストの透明性と再現性が向上する"
+      ]
+    }
+  },
+  {
+    "title": "ROSTrans: Empirically Benchmarking LLMs for ROS1-to-ROS2 Migration",
+    "link": "https://arxiv.org/abs/2610.41168",
+    "published": "Mon, 02 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:25:08",
+    "ai_summary": {
+      "title_ja": "ROSTrans: ROS1からROS2への移行におけるLLMsの実証的ベンチマーク",
+      "summary": "本研究はロボット用OSのROS1からROS2への移行コード生成に特化したLLMsの性能評価ベンチマーク「ROSTrans」を提案している。70以上のオープンソースROS1リポジトリから108のスキャフォールディング完了タスクを設計し、ノード間調整、ミドルウェア設定、ライフサイクル管理といったロボティクス固有の複雑な要件を評価する。従来のコード生成ベンチマークを超えた、実際のロボットシステム動作時のみ検証可能な正確性要件を含む。",
+      "insights": [
+        "ロボティクスソフトウェア開発はドメイン固有性が高く、汎用LLMsの能力評価には専門ベンチマークが必須であること",
+        "ROS1→ROS2移行は業界的に重要な実務課題であり、LLMsによる自動化の需要が高いこと",
+        "ノード間通信やミドルウェア設定など、実行時にのみ正確性が検証可能な要件への対応がロボティクス分野のLLM応用の鍵になること"
+      ]
+    }
+  },
+  {
+    "title": "Transferring Peptide-Target Interaction Patterns to Small Molecules by Joint Guidance for Diffusion and Flow Matching",
+    "link": "https://arxiv.org/abs/2610.41322",
+    "published": "Tue, 03 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:25:13",
+    "ai_summary": {
+      "title_ja": "ペプチド-標的相互作用パターンの小分子への転移：拡散とフロー・マッチングの共同ガイダンスによるアプローチ",
+      "summary": "本研究は、タンパク質間相互作用(PPI)を標的とする小分子医薬品の生成という創薬の困難な課題に取り組んでいます。既知のペプチド-標的相互作用パターンを活用しながら、ペプチド構造への過度な制約を回避するため、PIFT（Peptide InterFace Transfer）という新しいフレームワークを提案しており、マスク離散拡散と連続フロー・マッチングの共同ガイダンスを用いて生成空間を最適化します。",
+      "insights": [
+        "PPIは従来型の深いポケット構造ではなく広く浅い結合面を特徴とするため、既存の小分子設計アプローチでは不十分であり、ペプチド情報の活用が戦略的に重要",
+        "生成AI（拡散モデル）における条件付け制約のバランスという課題解決は、創薬AI全般における配置設計の最適化に応用可能な汎用技術",
+        "マスク離散拡散と連続フロー・マッチングの統合的ガイダンスは、複雑な分子生成タスクにおける次世代の生成モデル設計パラダイムを示唆"
+      ]
+    }
+  },
+  {
+    "title": "From Prediction to Action: Population Health World Model for Digital Medicine",
+    "link": "https://arxiv.org/abs/2610.24662",
+    "published": "Tue, 03 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:25:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Algebraic World Model: From Exploration to Proofs",
+    "link": "https://arxiv.org/abs/2610.40503",
+    "published": "Tue, 03 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:25:17",
+    "ai_summary": null
+  },
+  {
+    "title": "AMMA: A Multi-Chiplet Memory-Centric Architecture for Low-Latency 1M Context Attention Serving",
+    "link": "https://arxiv.org/abs/2604.26103",
+    "published": "Tue, 03 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Chiplet"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:25:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Simulation-free Unbalanced Dynamic Optimal Transport with General Growth Penalty",
+    "link": "https://arxiv.org/abs/2609.04710",
+    "published": "Tue, 03 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:25:17",
+    "ai_summary": null
+  },
+  {
+    "title": "When Is a Relation Worth Trusting? Manipulation Costs, Exposure, and the Trust Trap in Multi-Relational Graph Learning",
+    "link": "https://arxiv.org/abs/2610.37239",
+    "published": "Tue, 03 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-03 19:25:17",
+    "ai_summary": null
+  },
+  {
     "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
     "link": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
     "published": "Tue, 03 Nov 2026 00:15:39 +0000",
