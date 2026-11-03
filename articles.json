@@ -1,5 +1,107 @@
 [
   {
+    "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
+    "link": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
+    "published": "Tue, 03 Nov 2026 00:15:39 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-03 02:44:37",
+    "ai_summary": {
+      "title_ja": "Churchill Capital XIの株主がAgility Roboticsのヒューマノイドロボット買収を承認、総額25億ドル",
+      "summary": "Churchill Capital XI（特別買収目的会社）の株主がAgility Roboticsとの合併を承認し、総額25億ドルのSPAC取引が成立した。本取引により、Agility Roboticsは約4.65億ドルの資本調達が見込まれる。同社はDigitヒューマノイドロボットの産業顧客への導入拡大を加速させる。",
+      "insights": [
+        "ヒューマノイドロボット企業の資金調達が急速に進展しており、SPAC経由の上場が市場の主流手段となっている",
+        "Digit等の産業用ヒューマノイドは単なる研究開発段階を脱し、実際の商用導入フェーズへ移行している",
+        "約4.65億ドルの資本はロボット製造、供給チェーン構築、顧客サポート拡充に向けられ、ヒューマノイド産業化の加速を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "美 MIT, 뱀처럼 소장 누비는 소프트 로봇 내시경 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49354",
+    "published": "2026-11-03 11:03:52",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-03 02:44:47",
+    "ai_summary": {
+      "title_ja": "MIT、蛇のように動く柔軟ロボット内視鏡を開発—小腸検査・治療を革新",
+      "summary": "MITの研究チームが、蛇のような動きで小腸内部を移動できるソフトロボット内視鏡を開発しました。本装置は狭く複雑な小腸内で画像撮影、薬物投与、組織検査、ポリープ除去などの医療処置を実行可能です。この技術は従来アクセスが困難だった小腸疾患の診断・治療を大きく改善します。",
+      "insights": [
+        "生体模倣設計（ビオミメティクス）により、蛇の運動メカニズムを模倣した柔軟な駆動機構が、狭隘で蛇行した臓器内での操作性を大幅に向上させた",
+        "ソフトロボット技術が従来の硬性内視鏡では困難だった小腸領域での多機能化（撮影、薬物投与、生検、治療）を同時実現し、医療の低侵襲化を促進",
+        "内視鏡ロボティクスの高度化により、消化器疾患の早期診断・治療プロセスの効率化と患者負担軽減が可能になる市場機会が創出される"
+      ]
+    }
+  },
+  {
+    "title": "美 RAI 연구소, 로봇 전신 조작 기술로 15kg 타이어 자율 조작",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49351",
+    "published": "2026-11-03 11:00:07",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-03 02:44:52",
+    "ai_summary": {
+      "title_ja": "米RAI研究所、ロボット全身操作技術で15kg自動車タイヤの自律操作に成功",
+      "summary": "米国ロボティクス・AI研究所（RAI）がBoston Dynamicsの4足歩行ロボット「Spot」を用いて、15kgのタイヤを自律的に操作する全身操作技術（Whole-Body Manipulation）を開発した。外部モーションキャプチャ装置に依存せず、ロボット自体のセンサーと演算装置のみで物体認識と作業実行を実現し、屋外環境での自動車タイヤの設置・転がし・牽引などの複雑な操作タスクを完全自律で遂行できるようになった。",
+      "insights": [
+        "外部機器への依存排除：従来のモーションキャプチャシステムから解放され、ロボット搭載センサーのみでの自律操作実現により、現場導入の実用性が大幅に向上",
+        "全身操作技術の実用化：単一アーム操作ではなく脚と腕の統合制御により、重量物の複合操作が可能になり、製造・物流・建設分野での応用範囲が拡大",
+        "屋外実作業対応：実験室環境に限定されない野外での精密操作実績により、商用化に向けた信頼性と堅牢性が実証され、ヒューマノイドロボットの産業化が加速する可能性"
+      ]
+    }
+  },
+  {
+    "title": "Tsinghua's Algebraic World Model Proves ARC-AGI-3 Levels Unwinnable With Lean 4",
+    "link": "https://pandaily.com/tsinghua-algebraic-world-model-awm-arc-agi-3-lean-4-proofs-andrew-yao",
+    "published": "Tue, 03 Nov 2026 02:07:55 GMT",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-03 02:44:57",
+    "ai_summary": {
+      "title_ja": "清華大学の代数的世界モデルがLean 4でARC-AGI-3の全レベルが解不可能であることを証明",
+      "summary": "清華大学と浙江大学は、代数的世界モデルを用いてARC-AGI-3ゲームのルールを学習し、Lean 4で形式化することで、最先端モデルが失敗した6つの封印レベルが全て解不可能であることを数学的に証明した。この研究は、ゲームルールの形式的推論と機械証明の融合による新しいアプローチを示している。",
+      "insights": [
+        "形式化検証(Lean 4)と機械学習の組み合わせにより、単なる試行錯誤ではなく数学的証明に基づくAI推論が可能になることを実証した",
+        "代数的世界モデルはルール学習から形式化までのエンドツーエンド処理を実現し、言語型LLMでは対応できない厳密な論理推論領域を開拓している",
+        "ARC-AGI-3のような一般知能ベンチマークの設計検証にAI×形式化証明を活用する新しいパラダイムが構築されつつある"
+      ]
+    }
+  },
+  {
+    "title": "Robots climb Mount Tai in China’s first major mountain challenge",
+    "link": "https://technode.com/2026/11/03/robots-climb-mount-tai-in-chinas-first-major-mountain-challenge/",
+    "published": "Tue, 03 Nov 2026 02:22:47 +0000",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-11-03 02:45:03",
+    "ai_summary": {
+      "title_ja": "ロボットが中国の泰山登頂に挑戦―中国初の大規模山岳ロボット競技大会",
+      "summary": "中国メディアグループが主催する世界ロボット泰山登頂競技大会が山東省泰安で開催され、中国全土の50社以上のロボティクス企業・大学・研究機関から参加したロボットが3.9km の山岳コースに挑戦した。この競技はロボティクス・フィジカルAIの実用化と技術水準を実証する重要なマイルストーンである。",
+      "insights": [
+        "フィジカルAI企業の競争拡大：国内50社以上の参加により、中国ロボティクス産業の急速な成長と競争激化を示唆している",
+        "実環境での耐久性・自律性検証：自然環境の厳しい条件下での登頂は、ロボットの地形認識・エネルギー管理・障害物回避能力の実践的な評価基準となっている",
+        "政府主導による産業基盤整備：国営メディアグループによる大規模競技会の開催は、ロボティクス産業の国家戦略的推進と標準化の動きを反映している"
+      ]
+    }
+  },
+  {
     "title": "Top 10 robotics developments of October 2026",
     "link": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
     "published": "Mon, 02 Nov 2026 17:56:42 +0000",
