@@ -1,5 +1,266 @@
 [
   {
+    "title": "Robotics Startup Radar 2026",
+    "link": "https://www.therobotreport.com/robotics-startup-radar-2026/",
+    "published": "Wed, 04 Nov 2026 16:08:46 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-04 19:39:25",
+    "ai_summary": {
+      "title_ja": "ロボティクススタートアップレーダー2026",
+      "summary": "2026年のスタートアップレーダーでは、次世代商用ロボティクスのためのハードウェア、ソフトウェア、ビジネスモデルを開発する革新的なベンチャー企業が紹介されている。本レポートは、ロボット産業の最新の起業トレンドと技術動向を把握するための包括的なリソースとして機能する。",
+      "insights": [
+        "商用ロボティクス市場において、ハードウェア単独ではなく、ソフトウェアとビジネスモデルの統合的革新が重要な差別化要因となっている",
+        "2026年時点でスタートアップが主導する領域は、従来の工業用ロボットから自律型システムへのシフトを示唆している",
+        "次世代ロボティクスの商用化には、技術革新だけでなく新しい事業構造の構築が成功の鍵となる傾向がある"
+      ]
+    }
+  },
+  {
+    "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
+    "link": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
+    "published": "Wed, 04 Nov 2026 15:22:55 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-04 19:39:28",
+    "ai_summary": {
+      "title_ja": "GlobalLogicがHaystack Roboticsの紫外線消毒ロボット開発を支援",
+      "summary": "GlobalLogicはHaystack Roboticsと協力して紫外線消毒ロボットを開発した。同社は単一のユースケースや環境向けの急速な設計ではなく、より汎用的で拡張性のあるロボット設計を重視した。このアプローチにより、複数の環境や用途での活用を想定した堅牢なロボットプラットフォームの構築が実現された。",
+      "insights": [
+        "ロボティクス開発において、短期的な特定用途対応ではなく、複数環境への適応性と拡張性を考慮した設計が競争力を生む",
+        "UV消毒ロボットは感染症対策需要の高まりを背景に、病院・施設・輸送機関など多様な現場での活用が進んでいる",
+        "エンジニアリング企業による設計支援は、ロボットの信頼性と市場展開の加速に重要な役割を果たしている"
+      ]
+    }
+  },
+  {
+    "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
+    "link": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+    "published": "Wed, 04 Nov 2026 15:02:57 +0000",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-04 19:39:32",
+    "ai_summary": {
+      "title_ja": "LiberAIが「Liber-0」を発表——人間の経験をロボット動作に基礎付ける世界行動モデル",
+      "summary": "LiberAIは220万時間以上の人間経験データで事前学習された世界行動モデル「Liber-0」を発表した。このモデルはゼロショットロボット操作を実現する革新的なアプローチである。人間の行動パターンをAIが学習することで、ロボットが未知のタスク実行能力を獲得できる可能性を示唆している。",
+      "insights": [
+        "大規模人間経験データ（220万時間）の学習により、ロボットの汎用性・適応性が飛躍的に向上する可能性",
+        "ゼロショット学習アプローチは、各タスクごとの詳細なプログラミングを削減し、ロボット導入コスト低減につながる",
+        "人間中心の学習データセットは、人間とロボットのインタラクション設計における新たな標準となる可能性を示唆"
+      ]
+    }
+  },
+  {
+    "title": "ジェイテクト、AIで部品取り出し成功率97.1％達成、サイクルタイム16％短縮",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news057.html",
+    "published": "Wed, 04 Nov 2026 13:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-11-04 19:39:39",
+    "ai_summary": null
+  },
+  {
+    "title": "클로봇, 73억원 규모 휴머노이드 로봇 AI 국책과제 수주·네이버랩스 출신 박순용 박사 영입…Physical AI·공간지능 육성",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49385",
+    "published": "2026-11-04 21:33:19",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-04 19:39:43",
+    "ai_summary": {
+      "title_ja": "クロボット、73億ウォン規模のヒューマノイドロボットAI国策事業を受注・ネイバーラボ出身の朴順用博士を迎え入れ、Physical AIと空間知能を育成",
+      "summary": "ロボットAIソフトウェア専門企業のクロボットが、空間知能ロボット基礎モデル(Spatial-RFM)の国策事業主管研究開発機関に選定された。ネイバーラボ出身のロボットビジョン専門家・朴順用博士を採用し、既存の汎用屋内自律走行と異種統合管制から、空間知能を統合したPhysical AI分野へ技術能力を拡大する。産業通商部の「ロボット産業技術開発事業」内の「ロボット産業核心技術開発」課題として、ヒューマノイド及び四足歩行ロボットの非構造化空間走行向けVLM基盤技術開発を推進する。",
+      "insights": [
+        "韓国政府は73億ウォン規模の国策事業を通じてPhysical AIと空間知能技術開発に投資し、ヒューマノイドロボットの実環境対応能力向上に注力している",
+        "ネイバーラボなど大手テック企業出身の専門人材獲得が進み、ロボットビジョン・VLM(ビジョン言語モデル)技術が次世代ロボット自律性の核となりつつある",
+        "非構造化空間での自律走行実現がロボット産業の重要課題として認識され、単なる移動から環境理解・意思決定を統合した真の自律ロボット実現へのシフトが進行中"
+      ]
+    }
+  },
+  {
+    "title": "[2026 로보월드] 브릴스, 국내 최대 로봇 전시회 ‘2026 로보월드’ 최대 규모 참가",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49386",
+    "published": "2026-11-04 21:23:09",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-04 19:39:48",
+    "ai_summary": {
+      "title_ja": "【2026ロボワールド】ブリルス、国内最大規模のロボット展示会に過去最大規模で参加",
+      "summary": "ロボット モジュール化プラットフォーム専門企業のブリルスが、2026年10月1日にKOSDAQ上場後初となる「2026ロボワールド」に最大規模で参加することを発表した。同展示会には過去最多となる17カ国390社以上が出展し、ブリルスはPhysical AI基盤の次世代ロボット技術と業界別自動化ソリューションを展示する。VLA（ビジョン・ランゲージ・アクション モデル）、RFM（ロボット ファウンデーション モデル）、SDR（ソフトウェア中心ロボット）などのPhysical AI核心技術を出展予定。",
+      "insights": [
+        "ブリルスが上場後初の大型展示会出展により、投資家・市場向けのPhysical AI技術プレゼンスを強化する戦略が明確",
+        "VLA・RFM・SDRなどのマルチモーダルAIモデルとロボットプラットフォーム統合が業界トレンドの中心となっていることを示唆",
+        "2026ロボワールドへの過去最大規模の出展数（17カ国390社）は、アジア太平洋地域でのロボティクス・オートメーション産業の急速な成長を示唆"
+      ]
+    }
+  },
+  {
+    "title": "美 미네르바 휴머노이드, 폭발물 제거용 휴머노이드 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49387",
+    "published": "2026-11-04 21:20:28",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-04 19:39:53",
+    "ai_summary": {
+      "title_ja": "米国ミネルバ・ヒューマノイド、爆発物除去用ヒューマノイドロボット「ロジャー1.0」を開発",
+      "summary": "米国カリフォルニア州に本社を置くミネルバ・ヒューマノイドが、爆発物処理と危険物対応用の半自律ヒューマノイドロボット「ロジャー1.0」を発表した。本ロボットは爆発物処理、化学・生物・放射能・核(CBRN)脅威対応などの高リスク任務で人間を危険な作業環境から隔離し、緊急救助や応急処置も実行可能である。NATO作戦支援を目的に開発された。",
+      "insights": [
+        "防衛・セキュリティ分野への産業用ヒューマノイド導入が加速しており、特に爆発物処理や有害物質対応など人命リスクが高い領域での需要が高まっている",
+        "半自律型ロボットの開発トレンドが進展しており、遠隔操作と自律機能のハイブリッド運用が実戦配備の現実的なアプローチとなっている",
+        "NATO等の国防機関が直接ヒューマノイド開発に関与・資金支援する状況が、民間ロボティクス企業と軍事用途の急速な融合を示唆している"
+      ]
+    }
+  },
+  {
+    "title": "[2026 로보월드]  개막식서 \"AI 로봇산업 글로벌 경쟁력 확보 의지 다져\"",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49383",
+    "published": "2026-11-04 21:15:31",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-04 19:39:58",
+    "ai_summary": {
+      "title_ja": "【2026ロボワールド】開幕式で「AIロボット産業グローバル競争力確保の意志を固める」",
+      "summary": "韓国国内最大のロボット展示会「ロボワールド2026」が経기道高陽市で開幕し、17ヶ国402社が1198ブース規模で参加。ヒューマノイド、フィジカルAI、製造AI転換、スマート製造自動化など最新のロボティクス技術が集約される。韓国政府が主導する本展示会を通じ、AIロボット産業におけるグローバル競争力確保の戦略的意志を示している。",
+      "insights": [
+        "韓国がヒューマノイド・フィジカルAI領域への戦略的投資を加速させており、アジア太平洋地域における技術覇権競争が激化している",
+        "製造AI転換とスマート製造自動化が展示会の重点テーマとなっており、産業用ロボットの知能化がグローバル産業政策の中核に位置付けられている",
+        "17ヶ国400社超の国際参加により、ロボティクス・フィジカルAI産業がグローバル標準化・統合の段階に進行していることを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "[2026 로보월드 특집] 글로벌 서비스 로봇 시장 동향",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49378",
+    "published": "2026-11-04 13:48:33",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-04 19:40:02",
+    "ai_summary": {
+      "title_ja": "【2026ロボワールド特集】グローバルサービスロボット市場動向",
+      "summary": "世界のサービスロボット市場はAI技術の進展、労働力不足、高齢化、自動化需要の拡大に支えられ急速に成長している。物流・運送・清掃・点検などの専門サービス分野での導入が拡大する一方、個人・家庭用ロボット市場では清掃ロボットを中心に大衆化が進行中である。国際ロボット連盟(IFR)の最新報告書によると、2025年の世界の専門サービスロボット販売台数は24万9925台に達する予定。",
+      "insights": [
+        "AI技術の成熟により、専門サービスロボット(物流・清掃・点検)が実用化段階に移行し、B2B市場での需要が急増している",
+        "高齢化と労働力不足が構造的なロボット導入動機となり、先進国を中心に市場成長が加速する中期トレンドが確立されている",
+        "家庭用ロボット市場は清掃ロボットの大衆化を皮切りに、消費者向けAIロボティクスの普及期に入る転換点を迎えている"
+      ]
+    }
+  },
+  {
+    "title": "[2026 로보월드 특집] 글로벌 휴머노이드 로봇 시장 동향",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49376",
+    "published": "2026-11-04 13:47:27",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-04 19:40:06",
+    "ai_summary": {
+      "title_ja": "【2026ロボワールド特集】グローバル휴머노이드ロボット市場動向",
+      "summary": "生成型AIとVLA（ビジョン・言語・行動）モデルの発展により、휴머노이드ロボットが次世代ロボット産業の中核分野として急速に台頭している。世界各国の企業が휴머노이드開発に参入する一方、市場はまだ初期段階にあり、実産業への広範な展開には技術的・経済的課題が残存している。",
+      "insights": [
+        "AI・ロボット技術の融合が加速し、生成型AIとVLAモデルにより環境認識と多様なタスク実行能力が大幅に拡大",
+        "グローバルな企業による激烈な開発競争が展開される一方、市場成熟度は初期段階であり商用化に向けた技術的ブレークスルーが必須",
+        "実装の障壁は技術面（モーター・バッテリー・制御など）と経済面（コスト削減・ROI）の双方に存在し、産業応用には相当な期間が必要"
+      ]
+    }
+  },
+  {
+    "title": "[2026 로보월드 특집] 글로벌 산업용 로봇 시장 동향",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49375",
+    "published": "2026-11-04 13:47:19",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-04 19:40:10",
+    "ai_summary": {
+      "title_ja": "【2026ロボワールド特集】グローバル産業用ロボット市場動向",
+      "summary": "国際ロボット連盟(IFR)の最新報告によると、2025年の世界産業用ロボット稼働台数が初めて500万台を突破し、507万9078台に達した。中国が新規設置の59%を占める中、米国が日本を抜いて世界2位の市場となり、韓国は4位を維持している。",
+      "insights": [
+        "中国が産業用ロボット市場の過半数以上を占める圧倒的優位性を確立し、デジタル化・自動化投資の加速を示唆",
+        "米国が日本を上回り2位となったことは、先進国間での自動化戦略の再編成と米国の製造業回帰政策の効果を反映",
+        "新規設置台数が初の60万台超え到達は、全産業セクターでの自動化需要の堅調な拡大と、AI・協働ロボット需要の高成長を示唆"
+      ]
+    }
+  },
+  {
+    "title": "한국정보처리학회, 연례 ‘ACK 2026’ 학술행사 5~7일 개최",
+    "link": "https://zdnet.co.kr/view/?no=20261104175514",
+    "published": "Wed, 04 Nov 2026 17:55:14 +0900",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-11-04 19:40:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Baidu launches Apollo World model to train robotaxis in simulated environments",
+    "link": "https://technode.com/2026/11/04/baidu-launches-apollo-world-model-to-train-robotaxis-in-simulated-environments/",
+    "published": "Wed, 04 Nov 2026 07:58:39 +0000",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-11-04 19:40:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Why Meta Turned to China’s Fourier for Its Humanoid Robot",
+    "link": "https://technode.com/2026/11/04/why-meta-turned-to-chinas-fourier-for-its-humanoid-robot/",
+    "published": "Wed, 04 Nov 2026 07:33:24 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-11-04 19:40:18",
+    "ai_summary": null
+  },
+  {
+    "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+    "link": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
+    "published": "2026-11-04T17:00:00Z",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "NVIDIA Developer",
+    "flag": "Lab",
+    "detected_at": "2026-11-04 19:40:21",
+    "ai_summary": null
+  },
+  {
     "title": "SAPが自律型エンタープライズのビジョンを前進--「AIが業務を学ぶ段階から、実行する段階へ」",
     "link": "https://japan.zdnet.com/article/35254278/",
     "published": "",
