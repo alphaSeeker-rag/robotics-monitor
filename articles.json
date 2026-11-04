@@ -1,5 +1,58 @@
 [
   {
+    "title": "SAPが自律型エンタープライズのビジョンを前進--「AIが業務を学ぶ段階から、実行する段階へ」",
+    "link": "https://japan.zdnet.com/article/35254278/",
+    "published": "",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ZDNet",
+    "flag": "JP",
+    "detected_at": "2026-11-04 01:01:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Six AgiBot G2 Humanoids Run a Shanghai Convenience Store for 24 Hours, Logging 1,730 Tasks",
+    "link": "https://pandaily.com/agibot-g2-six-humanoids-shanghai-convenience-store-24-hours-1730-tasks-genie-master",
+    "published": "Tue, 03 Nov 2026 20:54:25 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-04 01:01:04",
+    "ai_summary": {
+      "title_ja": "6体のAgiBot G2ヒューマノイドがシャンハイコンビニで24時間運用、1,730タスクを完了",
+      "summary": "AgiBotが開発したG2ヒューマノイドロボット6体が、Genie Masterシステムによる制御下でシャンハイのコンビニエンスストアで24時間連続稼働し、1,730のタスクを完了した。本実験は実店舗でのヒューマノイドロボットの実用性を示すものだが、AgiBotは具体的な成功率をまだ公開していない。",
+      "insights": [
+        "マルチエージェントロボット運用の実現：6体の協調制御により、実環境での複雑なタスク処理が可能であることを実証し、商用化への道を示唆している",
+        "24時間連続稼働の信頼性課題：成功率非公開であることから、現段階では個別タスクの完遂率や故障率など、商用導入に必須の信頼性データが十分でない可能性がある",
+        "小売業務自動化の本格化：タスク数1,730という実績から、在庫管理・顧客対応・清掃など多様な業務の自動化ポテンシャルが示唆され、労働力不足への実用的ソリューション候補として注目される"
+      ]
+    }
+  },
+  {
+    "title": "Xiaomi Humanoid Works First 8-Hour Car Factory Shift as Xiaomi-Robotics-1 Starts Apartment Trial",
+    "link": "https://pandaily.com/xiaomi-humanoid-robot-8-hour-car-factory-shift-xiaomi-robotics-1-youth-apartment-trial",
+    "published": "Tue, 03 Nov 2026 20:53:49 GMT",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-04 01:01:09",
+    "ai_summary": {
+      "title_ja": "シャオミのヒューマノイドロボットが自動車工場で初の8時間シフト完了、Xiaomi-Robotics-1がアパート試験運用を開始",
+      "summary": "シャオミが開発したヒューマノイドロボットが自動車工場の生産ラインで初めて8時間の連続勤務に成功しました。同時にXiaomi-Robotics-1モデルはシャオミの青年向けアパートメントでホームサービス試験運用を開始し、実環境での実用化検証が進んでいます。このプロジェクトはロボティクス技術の産業応用と生活空間への統合を示す重要なマイルストーンです。",
+      "insights": [
+        "製造業での実運用検証：8時間連続稼働は産業用ロボットの信頼性・耐久性が実用レベルに達していることを示唆しており、自動車業界での本格導入への道が開かれつつある",
+        "デュアル戦略展開：工場向けと家庭向けの2つのユースケース同時開発により、B2B産業市場とB2C消費者市場での多角的事業展開を目指している",
+        "リアルワールド検証の加速：制御された環境ではなくアパートメント施設での試運用は、実環境での複雑なタスク対応能力と安全性確保が中国ハイテク企業のロボティクス戦略の焦点となっていることを示している"
+      ]
+    }
+  },
+  {
     "title": "[로보월드 2026] 피지컬 AI 시대 조망…‘2026 로보월드’ 오늘 개막",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=49379",
     "published": "2026-11-04 01:54:10",
