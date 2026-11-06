@@ -1,5 +1,38 @@
 [
   {
+    "title": "How did Agility Robotics perform on its first day on the stock market?",
+    "link": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
+    "published": "Thu, 05 Nov 2026 22:48:14 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-06 01:20:22",
+    "ai_summary": {
+      "title_ja": "Agility Roboticsが初日の株式市場取引でどのようなパフォーマンスを示したか",
+      "summary": "ヒューマノイドロボット開発企業のAgility RoboticsがNasdaqでの初日取引を終え、初値から2%上昇の$11.49で終了した。初日としては控えめなパフォーマンスとなり、市場の慎重な評価がうかがえる。",
+      "insights": [
+        "ロボティクス企業のIPOが必ずしも高いバリュエーションで迎えられないことを示唆しており、投資家がヒューマノイドロボット技術の商業化到達時間や市場規模の不確実性に対して慎重な見方をしている可能性がある",
+        "初日の穏やかな値動きは、IPO時の過度な期待値調整や、ロボティクス企業の実績ベースの評価への市場シフトを示唆している",
+        "人型ロボット産業の成熟度や資金調達環境が、AIブームの時期においても依然として選別的であることを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "トヨタは中国市場で反転攻勢なるか、ロボティクスは新設組織で事業化へ",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news041.html",
+    "published": "Fri, 06 Nov 2026 06:30:00 +0900",
+    "keywords": [
+      "ロボティクス"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-11-06 01:20:30",
+    "ai_summary": null
+  },
+  {
     "title": "How Ambi Robotics helps its customers prepare for peak season",
     "link": "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/",
     "published": "Thu, 05 Nov 2026 16:50:23 +0000",
