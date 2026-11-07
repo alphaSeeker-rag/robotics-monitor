@@ -1,5 +1,65 @@
 [
   {
+    "title": "한국정보처리학회, 'ACK 2026' 행사 성료",
+    "link": "https://zdnet.co.kr/view/?no=20261107133558",
+    "published": "Sat, 07 Nov 2026 13:35:58 +0900",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-11-07 17:42:17",
+    "ai_summary": {
+      "title_ja": "韓国情報処理学会、『ACK 2026』学術大会を盛況のうちに閉幕",
+      "summary": "韓国情報処理学会(KIPA)は世宗大学校で開催した学術発表大会『ACK 2026』を2泊3日の日程で成功裏に終了し、約600名の参加者と501編の論文発表があった。フィジカルAIやAIセキュリティなど最新技術トレンドをテーマとした基調講演が行われ、優秀論文84編が受賞した。",
+      "insights": [
+        "フィジカルAI(Physical AI)が主要な研究テーマとして台頭しており、スクリーン外での現実世界へのAI応用が学術的・産業的な関心の中心になっている",
+        "『AI+X時代における見えないボトルネック』と『フィジカルAIのセキュリティ』が並行して重要課題として認識されており、実装段階でのセキュリティ確保が急務となっている",
+        "大学・研究機関・産業界の連携(産学研協同)が強調されており、実践的なAI活用スキル育成と若手研究者育成が学会の重点事項である"
+      ]
+    }
+  },
+  {
+    "title": "DEEP Robotics Launches X50 Quadruped With a Claimed 50-Kilogram Working Payload",
+    "link": "https://pandaily.com/deep-robotics-x50-heavy-duty-quadruped-50kg-payload-inspection-firefighting",
+    "published": "Sat, 07 Nov 2026 07:06:58 GMT",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-07 17:42:24",
+    "ai_summary": {
+      "title_ja": "DEEP Robotics、50キログラムの作業ペイロード能力を備えたX50四足歩行ロボットを発表",
+      "summary": "DEEP Roboticsが開発したX50四足歩行ロボットは、50キログラムの荷物を時速3m/sで2キロメートル以上運搬可能な性能を実現した。産業用検査、機器運搬、緊急対応などの実務用途を想定している。本機は商用四足歩行ロボットの実用性を大きく向上させる性能を備えている。",
+      "insights": [
+        "50kg超の実用的ペイロード能力は産業用ロボットとしての採用障壁を大幅に低下させ、実装用途の拡大を加速させる可能性",
+        "2km以上の航続距離と3m/sの移動速度は、広域の検査・運搬業務における時間効率性を実現し、人的作業の代替性を高める",
+        "複合的なユースケース(検査・運搬・緊急対応)への対応は、四足歩行ロボット市場のB2B産業化を示唆する動向"
+      ]
+    }
+  },
+  {
+    "title": "NearLink Alliance Publishes Embodied AI Connectivity Blue Book With 30-Plus Contributors",
+    "link": "https://pandaily.com/nearlink-alliance-embodied-ai-short-range-connectivity-blue-book",
+    "published": "Sat, 07 Nov 2026 01:58:47 GMT",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-07 17:42:28",
+    "ai_summary": {
+      "title_ja": "NearLink連携機構が30以上の協力者と共にエンボディドAI接続性ホワイトペーパーを発表",
+      "summary": "NearLink連携機構が、30を超える企業や組織の協力のもと、エンボディドAI（ロボット等の物理的なAIシステム）向けの接続性要件を定義したブルーブックを発表した。ロボット内部通信、複数デバイス間の連携、デバイス・エッジ・クラウド間の統合に関する標準化要件が盛り込まれている。",
+      "insights": [
+        "エンボディドAI産業における接続性の標準化が進展中であり、複雑なマルチレイヤー通信環境（ロボット内部・複数デバイス間・クラウド間）に対する業界全体での統一要件が形成されている",
+        "大規模な企業連携によるホワイトペーパー発表は、NearLinkが単なる通信プロトコルではなく、ロボティクス・物理AIのエコシステム標準として認識されていることを示唆している",
+        "デバイス・エッジ・クラウド間の統合を重視する設計思想から、クラウドロボティクスと分散AI処理が産業の重要な要求要件であることが伺える"
+      ]
+    }
+  },
+  {
     "title": "How Point One turned GPS accuracy Into a robotics platform",
     "link": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
     "published": "Fri, 06 Nov 2026 21:47:35 +0000",
