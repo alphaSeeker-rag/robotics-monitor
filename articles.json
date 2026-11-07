@@ -1,5 +1,65 @@
 [
   {
+    "title": "How Point One turned GPS accuracy Into a robotics platform",
+    "link": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
+    "published": "Fri, 06 Nov 2026 21:47:35 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-07 00:35:24",
+    "ai_summary": {
+      "title_ja": "Point OneがいかにGPS精度をロボティクスプラットフォームに転換したか",
+      "summary": "Point Oneは高精度なGPS位置情報技術を活用して、ロボットが実環境での自律ナビゲーション、マルチロボット間の協調、そしてスケーラビリティを実現するプラットフォームを開発した。Aaron Nathanは、従来のGPS技術の精度向上が、産業用ロボットや自動走行システムの信頼性と効率性を大幅に向上させる重要な基盤となることを説明している。",
+      "insights": [
+        "高精度GPS（cm単位の位置精度）は、複数ロボットの自律協調作業を可能にする基幹技術となり、スマートシティやスマートファクトリーの実装を加速させる",
+        "位置情報技術をプラットフォーム化することで、異なるロボットメーカーの機体やシステム間での相互運用性が向上し、ロボティクス産業全体のエコシステム構築が進展する",
+        "従来は室内測位や悪天候環境が課題だったGPS技術の改善により、屋外から屋内まで連続的なロボット自律運用が現実化し、産業用途の拡大が期待される"
+      ]
+    }
+  },
+  {
+    "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
+    "link": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
+    "published": "Fri, 06 Nov 2026 21:34:44 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-07 00:35:29",
+    "ai_summary": {
+      "title_ja": "ボストン・ダイナミクス、信頼性と一貫性を備えたStretch Gen 2を開発",
+      "summary": "ボストン・ダイナミクスのロジスティクスロボティクス部門の副社長兼GMであるブライアン・ドネリーは、新型Stretchの開発に2年半を要したことを明らかにした。Stretch Gen 2は信頼性と一貫性のあるパフォーマンスを重視して設計されている。",
+      "insights": [
+        "産業用ロボット開発における長期的な反復プロセス：2年半の開発期間は、実用性と信頼性を重視する業界慣行を反映している",
+        "ロジスティクス自動化市場での競争激化：大手企業による継続的な製品改善が市場での差別化要因となっている",
+        "一貫したパフォーマンスへの重点：倉庫自動化における信頼性の重要性が、次世代製品開発の中心的課題として浮き彫りになっている"
+      ]
+    }
+  },
+  {
+    "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
+    "link": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics/",
+    "published": "Fri, 06 Nov 2026 20:41:17 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-07 00:35:32",
+    "ai_summary": {
+      "title_ja": "中国によるソフトバンクのABBロボティクス買収ブロック、業界専門家が議論",
+      "summary": "中国がソフトバンクによるABBロボティクス買収を禁止した決定は、データとAIに関する広範な懸念を反映している。この動きは、ロボティクス技術における国家安全保障と産業統制に対する各国の姿勢を示唆している。業界専門家は、このブロックが国際的なロボティクスM&Aトレンドに重要な影響を及ぼす可能性があると指摘している。",
+      "insights": [
+        "中国による技術買収規制強化：データとAI技術を含むロボティクス分野への外資による買収に対する中国政府の慎重な姿勢が、地政学的なテクノロジー競争の激化を示す",
+        "ロボティクス産業のジオポリティクス化：高度なロボティクスとAI技術が戦略的資産として認識される傾向が強まり、M&A市場に規制的障壁が増加する可能性",
+        "グローバルサプライチェーンへの影響：主要ロボティクス企業の国際的な統合が制限されることで、技術標準化やイノベーションペースに長期的な影響を与える可能性"
+      ]
+    }
+  },
+  {
     "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
     "link": "https://spectrum.ieee.org/video-friday-home-cable-robot",
     "published": "Fri, 06 Nov 2026 17:00:03 +0000",
