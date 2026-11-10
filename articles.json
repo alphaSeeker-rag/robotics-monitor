@@ -1,5 +1,65 @@
 [
   {
+    "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+    "link": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+    "published": "Mon, 09 Nov 2026 21:52:05 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-10 03:07:34",
+    "ai_summary": {
+      "title_ja": "NVIDIAがCoRLでGR00T 2とIsaac Lab 3.0を発表",
+      "summary": "NVIDIAはロボティクス向けの新プラットフォームGR00T 2とシミュレーション環境Isaac Lab 3.0を発表した。Ambi Robotics、FieldAI、Flexion、Skild AI、RLWRLDなど複数のパートナー企業がこれらの技術を実運用に活用している。NVIDIAのエコシステムが産業用ロボティクスの実装を加速させている。",
+      "insights": [
+        "GR00T 2はNVIDIAのロボット財団モデルの最新版で、複数の産業パートナーによる実装事例が増加していることが示唆される",
+        "Isaac Lab 3.0のようなシミュレーション環境の進化により、実機での学習時間短縮とコスト削減が実現可能になりつつある",
+        "Ambi Robotics等の多様なパートナーが採用していることから、GR00Tの汎用性が検証されており、産業用ロボティクスの商用化が加速する段階に入っている"
+      ]
+    }
+  },
+  {
+    "title": "엔비디아, 삼성·LG전자·카카오모빌리티와 한국 피지컬 AI 생태계 확대",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49492",
+    "published": "2026-11-10 11:20:25",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-10 03:07:44",
+    "ai_summary": {
+      "title_ja": "エヌビディア、サムスン・LG電子・カカオモビリティと韓国フィジカルAI生態系の拡大",
+      "summary": "エヌビディアが韓国の主要企業（サムスン電子、LG電子、カカオモビリティ）と協力し、フィジカルAI生態系の拡大を発表。加速コンピューティング、AI、シミュレーション技術を半導体製造、ロボット学習、自動運転などの産業分野に適用する戦略。韓国の製造・エンジニアリング競争力を基盤にフィジカルAI協力を拡大。",
+      "insights": [
+        "フィジカルAIは半導体設計・製造工程、自動運転、ロボット学習など複数産業への横断的応用が進行中であり、実世界タスク自動化の商用化フェーズに移行",
+        "エヌビディアが韓国の製造業者と連携することで、アジア太平洋地域におけるAIチップとロボティクスの統合エコシステムが強化され、地政学的な供給チェーン多元化が進展",
+        "AI物理学（AI Physics）による半導体工程の高度化と、シミュレーション技術の産業応用は、従来の試行錯誤型の製造プロセスから予測型・最適化型へのパラダイムシフトを示唆"
+      ]
+    }
+  },
+  {
+    "title": "대경대학교와 영현로보틱스, 피지컬 AI·바이오 공동 기술개발 협약 체결",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49491",
+    "published": "2026-11-10 09:34:04",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-10 03:07:49",
+    "ai_summary": {
+      "title_ja": "大慶大学校と英賢ロボティクス、フィジカルAI・バイオ共同技術開発協約を締結",
+      "summary": "大慶大学校と英賢ロボティクスは、フィジカルAI・バイオ分野の共同技術開発とロボット融合人材育成の協約を締結した。両機関は教育・研究インフラと協働ロボット技術を活用して、フード・ビューティ・国防分野での協働ロボット教育システムの構築・運営に協力する。実習教育課程の共同開発、現場実習、インターンシップを通じて、学生が協働ロボットを実践的に習得できる環境を整備する。",
+      "insights": [
+        "大学と企業の連携により、フィジカルAI技術の産学協力モデルが韓国で加速している",
+        "協働ロボットの教育体系化により、フード・ビューティ・国防など多業界への人材供給パイプラインが構築される",
+        "実践的な実習教育とインターンシップを組み合わせた人材育成により、フィジカルAI時代に対応した産業人材の育成が進行中"
+      ]
+    }
+  },
+  {
     "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
     "link": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
     "published": "Mon, 09 Nov 2026 18:34:38 +0000",
