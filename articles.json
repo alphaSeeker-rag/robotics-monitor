@@ -1,5 +1,29 @@
 [
   {
+    "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
+    "link": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
+    "published": "Wed, 11 Nov 2026 07:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-11-11 00:59:02",
+    "ai_summary": null
+  },
+  {
+    "title": "モバイル端末の画面入力をAIが代行　パナソニックが業務支援向け世界モデルを開発",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news040.html",
+    "published": "Wed, 11 Nov 2026 06:30:00 +0900",
+    "keywords": [
+      "世界モデル"
+    ],
+    "source": "MONOist",
+    "flag": "JP",
+    "detected_at": "2026-11-11 00:59:02",
+    "ai_summary": null
+  },
+  {
     "title": "Why predictive maintenance matters more as factories add robots",
     "link": "https://www.therobotreport.com/why-predictive-maintenance-matters-more-as-factories-add-robots/",
     "published": "Tue, 10 Nov 2026 16:13:40 +0000",
