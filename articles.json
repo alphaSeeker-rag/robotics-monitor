@@ -1,5 +1,231 @@
 [
   {
+    "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
+    "link": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
+    "published": "Thu, 12 Nov 2026 16:33:17 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-12 19:48:29",
+    "ai_summary": {
+      "title_ja": "NVIDIAがCEO交代へ、中国AI・ロボティクス規制の懸念背景に",
+      "summary": "NVIDIAはCEO兼共同創業者のジェンスン・ファン氏を退任させ、コレット・クレス氏が新CEOに、ハーベイ・C・ジョーンズ氏が会長に就任する。同社は米国による対中国貿易規制の強化による事業リスクに直面している。この人事異動は、地政学的緊張とAI・ロボティクス産業の規制環境の急速な変化に対応する経営体制の刷新を示唆している。",
+      "insights": [
+        "地政学的リスク：米国の対中輸出規制がNVIDIA経営体制に直接的な影響を与えており、ロボティクス・AI分野の規制強化が加速していることを示唆",
+        "産業構造の転換：半導体大手における経営権交代が通常の事業継承ではなく規制対応を優先事項としていることから、AI・ロボティクス産業の戦略的重要性の高まりを反映",
+        "ステークホルダー管理：創業者兼CEOの退任により、政府・規制当局との対話窓口を刷新し、コンプライアンス体制を強化する経営判断と考えられる"
+      ]
+    }
+  },
+  {
+    "title": "Viam Launchpad aims to accelerate robotics deployments",
+    "link": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+    "published": "Thu, 12 Nov 2026 13:30:31 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-12 19:48:34",
+    "ai_summary": {
+      "title_ja": "Viam Launchpadがロボティクス展開の加速を目指す",
+      "summary": "Viam Launchpadは、スタートアップがロボットを商用展開まで迅速に進めるための支援を目的としたプラットフォームである。ソフトウェアとエンジニアリングインフラストラクチャを統合提供することで、開発から商用化までのハードルを低減させる。これにより、ロボティクス産業における新興企業の参入障壁が低下することが期待されている。",
+      "insights": [
+        "ロボティクス産業において、ソフトウェアとインフラの統合支援が商用化の鍵となっていることが示唆される",
+        "スタートアップが直面する開発-商用化のギャップを埋める専門プラットフォームの需要が高まっている",
+        "Viamのような基盤提供企業の役割が、ロボティクス業界の成長加速に重要な影響を与えると考えられる"
+      ]
+    }
+  },
+  {
+    "title": "Runway’s Praxis-1 world action model for robotics is now available",
+    "link": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+    "published": "Thu, 12 Nov 2026 13:18:47 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-12 19:48:37",
+    "ai_summary": {
+      "title_ja": "Runwayのロボティクス向けワールドアクションモデル「Praxis-1」が利用可能に",
+      "summary": "Runwayが、Noble Machines、Standard Bots、Ultraなどのパートナーと共にロボティクス向けのワールドアクションモデル「Praxis-1」を発表しました。開発者はオープンウェイトで利用可能になり、ロボットの動作制御の民主化が進みます。このモデルは物理的AIの実装を加速させ、産業用ロボットの自動化能力を大幅に向上させる可能性があります。",
+      "insights": [
+        "オープンウェイト戦略により、エコシステムパートナーによるロボティクス開発が加速し、業界全体のイノベーション速度が向上",
+        "ワールドアクションモデルは環境理解と実行予測を統合することで、より複雑なロボット作業の自動化が実現可能になる",
+        "複数の大手ロボティクス企業との提携は、標準化されたAI基盤への業界的な需要が高まっていることを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "パナソニックが250人体制で挑む「フィジカルAI」　職人の暗黙知をAI化、外販も視野に",
+    "link": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
+    "published": "Thu, 12 Nov 2026 13:30:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-11-12 19:48:44",
+    "ai_summary": null
+  },
+  {
+    "title": "한국, 제조업 로봇밀도 세계 1위…근로자 1만명당 1066대",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49559",
+    "published": "2026-11-13 00:02:21",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-12 19:48:47",
+    "ai_summary": {
+      "title_ja": "韓国、製造業ロボット密度で世界1位…労働者1万人当たり1066台",
+      "summary": "国際ロボット連盟(IFR)の「ワールドロボティクス2026」報告書により、韓国の製造業ロボット密度は労働者1万人当たり1066台で世界トップを維持していることが明らかになった。シンガポール(873台)、ドイツ(469台)が続き、これら3国は世界平均152台を大きく上回っている。全世界の製造業における自動化が加速している。",
+      "insights": [
+        "韓国の1066台は世界平均152台の約7倍であり、製造業自動化における圧倒的な先行優位を示している",
+        "シンガポール・ドイツとの上位3国の集中は、先進国における労働力不足と高度な産業基盤が自動化投資を加速させていることを示唆している",
+        "韓国が首位を維持する背景には、半導体・自動車・電子機器などの資本集約的産業の集中と、人口減少対策としてのロボット導入戦略があると考えられる"
+      ]
+    }
+  },
+  {
+    "title": "LG CNS 글로벌 로봇 석학들과 피지컬 AI 산업 적용 해법 모색",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49546",
+    "published": "2026-11-12 16:55:01",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-12 19:48:51",
+    "ai_summary": {
+      "title_ja": "LG CNS、世界的ロボティクス研究者とフィジカルAI産業応用ソリューション探索",
+      "summary": "LG CNSはソウルのマゴク本社にある「フューチャーロボティクスラボ」で「2026ロボティクス&フィジカルAIフォーラム」を開催し、トロント大学や韓国の主要大学の教授・学生と従業員合計100名以上が参加した。強化学習、ロボット歩行、知能メカニズム、機械学習、ディープラーニング最適化などロボティクスとAIを横断する研究分野について、学界と産業界が協働で討論を行った。",
+      "insights": [
+        "LG CNSが大学との産学連携を強化し、フィジカルAIの実装化に向けた研究基盤を構築している",
+        "強化学習やディープラーニングなどAI技術とロボティクスの統合が、2026年時点での実用化を視野に入れた開発段階に進んでいる",
+        "多国籍・多分野の研究者が参画することで、動的最適化や確率的アルゴリズムなど複合的な課題解決に取り組んでいる"
+      ]
+    }
+  },
+  {
+    "title": "中 딥로보틱스, 차이나타워 손잡고 '검사용 로봇' 기술 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49553",
+    "published": "2026-11-12 16:50:15",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-12 19:48:55",
+    "ai_summary": {
+      "title_ja": "中国ディープロボティクス、チャイナタワーと協携して『検査用ロボット』技術を開発",
+      "summary": "中国のロボット企業ディープロボティクス（DEEP Robotics）が通信インフラ大手のチャイナタワー北京支社と協力協定を締結した。両社は無人検査ロボットとソリューションを共同開発し、水資源管理、緊急安全、産業団地、都市配管網などの現場応用に適応させる。このパートナーシップは、産業用ロボットの実装と実用化を加速させる戦略的協業である。",
+      "insights": [
+        "インフラ企業との協携により、検査ロボットの実用化が急速に進展。特に通信基地局や配電システムのメンテナンス領域での自動化が加速",
+        "水管理・都市インフラなど複数の現場環境に対応するロボット開発は、スケーラブルなプラットフォーム戦略を示唆。産業用ロボットの汎用化トレンドが強化される可能性",
+        "中国の大規模インフラ企業とロボット企業の連携パターンが拡大。官民協業による技術実装が中国のフィジカルAI産業化の重要な推進力となっている"
+      ]
+    }
+  },
+  {
+    "title": "美 피규어AI, 휴머노이드 로봇 운영 현장 관리자 채용한다",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49544",
+    "published": "2026-11-12 16:08:54",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-12 19:49:00",
+    "ai_summary": {
+      "title_ja": "米国Figure AI、ヒューマノイドロボット運用現場の管理者を採用",
+      "summary": "米国のヒューマノイドロボット企業Figure AIが、ロボット運用を担当する現場管理者（シフトコーディネーター）の採用を開始した。同職は運用チームの指揮、交代勤務の管理、人員配置、作業優先順位の設定、顧客サービスの実行監督などを担当する重要なオペレーション職である。",
+      "insights": [
+        "Figure AIが実運用段階へ移行：プロトタイプ開発から商用展開・現場オペレーションの実装段階に入ったことを示唆",
+        "ヒューマノイドロボット産業のオペレーション体制整備：24時間交代勤務体制を構築することで、継続的な商用サービス提供を目指す動き",
+        "人間-ロボット協働の管理体系確立：ロボット運用に専門的な現場管理者が必要な複雑さを示し、AI/ロボティクス産業の成熟度向上を反映"
+      ]
+    }
+  },
+  {
+    "title": "\"중국 기업,  휴머노이드 로봇  도입 1년 정도 늦어진다\"",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49551",
+    "published": "2026-11-12 16:05:00",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-12 19:49:04",
+    "ai_summary": {
+      "title_ja": "中国企業のヒューマノイドロボット導入、予想より約1年遅延へ",
+      "summary": "中国企業のヒューマノイドロボット導入意向は高いものの、実際の導入時期は当初予想より約1年遅れる見通し。ロボットの作業能力、信頼性、既存生産システムとの統合といった技術的課題が解決されていないことが遅延の主因。モルガン・スタンレーの調査では、回答企業の64%が今後3年内の導入を予定している。",
+      "insights": [
+        "技術成熟度のギャップ：作業性能と信頼性の課題が商用導入の主要な障壁となっており、技術開発と実装のギャップが存在",
+        "統合・運用の複雑性：既存生産システムとの互換性確保が予想以上に困難であり、システムインテグレーションが重要課題",
+        "導入意向と実現のズレ：企業の導入意欲は高いが、実現には技術的・運用的課題の解決に時間を要する市場成熟期への移行段階"
+      ]
+    }
+  },
+  {
+    "title": "인하대, 재난 현장 누빌 로봇 기술 한자리에… ‘IEEE SSRR 2026’ 개최",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49539",
+    "published": "2026-11-12 15:45:38",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-12 19:49:08",
+    "ai_summary": {
+      "title_ja": "仁荷大学、災害現場向けロボット技術を一堂に…「IEEE SSRR 2026」開催",
+      "summary": "仁荷大学は松島航空宇宙融合キャンパスで、安全・災害対応ロボット技術を扱う国際学術会議「IEEE SSRR 2026 Incheon」を開催した。SSRR（Safety, Security, and Rescue Roboticsに関する国際シンポジウム）は、災害・事故現場などの極限環境で活用するロボット技術を論議する学術大会である。世界各国の研究者が参加し、救助ロボット研究の成果と実現場への応用方法を共有した。",
+      "insights": [
+        "安全・災害対応ロボットが国際的な学術研究の中心テーマとなっており、各国が実用化に向けた具体的な応用研究を推進している",
+        "韓国の主要大学が国際学術会議を開催することで、アジア地域におけるロボティクス研究拠点としての地位を確立している",
+        "極限環境下での現場適用を重視した研究開発が加速しており、理論研究から実装への転換段階に入っている"
+      ]
+    }
+  },
+  {
+    "title": "마음AI, ‘국방AX 100+ 협의체’ 회원사 참여…국방 피지컬AI 협력 확대",
+    "link": "https://zdnet.co.kr/view/?no=20261112224047",
+    "published": "Thu, 12 Nov 2026 22:40:47 +0900",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "World Model"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-11-12 19:49:12",
+    "ai_summary": {
+      "title_ja": "マインドAI、『国防AX 100+ 協議体』会員企業として参加…国防フィジカルAI協力を拡大",
+      "summary": "フィジカルAI専門企業のマインドAIが韓国国防省の『国防AX 100+ 協議体』に正式会員(AX-18)として参加し、軍・産・学の協力体制を強化した。同社は2025年の陸軍スマート部隊実証事業でLLM・RAG技術を活用した軍特化型AI システムを構築した実績があり、今後は作戦環境での環境認識・判断・行動を実現するフィジカルAI領域への展開を目指している。国防部は『パンギョAX拠点』をフィジカルAI専門拠点として運営し、ロボットと自律体系の学習・実証支援を強化している。",
+      "insights": [
+        "国防のAI転換が文書検索・事務自動化から、実作戦環境での環境認識・判断・行動を行うフィジカルAI領域へ拡大している",
+        "軍内部の情報セキュリティ要件を満たしながら社内サーバ運用のLLM・RAG技術を実装する必要があり、クローズドLLMの需要が高まっている",
+        "ロボット・自律体系のフィジカルAI実装において、軍・民間のデータ・技術連携を通じた共同研究・実証体制の構築が国防デジタル転換の鍵となっている"
+      ]
+    }
+  },
+  {
+    "title": "AgiBot Open-Sources LIFE, a Lifelong Embodied AI Framework Built Around RoboBeats Models",
+    "link": "https://pandaily.com/agibot-life-lifelong-embodied-intelligence-framework-robobeats-open-source",
+    "published": "Thu, 12 Nov 2026 02:18:53 GMT",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-12 19:49:17",
+    "ai_summary": null
+  },
+  {
     "title": "Serve Robotics opens robot delivery network for others to build on",
     "link": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
     "published": "Wed, 11 Nov 2026 13:43:29 +0000",
