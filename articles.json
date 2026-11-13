@@ -1,5 +1,175 @@
 [
   {
+    "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
+    "link": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
+    "published": "Fri, 13 Nov 2026 16:32:58 +0000",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-13 19:30:46",
+    "ai_summary": {
+      "title_ja": "6体のAGIBOT G2ロボットが上海コンビニの24時間試験で1,730タスクを完了",
+      "summary": "AGIBOTが開発したヒューマノイドロボット「G2」6体が、上海のコンビニエンスストアで24時間連続稼働試験を実施し、1,730件のタスクを完了した。このうち4体がパフォーマンス評価に合格し、顧客サービス、小売業務、実装型AIの能力が実環境で検証された。この試験は、ロボットの商用化可能性と実用性を示す重要なマイルストーンとなった。",
+      "insights": [
+        "実環境での長時間連続稼働（24時間）の成功は、ヒューマノイドロボットの信頼性と耐久性が商用レベルに達したことを示唆している",
+        "小売・カスタマーサービス分野への具体的な適用例の実証により、労働力不足への対策として物理的AIの現実的なソリューションが確立されつつある",
+        "6体中4体の合格率（67%）は、量産化に向けた標準化・品質管理の課題が残っている一方で、実用段階への進展が進行中であることを示している"
+      ]
+    }
+  },
+  {
+    "title": "Video Friday: NASA PROMISEs a New Moon Rover",
+    "link": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+    "published": "Fri, 13 Nov 2026 17:30:03 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid",
+      "Physical AI",
+      "actuator"
+    ],
+    "source": "IEEE Spectrum",
+    "flag": "US",
+    "detected_at": "2026-11-13 19:30:51",
+    "ai_summary": {
+      "title_ja": "ビデオフライデー：NASAが新しい月面ローバーを約束",
+      "summary": "NASAは核動力月面ローバー「PROMISE（極地観測・地形測量・現地探査用ローバー）」を月の南極へ送る計画を発表した。このローバーは火星探査機CuriosityとPerseveranceの既存ハードウェアやスペアコンポーネントを活用して構成される。また、人型ロボットAtlasに車輪を装着して学習制御器で駆動させる実験も紹介されている。",
+      "insights": [
+        "既存資産の再利用戦略：火星ミッションの技術を月面探査に流用することで開発コストと時間を削減する効率的なアプローチ",
+        "月基地プログラムの実現化：核動力による長期稼働能力は極域での恒久的な探査基盤構築に必須の要素",
+        "ロボット移動システムの融合研究：人型ロボットへの車輪装着実験は多様な環境対応能力を持つハイブリッド型ロボット開発への展開可能性を示唆"
+      ]
+    }
+  },
+  {
+    "title": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化　倉庫・物流へ展開視野",
+    "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003184/",
+    "published": "Fri, 13 Nov 2026 12:55:31 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia NEWS",
+    "flag": "JP",
+    "detected_at": "2026-11-13 19:30:57",
+    "ai_summary": null
+  },
+  {
+    "title": "虎柄ロボットに「阪神君」と命名　首相、フィジカルAIを体験　関連企業と意見交換",
+    "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003182/",
+    "published": "Fri, 13 Nov 2026 12:38:07 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia NEWS",
+    "flag": "JP",
+    "detected_at": "2026-11-13 19:30:57",
+    "ai_summary": null
+  },
+  {
+    "title": "ACE Robotics Pairs Mundo World Model With Self-Improving Skills to Run a Hotel Laundry Workflow",
+    "link": "https://pandaily.com/ace-robotics-mundo-world-model-dual-brain-rsi-hotel-laundry-robot",
+    "published": "Fri, 13 Nov 2026 02:33:01 GMT",
+    "keywords": [
+      "World Model",
+      "robotics"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-13 19:31:01",
+    "ai_summary": {
+      "title_ja": "ACE Robotics、Mundoワールドモデルと自己改善スキルを組み合わせ、ホテル洗濯業務フローを実行",
+      "summary": "ACE Roboticsは、クラウドプランナーとオンロボットスキルを備えたMundoワールドモデルを使用して、ホテルの洗濯業務を完全自動化している。実際の失敗から学習してスキルを自動改善し、フルサイクルの実行時間を18.6秒に短縮した。",
+      "insights": [
+        "ワールドモデル + クラウド計画 + エッジ実行の組み合わせにより、複雑な実世界タスクの完全自動化が実現可能",
+        "失敗駆動学習(実際の失敗から継続的に改善)により、ロボットのスキルが段階的に最適化される仕組みが確立",
+        "ホテル洗濯など具体的な業務フロー自動化への適用により、サービス業ロボット化の商用展開段階へ進展"
+      ]
+    }
+  },
+  {
+    "title": "Huawei Cloud Sets November 16 Launch for CloudRobo-WM1.2, Its First Ascend-Native World Model",
+    "link": "https://pandaily.com/huawei-cloud-cloudrobo-wm1-2-ascend-native-embodied-world-model-launch-preview",
+    "published": "Fri, 13 Nov 2026 02:32:35 GMT",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-13 19:31:05",
+    "ai_summary": {
+      "title_ja": "ファーウェイクラウド、Ascend対応初のワールドモデル「CloudRobo-WM1.2」を11月16日に発表",
+      "summary": "ファーウェイクラウドが、Industry AI Dream Factoryから初となるAscend対応ワールドモデル「CloudRobo-WM1.2」を11月16日のオンライン発表会で公開する。本製品の詳細仕様はまだ公表されていない。",
+      "insights": [
+        "ファーウェイが独自プロセッサ「Ascend」に最適化したロボティクス向けワールドモデルの開発を進めており、チップ自給率向上と生成AI技術の実装が狙い",
+        "Industry AI Dream Factoryという戦略的なイニシアティブを通じて、ハードウェア・ソフトウェア・AIモデルの統合的なエコシステム構築を推進",
+        "ワールドモデルの産業化は自動運転・ロボット制御・物理シミュレーションなど物理AI領域の実用化を加速させる可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "MetaX and UBTech-backed robotics chip startup Xilect raises RMB 500 million",
+    "link": "https://technode.com/2026/11/13/metax-and-ubtech-backed-robotics-chip-startup-xilect-raises-rmb-500-million/",
+    "published": "Fri, 13 Nov 2026 08:20:28 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-11-13 19:31:10",
+    "ai_summary": {
+      "title_ja": "MetaXとUBTech傘下のロボティクスチップスタートアップXilect、5億元調達",
+      "summary": "中国のGPUメーカーMetaXとヒューマノイドロボット企業UBTech Roboticsが共同設立したロボティクスチップスタートアップXilectが、エンジェルラウンドで5億元（約100億円）を調達した。調達資金は、独自開発チップと支援ソフトウェアの開発、エンジニアリングチーム拡大、ロボットメーカーとのプラットフォームテストに充当される予定である。",
+      "insights": [
+        "ロボティクス産業の急成長に伴い、汎用GPUではなく専用ロボットチップの需要が高まっている。MetaXとUBTechの共同出資は、チップメーカーとロボットメーカーの垂直統合戦略を示唆している",
+        "ヒューマノイドロボットの実用化には、低消費電力・高性能・リアルタイム処理対応のカスタムSoC設計が競争力の鍵となり、中国企業がこの領域で積極的に投資を拡大している",
+        "エンジェルラウンドで5億元という大型調達は、ロボティクスインフラストラクチャの重要性が投資家に認識されてきたことを示しており、今後のロボット産業発展を支える基盤技術領域として注目されている"
+      ]
+    }
+  },
+  {
+    "title": "When robots dive underwater, HeymanDex sees new possibilities for dexterous hands",
+    "link": "https://technode.com/2026/11/13/when-robots-dive-underwater-heymandex-sees-new-possibilities-for-dexterous-hands/",
+    "published": "Fri, 13 Nov 2026 07:19:53 +0000",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "TechNode",
+    "flag": "CN",
+    "detected_at": "2026-11-13 19:31:14",
+    "ai_summary": {
+      "title_ja": "ロボットが水中に潜るとき、HeymanDexが器用な手の新たな可能性を見出す",
+      "summary": "ヒューマノイドロボティクス産業では、器用な手の開発が競争の新たな焦点となっており、自由度、把持力、動作精度の向上に取り組んでいます。しかし、ロボットが制御された研究室環境を超えて動作するにつれて、日常的なタスク実行時に手が適切に機能できるかという新しい課題が浮上しています。HeymanDexは、水中環境を含む様々な環境下での器用な手の機能性を検証・開発しています。",
+      "insights": [
+        "器用な手は現在、度数の自由度、把持力、精度競争の中心となっており、産業全体のロボット性能向上の重要な指標",
+        "実環境適用への移行段階において、極限環境（水中など）での手の耐久性と機能性が新たな設計・評価基準として重要化",
+        "HeymanDexなどの企業による多環境テストは、汎用ロボットの実用化に向けた検証手法として業界標準化の可能性を示唆"
+      ]
+    }
+  },
+  {
+    "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+    "link": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
+    "published": "2026-11-13T17:00:00Z",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "NVIDIA Developer",
+    "flag": "Lab",
+    "detected_at": "2026-11-13 19:31:21",
+    "ai_summary": {
+      "title_ja": "NVIDIA SOMA Retargeterで人間の動きをロボット用に適応させる",
+      "summary": "NVIDIAのSOMA Retargeterは、人間のモーションキャプチャデータをヒューマノイドロボットの動作に変換する技術です。人間の動きから協調性とタイミングを学ぶことで、ロボティクスの教示効率を大幅に向上させます。この手法により、複雑な運動スキルの習得時間を短縮できます。",
+      "insights": [
+        "人間デモンストレーションから学習することで、ロボットの動作教示の開発サイクルを加速化できる",
+        "モーション網変技術により、異なる身体構造を持つロボットに人間の動きを最適化・適応させることが可能になる",
+        "ヒューマノイドロボットの実用化において、自然で効率的な動作生成が競争優位性を形成する重要な要素である"
+      ]
+    }
+  },
+  {
     "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
     "link": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
     "published": "Thu, 12 Nov 2026 16:33:17 +0000",
