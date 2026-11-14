@@ -1,5 +1,502 @@
 [
   {
+    "title": "줌라이언, 바우마 차이나 2026에서 AI 장비 및 로보틱스 전시",
+    "link": "https://zdnet.co.kr/view/?no=20261114181002",
+    "published": "Sat, 14 Nov 2026 18:10:02 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-11-14 17:54:09",
+    "ai_summary": {
+      "title_ja": "ズームライオン、bauma CHINA 2026でAI装備およびロボティクスを展示",
+      "summary": "中国の建設機械大手ズームライオンが2026年11月に上海で開催されるbauma CHINA 2026で、60種以上のAI・新エネルギー技術と装備を展示する。クレーン、コンクリート機械、鉱山機器などの装備全般に及ぶAI活用事例と、独自開発の二足歩行ヒューマノイドロボット「Z01」および産業用AI知能システム「Zbrain」を紹介する予定である。",
+      "insights": [
+        "建設機械業界におけるAI統合が加速：複雑な作業の自動化と遠隔操作を実現し、作業安全性と効率性の向上を推進",
+        "ヒューマノイドロボットの産業応用展開：Z01のような二足歩行ロボットが建設現場の危険作業や自動化タスクに活用される動き",
+        "プラットフォーム戦略の深化：Zbrainなどの産業用体化知能システムにより、装備のネットワーク化とスマート化による新たなサービスモデル構築を推進"
+      ]
+    }
+  },
+  {
+    "title": "국방혁신기술보안협회, 아주대 군산학 AX 협력센터와 협력",
+    "link": "https://zdnet.co.kr/view/?no=20261114145129",
+    "published": "Sat, 14 Nov 2026 14:53:15 +0900",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "ZDNet Korea",
+    "flag": "KR",
+    "detected_at": "2026-11-14 17:54:13",
+    "ai_summary": {
+      "title_ja": "国防革新技術保安協会、亜州大学軍産学AX協力センターと協力協約締結",
+      "summary": "韓国の国防革新技術保安協会と亜州大学の軍産学AX協力センターが、国防フィジカルAIプロジェクトの推進に向けた業務協約(MOU)を締結した。パンギョAIハブの構築を通じて、国防政策への助言、フィジカルAI開発技術の実戦適用、共同ワークショップ開催などで協力し、シナジー効果を目指す。同センターは仮想戦場環境の構築、ヒューマノイドロボット・多足ロボットの学習・検証、危険地域での物資輸送、爆発物処理・偵察などを含む国防フィジカルAIハブとして機能する。",
+      "insights": [
+        "韓国が軍事分野におけるフィジカルAI開発を国家レベルで推進しており、官学連携によるエコシステム構築を加速させている",
+        "自律型ロボット(ヒューマノイド・多足ロボット)の実戦運用と検証基盤の整備が、国防AI戦略の重要な要素として位置付けられている",
+        "危険作業(爆発物処理・偵察・物資輸送)への物理的AIの適用が、実用化段階に向けた産学協力の優先テーマとなっている"
+      ]
+    }
+  },
+  {
+    "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+    "link": "https://arxiv.org/abs/2611.14769",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:22",
+    "ai_summary": {
+      "title_ja": "リーダーボード操作：嗜好ベースのモデル評価は操作に対して脆弱",
+      "summary": "言語モデルのアリーナ型ランキングは広く使用されている評価フレームワークだが、戦略的投票、プロンプト操作、モデル挿入などの複数の操作戦略に対して高い脆弱性を持つことが判明した。Bradley-Terryモデルを用いた集約機構も、不正な提供者による意図的な操作から十分に保護できていない。",
+      "insights": [
+        "オンラインリーダーボードの評価メカニズムは、アリーナ型ランキングの民主的見た目とは異なり、組織的な操作に対して構造的に脆弱である",
+        "AI評価の信頼性向上には、投票メカニズムの堅牢性強化、プロンプト多様性の検証、異常検知アルゴリズムの統合が必要",
+        "ロボティクス・物理AIの評価システムにおいても、同様の操作リスクが存在する可能性があり、評価フレームワークの再設計が急務"
+      ]
+    }
+  },
+  {
+    "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
+    "link": "https://arxiv.org/abs/2611.14942",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:25",
+    "ai_summary": {
+      "title_ja": "テキストのみの推論におけるマルチモーダル訓練を通じた視覚的思考の創発",
+      "summary": "本研究は、マルチモーダル訓練を受けた言語モデルが、テキスト入力のみの場合でも思考方式に影響を受けるかを検証しています。6つのモデルファミリーから10の構成で因果的アブレーション実験を行い、空間的思考タスクと記号操作タスクの性能差を分析しました。隠れ層の視覚言語軸を特定し、その投影を消除することで、精神的シミュレーション能力が大きく低下することを確認しました。",
+      "insights": [
+        "マルチモーダル訓練は言語モデルの内部表現に『視覚的思考軸』を形成し、テキスト入力のみでも空間推論能力に33pp以上の影響を与える",
+        "この視覚的思考メカニズムは層特異的かつ方向依存的であり、精神回転・折り畳み・視点取得などの心的シミュレーションタスクに特異的に機能する",
+        "AIモデルの推論能力は入力モダリティだけでなく訓練データのモダリティ構成に深く依存し、マルチモーダル学習がテキスト能力の内部構造を根本的に変化させることを示唆している"
+      ]
+    }
+  },
+  {
+    "title": "AFTER: A World Model with Adaptive Fast--Slow Timescales for Error-Driven Retention",
+    "link": "https://arxiv.org/abs/2611.15215",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model",
+      "robotics",
+      "embodied AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:29",
+    "ai_summary": {
+      "title_ja": "AFTER: エラー駆動型保持のための適応的高速-低速タイムスケールを持つ世界モデル",
+      "summary": "ロボティクスと具現化AIにおいて、ロボットが未知のペイロードを把持する場合など、相互作用中にロボット動力学が急激に変化する際に、世界モデルが迅速に適応する必要がある。本研究は、変化への応答性（予測誤差の蓄積を抑制）、安定性（一時的な外乱と永続的な変化を区別）、永続性（新たな観測なしに適応を保持）の3つの要件を同時に満たすAFTERという手法を提案する。",
+      "insights": [
+        "ロボット動力学の急激な変化への適応は、ワールドモデルの設計における根本的な課題であり、これは把持タスクなどの実務的なシナリオで強く要求される",
+        "適応的なタイムスケール機構により、短期的な外乱と長期的な動力学変化を区別することで、ロボットの予測精度と制御安定性の両立が実現可能",
+        "エラー駆動型の学習メカニズムは、継続的な再学習なしに動力学適応を維持できるため、リアルタイムロボット制御における運用効率が大幅に向上する可能性"
+      ]
+    }
+  },
+  {
+    "title": "Stack more levels: how to get general and human-like Mario playing",
+    "link": "https://arxiv.org/abs/2611.16175",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:33",
+    "ai_summary": {
+      "title_ja": "レベルを積み重ねる：汎用的で人間らしいマリオプレイの実現方法",
+      "summary": "本研究では、PPO強化学習エージェントを大規模なPCG生成マリオレベルで訓練し、未見レベルへの汎化性能を評価した。訓練レベル数の増加が未見レベル性能を向上させ、DRAIL手法で人間プレイを模倣させると、人間らしさを保ちながらポリシーの性質（ランナー、キラー、コレクター）が維持されることを発見した。",
+      "insights": [
+        "PCG（手続き型コンテンツ生成）との組み合わせにより、AIエージェントの汎化能力向上が可能で、ロボティクスの多環境適応学習に応用可能",
+        "DRAIL（拡散報酬逆強化学習）による人間デモンストレーション学習は、AI行動の人間らしさと性能のバランス取りに有効な手法である",
+        "ゲームAIの複数アーキタイプ化（runner/killer/collector）は、異なるタスク条件への対応と、より柔軟な自律システム設計の実現可能性を示唆"
+      ]
+    }
+  },
+  {
+    "title": "Risk-Aware Joint Inference and Resource Control for Physical AI in 6G Networks",
+    "link": "https://arxiv.org/abs/2611.14696",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:37",
+    "ai_summary": {
+      "title_ja": "6GネットワークにおけるフィジカルAIのリスク認識型ジョイント推論とリソース制御",
+      "summary": "本研究は、物理的なAIデバイスがワイヤレスエッジで推論を実行する際、タスクの重要度と予測される行動失敗確率に基づいて無線信頼性を動的に調整するRACE（Risk-Aware Control for Edge Inference）フレームワークを提案している。固定されたSINR要件の代わりに、リスク認識型の適応的SINR目標とデッドライン要件を組み合わせることで、低リスクタスクの過剰プロビジョニング防止と高リスクタスクの十分な信頼性確保を実現する。LLMが遅延時間スケールでタスク要件を提案し、ハイブリッドアクターが高速で推論構成と送信パラメータを最適化する。",
+      "insights": [
+        "リスク適応型リソース割り当ての重要性：従来の固定SINR設定から、タスク危険度と失敗確率に基づく動的調整へシフトすることで、6G時代のエッジ推論システムの効率性と信頼性を大幅に向上可能",
+        "LLM×ハイブリッド制御の融合：遅延と高速の異なる時間スケールで動作する階層型制御構造により、計算リソースと通信リソースの最適なバランスを実現するシステムアーキテクチャの可能性",
+        "フィジカルAIの重要課題への対応：自動運転やロボティクスなど現実世界での行動リスク管理が必須なアプリケーションに対し、通信信頼性とAI推論品質を統合的に制御する次世代フレームワークの構築が急務"
+      ]
+    }
+  },
+  {
+    "title": "Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2611.14834",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:42",
+    "ai_summary": {
+      "title_ja": "凍結されたビジョン言語アクションモデルの低遅延アクション検証学習",
+      "summary": "本研究は、ロボット操作用のビジョン言語アクション（VLA）モデルの出力を効率的に検証するHDHフレームワークを提案している。軽量な検証器を用いて、凍結されたVLAの実運用データから学習し、複数のアクション候補から最適なものを低遅延で選択する。LIBERO-10タスクで平均82.3%の成功率を達成し、実環境での操作タスクにも対応している。",
+      "insights": [
+        "VLAの推論時遅延を軽減する現実的なソリューション：重い検証器の代わりに軽量な検証ネットワークを採用することで、ロボット制御のリアルタイム性を維持しながら精度向上を実現",
+        "自己教師あり学習の実装例：実デプロイメントから得られる「後付けの知見」を活用して追加のアノテーションなしに検証器を訓練でき、実運用での継続的改善が可能",
+        "産業応用への高いポテンシャル：汎用ロボット操作における現実的な課題（遅延と精度のトレードオフ）を解決することで、製造業やロジスティクス分野での実導入障壁を低減"
+      ]
+    }
+  },
+  {
+    "title": "The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals",
+    "link": "https://arxiv.org/abs/2611.14955",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:46",
+    "ai_summary": {
+      "title_ja": "後験-先験エピステミック・ギャップ: ワールドモデルの想像が課題関連シグナルを伝達できない場合",
+      "summary": "モデルベースプランナーは想像された未来の遷移において課題関連情報（障害物情報など）が保持されると仮定していますが、本研究はこの仮定が機能しないことを実証します。CARLAシミュレータでの実験で、再帰的状態空間モデルは観測後の状態では障害物情報をAUC 0.85で保持するものの、想像された先験状態では15ステップで0.85から0.71へ単調低下し、遷移モデルが情報ボトルネックであることが判明しました。これはモデルベース計画における根本的な課題を示唆しています。",
+      "insights": [
+        "モデルベース計画の致命的問題: 遷移モデルが長期ロールアウトで課題関連シグナル（障害物情報）を段階的に喪失し、ロボット制御の障害回避性能が0%に低下する可能性がある",
+        "表現学習ではなく遷移モデルの設計が課題: 同一の探針を用いた実験設計により、情報ボトルネックが状態表現ではなく遷移モデル自体にあることが特定される",
+        "ロボティクス・自動運転への実装リスク: CARLA環境での単一ケース研究だが、モデルベース計画の信頼性検証の必要性を示唆し、実ロボットやシステム開発前の厳密な測定メカニズムが不可欠である"
+      ]
+    }
+  },
+  {
+    "title": "Moving Beyond the DRW Model: Learning Quasar Variability with Generative Models",
+    "link": "https://arxiv.org/abs/2611.15040",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:52",
+    "ai_summary": {
+      "title_ja": "DRWモデルを超えて：生成モデルを用いたクエーサー変動性の学習",
+      "summary": "従来のダンピング・ランダムウォーク(DRW)モデルはクエーサーの光学的変動の帰無仮説として広く使用されていますが、このモデルが不完全であることが既知です。本研究は、DRWモデルの不正確な帰無仮説が超大質量ブラックホール連星検出や極端な変動性の有意性評価に与える影響を調査します。生成モデルを使用することで、より正確なクエーサー変動性の学習が可能になります。",
+      "insights": [
+        "従来のDRWモデルの限界：数百日のダンピング時間スケールと0.1等級の振幅では、実際のクエーサー光学変動を完全には説明できず、周期信号検出の有意性推定にバイアスをもたらす",
+        "生成モデルの応用：機械学習ベースの生成モデルを活用することで、複雑なクエーサー変動パターンをより正確にモデリングでき、SMBH連星探索や潮汐破壊イベント検出の精度向上が期待される",
+        "帰無仮説設定の重要性：統計的有意性評価において帰無仮説の正確性が極めて重要であり、モデル選択の誤りが科学的発見の信頼性に直結する"
+      ]
+    }
+  },
+  {
+    "title": "CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction",
+    "link": "https://arxiv.org/abs/2611.15101",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Sim-to-Real",
+      "robotics",
+      "humanoid",
+      "embodied AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Where is My Mug? Training-Free Framework for Personalized Image Segmentation",
+    "link": "https://arxiv.org/abs/2611.15216",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "robotics",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Fr\\'echetFlow: Flow Matching for Non-Euclidean Data",
+    "link": "https://arxiv.org/abs/2611.15220",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "CARE-Drive: Coupled Alternating Refinement for Ego-trajectories",
+    "link": "https://arxiv.org/abs/2611.15360",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "Imitation Learning"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "WaveFlow-UIE: A Single-Pipeline Wavelet-Domain Flow Model for Efficient Underwater Image Restoration",
+    "link": "https://arxiv.org/abs/2611.15457",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Latent Imagination for Parameterized Action Spaces",
+    "link": "https://arxiv.org/abs/2611.15744",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "RUMI: A Robotiq-Matched Universal Manipulation Interface for Robot Learning with Augmented Reality and Haptic Feedback",
+    "link": "https://arxiv.org/abs/2611.15802",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Teleoperation",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning",
+    "link": "https://arxiv.org/abs/2611.16424",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Physical AI",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+    "link": "https://arxiv.org/abs/2611.16728",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification",
+    "link": "https://arxiv.org/abs/2507.11662",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
+    "link": "https://arxiv.org/abs/2602.12316",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "When Can Learned Uncertainty Be Trusted? An Audit of Distributional Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2607.11607",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+    "link": "https://arxiv.org/abs/2610.10498",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Teleoperation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "SafeOrchestrate: Runtime Checked Intent-Driven Orchestration for Cyber-Physical Systems",
+    "link": "https://arxiv.org/abs/2611.09364",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "actuator"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "OPA-Pack: Object-Property-Aware Robotic Bin Packing",
+    "link": "https://arxiv.org/abs/2505.13339",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Joint Learning of Hierarchical Neural Options and Abstract World Model",
+    "link": "https://arxiv.org/abs/2602.02799",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Closed-Loop Molecular Design with Calibrated Deference",
+    "link": "https://arxiv.org/abs/2606.02618",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
+    "link": "https://arxiv.org/abs/2606.03159",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "VLA",
+      "World Model",
+      "Physical AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Flexible Flows for Biological Sequence Design",
+    "link": "https://arxiv.org/abs/2606.10543",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "AI Sandboxes: A Threat Model, Taxonomy, and Measurement Framework",
+    "link": "https://arxiv.org/abs/2606.18532",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Vision-Language-Action",
+      "manipulation",
+      "actuator"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "RAIN: Region-Aware Inversion Network for Semantic Watermark Extraction",
+    "link": "https://arxiv.org/abs/2609.14856",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Generating Critic-Guided Synthetic Experience in Latent World Models",
+    "link": "https://arxiv.org/abs/2610.39100",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation",
+    "link": "https://arxiv.org/abs/2611.11854",
+    "published": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "humanoid",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-14 17:54:56",
+    "ai_summary": null
+  },
+  {
     "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
     "link": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
     "published": "Fri, 13 Nov 2026 16:32:58 +0000",
