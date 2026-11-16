@@ -1,5 +1,38 @@
 [
   {
+    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+    "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+    "published": "Mon, 16 Nov 2026 00:00:28 +0000",
+    "keywords": [
+      "robotics",
+      "Physical AI"
+    ],
+    "source": "NVIDIA Blog",
+    "flag": "US",
+    "detected_at": "2026-11-16 00:41:18",
+    "ai_summary": {
+      "title_ja": "AI Day Seoul：韓国の業界リーダー、スタートアップ、開発者コミュニティが集結",
+      "summary": "COEXで開催されたAI Day Seoulに2,000人以上が参加し、フィジカルAIとAIエージェントを推進する韓国の産業界、スタートアップ、開発者コミュニティが一堂に集結した。NVIDIAのロボティクス・エッジAI担当副社長であるDeepu Tallaは、Doosan RoboticsやHyundaiなどの企業を例に、韓国が「体格以上の力を発揮している」と指摘した。本イベントは、アジア太平洋地域におけるロボティクスと物理的AIの発展を示す重要な産業集会となった。",
+      "insights": [
+        "韓国のロボティクス産業は国際的に高い競争力を保有し、Doosan RoboticsやHyundaiなどの主要企業がフィジカルAIの分野で注目を集めている",
+        "フィジカルAIとAIエージェント技術が次世代産業の中心トピックとなり、業界全体で急速な技術統合が進行している",
+        "開発者コミュニティとスタートアップの参加拡大により、アジア太平洋地域におけるAI・ロボティクスエコシステムの構築が加速している"
+      ]
+    }
+  },
+  {
+    "title": "ガートナーが考えるフィジカルAI実装のロードマップと人の役割",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html",
+    "published": "Mon, 16 Nov 2026 08:00:00 +0900",
+    "keywords": [
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-11-16 00:41:24",
+    "ai_summary": null
+  },
+  {
     "title": "독일 뉴라로보틱스, 에너지 기업 E.ON과 전력망 관리용 로봇 개발",
     "link": "https://www.irobotnews.com/news/articleView.html?idxno=49595",
     "published": "2026-11-15 21:10:51",
