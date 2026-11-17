@@ -1,5 +1,57 @@
 [
   {
+    "title": "The hidden reason most robots fail on the factory floor",
+    "link": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
+    "published": "Mon, 16 Nov 2026 23:49:56 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-17 03:22:00",
+    "ai_summary": {
+      "title_ja": "工場現場でロボットが失敗する隠れた理由",
+      "summary": "現在のロボットが工場での実運用で失敗する主な原因は、プログラミングの複雑さにある。AI ネイティブなロボティクスを採用することで、プログラミングを簡素化し、自動化の導入障壁を低下させることができる。これにより、米国の製造業が国際競争力を強化する可能性がある。",
+      "insights": [
+        "既存ロボットの失敗要因は技術的性能ではなくプログラミング難易度にあり、AI活用による自動化が解決策となる",
+        "AI ネイティブなロボティクスにより企業の導入コストと時間が削減され、中小企業のロボット導入が促進される可能性",
+        "プログラミング簡素化はアメリカの製造業競争力回復と国内産業復興の鍵となる戦略的要素"
+      ]
+    }
+  },
+  {
+    "title": "MS、IT管理者が「Windows」PCをリモートでロックできる機能をテスト中",
+    "link": "https://japan.zdnet.com/article/35254979/",
+    "published": "",
+    "keywords": [
+      "遠隔操作"
+    ],
+    "source": "ZDNet",
+    "flag": "JP",
+    "detected_at": "2026-11-17 03:22:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Robbyant's LingBot-VLA 2.0 Challenge Ends With a 48-Hour Real-Robot Final",
+    "link": "https://pandaily.com/robbyant-lingbot-vla-2-0-challenge-final-real-robot-tars",
+    "published": "Tue, 17 Nov 2026 02:04:18 GMT",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-17 03:22:11",
+    "ai_summary": {
+      "title_ja": "Robbyantの「LingBot-VLA 2.0チャレンジ」は48時間の実ロボット最終選考で終了",
+      "summary": "Robbyantが開催したLingBot-VLA 2.0チャレンジの最終選考では、15チームが48時間という限定時間内で実ロボット上でモデルを適応させた。上海での最終試験を通じて、データ取得、知覚システム、動作実行における複数の課題が露呈された。",
+      "insights": [
+        "実ロボット環境での短時間適応は、シミュレーションと実環境のギャップ(sim-to-real gap)が現在の大きな課題であることを示唆している",
+        "視覚言語アクション(VLA)モデルの実用化には、データ品質の向上と知覚ロバスト性の強化が必須要件となっている",
+        "競技形式のチャレンジを通じたロボティクスAIの開発は、産業界が直面する実装上の制約条件を明らかにする有効な検証手段として機能している"
+      ]
+    }
+  },
+  {
     "title": "Agile Robots raises $500M to increase production capacity",
     "link": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
     "published": "Mon, 16 Nov 2026 17:47:48 +0000",
