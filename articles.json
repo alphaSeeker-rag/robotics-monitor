@@ -1,5 +1,57 @@
 [
   {
+    "title": "Humyn Labs raises $47M to collect real-world data for robotics",
+    "link": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+    "published": "Wed, 18 Nov 2026 22:43:06 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-19 02:13:35",
+    "ai_summary": {
+      "title_ja": "Humyn Labs、ロボティクス向けリアルワールドデータ収集で4,700万ドルを調達",
+      "summary": "Humyn Labsは、最先端AI研究所、ロボット企業、ワールドモデル開発企業向けにリアルワールド操作データを提供するプラットフォームとして4,700万ドルの資金調達を実施した。同社は実運用環境から得られるデータを活用し、AIとロボット技術の開発を加速させることを目指している。",
+      "insights": [
+        "ロボット開発の最大課題である『シミュレーション・リアルギャップ』解決に向けて、リアルワールドデータの商業化モデルが確立されつつある",
+        "ワールドモデル（物理シミュレーション）やビジョンランゲージモデルの学習に必要な質の高い実運用データへの需要が急速に高まっている",
+        "データ収集・キュレーション事業がロボティクス・AI開発のクリティカルなインフラとして位置づけられ、大型投資対象化している"
+      ]
+    }
+  },
+  {
+    "title": "ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる",
+    "link": "https://gigazine.net/news/20261119-google-genie-4/",
+    "published": "Thu, 19 Nov 2026 11:07:00 +0900",
+    "keywords": [
+      "世界モデル"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-11-19 02:13:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Horizon Robotics Announces LoFT Video Geometry Model With Resources Still Pending",
+    "link": "https://pandaily.com/horizon-robotics-loft-video-geometry-model-camera-depth",
+    "published": "Thu, 19 Nov 2026 01:53:13 GMT",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-19 02:13:47",
+    "ai_summary": {
+      "title_ja": "ホライゾン・ロボティクス、LoFTビデオジオメトリモデルを発表——論文・コード・重みは未公開",
+      "summary": "ホライゾン・ロボティクスがビデオジオメトリ再構成用の「LoFT」モデルを発表した。ただし、学術論文、コード、モデル重みはまだ公開されておらず、結果は同社内部の報告にとどまっている。再構成技術の実装詳細や検証可能性についてはさらなる情報待ちの状態。",
+      "insights": [
+        "発表と実装のギャップ：LoFTは発表段階にあるが、査読可能な論文やオープンソース化が遅延しており、業界内での独立検証が難しい状況",
+        "ビデオ理解能力の進化：ロボティクス企業が動画からの3D幾何学的再構成に投資しており、自律システムのシーン理解・操作精度向上への注力が明確",
+        "リソース制約と透明性課題：リソース不足が論文公開やモデル公開を制限している可能性があり、AI技術の透明性とアクセシビリティのバランスが業界課題として浮上"
+      ]
+    }
+  },
+  {
     "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
     "link": "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/",
     "published": "Wed, 18 Nov 2026 18:00:09 +0000",
