@@ -1,5 +1,166 @@
 [
   {
+    "title": "존디어, 농업 AI 기업 '오차드 로보틱스' 인수…작물 단위 정밀농업 강화",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49726",
+    "published": "2026-11-23 00:52:15",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-22 19:26:10",
+    "ai_summary": {
+      "title_ja": "ジョンディア、農業AI企業「オーチャード・ロボティクス」を買収…作物単位の精密農業を強化",
+      "summary": "米国農機大手のジョンディアが、AI基盤の農業データ分析企業オーチャード・ロボティクス(オーチャードAI)をサンフランシスコで買収した。同社は果樹などの高付加価値作物向けにAIベースの作物情報分析サービスを提供しており、ジョンディアはこれにより精密農業技術の強化を推進している。",
+      "insights": [
+        "大手農機メーカーがAI・データ分析スタートアップを戦略的に買収し、個別作物の最適化管理へシフト",
+        "果樹などの高付加価値作物における精密農業の需要拡大と、AIによる圃場単位の意思決定支援の重要性が高まっている",
+        "農業IoT・ロボティクス分野でハードウェア企業がソフトウェア/AI企業との統合を加速させる業界トレンド"
+      ]
+    }
+  },
+  {
+    "title": "1X, 가정용 휴머노이드 '네오' 12월 개발자 공급…로봇 학습 생태계 구축",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49725",
+    "published": "2026-11-23 00:46:58",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-22 19:26:14",
+    "ai_summary": {
+      "title_ja": "1X、家庭用ヒューマノイド『ネオ』を12月から開発者向けに供給…ロボット学習エコシステム構築",
+      "summary": "ノルウェー発のヒューマノイドロボット企業1X Technologiesが、家庭用ヒューマノイド『ネオ(NEO)』を12月から開発者および一部消費者向けに供給開始予定。同社CEOベルント・ベルニッヒが開発者向け供給計画とロボット学習生態系構築戦略を公開。商用化に向けた段階的な展開と開発者コミュニティの形成に注力している。",
+      "insights": [
+        "段階的な市場投入戦略：まず開発者向けに限定供給することで、フィードバック収集と技術検証を実施してから消費者市場へ展開する戦略的アプローチ",
+        "ロボット学習エコシステム構築：開発者コミュニティを通じたアルゴリズム改善・ユースケース開発により、ネオの汎用性と適応性を加速させる産業構想",
+        "グローバル競争への対抗：テスラ・フィギュア・ボストン・ダイナミクスなど米国勢が台頭する中で、欧州発スタートアップが先制的にB2D(Business to Developer)戦略で差別化を図る動き"
+      ]
+    }
+  },
+  {
+    "title": "獨 슝크 휴머노이드 로보틱스, 택틸리아 로보틱스로 브랜드 변경",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49715",
+    "published": "2026-11-22 20:28:23",
+    "keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-22 19:26:19",
+    "ai_summary": {
+      "title_ja": "ドイツのシュンク・ヒューマノイド・ロボティクス、タクティリア・ロボティクスにブランド変更",
+      "summary": "2024年1月に設立されたシュンク・ヒューマノイド・ロボティクスがタクティリア・ロボティクスに社名変更した。同社はドイツ・ミュンヘンを拠点とし、ヒューマノイドロボットが抱える「把握・操作能力の不足」という課題解決に特化している。モジュール設計で堅牢かつ柔軟なロボットハンドを開発・市場投入している。",
+      "insights": [
+        "ヒューマノイドロボット産業における『触覚・把握技術』が次のボトルネック。視覚・認知能力の進化に対し、物理的操作能力が大きく遅れている現状を示唆している",
+        "産業用部品大手シュンク（SCHUNK）からのスピンオフという背景は、既存の産業用ロボットグリッパー技術をヒューマノイドロボット向けに転用・最適化する戦略を示す",
+        "モジュール設計の採用により、異なるヒューマノイドロボット製品への汎用性や拡張性を確保。ロボット手の標準化による市場拡大を狙っている可能性が高い"
+      ]
+    }
+  },
+  {
+    "title": "로보티즈, 폴렌로보틱스에 40억원 규모 액추에이터 공급",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49712",
+    "published": "2026-11-22 19:29:14",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-22 19:26:24",
+    "ai_summary": {
+      "title_ja": "ロボティズ、ポーレンロボティクスに約40億円規模のアクチュエーター供給",
+      "summary": "ロボット用アクチュエーター専門企業のロボティズが、フランスのロボット開発企業ポーレンロボティクスに対し、約39億7800万円規模の「ダイナミクセル-X」の供給契約を締結した。契約期間は2026年11月から2027年4月で、前年度売上389億円の10.22%に相当する大型案件である。",
+      "insights": [
+        "ロボティズのダイナミクセル-Xがフランスの先端ロボティクス企業に採用されており、高性能アクチュエーターの国際競争力が確認される",
+        "単一契約が年間売上比10%超を占める案件となっており、特定顧客への大型納入が企業の成長を牽引している",
+        "2026年後半から2027年初春にかけての納入スケジュールから、ポーレンロボティクスの新製品開発・市場投入計画が推察される"
+      ]
+    }
+  },
+  {
+    "title": "Unitree Robot Wins Xiongan Boxing Belt in Bout Against EngineAI",
+    "link": "https://pandaily.com/unitree-engineai-xiongan-robot-boxing-belt",
+    "published": "Sun, 22 Nov 2026 07:11:49 GMT",
+    "keywords": [
+      "Teleoperation"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-22 19:26:29",
+    "ai_summary": {
+      "title_ja": "ユニトリーロボットがEngineAIとのボクシングマッチでシオンアン王座を獲得",
+      "summary": "ユニトリーのロボットがEngineAIのロボットとのボクシングマッチで勝利し、シオンアン王座を獲得した。試合に使用されたロボットの具体的なモデルや、遠隔操作と自律動作のどちらが採用されたかなどの詳細は明かされていない。",
+      "insights": [
+        "ロボット格闘技の実現により、ロボティクス企業の技術力比較が可視化される新しい競争メカニズムが生まれつつある",
+        "遠隔操作か自律動作かという技術アーキテクチャの選択が、ロボットのパフォーマンスに大きく影響する可能性を示唆している",
+        "中国企業（ユニトリー）による高度なフィジカルAI技術の実装が進展し、アジア太平洋地域でのロボティクス産業の競争激化を示唆"
+      ]
+    }
+  },
+  {
+    "title": "OpenAtom Forms Working Committee for Humanoid Robot Open-Source Community",
+    "link": "https://pandaily.com/openatom-humanoid-robot-open-source-working-committee",
+    "published": "Sun, 22 Nov 2026 07:11:17 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-22 19:26:32",
+    "ai_summary": {
+      "title_ja": "OpenAtom、ヒューマノイドロボット・オープンソースコミュニティの作業委員会を設立",
+      "summary": "9つの組織がOpenAtomのもとでヒューマノイドロボット・コミュニティ委員会を共同設立し、オープンソースソフトウェア、モデル、データ、ガバナンスの標準化と共有を推進する。本イニシアティブにより、ヒューマノイドロボット開発における業界全体の協調と相互運用性の向上が期待される。オープンソースアプローチにより、開発障壁の低減と技術革新の加速が目指されている。",
+      "insights": [
+        "ヒューマノイドロボット分野において、複数企業・機関による協調開発体制が形成されており、業界の成熟度が高まりつつある",
+        "オープンソース化によるソフトウェア/モデルの標準化は、開発コスト削減と技術の民主化を促進し、スタートアップや研究機関の参入障壁を低減",
+        "統一的なガバナンスフレームワークの構築は、相互運用性確保とエコシステム拡大に向けた重要なステップであり、業界全体の競争力強化につながる可能性"
+      ]
+    }
+  },
+  {
+    "title": "miHoYo Details Gamer VLA Research for Long-Horizon Game Control",
+    "link": "https://pandaily.com/mihoyo-gamer-vla-long-horizon-game-control-research",
+    "published": "Sun, 22 Nov 2026 07:10:05 GMT",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-22 19:26:37",
+    "ai_summary": {
+      "title_ja": "miHoYoがゲーマーVLA研究の詳細を発表—長時間ゲーム制御向け",
+      "summary": "miHoYoの「Gamer」研究は、画面上の観察結果をキーボードとマウス操作にマッピングするビジョン言語モデル(VLA)を開発している。この技術は長時間にわたるゲームプレイの自動化を目指しているが、現在は研究段階であり、消費者向けボット製品のリリースではない。",
+      "insights": [
+        "ゲーム環境における自動制御システムの研究が進展しており、マルチモーダルAI(ビジョン+言語)がゲーム領域で実用化に向かっている",
+        "長時間タスク自動化技術は、ゲーム業界だけでなくロボティクス・フィジカルAIの基盤技術として応用可能性が高い",
+        "消費者向けリリース予定が明示されていない点から、規制やゲーム利用規約への配慮を含む慎重な開発アプローチが取られている可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Zoellent AI Lab Releases GR-SAC to Refine Frozen Robot Policies With a Small Controller",
+    "link": "https://pandaily.com/zoellent-gr-sac-gated-residual-controller-frozen-vla",
+    "published": "Sun, 22 Nov 2026 07:09:05 GMT",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-22 19:26:41",
+    "ai_summary": {
+      "title_ja": "Zoellent AIラボがGR-SACをリリース - 小型コントローラーで凍結されたロボットポリシーを改善",
+      "summary": "Zoellent AIが開発したGR-SACは、凍結されたVLA（Vision Language Action）モデルに小型コントローラーを追加することで、ロボットの動作ポリシーを改善する手法を提案している。RoboMME参照評価の800テストで5件以上の追加成功エピソードを報告しており、既存の大規模言語ビジョンモデルの活用可能性を拡張している。",
+      "insights": [
+        "パラメータ効率的なアダプテーション手法により、計算コストを抑えながら凍結モデルの性能向上を実現可能",
+        "VLAの転移学習により、事前学習済みの大規模モデルを新規タスクに低コストで適応させるアプローチの実用性を実証",
+        "ロボティクス領域でのファインチューニング効率化は、実装コストの削減と汎用性向上を促進し、業界展開を加速させる可能性がある"
+      ]
+    }
+  },
+  {
     "title": "The manufacturing data gap holding back physical AI",
     "link": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
     "published": "Sat, 21 Nov 2026 22:25:35 +0000",
