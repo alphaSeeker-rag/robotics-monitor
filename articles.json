@@ -1,5 +1,26 @@
 [
   {
+    "title": "The manufacturing data gap holding back physical AI",
+    "link": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
+    "published": "Sat, 21 Nov 2026 22:25:35 +0000",
+    "keywords": [
+      "Physical AI",
+      "autonomous robot"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-22 00:54:03",
+    "ai_summary": {
+      "title_ja": "フィジカルAIの進展を阻む製造業のデータギャップ",
+      "summary": "自律ロボットの導入を目指す製造業者は、産業データ収集、相互運用性、品質フィードバックのギャップを解決する必要がある。これらの課題の解決により、信頼性の高い意思決定が可能になり、生産効率が向上する。",
+      "insights": [
+        "産業用ロボット導入の成否は、統一されたデータ収集標準と相互運用性の確保が重要な鍵となる",
+        "フィードバックループの質的向上が、ロボットの意思決定精度と信頼性を直接左右する",
+        "製造業全体のデジタル化成熟度が、フィジカルAI技術の実装スピードと効果を決定する主要要因である"
+      ]
+    }
+  },
+  {
     "title": "MassRobotics launching marine robotics facility on Boston Harbor",
     "link": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
     "published": "Fri, 20 Nov 2026 17:04:28 +0000",
