@@ -1,5 +1,25 @@
 [
   {
+    "title": "BAAI Unveils REAL Physical AI Assessment and HumanCOIN Data Plan",
+    "link": "https://pandaily.com/baai-real-physical-ai-assessment-humancoin-data-plan",
+    "published": "Wed, 25 Nov 2026 02:18:39 GMT",
+    "keywords": [
+      "Physical AI"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-25 03:55:45",
+    "ai_summary": {
+      "title_ja": "BAAI、物理AI評価フレームワークとHumanCOINデータの段階的リリース計画を発表",
+      "summary": "BAAIが物理AI（ロボティクスAI）の評価基準フレームワークと実装モデルを発表した。HumanCOINデータセットは12,500時間すべてではなく、段階的なリリースアプローチで公開される予定である。物理AIの性能測定と実世界応用の標準化に向けた重要な取り組みが開始された。",
+      "insights": [
+        "物理AI評価の標準化が急速に進行しており、ロボティクス産業において統一的なベンチマーク基準の確立が進展している",
+        "データセットの段階的リリース戦略は、コミュニティ内での段階的な検証と改善プロセスを可能にし、安全性と実用性を両立させる狙いがある",
+        "具現化AI（embodied AI）モデルの開発が加速しており、シミュレーション環境から実物ロボットへの応用検証フェーズに進んでいる"
+      ]
+    }
+  },
+  {
     "title": "Robotics Summit 2027 opens call for speakers",
     "link": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
     "published": "Tue, 24 Nov 2026 18:03:37 +0000",
