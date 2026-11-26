@@ -1,5 +1,78 @@
 [
   {
+    "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る",
+    "link": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news018.html",
+    "published": "Thu, 26 Nov 2026 08:00:00 +0900",
+    "keywords": [
+      "ロボティクス",
+      "フィジカルAI"
+    ],
+    "source": "ITmedia AI+",
+    "flag": "JP",
+    "detected_at": "2026-11-26 03:20:36",
+    "ai_summary": null
+  },
+  {
+    "title": "美 뉴저지공대, 3D 프린터로 제작하는 저비용 휴머노이드 로봇 손 개발",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49809",
+    "published": "2026-11-26 09:18:49",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-26 03:20:40",
+    "ai_summary": {
+      "title_ja": "米ニュージャージー工科大学、3Dプリンターで製造する低コスト人型ロボットハンドを開発",
+      "summary": "ニュージャージー工科大学(NJIT)の研究チームが、一般的な3Dプリンターで製造可能な人型ロボット用ハンド「PHD-Hand」を開発しました。親指1本と指4本で構成され、各指に3つの駆動自由度を持つ計15個の自由度により、様々な物体の把握から精密な工具操作まで実現できます。従来の高機能ロボットハンドと比べて大幅な低コスト化を実現しました。",
+      "insights": [
+        "3Dプリンティング技術の活用により、ロボットハンドの製造コストを劇的に削減でき、ロボティクスの普及拡大に貢献する可能性",
+        "15自由度の駆動機構により、従来製品と同等の操作精度を実現しながら、設計・製造の簡素化と保守性の向上が可能",
+        "低コスト化により産業用ロボット、福祉用ロボット、研究用プラットフォームなど幅広い用途への展開が加速する可能性"
+      ]
+    }
+  },
+  {
+    "title": "CLOBOT Unveils Boston Dynamics Spot Live Demo Room in South Korea, Expands Industrial Robotics Business",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49803",
+    "published": "2026-11-26 03:56:44",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-26 03:20:45",
+    "ai_summary": {
+      "title_ja": "CLOBOTがBoston Dynamicsのスポット実演ルームを韓国で公開、産業用ロボティクス事業を拡大",
+      "summary": "韓国のロボティクスサービス提供企業CLOBOTがBoston Dynamicsの四脚ロボット「Spot」を活用した産業検査・セキュリティロボティクス事業を拡大している。11月25日、CLOBOTは新たな「Spot実演ルーム」を韓国医療業界メンバーに公開し、実際の活用シーンを展示した。この取り組みは北東アジア市場におけるSpotの商用化と産業応用の加速を示唆している。",
+      "insights": [
+        "Boston Dynamicsの高度な四脚ロボット技術が検査・セキュリティ業務など実用的な産業用途に進化し、商用展開が進行中",
+        "韓国の地場サービスプロバイダーを通じた段階的な市場展開戦略により、言語・文化・ローカルニーズへの対応が強化される",
+        "医療施設を含む複数業界でのデモンストレーション施設の設置は、エンタープライズ向けロボティクス市場の成熟と投資家信頼の向上を示す"
+      ]
+    }
+  },
+  {
+    "title": "Zhejiang Humanoid Robot Innovation Center Rolls Out SPIRE 2.0 and Navi-Dataset",
+    "link": "https://pandaily.com/zhejiang-humanoid-spire-2-naviai-dataset",
+    "published": "Thu, 26 Nov 2026 02:20:54 GMT",
+    "keywords": [
+      "humanoid"
+    ],
+    "source": "Pandaily",
+    "flag": "CN",
+    "detected_at": "2026-11-26 03:20:49",
+    "ai_summary": {
+      "title_ja": "浙江ヒューマノイドロボット革新センター、SPIRE 2.0とNavi-Datasetを発表",
+      "summary": "浙江ヒューマノイドロボット革新センターが、システムの高度化版SPIRE 2.0と22万件以上のラベル付き実ロボット操作データからなるNavi-Datasetを発表した。本発表は新型ロボットの登場ではなく、既存システムの反復的改善である。",
+      "insights": [
+        "大規模ラベル付きデータセット(22万件以上)の公開により、ヒューマノイドロボットの学習・訓練基盤が整備され、業界全体のAI開発加速が期待できる",
+        "新ロボット開発よりシステム最適化に注力する戦略から、実運用データに基づく着実な技術向上が重視されている",
+        "実ロボット操作データの標準化・公開は、シミュレーションギャップ解決とロボット汎用性向上に不可欠な重要資産となりうる"
+      ]
+    }
+  },
+  {
     "title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
     "link": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
     "published": "Wed, 25 Nov 2026 15:00:03 +0000",
