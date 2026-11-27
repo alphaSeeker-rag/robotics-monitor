@@ -1,5 +1,443 @@
 [
   {
+    "title": "GXO doubling down on robotics in 2027",
+    "link": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+    "published": "Fri, 27 Nov 2026 13:56:43 +0000",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Report",
+    "flag": "US",
+    "detected_at": "2026-11-27 21:01:22",
+    "ai_summary": {
+      "title_ja": "GXOが2027年にロボティクス投資を倍増へ",
+      "summary": "物流企業GXOは2027年にロボティクス導入を大幅に拡大する計画を発表している。具体的なロボティクス提供企業については未公表だが、同社は既存ポートフォリオの技術を活用する方針。この動きは物流業界におけるオートメーション加速の傾向を反映している。",
+      "insights": [
+        "GXOの戦略的なロボティクス投資倍増は、物流・流通業界のオートメーション需要の高まりを示唆している",
+        "複数のロボティクスプロバイダーとの提携拡大により、技術選別とベンダー競争が進行中である可能性が高い",
+        "既存ポートフォリオの最適化と新規導入の組み合わせにより、ROI最大化とサプライチェーン効率化を同時実現する戦略と考えられる"
+      ]
+    }
+  },
+  {
+    "title": "DNAで『マインクラフト』のように立体構造を構築する技術が登場、合計400個のDNAブロックでナノサイズの複雑な構造の形成に成功",
+    "link": "https://gigazine.net/news/20261127-dna-polycube-like-minecraft/",
+    "published": "Fri, 27 Nov 2026 12:30:00 +0900",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "GIGAZINE",
+    "flag": "JP",
+    "detected_at": "2026-11-27 21:01:29",
+    "ai_summary": null
+  },
+  {
+    "title": "스웨덴 볼보자동차, 벨기에 공장에 휴머노이드 로봇 투입",
+    "link": "https://www.irobotnews.com/news/articleView.html?idxno=49833",
+    "published": "2026-11-27 06:43:42",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "The Robot Times (韓)",
+    "flag": "KR",
+    "detected_at": "2026-11-27 21:01:32",
+    "ai_summary": {
+      "title_ja": "スウェーデンのボルボ自動車、ベルギー工場に人型ロボット導入",
+      "summary": "スウェーデンのボルボ自動車は、ヘクサゴン・ロボティクス社の人型ロボット「AEON」をベルギーのヘント工場に導入した。これはボルボの生産施設への人型ロボット初導入であり、既存の自動車製造ラインでの安定稼働可能性を検証することが目的である。ロボットは段階的に従業員および既存自動化設備との連携訓練を進め、直接的な組立ラインへの投入に先立つ検証を行っている。",
+      "insights": [
+        "主要自動車メーカーが人型ロボットの実運用検証を開始：従来の産業用ロボットではなく汎用人型ロボットの採用検討が、自動車業界での本格化を示唆している",
+        "段階的導入アプローチの採用：即座のラインへの統合ではなく、訓練・検証フェーズを設けることで、実運用環境での安全性と信頼性を確保する企業の慎重な戦略が明らかである",
+        "人型ロボット市場の成熟度向上：ヘクサゴン・ロボティクスなどの専門企業が開発した人型ロボットが、既存製造業の厳しい要件に対応可能なレベルに達していることを示している"
+      ]
+    }
+  },
+  {
+    "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+    "link": "https://arxiv.org/abs/2611.33161",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:01:42",
+    "ai_summary": {
+      "title_ja": "制約認識型テスト時スコアリング：LLMおよびVLM候補選択フレームワーク",
+      "summary": "LLMやVLMが複数の候補回答を生成する際、最適な回答を選択する新しいスコアリングフレームワークを提案しています。ハード制約チェック（必ず満たすべき条件）とソフト制約チェック（段階的に評価される条件）を組み合わせ、流暢性だけでなく数学的妥当性や物理的実現性も検証します。ドラフティングモデル、設定モデル、スコアリングモデルの3つのコンポーネントで構成されています。",
+      "insights": [
+        "LLMの信頼度スコアのみでの候補選択の限界を克服し、物理的実現性・タスク要件準拠性を検証する多層的評価メカニズムの重要性",
+        "ハード制約とソフト制約の階層的組み合わせにより、ロボティクス・制御システムなど安全性が重要な応用での信頼性向上が期待される",
+        "タスク別に制約条件を動的に選択・加重する適応的フレームワークは、汎用AIモデルの実務的活用（コード生成、物理シミュレーション等）における品質保証手段として産業応用の可能性が高い"
+      ]
+    }
+  },
+  {
+    "title": "Learning from Natural Images Untangles Number Sense",
+    "link": "https://arxiv.org/abs/2611.33615",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:01:46",
+    "ai_summary": {
+      "title_ja": "自然画像からの学習が数感覚を解き明かす",
+      "summary": "視覚言語モデルにおける数値認知の発達メカニズムを調査した研究。訓練前後のニューラルネットワークに数値選択的ユニットが出現することから、明示的な数値学習なしに数感覚が発現可能であることを示唆。幾何学的フレームワークを用いて、学習過程における数値性と比例の表現がどう変化するかを追跡している。",
+      "insights": [
+        "AIの数値認知能力は明示的な数値学習なしに自然画像タスクの副産物として発現する可能性があり、ロボティクス応用では基礎的な視覚理解能力の自動獲得が期待できる",
+        "人間発達の知見（子どもの数値判断の改善プロセス）をAIモデルに適用することで、より堅牢な視覚認知システムの設計が可能になる",
+        "深層ニューラルネットワークにおける数値選択的ユニットの自発的出現は、フィジカルAIエージェントの環境相互作用能力向上の基盤となる可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation",
+    "link": "https://arxiv.org/abs/2611.33745",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Compositional Generalization",
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:01:50",
+    "ai_summary": {
+      "title_ja": "WhatIf: 行動グラウンディング因果グラフを用いたロボット操作のための反事実世界モデル",
+      "summary": "本研究は、ロボット操作における意思決定を支援する反事実世界モデル「WhatIf」を提案している。複数の行動選択肢の結果を同一の物理状況下で比較するため、観察された事実から推論した共有潜在物理と遷移ノイズにより候補未来を結合する。各行動に対してスパースな物体因果グラフを構築し、その経路を通じて予測を観察結果に固定しながら、行動間の対比を各行動が到達する物体に限定する。",
+      "insights": [
+        "反事実推論により個別効果と害が生じる確率を推定可能になり、ロボット操作の安全性が向上する",
+        "共有潜在物理と因果グラフの組み合わせにより、複数物体環境での汎化性と解釈可能性が実現される",
+        "型条件付き関数による可変オブジェクト数対応により、実環境での適応性が向上し産業応用の実現性が高まる"
+      ]
+    }
+  },
+  {
+    "title": "Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning",
+    "link": "https://arxiv.org/abs/2611.33764",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model",
+      "actuator"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:01:55",
+    "ai_summary": {
+      "title_ja": "室内環境ワールドモデルと反事実適応学習を用いた建築物のエネルギー効率向上",
+      "summary": "本研究は、強化学習(RL)の課題である遅延熱力学応答と部分観測性を克服するため、室内環境ワールドモデルと反事実適応学習を組み合わせた新しい室内気候制御フレームワークを提案しています。潜在的な熱慣性と動的な占有者予測を明示的に捉え、分岐デュエリングQ-ネットワークとHeld-Action TD-λを統合することで、長期的な予測誤差を軽減します。このアプローチはUN持続可能開発目標11と13の達成に貢献するエネルギー効率最適化を実現します。",
+      "insights": [
+        "世界モデルと反事実学習の組み合わせにより、従来のRL手法の予測地平線での累積誤差問題に対する新しいソリューションを提供",
+        "占有者中心設計により、動的な人間行動予測を明示的に統合し、現実的な室内環境制御の実現を促進",
+        "建築物のエネルギー最適化は単なる技術的改善ではなく、持続可能開発への直接的な寄与であり、スマートビルディング市場の成長機会を示唆"
+      ]
+    }
+  },
+  {
+    "title": "A Failure-Driven Data Flywheel for Post-Training Vision-Language-Action Models",
+    "link": "https://arxiv.org/abs/2611.34698",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action",
+      "Data Flywheel"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:00",
+    "ai_summary": {
+      "title_ja": "ポスト学習向けビジョン言語アクションモデルのための失敗駆動型データフライホイール",
+      "summary": "本研究は、事前学習済みのビジョン言語アクション(VLA)モデルを新しいプラットフォームに適応させるための失敗駆動型データフライホイール手法を提案している。この手法は、実世界シーンにタスク関連エンティティを挿入して目標シナリオを構築し、各行動要件に対するモデルの失敗率をマッピングして、失敗が多い条件に優先的にデータ生成リソースを配分する。自動運転における歩行者遮蔽時の出現と一時停止信号での譲歩動作を事例に評価している。",
+      "insights": [
+        "小規模デプロイメント企業でも、シンタティック・シーン生成と段階的改善により、大規模フリートデータなしで実用的なVLAモデル適応が可能になる",
+        "失敗マッピングと段階的データ配分により、学習効率を最大化し、限定的なアノテーションリソースを高効率に活用できる",
+        "自動運転などの安全クリティカルな領域で、明示的な行動要件ベースの評価フレームワークがモデルの信頼性向上と実装リスク低減に重要である"
+      ]
+    }
+  },
+  {
+    "title": "Onnx2TEE: Automated Graph-Aware Model Partitioning for TEE-based Edge AI Protection",
+    "link": "https://arxiv.org/abs/2611.33262",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:05",
+    "ai_summary": {
+      "title_ja": "Onnx2TEE: TEEベースのエッジAI保護のための自動グラフ認識型モデル分割",
+      "summary": "エッジデバイスに展開されるAIモデルの知的財産と完全性を保護するため、信頼実行環境(TEE)を活用したOnnx2TEEという自動パイプラインを提案している。大規模ニューラルネットワークをTEEとリッチ環境に分割し、計算依存性を維持しながら境界通信を最小化するグラフ認識型セグメンテーションを採用している。リソース制約のあるTEE環境でも実用的なモデル実行を実現する技術である。",
+      "insights": [
+        "エッジAIセキュリティにおいてハードウェアベースのTEEとソフトウェア分割技術の組み合わせが次世代の防御戦略となる",
+        "モデル分割時の通信オーバーヘッド最小化が、TEE活用時の実用性を決める重要な技術課題である",
+        "ONNX形式の標準化とモデル非依存パイプラインにより、産業向けエッジAI保護ソリューションの汎用化が加速する可能性がある"
+      ]
+    }
+  },
+  {
+    "title": "Temporal Selective Exploration for Reinforcement Learning-Guided Continuous-Discrete Flow Matching in 3D Molecular Design",
+    "link": "https://arxiv.org/abs/2611.33417",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Flow Matching"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:09",
+    "ai_summary": {
+      "title_ja": "3D分子設計におけるRL誘導連続離散フロー・マッチングの時間選択的探索",
+      "summary": "本研究は、強化学習(RL)によって最適化されるフロー・マッチング生成モデルを、連続変数と離散変数が混在する3D分子設計に適用する新手法を提案している。従来のSDEへの変換による全軌跡の確率化ではなく、時間選択的探索により、実際の出力に貢献するタイムステップのみを探索対象とすることで、探索ノイズを削減し多目的最適化の効率を向上させる。",
+      "insights": [
+        "フロー・マッチングとRL最適化の融合により、連続離散混合空間での分子生成の精度と効率が飛躍的に向上し、創薬やマテリアルズインフォマティクスへの応用が加速する可能性がある",
+        "時間選択的探索メカニズムは、不要な計算を削減することで、生成モデルの学習効率を大幅に改善し、エッジ環境でのAI実装に向けた計算負荷軽減が実現可能になる",
+        "多目的最適化における目的関数の不均衡問題を解決することで、複数の分子特性(毒性、効能、合成可能性など)を同時に満たす医薬品候補の発見を支援する基盤技術となり得る"
+      ]
+    }
+  },
+  {
+    "title": "ScanAR: Parallel Row-Scan Decoding for Efficient Image Generation in Unified Autoregressive Models",
+    "link": "https://arxiv.org/abs/2611.33761",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:14",
+    "ai_summary": {
+      "title_ja": "ScanAR：統一自己回帰モデルにおける効率的な画像生成のための並列行スキャンデコーディング",
+      "summary": "統一型マルチモーダル自己回帰モデルにおける画像生成の推論速度を大幅に改善する新手法ScanARを提案。従来のラスタスキャン方式（HW段階）から、最初の行は従来通り左から右へ、以降の各行は単一の並列ステップで生成することで、モデル構造や品質を損なわずに高い並列化を実現。ビジュアルトークンの前処理のみを再定義する軽量な実装が特徴。",
+      "insights": [
+        "統一型AR（自己回帰）モデルの画像生成は計算量がHW（高さ×幅）に線形に依存する構造的ボトルネックを持つが、ScanARはこれを行単位の並列化により大幅削減",
+        "トークナイザーやヘッド構造、モデルインターフェースを変更しない設計により、既存の統一AR基盤モデルへの適用可能性が高く、実装難度が低い",
+        "マルチモーダル生成タスク（テキスト+画像）におけるレイテンシ最適化は、エッジAI・ロボティクス応用での実時間マルチモーダル理解・生成に直結する価値を持つ"
+      ]
+    }
+  },
+  {
+    "title": "Mitigating Overgeneralization in RND via Spectral Target Design",
+    "link": "https://arxiv.org/abs/2611.33850",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Towards 360$^\\circ$ Embodied UAV Tracking Without Turning",
+    "link": "https://arxiv.org/abs/2611.33934",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Embodied-VGGT: Preserving Reliable Local Geometry for Long-Sequence Reconstruction",
+    "link": "https://arxiv.org/abs/2611.33964",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "WorldPhy: Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics",
+    "link": "https://arxiv.org/abs/2611.34130",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model",
+      "robotics"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Most of the Way There: Turning a Strong Video Prior into an Action-Conditioned World Model",
+    "link": "https://arxiv.org/abs/2611.34435",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Long-Horizon Planning with Latent World Models via Graph Anchors",
+    "link": "https://arxiv.org/abs/2611.34509",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics",
+    "link": "https://arxiv.org/abs/2611.34644",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model",
+      "manipulation"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Do We Still Need Reinforcement Learning When We Can Read the World Model?",
+    "link": "https://arxiv.org/abs/2611.34656",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "RoboEvo$^2$: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution",
+    "link": "https://arxiv.org/abs/2611.34675",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
+    "link": "https://arxiv.org/abs/2611.34830",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+    "link": "https://arxiv.org/abs/2611.34864",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "SearchWorld: Spatial Value-Grounded Imagination for UAV Object Search via World Models",
+    "link": "https://arxiv.org/abs/2610.09335",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "RAN-JEPA: An Action-Conditioned World Model for Energy-efficient Mobile Network Control",
+    "link": "https://arxiv.org/abs/2610.17584",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "AceAction-5M: Hierarchical Goals for Generalist Action Learning Across 3D Game Worlds",
+    "link": "https://arxiv.org/abs/2611.04241",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "VLA",
+      "Vision-Language-Action"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI",
+    "link": "https://arxiv.org/abs/2505.12707",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "embodied AI"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Thinking Deeper, Not Longer: Memory-Efficient Latent Chain-of-Thought with Depth-Recurrent Transformers for Compositional Generalization",
+    "link": "https://arxiv.org/abs/2603.21676",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "Compositional Generalization"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "NSFL: A Post-Training Neuro-Symbolic Fuzzy Logic Framework for Boolean Operators in Neural Embeddings",
+    "link": "https://arxiv.org/abs/2604.10604",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "VLA"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
+    "title": "AffectWorld: Benchmarking Emotion-Driven Future World Prediction",
+    "link": "https://arxiv.org/abs/2610.18305",
+    "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+    "keywords": [
+      "World Model"
+    ],
+    "source": "arXiv cs.AI",
+    "flag": "arXiv",
+    "detected_at": "2026-11-27 21:02:19",
+    "ai_summary": null
+  },
+  {
     "title": "アマダと日立、AIエージェントのPoCで効果確認 フィジカルAIの現場実装へ",
     "link": "https://monoist.itmedia.co.jp/mn/articles/2611/27/news050.html",
     "published": "Fri, 27 Nov 2026 07:30:00 +0900",
